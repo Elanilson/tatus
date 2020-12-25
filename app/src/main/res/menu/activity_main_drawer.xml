@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_Frases_Perfeitas"
+            android:icon="@drawable/perfeita"
+            android:title="@string/menu_Frases_Perfeitas" />
+        <item
+            android:id="@+id/nav_Frases_de_Des"
+            android:icon="@drawable/deus"
+            android:title="@string/menu_FrasesdeDeus" />
+        <item
+            android:id="@+id/nav_FrasesdeReflexao"
+            android:icon="@drawable/reflexao"
+            android:title="@string/menu_FrasesdeReflexao" />
+        <item
+            android:id="@+id/nav_FrasesTristes"
+            android:icon="@drawable/triste"
+            android:title="@string/menu_FrasesTristes" />
+        <item
+            android:id="@+id/nav_FrasesparaWhatsapp"
+            android:icon="@drawable/whatsapp"
+            android:title="@string/menu_FrasesparaWhatsapp" />
+        <item
+            android:id="@+id/nav_FrasesEngracadas"
+            android:icon="@drawable/feliz"
+            android:title="@string/menu_FrasesEngracadas" />
+        <item
+            android:id="@+id/nav_StatusparaCasal"
+            android:icon="@drawable/casal"
+            android:title="@string/menu_StatusparaCasal" />
+        <item
+            android:id="@+id/nav_StatusparaNamorado"
+            android:icon="@drawable/namorado"
+            android:title="@string/menu_StatusparaNamorado" />
+        <item
+            android:id="@+id/nav_StatusparaFotos"
+            android:icon="@drawable/foto"
+            android:title="@string/menu_StatusparaFotos" />
+        <item
+            android:id="@+id/nav_FrasesdeAmor"
+            android:icon="@drawable/amor"
+            android:title="@string/menu_FrasesdeAmor" />
+        <item
+            android:id="@+id/nav_FrasesparaEx"
+            android:icon="@drawable/ex"
+            android:title="@string/menu_FrasesparaEx" />
+        <item
+            android:id="@+id/nav_FrasesdeIndiretas"
+            android:icon="@drawable/cobras"
+            android:title="@string/menu_FrasesdeIndiretas" />
+        <item
+            android:id="@+id/nav_Frasesfelizaniversario"
+            android:icon="@drawable/aniversario"
+            android:title="@string/menu_Frasesfelizaniversario" />
+        <item
+            android:id="@+id/nav_FrasesdeMusicas"
+            android:icon="@drawable/musica"
+            android:title="@string/menu_FrasesdeMusicas" />
+    </group>
+    <item android:title="Outros">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/ic_sobre_24"
+                android:title="@string/menu_sobre" />
+            <item
+                android:id="@+id/nav_vip"
+                android:icon="@drawable/premio"
+                android:title="@string/menu_AdBlock" />
+        </menu>
+    </item>
+</menu>

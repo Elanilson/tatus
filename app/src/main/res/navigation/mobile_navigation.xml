@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.apkdoandroid.osstatus.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_Frases_Perfeitas"
+        android:name="com.apkdoandroid.osstatus.ui.frases_Perfeitas.Frases_PerfeitasFragment"
+        android:label="@string/menu_Frases_Perfeitas"
+        tools:layout="@layout/fragment_frases_perfeitas" />
+
+    <fragment
+        android:id="@+id/nav_FrasesdeAmor"
+        android:name="com.apkdoandroid.osstatus.ui.FrasesdeAmor.FrasesdeAmorFragment"
+        android:label="@string/menu_FrasesdeAmor"
+        tools:layout="@layout/fragment_frasesdeamor" />
+    <fragment
+        android:id="@+id/nav_Frases_de_Des"
+        android:name="com.apkdoandroid.osstatus.ui.Frases_de_Deus.Frases_de_DeusFragment"
+        android:label="@string/menu_FrasesdeDeus"
+        tools:layout="@layout/fragment_frases_de__deus" />
+    <fragment
+        android:id="@+id/nav_FrasesdeReflexao"
+        android:name="com.apkdoandroid.osstatus.ui.Frases_de_Reflexao.Frases_de_ReflexaoFragment"
+        android:label="@string/menu_FrasesdeReflexao"
+        tools:layout="@layout/fragment_frases_de__reflexao" />
+    <fragment
+        android:id="@+id/nav_FrasesTristes"
+        android:name="com.apkdoandroid.osstatus.ui.Frases_Tristes.Frases_TristesFragment"
+        android:label="@string/menu_FrasesTristes"
+        tools:layout="@layout/fragment_frases__tristes" />
+    <fragment
+        android:id="@+id/nav_FrasesparaWhatsapp"
+        android:name="com.apkdoandroid.osstatus.ui.Frases_para_Whatsapp.Frases_para_WhatsappFragment"
+        android:label="@string/menu_FrasesparaWhatsapp"
+        tools:layout="@layout/fragment_frases_para__whatsapp" />
+    <fragment
+        android:id="@+id/nav_FrasesEngracadas"
+        android:name="com.apkdoandroid.osstatus.ui.Frases_Engracadas.Frases_EngracadasFragment"
+        android:label="@string/menu_FrasesEngracadas"
+        tools:layout="@layout/fragment_frases__engracadas" />
+    <fragment
+        android:id="@+id/nav_StatusparaCasal"
+        android:name="com.apkdoandroid.osstatus.ui.Status_para_Casal.Status_para_CasalFragment"
+        android:label="@string/menu_StatusparaCasal"
+        tools:layout="@layout/fragment_status_para__casal" />
+    <fragment
+        android:id="@+id/nav_StatusparaNamorado"
+        android:name="com.apkdoandroid.osstatus.ui.Status_para_Namorado.Status_para_NamoradoFragment"
+        android:label="@string/menu_StatusparaNamorado"
+        tools:layout="@layout/fragment_status_para__namorado" />
+    <fragment
+        android:id="@+id/nav_StatusparaFotos"
+        android:name="com.apkdoandroid.osstatus.ui.Status_para_Fotos.Status_para_FotosFragment"
+        android:label="@string/menu_StatusparaFotos"
+        tools:layout="@layout/fragment_status_para__fotos" />
+    <fragment
+        android:id="@+id/nav_FrasesparaEx"
+        android:name="com.apkdoandroid.osstatus.ui.FrasesparaEx.FrasesparaExFragment"
+        android:label="@string/menu_FrasesparaEx"
+        tools:layout="@layout/fragment_frasespara_ex" />
+    <fragment
+        android:id="@+id/nav_FrasesdeIndiretas"
+        android:name="com.apkdoandroid.osstatus.ui.FrasesdeIndiretas.FrasesdeIndiretasFragment"
+        android:label="@string/menu_FrasesdeIndiretas"
+        tools:layout="@layout/fragment_frasesde_indiretas" />
+    <fragment
+        android:id="@+id/nav_Frasesfelizaniversario"
+        android:name="com.apkdoandroid.osstatus.ui.Frasesfelizaniversario.FrasesfelizaniversarioFragment"
+        android:label="@string/menu_Frasesfelizaniversario"
+        tools:layout="@layout/fragment_frasesfelizaniversario" />
+    <fragment
+        android:id="@+id/nav_FrasesdeMusicas"
+        android:name="com.apkdoandroid.osstatus.ui.FrasesdeMusicas.FrasesdeMusicasFragment"
+        android:label="@string/menu_FrasesdeMusicas"
+        tools:layout="@layout/fragment_frasesde_musicas" />
+    <fragment
+        android:id="@+id/nav_sobre"
+        android:name="com.apkdoandroid.osstatus.ui.Sobre.SobreFragment"
+        android:label="@string/menu_sobre"
+        tools:layout="@layout/fragment_sobre" />
+
+</navigation>
