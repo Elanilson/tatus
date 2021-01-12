@@ -6,8 +6,30 @@
     android:orientation="vertical"
     tools:context=".ui.FrasesparaEx.FrasesparaExFragment" >
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerviewFrasesparaEx"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerviewFrasesparaEx"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:id="@+id/buttonRecarreFrasesparaEx"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@android:drawable/ic_popup_sync"
+                android:text="@string/carregar"
+                android:textColor="@color/Black"
+                android:backgroundTint="@color/colorAccent" />
+        </LinearLayout>
+    </ScrollView>
+
 </LinearLayout>

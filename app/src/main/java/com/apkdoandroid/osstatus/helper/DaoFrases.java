@@ -9,21 +9,23 @@ public interface DaoFrases {
     public Boolean salvar (Frases frases);
     public Boolean atualizar (Frases frases);
     public  Boolean deletar (Frases frases);
+    public List<Frases> listar (int qt);
     public List<Frases> listar ();
-    public List<Frases> listar_Frases_Perfeitas ();
-    public List<Frases> listar_Frases_para_Whatsapp();
-    public List<Frases> listar_Frases_de_Amor ();
-    public List<Frases> listar_Status_para_Fotos ();
-    public List<Frases> listar_Status_para_Namorado();
-    public List<Frases> listar_Frases_de_Reflexao();
-    public List<Frases> listar_Frases_de_Deus ();
-    public List<Frases> listar_Frases_Tristes ();
-    public List<Frases> listar_Status_para_Casal ();
-    public List<Frases> listar_Frases_Engracadas();
-    public List<Frases> listar_Favoritos();
-    public List<Frases> listar_FrasesdeIndiretas();
-    public List<Frases> listar_Frasesfelizaniversario();
-    public List<Frases> listar_FrasesparaEx();
-    public List<Frases> listar_FrasesdeMusicas();
+    public List<Frases> listarFavorito ();
+    public List<Frases> listar_Frases_Perfeitas (int qt);
+    public List<Frases> listar_Frases_para_Whatsapp(int qt);
+    public List<Frases> listar_Frases_de_Amor (int qt);
+    public List<Frases> listar_Status_para_Fotos (int qt);
+    public List<Frases> listar_Status_para_Namorado(int qt);
+    public List<Frases> listar_Frases_de_Reflexao(int qt);
+    public List<Frases> listar_Frases_de_Deus (int qt);
+    public List<Frases> listar_Frases_Tristes (int qt);
+    public List<Frases> listar_Status_para_Casal (int qt);
+    public List<Frases> listar_Frases_Engracadas(int qt);
+    public List<Frases> listar_Favoritos(int qt);
+    public List<Frases> listar_FrasesdeIndiretas(int qt);
+    public List<Frases> listar_Frasesfelizaniversario(int qt);
+    public List<Frases> listar_FrasesparaEx(int qt);
+    public List<Frases> listar_FrasesdeMusicas(int qt);
 
 }

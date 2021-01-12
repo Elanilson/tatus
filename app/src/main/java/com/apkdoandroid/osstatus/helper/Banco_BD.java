@@ -1,5 +1,6 @@
 package com.apkdoandroid.osstatus.helper;
 
+import android.content.ContentValues;
 import android.content.Context;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
@@ -11,7 +12,7 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 
 public class Banco_BD extends SQLiteOpenHelper {
-    public static int VERSION =1;
+    public static int VERSION =2; /// na playstore ta versão 1
     public static String NOME_BD = "frases_bd";
     public static String TABELA = "frases";
     private Context context;
@@ -38,6 +39,7 @@ public class Banco_BD extends SQLiteOpenHelper {
             String sqlInset7 =  Sql.carregarFrases7();
             String sqlInset8 =  Sql.carregarFrases8();
 
+
             db.execSQL(sql);
             db.execSQL(sqlInset1);
             db.execSQL(sqlInset2);
@@ -47,6 +49,7 @@ public class Banco_BD extends SQLiteOpenHelper {
             db.execSQL(sqlInset6);
             db.execSQL(sqlInset7);
             db.execSQL(sqlInset8);
+
 
             Log.i("INFO DB", "Sucesso ao criar TABELA" );
         }catch (SQLException e){
@@ -58,6 +61,22 @@ public class Banco_BD extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
+        try{
+            String sqlInset9 =  Sql.carregarFrases9();
+            String sql = Sql.getSqlTabelaFrases();
+            db.execSQL(sqlInset9);
+//            onUpgrade(db,1,2);
+          //  db.execSQL("drop table frases");
+           // onCreate(db);
+            //db.execSQL(sqlInset9);
+            Log.i("INFO DB", "Update Banco sucesso " );
+
+
+        }catch (SQLException e){
+            Log.i("INFO DB", "Erro: "+e.getMessage() );
+        }
+
+
 
     }
 

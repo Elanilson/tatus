@@ -70,22 +70,22 @@ public class SobreFragment extends Fragment {
                 " Todos os dias publicamos novas frases e toda semana novas categorias.\n" +
                 " Procurou uma frase e não a encontrou? Sinta-se à vontade para sugerir ela. Com certeza levaremos em consideração sua sugestão.";
         Element versao = new Element();
-        versao.setTitle("Versão 1.0");
+        versao.setTitle("Versão 1.1");
         return new AboutPage(getActivity())
-                .setImage(R.drawable.logo)
+                .setImage(R.drawable.logoostesuts)
                 .setDescription(descricao)
 
                 .addGroup("Entre em contato")
-                .addEmail("elanilsonpp@hotmail.com","Envie um e-mail")
-                .addWebsite("www.apkdoandroid.com","Acesse nosso site")
+                .addEmail("analista29011996@gmail.com","Envie um e-mail")
+//                .addWebsite("www.apkdoandroid.com","Acesse nosso site")
 
-                .addGroup("Redes sociais")
-                .addFacebook("elanilsondejesus","Facebook")
-                .addInstagram("elanilsondejesus","Instagram")
-                .addTwitter("elanilsondejesus","Twitter")
-                .addYoutube("elanilsondejesus","Youtube")
-                .addGitHub("elanilsondejesus","GitHub")
-                .addPlayStore("elanilsondejesus","Download App")
+//                .addGroup("Redes sociais")
+//                .addFacebook("#","Facebook")
+//                .addInstagram("#","Instagram")
+//                .addTwitter("#","Twitter")
+//                .addYoutube("#","Youtube")
+//                .addGitHub("#","GitHub")
+//                .addPlayStore("#","Download App")
 
                 .addItem(versao)
 

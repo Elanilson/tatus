@@ -7,8 +7,30 @@
     android:orientation="vertical"
     tools:context=".ui.FrasesdeAmor.FrasesdeAmorFragment" >
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerviewFrasesdeAmor"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerviewFrasesdeAmor"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <Button
+                android:id="@+id/buttonRecarregaFrasesFrasesdeAmor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@android:drawable/ic_popup_sync"
+                android:text="@string/carregar"
+                android:textColor="@color/Black"
+                android:backgroundTint="@color/colorAccent" />
+        </LinearLayout>
+    </ScrollView>
+
 </LinearLayout>

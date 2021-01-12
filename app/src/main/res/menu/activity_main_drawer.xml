@@ -72,7 +72,6 @@
                 android:icon="@drawable/ic_sobre_24"
                 android:title="@string/menu_sobre" />
             <item
-                android:id="@+id/nav_vip"
                 android:icon="@drawable/premio"
                 android:title="@string/menu_AdBlock" />
         </menu>

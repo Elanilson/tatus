@@ -1,7 +1,7 @@
 package com.apkdoandroid.osstatus.helper;
 
 public class Sql {
-    private  static String sqlTabelaFrases = "CREATE TABLE IF NOT EXISTS "+Banco_BD.TABELA+" ( id INTEGER PRIMARY KEY AUTOINCREMENT, " +
+    private  static String sqlTabelaFrases = "CREATE TABLE IF NOT EXISTS "+Banco_BD.TABELA+" ( id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, " +
             "autor VARCHAR(50), texto TEXT,categoria VARCHAR(50), data_hora DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP, favorito INTEGER NOT NULL DEFAULT 0);";
 
 
@@ -3360,150 +3360,150 @@ public class Sql {
                 ",('Com Deus no coração, o resto nós resolve! \uD83D\uDE4F❤                                                          \t','\t(Racionais MC)\t','Frases de Músicas')\n" +
                 ",('Vou aproveitar a vida antes que ela me aproveite. ✨✨                                                  \t','\t (Pitty)\t','Frases de Músicas')\n" +
                 ",('Quem sabe, cala. Quem não sabe é quem mais fala! \uD83D\uDC4C\uD83D\uDC4C                                                    \t','\t(Ponto de Equilíbrio)\t','Frases de Músicas')\n" +
-                ",('E viva sua vida assim como um passarinho livre para voar... ✨\uD83D\uDC26✨                                      \t\t(Mato Seco)\t','Frases de Músicas')\n" +
-                ",('O segredo do sucesso é a moderação. Ter um dia sim e ter um dia não! \uD83D\uDE09\uD83D\uDC4C                               \t\t((Matanza)\t','Frases de Músicas')\n" +
-                ",('Sua vida e sua liberdade vale mais do que ouro de qualquer quilate. \uD83C\uDF43\uD83C\uDF43                                \t\t((Facção Central)\t','Frases de Músicas')\n" +
-                ",('Muita coisa ainda está por vir, muita coisa ainda vai mudar! \uD83D\uDE4F\uD83D\uDC99                                       \t\t(Nx Zero)\t','Frases de Músicas')\n" +
-                ",('Nada como um dia atrás do outro... \uD83D\uDCAB\uD83D\uDCAB                                                                 \t\t (Tiago Iorc)\t','Frases de Músicas')\n" +
-                ",('Já me perdi tentando me encontrar.\uD83D\uDE43                                                                    \t\t(IZA)\t','Frases de Músicas')\n" +
-                ",('Até pra ser flor, precisa de sorte.\uD83C\uDF38                                                                   \t\t (Carol e Vitoria)\t','Frases de Músicas')\n" +
-                ",('Hoje vai ser melhor do que ontem.\uD83D\uDC4A                                                                     \t\t(Capital Inicial)\t','Frases de Músicas')\n" +
-                ",('Eu sei que vão tentar me destruir, mas vou me reconstruir, voltar mais forte que antes.\uD83E\uDD1E                \t\t( (Iza)\t','Frases de Músicas')\n" +
-                ",('Cuidado com o destino ela brinca com as pessoas \uD83D\uDC4C                                                      \t\t (Charlie Brown Jr)\t','Frases de Músicas')\n" +
-                ",('Fiz de mim descanso pra você. \uD83D\uDE09                                                                        \t\t(Ana vitória)\t','Frases de Músicas')\n" +
-                ",('Tanto faz, os dias são iguais \uD83D\uDC4C✌️                                                                       \t\t(Racionais MC’s)\t','Frases de Músicas')\n" +
-                ",('Eu ouvi gente vazia me falando sobre amor \uD83D\uDC94\uD83D\uDC94                                                          \t\t(Ana Vilela)\t','Frases de Músicas')\n" +
-                ",('A vida é boa quando se brinca demais.\uD83D\uDE43                                                                 \t\t (Rubel)\t','Frases de Músicas')\n" +
-                ",('O tempo mostra nossa direção.                                                                           \t\t (1Kilo)\t','Frases de Músicas')\n" +
-                ",('Onde queres o ato, eu sou o espírito! ❤                                                                \t\t(Caetano Veloso)\t','Frases de Músicas')\n" +
-                ",('Ter bondade é ter coragem. ❤✨                                                                         \t\t (Legião Urbana)\t','Frases de Músicas')\n" +
-                ",('Pois quem dorme, sonha. Quem vive, realiza !!! \uD83D\uDE04                                                       \t\t (Tribo da Periferia)\t','Frases de Músicas')\n" +
-                ",('E quando a mente muda a gente anda pra frente. ✨                                                       \t\t (Gabriel O pensador)\t','Frases de Músicas')\n" +
-                ",('A melhor maquiagem é o sorriso no rosto. \uD83D\uDE03\uD83D\uDE03                                                           \t\t(Tribo da periferia)\t','Frases de Músicas')\n" +
-                ",('Faço de mim, parte do segredo do universo. ❤                                                           \t\t(Forfun)\t','Frases de Músicas')\n" +
-                ",('Ser feliz pra mim não custa caro… \uD83D\uDE06\uD83D\uDE04                                                                  \t\t(Mateus e Kauan)\t','Frases de Músicas')\n" +
-                ",('Quer saber o sentido da vida? Pra frente. \uD83D\uDE09\uD83D\uDE03                                                          \t\t(Emicida)\t','Frases de Músicas')\n" +
-                ",('A vida não é problema é batalha, desafio, cada obstáculo é uma lição.                                   \t\t((Racionais)\t','Frases de Músicas')\n" +
-                ",('Ser feliz é tão simples, mas tão simples, que todo mundo esqueceu como é.\uD83D\uDE10\uD83D\uDE10                           \t\t((Demi Lovato)\t','Frases de Músicas')\n" +
-                ",('Ei, amor, eu to contigo independente do caô. ❤                                                         \t\t (1Kilo)\t','Frases de Músicas')\n" +
-                ",('Mentir pra si mesmo, é sempre a pior mentira. \uD83D\uDE10                                                        \t\t(Renato Russo)\t','Frases de Músicas')\n" +
-                ",('Essa é a lei do retorno e não adianta chorar.\uD83D\uDE03                                                         \t\t (Mc Dom Juan)\t','Frases de Músicas')\n" +
-                ",('Eu só quero saber se você ficaria com alguém igual você! \uD83D\uDE03                                             \t\t (Zé Neto e Cristiano)\t','Frases de Músicas')\n" +
-                ",('Me diz como é que não te ama. \uD83D\uDE0D                                                                        \t\t(Naiara Azevedo)\t','Frases de Músicas')\n" +
-                ",('É um novo tempo, momento pro novo sabor do vento! \uD83C\uDF24                                                    \t\t(Emicida)\t','Frases de Músicas')\n" +
-                ",('Fazer da vida o que melhor possa ser!! \uD83D\uDE03                                                               \t\t (Charlie Brown)\t','Frases de Músicas')\n" +
-                ",('Se eu soubesse antes o que sei agora erraria tudo exatamente igual!                                     \t\t((Engenheiros do Hawaii)\t','Frases de Músicas')\n" +
-                ",('Agora eu quero ir, pra me reconhecer de volta!                                                          \t\t(AnaVitoria)\t','Frases de Músicas')\n" +
-                ",('Sou brisa leve passageira!! \uD83D\uDE03                                                                          \t\t(Oriente)\t','Frases de Músicas')\n" +
-                ",('A página vira, o são delira, então a gente pira‼                                                        \t\tEmicida)\t','Frases de Músicas')\n" +
-                ",('Eu quero aquela vida que a gente inventa antes de dormir!\uD83D\uDE4C                                             \t\t (Kell Smith)\t','Frases de Músicas')\n" +
-                ",('Abra um sorriso e faça alguém sorrir! \uD83D\uDE0A\uD83D\uDE01                                                              \t\t(Vitor Kley)\t','Frases de Músicas')\n" +
-                ",('Ser livre assim... Está preso em mim!✌                                                                  \t\t(OutroEu)\t','Frases de Músicas')\n" +
-                ",('O mesmo céu que chove é o mesmo céu que faz sol!☀                                                      \t\t(Vitor Kley)\t','Frases de Músicas')\n" +
-                ",('Já era de se esperar não é? \uD83D\uDE0D\uD83D\uDE0D                                                                        \t\t(Kell Smith)\t','Frases de Músicas')\n" +
-                ",('Foi difícil entender que esse tempo é nada! \uD83D\uDC4C\uD83D\uDC4C                                                         \t\t (Hungria)\t','Frases de Músicas')\n" +
-                ",('O nosso tempo é tão veloz... Não dá pra segurar! ✌\uD83D\uDC4C                                                    \t\t(Jorge e Mateus)\t','Frases de Músicas')\n" +
-                ",('Eu trago a paz e alegria como barco a bom porto!⛵⛵                                                    \t\t(Piruka)\t','Frases de Músicas')\n" +
-                ",('Tô com moral no céu, eu tô.. Tem um anjo me chamando de amor! ❤❤                                      \t\t(Matheus e Kauan)\t','Frases de Músicas')\n" +
-                ",('A benção que peço a ti... Ó Deus eu sei que cê vai entender!\uD83D\uDE4F\uD83D\uDE4F                                        \t\t (1Kilo)\t','Frases de Músicas')\n" +
-                ",('Maldito sentimento que nunca se acaba!\uD83D\uDE15                                                                \t\t(Zé Neto e Cristiano)\t','Frases de Músicas')\n" +
-                ",('Pois sua simplicidade é sua fortaleza!\uD83D\uDC4F\uD83D\uDC4F                                                              \t\t(Projoota)\t','Frases de Músicas')\n" +
-                ",('Que bom que é você... Entra logo que o meu abraço ta querendo o seu! \uD83D\uDE0D\uD83D\uDE0D                               \t\t( (Gustavo Mioto)\t','Frases de Músicas')\n" +
-                ",('O amor é bandeira de paz! ✌✌                                                                           \t\t (1Kilo)\t','Frases de Músicas')\n" +
-                ",('Tô abrindo mão de tudo! E pra nós dois eu quero... Um lugarzinho, violência zero! \uD83D\uDE0D❤                  \t\t((Jorge e Mateus)\t','Frases de Músicas')\n" +
-                ",('Corre, que essa chance passa! \uD83D\uDC4C\uD83D\uDC4C                                                                       \t\t(Fernando e Sorocaba)\t','Frases de Músicas')\n" +
-                ",('Eu quero pra vida inteira um destino incerto! ✌                                                         \t\t (Haikaiss)\t','Frases de Músicas')\n" +
-                ",('Hoje eu ganhei alta... Nem sinto mais sua falta! \uD83D\uDC4C                                                     \t\t(Gustavo Mioto)\t','Frases de Músicas')\n" +
-                ",('Se eu tô solteiro e o \uD83D\uDC4C tá namorando!                                                                  \t\t (Zé Neto e Cristiano)\t','Frases de Músicas')\n" +
-                ",('Te ver chegar me faz voar... Até a lua e voltar!\uD83D\uDE0D\uD83D\uDE0D                                                    \t\t(Jorge e Mateus)\t','Frases de Músicas')\n" +
-                ",('Menina, você inteira é uma obra prima! \uD83D\uDE0D\uD83D\uDC4C                                                             \t\t(Antony e Gabriel)\t','Frases de Músicas')\n" +
-                ",('Esse contrato é vitalício.... Cê tá amarrada aqui comigo!                                               \t\t (jorge e Mateus)\t','Frases de Músicas')\n" +
-                ",('Traição não é erro, é uma escolha!                                                                      \t\t (Kleo Dibah)\t','Frases de Músicas')\n" +
-                ",('Essa menina é um presente no céu… Que Deus pintou e jogou fora o pincel!                                \t\t((Thiago Brava)\t','Frases de Músicas')\n" +
-                ",('Ver a belezea em gesto pequeno ter a imensidão... Como espalhar por aí qualquer coisa que faça sorrir!  \t\t((Tiago Iorc) \uD83D\uDE00\uD83D\uDE00\t','Frases de Músicas')\n" +
-                ",('Sonho acordado pensando em você... E eu não me canso de te amar!                                        \t\t (Ferragem) ❤❤\t','Frases de Músicas')\n" +
-                ",('Amar é tão sagrado pra quem sabe amar!                                                                  \t\t(Ferragem) \uD83D\uDC4C\uD83D\uDC4C\t','Frases de Músicas')\n" +
-                ",('Ô linda, o que é que você faz pra ser assim tão linda❓\uD83D\uDE0D\uD83D\uDE0D                                              \t\t(Projota part. Anavitória)\t','Frases de Músicas')\n" +
-                ",('Viajei nas suas entrelinhas ,que te entregam e desvendam o melhor em ti... \uD83D\uDE0D\uD83D\uDE0D                         \t\t((Ana Vitória)\t','Frases de Músicas')\n" +
-                ",('Cabelo solto, vento no rosto, o som ligado, Deus do meu lado.\uD83D\uDC46\uD83D\uDC4F                                       \t\t(Marcela Thaís)\t','Frases de Músicas')\n" +
-                ",('Vida de casado é bom só perde pra de solteiro \uD83D\uDE0E\uD83D\uDE09                                                      \t\t(Wesley Safadão)\t','Frases de Músicas')\n" +
-                ",('Hoje ela tá de volta pra mostrar que é capaz \uD83D\uDC44\uD83D\uDE18                                                       \t\t (Mc livinho)\t','Frases de Músicas')\n" +
-                ",('Eu tanto quis, tanto fiz, tanto fui feliz \uD83D\uDC4F\uD83D\uDE04                                                          \t\t(Projota)\t','Frases de Músicas')\n" +
-                ",('Estou feliz assim, amor próprio, coração tranquilo e alma leve ❤️\uD83C\uDF43                                     \t\t((Isah soares\t','Frases de Músicas')\n" +
-                ",('Eu sou problema meu \uD83D\uDC4A                                                                                  \t\tClarice Falcão)\t','Frases de Músicas')\n" +
-                ",('É saudade misturada com bebida \uD83C\uDF79\uD83D\uDE14                                                                     \t\t(Jorge e Xandy)\t','Frases de Músicas')\n" +
-                ",('Quem tem fé sabe que não está sozinho.                                                                  \t\t(CBJR)\t','Frases de Músicas')\n" +
-                ",('Por dentro eu tô sensacional...\uD83D\uDC4C\uD83D\uDE0E                                                                     \t\t (Safadão)\t','Frases de Músicas')\n" +
-                ",('O meu ❤️ deu PT...                                                                                      \t\t(Safadão)\t','Frases de Músicas')\n" +
-                ",('E a gente vai viver a vida como Deus quiser \uD83D\uDC46\uD83D\uDE09                                                        \t\t(Simone e Simaria)\t','Frases de Músicas')\n" +
-                ",('O que tenho de torta, eu tenho de feliz. \uD83D\uDE06\uD83D\uDE0A                                                           \t\t(Mallu Magalhães)\t','Frases de Músicas')\n" +
-                ",('Quem não bate, apanha \uD83D\uDC4A                                                                                \t\t(Flora Matos)\t','Frases de Músicas')\n" +
-                ",('Tudo de novo, vida que segue \uD83D\uDC4C                                                                         \t\t(Tá na mente)\t','Frases de Músicas')\n" +
-                ",('Hoje eu fico até mais tarde pra fazer vale a pena \uD83D\uDC4C\uD83D\uDE09                                                  \t\t(Ari)\t','Frases de Músicas')\n" +
-                ",('Eu falo de várias mudanças, mas no final nada muda \uD83D\uDE14                                                   \t\t(Oriente)\t','Frases de Músicas')\n" +
-                ",('Teu medo te cerca, te pega e te joga pra longe de mim...\uD83D\uDE1E                                              \t\t(Marília Mendonça)\t','Frases de Músicas')\n" +
-                ",('Com sorriso na cara e chorando por dentro \uD83D\uDE25                                                            \t\t(Carreiro e capataz)\t','Frases de Músicas')\n" +
-                ",('Cansei de chorar feridas que não se fecham não se curam  \uD83D\uDE2D                                             \t\t(Pitty)\t','Frases de Músicas')\n" +
-                ",('Ontem eu era o amor da sua vida e hoje eu sou o quê? ❤️\uD83D\uDE14                                               \t\t(Safadão)\t','Frases de Músicas')\n" +
-                ",('Teve a chance e transformou meu romance num lance \uD83D\uDC4C                                                    \t\t(Tati zac)\t','Frases de Músicas')\n" +
-                ",('Aprendi a lidar com a ilusão e também a lidar com a dor \uD83D\uDC94\uD83D\uDE25                                            \t\t(Tati zac)\t','Frases de Músicas')\n" +
-                ",('Sou o seu princípio, meio e fim \uD83D\uDE09                                                                      \t\t(Luan Santana)\t','Frases de Músicas')\n" +
-                ",('Não perdi nada, acabei de me livrar \uD83D\uDC4C                                                                  \t\t (Marília Mendonça)\t','Frases de Músicas')\n" +
-                ",('Pra mim felicidade é ter você \uD83D\uDE06\uD83D\uDE0A                                                                      \t\t(Jorge e Mateus)\t','Frases de Músicas')\n" +
-                ",('As pessoas te magoam, sem perceber \uD83D\uDE25                                                                   \t\t(Justin Bieber)\t','Frases de Músicas')\n" +
-                ",('Refletiu nos meus olhos, adeus, solidão \uD83D\uDE14                                                              \t\t(Maneva)\t','Frases de Músicas')\n" +
-                ",('Duas histórias que se cruzam sem intenção \uD83D\uDE09\uD83D\uDE09                                                          \t\t(Maneva)\t','Frases de Músicas')\n" +
-                ",('E se eu quiser dizer que o universo inteiro, mora em você \uD83D\uDC4F\uD83D\uDC4F                                          \t\t(Tiago Iorc)\t','Frases de Músicas')\n" +
-                ",('Bendito seja o homem que possa conquistá-la \uD83D\uDE18                                                          \t\t(Oriente)\t','Frases de Músicas')\n" +
-                ",('Se eu sou feliz, devo isso a você \uD83D\uDE09\uD83D\uDE18                                                                  \t\t(Nossa história)\t','Frases de Músicas')\n" +
-                ",('Só quer viver que a vida é única, é única \uD83D\uDC4F\uD83D\uDE09                                                          \t\t(Hungria)\t','Frases de Músicas')\n" +
-                ",('You laugh through your tears.                                                                           \t\t(Você ri através de suas lágrimas) \uD83D\uDE25\uD83D\uDE09( \t','Frases de Músicas')\n" +
-                ",('Não vou voltar tão cedo, mas vou voltar porque eu amei te ver \uD83D\uDE18❤️                                      \t\t(Tiago Iorc)\t','Frases de Músicas')\n" +
-                ",('Me escutas quando clamo e acalma o meu pensar. \uD83D\uDE4F\uD83D\uDE4F                                                     \t\t(Gabriela Rocha)\t','Frases de Músicas')\n" +
-                ",('Viver é melhor que sonhar! \uD83D\uDCAD\uD83D\uDCAD                                                                         \t\t(Elis Regina) \uD83D\uDC4F\uD83D\uDE09\t','Frases de Músicas')\n" +
-                ",('Deus! Perto de ti eu quero estar, se tenho a ti os medos se vão!  \uD83D\uDE4F\uD83D\uDE4F                                  \t\t(Davi Sacer)\t','Frases de Músicas')\n" +
-                ",('A felicidade está em coisas simples!  \uD83D\uDC4C\uD83D\uDC4C                                                               \t\t(Ponto de Equilíbrio)\t','Frases de Músicas')\n" +
-                ",('E como quem não quer nada, você vem...  \uD83D\uDC49\uD83D\uDE0D                                                            \t\t(Jeito Moleque)\t','Frases de Músicas')\n" +
-                ",('Não querer lidar com pessoas É proteção pra você nunca se machucar! \uD83D\uDE10\uD83D\uDE10                                \t\t(Supercombo)\t','Frases de Músicas')\n" +
-                ",('Perdi as contas de quantas vezes segurei o mundo dos outros e deixei o meu cair!  \uD83D\uDE15\uD83D\uDE15                  \t\t(Legião Urbana)\t','Frases de Músicas')\n" +
-                ",('Eu tenho fé em Deus pra resolver qualquer parada! \uD83D\uDC46\uD83D\uDE4F                                                  \t\t( CBJR.)\t','Frases de Músicas')\n" +
-                ",('Ei dor eu não te escuto mais, você não me leva a nada! \uD83D\uDE4A\uD83D\uDC4A                                             \t\t(Jota quest)\t','Frases de Músicas')\n" +
-                ",('Reza a lenda que a gente nasceu pra ser feliz! \uD83D\uDE04\uD83D\uDE00                                                     \t\t(Engenheiros do Hawaii)\t','Frases de Músicas')\n" +
-                ",('O tédio é o sentimento mais moderno que existe! \uD83D\uDC4C\uD83D\uDC4C                                                     \t\t(Cazuza)\t','Frases de Músicas')\n" +
-                ",('Eleve ao mais alto o seu pensamento. É preciso ter fé, é preciso saber dar tempo ao tempo! \uD83D\uDE4F⏳         \t\t (Tribo de Jah)\t','Frases de Músicas')\n" +
-                ",('A nossa vida é uma coleção de saudades! \uD83D\uDE10\uD83D\uDE15\uD83D\uDE11                                                          \t\t (Projota)\t','Frases de Músicas')\n" +
-                ",('A vida me ensinou a nunca desistir, nem ganhar nem perder mas procurar evoluir! ✌✌                     \t\t (Charlie Brown Jr)\t','Frases de Músicas')\n" +
-                ",('É preciso força pra sonhar e perceber que a estrada vai além do que se vê! \uD83D\uDE43\uD83D\uDE43                         \t\t (Los Hermanos)\t','Frases de Músicas')\n" +
-                ",('Bobeira é não viver a realidade!\uD83D\uDC4C\uD83D\uDC4C                                                                     \t\t (Cássia Eller)\t','Frases de Músicas')\n" +
-                ",('Seja fiel a Deus no pouco e muito ele te dará! \uD83D\uDE09\uD83D\uDE4F                                                     \t\t (Canção Nova)\t','Frases de Músicas')\n" +
-                ",('É fácil de mais viver em paz, é a gente que complica tudo! \uD83D\uDE14\uD83D\uDE2C                                         \t\t (Thalles)\t','Frases de Músicas')\n" +
-                ",('Não vou me arrepender do que ficou pra trás! \uD83D\uDC4C                                                         \t\t(Livre Estou, Frozen)\t','Frases de Músicas')\n" +
-                ",('Buscando um novo rumo que faça sentido nesse mundo louco! \uD83D\uDE1C\uD83D\uDE1D\uD83D\uDE1B                                        \t\t (CBJR)\t','Frases de Músicas')\n" +
-                ",('O mundo gira e bota sempre tudo no lugar!  ✌✌                                                          \t\t (Strike)\t','Frases de Músicas')\n" +
-                ",('Cada um escuta a voz de Deus de um jeito! \uD83D\uDC42                                                            \t\t(Projota)\t','Frases de Músicas')\n" +
-                ",('Hoje eu só quero que o dia termine bem! ✌✌                                                             \t\t (Luciana Melo)\t','Frases de Músicas')\n" +
-                ",('Não diga que a vitória está perdida, tenha fé em DEUS, tenha fé na vida.. \uD83D\uDE4F✌                           \t\t(Raul Seixas)\t','Frases de Músicas')\n" +
-                ",('Ei dor... eu não te escuto mais. Você não me leva a nada! \uD83D\uDE49\uD83D\uDE49\uD83D\uDC4A                                        \t\t (O Sol, Jota Quest)\t','Frases de Músicas')\n" +
-                ",('O que importa é nossa alegria! \uD83D\uDE04\uD83D\uDE03\uD83D\uDE00                                                                   \t\t (Charlie Brown Jr)\t','Frases de Músicas')\n" +
-                ",('Eu que já não quero mais ser um vencedor, levo a vida devagar pra não faltar amor! \uD83D\uDE09\uD83D\uDE09                 \t\t (Los Hermanos)\t','Frases de Músicas')\n" +
-                ",('Tô aproveitando cada segundo antes que isso aqui vire uma tragédia! ⏰⏰                                \t\t (Pitty)\t','Frases de Músicas')\n" +
-                ",('Se você tem um sonho a vida tem sentido, uma razão, um alvo a ser atingido.. \uD83D\uDCAD\uD83D\uDCAD                       \t\t (Shaman King)\t','Frases de Músicas')\n" +
-                ",('Com o tempo a vida faz crescer e aceitar.. Que de repente tudo muda e troca de lugar ‼                  \t\t (nX ZERO)\t','Frases de Músicas')\n" +
-                ",('O medo cega os nossos sonhos! \uD83D\uDE48\uD83D\uDE48                                                                      \t\t (Charlie Brown Jr.)\t','Frases de Músicas')\n" +
-                ",('Vou buscando acertar que às vezes eu errei, mas quem pode acusar sem tentar compreender! \uD83D\uDE10\uD83D\uDE10           \t\t (Rosa de Saron)\t','Frases de Músicas')\n" +
-                ",('Esse arrocha é pra você que achou que eu tava aqui sofrendo, Vai vendo! \uD83D\uDC83\uD83D\uDC83                            \t\t(Lucas LUCCO)\t','Frases de Músicas')\n" +
-                ",('Veja tudo como se não houvesse amanhã! \uD83D\uDC40\uD83D\uDC40                                                             \t\t(PITTY)\t','Frases de Músicas')\n" +
-                ",('Dinheiro no bolso, Deus no coração, família unida e champanhe pros irmãos! ✌✌                          \t\t (Racionais MC's)\t','Frases de Músicas')\n" +
-                ",('Devia ter arriscado mais. E até errado mais. Ter feito o que eu queria fazer! \uD83D\uDC4C\uD83D\uDC4C                       \t\t (TITÃS)\t','Frases de Músicas')\n" +
-                ",('Espere o melhor, prepare-se para o pior e aceite o que vier! ✌✌                                        \t\t (Cpm 22)\t','Frases de Músicas')\n" +
-                ",('Tudo é tão simples que cabe num cartão postal... \uD83C\uDF86                                                     \t\t (Cazuza)\t','Frases de Músicas')\n" +
-                ",('Nada como um dia após o outro... ✌                                                                      \t\t (Racionais MC’s)\t','Frases de Músicas')\n" +
-                ",('Me passe o número da sua opinião, quem sabe eu ligue pra ela! \uD83D\uDCDE\uD83D\uDE18                                      \t\t (Wesley Safadão)\t','Frases de Músicas')\n" +
-                ",('Pra quem tem fé a vida nunca tem fim... \uD83D\uDE4F                                                              \t\t (O Rappa)\t','Frases de Músicas')\n" +
-                ",('Quando eu penso ser meu fim, tu tens um recomeço... \uD83D\uDC46\uD83D\uDE09                                                \t\t (Davi Sacer)\t','Frases de Músicas')\n" +
-                ",('Meu destino não é de ninguém… \uD83D\uDE24\uD83D\uDE24                                                                      \t\t (Capital Inicial)\t','Frases de Músicas')\n" +
-                ",('Quem é de verdade, sabe quem é de mentira! \uD83D\uDC4C\uD83D\uDC4C                                                          \t\t (CBJR)\t','Frases de Músicas')\n" +
-                ",('Meu amor só é flor no teu jardim. \uD83C\uDF39\t','Anônimo','Frases de Amor')\t\t\n" +
+                ",('E viva sua vida assim como um passarinho livre para voar... ✨\uD83D\uDC26✨                                      \t','\t(Mato Seco)\t','Frases de Músicas')\n" +
+                ",('O segredo do sucesso é a moderação. Ter um dia sim e ter um dia não! \uD83D\uDE09\uD83D\uDC4C                               \t','\t((Matanza)\t','Frases de Músicas')\n" +
+                ",('Sua vida e sua liberdade vale mais do que ouro de qualquer quilate. \uD83C\uDF43\uD83C\uDF43                                \t','\t((Facção Central)\t','Frases de Músicas')\n" +
+                ",('Muita coisa ainda está por vir, muita coisa ainda vai mudar! \uD83D\uDE4F\uD83D\uDC99                                       \t','\t(Nx Zero)\t','Frases de Músicas')\n" +
+                ",('Nada como um dia atrás do outro... \uD83D\uDCAB\uD83D\uDCAB                                                                 \t','\t (Tiago Iorc)\t','Frases de Músicas')\n" +
+                ",('Já me perdi tentando me encontrar.\uD83D\uDE43                                                                    \t','\t(IZA)\t','Frases de Músicas')\n" +
+                ",('Até pra ser flor, precisa de sorte.\uD83C\uDF38                                                                   \t','\t (Carol e Vitoria)\t','Frases de Músicas')\n" +
+                ",('Hoje vai ser melhor do que ontem.\uD83D\uDC4A                                                                     \t','\t(Capital Inicial)\t','Frases de Músicas')\n" +
+                ",('Eu sei que vão tentar me destruir, mas vou me reconstruir, voltar mais forte que antes.\uD83E\uDD1E                \t','\t( (Iza)\t','Frases de Músicas')\n" +
+                ",('Cuidado com o destino ela brinca com as pessoas \uD83D\uDC4C                                                      \t','\t (Charlie Brown Jr)\t','Frases de Músicas')\n" +
+                ",('Fiz de mim descanso pra você. \uD83D\uDE09                                                                        \t','\t(Ana vitória)\t','Frases de Músicas')\n" +
+                ",('Tanto faz, os dias são iguais \uD83D\uDC4C✌️                                                                       \t','\t(Racionais MC’s)\t','Frases de Músicas')\n" +
+                ",('Eu ouvi gente vazia me falando sobre amor \uD83D\uDC94\uD83D\uDC94                                                          \t','\t(Ana Vilela)\t','Frases de Músicas')\n" +
+                ",('A vida é boa quando se brinca demais.\uD83D\uDE43                                                                 \t','\t (Rubel)\t','Frases de Músicas')\n" +
+                ",('O tempo mostra nossa direção.                                                                           \t','\t (1Kilo)\t','Frases de Músicas')\n" +
+                ",('Onde queres o ato, eu sou o espírito! ❤                                                                \t','\t(Caetano Veloso)\t','Frases de Músicas')\n" +
+                ",('Ter bondade é ter coragem. ❤✨                                                                         \t','\t (Legião Urbana)\t','Frases de Músicas')\n" +
+                ",('Pois quem dorme, sonha. Quem vive, realiza !!! \uD83D\uDE04                                                       \t','\t (Tribo da Periferia)\t','Frases de Músicas')\n" +
+                ",('E quando a mente muda a gente anda pra frente. ✨                                                       \t','\t (Gabriel O pensador)\t','Frases de Músicas')\n" +
+                ",('A melhor maquiagem é o sorriso no rosto. \uD83D\uDE03\uD83D\uDE03                                                           \t','\t(Tribo da periferia)\t','Frases de Músicas')\n" +
+                ",('Faço de mim, parte do segredo do universo. ❤                                                           \t','\t(Forfun)\t','Frases de Músicas')\n" +
+                ",('Ser feliz pra mim não custa caro… \uD83D\uDE06\uD83D\uDE04                                                                  \t','\t(Mateus e Kauan)\t','Frases de Músicas')\n" +
+                ",('Quer saber o sentido da vida? Pra frente. \uD83D\uDE09\uD83D\uDE03                                                          \t','\t(Emicida)\t','Frases de Músicas')\n" +
+                ",('A vida não é problema é batalha, desafio, cada obstáculo é uma lição.                                   \t','\t((Racionais)\t','Frases de Músicas')\n" +
+                ",('Ser feliz é tão simples, mas tão simples, que todo mundo esqueceu como é.\uD83D\uDE10\uD83D\uDE10                           \t','\t((Demi Lovato)\t','Frases de Músicas')\n" +
+                ",('Ei, amor, eu to contigo independente do caô. ❤                                                         \t','\t (1Kilo)\t','Frases de Músicas')\n" +
+                ",('Mentir pra si mesmo, é sempre a pior mentira. \uD83D\uDE10                                                        \t','\t(Renato Russo)\t','Frases de Músicas')\n" +
+                ",('Essa é a lei do retorno e não adianta chorar.\uD83D\uDE03                                                         \t','\t (Mc Dom Juan)\t','Frases de Músicas')\n" +
+                ",('Eu só quero saber se você ficaria com alguém igual você! \uD83D\uDE03                                             \t','\t (Zé Neto e Cristiano)\t','Frases de Músicas')\n" +
+                ",('Me diz como é que não te ama. \uD83D\uDE0D                                                                        \t','\t(Naiara Azevedo)\t','Frases de Músicas')\n" +
+                ",('É um novo tempo, momento pro novo sabor do vento! \uD83C\uDF24                                                    \t','\t(Emicida)\t','Frases de Músicas')\n" +
+                ",('Fazer da vida o que melhor possa ser!! \uD83D\uDE03                                                               \t','\t (Charlie Brown)\t','Frases de Músicas')\n" +
+                ",('Se eu soubesse antes o que sei agora erraria tudo exatamente igual!                                     \t','\t((Engenheiros do Hawaii)\t','Frases de Músicas')\n" +
+                ",('Agora eu quero ir, pra me reconhecer de volta!                                                          \t','\t(AnaVitoria)\t','Frases de Músicas')\n" +
+                ",('Sou brisa leve passageira!! \uD83D\uDE03                                                                          \t','\t(Oriente)\t','Frases de Músicas')\n" +
+                ",('A página vira, o são delira, então a gente pira‼                                                        \t','\tEmicida)\t','Frases de Músicas')\n" +
+                ",('Eu quero aquela vida que a gente inventa antes de dormir!\uD83D\uDE4C                                             \t','\t (Kell Smith)\t','Frases de Músicas')\n" +
+                ",('Abra um sorriso e faça alguém sorrir! \uD83D\uDE0A\uD83D\uDE01                                                              \t','\t(Vitor Kley)\t','Frases de Músicas')\n" +
+                ",('Ser livre assim... Está preso em mim!✌                                                                  \t','\t(OutroEu)\t','Frases de Músicas')\n" +
+                ",('O mesmo céu que chove é o mesmo céu que faz sol!☀                                                      \t','\t(Vitor Kley)\t','Frases de Músicas')\n" +
+                ",('Já era de se esperar não é? \uD83D\uDE0D\uD83D\uDE0D                                                                        \t','\t(Kell Smith)\t','Frases de Músicas')\n" +
+                ",('Foi difícil entender que esse tempo é nada! \uD83D\uDC4C\uD83D\uDC4C                                                         \t','\t (Hungria)\t','Frases de Músicas')\n" +
+                ",('O nosso tempo é tão veloz... Não dá pra segurar! ✌\uD83D\uDC4C                                                    \t','\t(Jorge e Mateus)\t','Frases de Músicas')\n" +
+                ",('Eu trago a paz e alegria como barco a bom porto!⛵⛵                                                    \t','\t(Piruka)\t','Frases de Músicas')\n" +
+                ",('Tô com moral no céu, eu tô.. Tem um anjo me chamando de amor! ❤❤                                      \t','\t(Matheus e Kauan)\t','Frases de Músicas')\n" +
+                ",('A benção que peço a ti... Ó Deus eu sei que cê vai entender!\uD83D\uDE4F\uD83D\uDE4F                                        \t','\t (1Kilo)\t','Frases de Músicas')\n" +
+                ",('Maldito sentimento que nunca se acaba!\uD83D\uDE15                                                                \t','\t(Zé Neto e Cristiano)\t','Frases de Músicas')\n" +
+                ",('Pois sua simplicidade é sua fortaleza!\uD83D\uDC4F\uD83D\uDC4F                                                              \t','\t(Projoota)\t','Frases de Músicas')\n" +
+                ",('Que bom que é você... Entra logo que o meu abraço ta querendo o seu! \uD83D\uDE0D\uD83D\uDE0D                               \t','\t( (Gustavo Mioto)\t','Frases de Músicas')\n" +
+                ",('O amor é bandeira de paz! ✌✌                                                                           \t','\t (1Kilo)\t','Frases de Músicas')\n" +
+                ",('Tô abrindo mão de tudo! E pra nós dois eu quero... Um lugarzinho, violência zero! \uD83D\uDE0D❤                  \t','\t((Jorge e Mateus)\t','Frases de Músicas')\n" +
+                ",('Corre, que essa chance passa! \uD83D\uDC4C\uD83D\uDC4C                                                                       \t','\t(Fernando e Sorocaba)\t','Frases de Músicas')\n" +
+                ",('Eu quero pra vida inteira um destino incerto! ✌                                                         \t','\t (Haikaiss)\t','Frases de Músicas')\n" +
+                ",('Hoje eu ganhei alta... Nem sinto mais sua falta! \uD83D\uDC4C                                                     \t','\t(Gustavo Mioto)\t','Frases de Músicas')\n" +
+                ",('Se eu tô solteiro e o \uD83D\uDC4C tá namorando!                                                                  \t','\t (Zé Neto e Cristiano)\t','Frases de Músicas')\n" +
+                ",('Te ver chegar me faz voar... Até a lua e voltar!\uD83D\uDE0D\uD83D\uDE0D                                                    \t','\t(Jorge e Mateus)\t','Frases de Músicas')\n" +
+                ",('Menina, você inteira é uma obra prima! \uD83D\uDE0D\uD83D\uDC4C                                                             \t','\t(Antony e Gabriel)\t','Frases de Músicas')\n" +
+                ",('Esse contrato é vitalício.... Cê tá amarrada aqui comigo!                                               \t','\t (jorge e Mateus)\t','Frases de Músicas')\n" +
+                ",('Traição não é erro, é uma escolha!                                                                      \t','\t (Kleo Dibah)\t','Frases de Músicas')\n" +
+                ",('Essa menina é um presente no céu… Que Deus pintou e jogou fora o pincel!                                \t','\t((Thiago Brava)\t','Frases de Músicas')\n" +
+                ",('Ver a belezea em gesto pequeno ter a imensidão... Como espalhar por aí qualquer coisa que faça sorrir!  \t','\t((Tiago Iorc) \uD83D\uDE00\uD83D\uDE00\t','Frases de Músicas')\n" +
+                ",('Sonho acordado pensando em você... E eu não me canso de te amar!                                        \t','\t (Ferragem) ❤❤\t','Frases de Músicas')\n" +
+                ",('Amar é tão sagrado pra quem sabe amar!                                                                  \t','\t(Ferragem) \uD83D\uDC4C\uD83D\uDC4C\t','Frases de Músicas')\n" +
+                ",('Ô linda, o que é que você faz pra ser assim tão linda❓\uD83D\uDE0D\uD83D\uDE0D                                              \t','\t(Projota part. Anavitória)\t','Frases de Músicas')\n" +
+                ",('Viajei nas suas entrelinhas ,que te entregam e desvendam o melhor em ti... \uD83D\uDE0D\uD83D\uDE0D                         \t','\t((Ana Vitória)\t','Frases de Músicas')\n" +
+                ",('Cabelo solto, vento no rosto, o som ligado, Deus do meu lado.\uD83D\uDC46\uD83D\uDC4F                                       \t','\t(Marcela Thaís)\t','Frases de Músicas')\n" +
+                ",('Vida de casado é bom só perde pra de solteiro \uD83D\uDE0E\uD83D\uDE09                                                      \t','\t(Wesley Safadão)\t','Frases de Músicas')\n" +
+                ",('Hoje ela tá de volta pra mostrar que é capaz \uD83D\uDC44\uD83D\uDE18                                                       \t','\t (Mc livinho)\t','Frases de Músicas')\n" +
+                ",('Eu tanto quis, tanto fiz, tanto fui feliz \uD83D\uDC4F\uD83D\uDE04                                                          \t','\t(Projota)\t','Frases de Músicas')\n" +
+                ",('Estou feliz assim, amor próprio, coração tranquilo e alma leve ❤️\uD83C\uDF43                                     \t','\t((Isah soares\t','Frases de Músicas')\n" +
+                ",('Eu sou problema meu \uD83D\uDC4A                                                                                  \t','\tClarice Falcão)\t','Frases de Músicas')\n" +
+                ",('É saudade misturada com bebida \uD83C\uDF79\uD83D\uDE14                                                                     \t','\t(Jorge e Xandy)\t','Frases de Músicas')\n" +
+                ",('Quem tem fé sabe que não está sozinho.                                                                  \t','\t(CBJR)\t','Frases de Músicas')\n" +
+                ",('Por dentro eu tô sensacional...\uD83D\uDC4C\uD83D\uDE0E                                                                     \t','\t (Safadão)\t','Frases de Músicas')\n" +
+                ",('O meu ❤️ deu PT...                                                                                      \t','\t(Safadão)\t','Frases de Músicas')\n" +
+                ",('E a gente vai viver a vida como Deus quiser \uD83D\uDC46\uD83D\uDE09                                                        \t','\t(Simone e Simaria)\t','Frases de Músicas')\n" +
+                ",('O que tenho de torta, eu tenho de feliz. \uD83D\uDE06\uD83D\uDE0A                                                           \t','\t(Mallu Magalhães)\t','Frases de Músicas')\n" +
+                ",('Quem não bate, apanha \uD83D\uDC4A                                                                                \t','\t(Flora Matos)\t','Frases de Músicas')\n" +
+                ",('Tudo de novo, vida que segue \uD83D\uDC4C                                                                         \t','\t(Tá na mente)\t','Frases de Músicas')\n" +
+                ",('Hoje eu fico até mais tarde pra fazer vale a pena \uD83D\uDC4C\uD83D\uDE09                                                  \t','\t(Ari)\t','Frases de Músicas')\n" +
+                ",('Eu falo de várias mudanças, mas no final nada muda \uD83D\uDE14                                                   \t','\t(Oriente)\t','Frases de Músicas')\n" +
+                ",('Teu medo te cerca, te pega e te joga pra longe de mim...\uD83D\uDE1E                                              \t','\t(Marília Mendonça)\t','Frases de Músicas')\n" +
+                ",('Com sorriso na cara e chorando por dentro \uD83D\uDE25                                                            \t','\t(Carreiro e capataz)\t','Frases de Músicas')\n" +
+                ",('Cansei de chorar feridas que não se fecham não se curam  \uD83D\uDE2D                                             \t','\t(Pitty)\t','Frases de Músicas')\n" +
+                ",('Ontem eu era o amor da sua vida e hoje eu sou o quê? ❤️\uD83D\uDE14                                               \t','\t(Safadão)\t','Frases de Músicas')\n" +
+                ",('Teve a chance e transformou meu romance num lance \uD83D\uDC4C                                                    \t','\t(Tati zac)\t','Frases de Músicas')\n" +
+                ",('Aprendi a lidar com a ilusão e também a lidar com a dor \uD83D\uDC94\uD83D\uDE25                                            \t','\t(Tati zac)\t','Frases de Músicas')\n" +
+                ",('Sou o seu princípio, meio e fim \uD83D\uDE09                                                                      \t','\t(Luan Santana)\t','Frases de Músicas')\n" +
+                ",('Não perdi nada, acabei de me livrar \uD83D\uDC4C                                                                  \t','\t (Marília Mendonça)\t','Frases de Músicas')\n" +
+                ",('Pra mim felicidade é ter você \uD83D\uDE06\uD83D\uDE0A                                                                      \t','\t(Jorge e Mateus)\t','Frases de Músicas')\n" +
+                ",('As pessoas te magoam, sem perceber \uD83D\uDE25                                                                   \t','\t(Justin Bieber)\t','Frases de Músicas')\n" +
+                ",('Refletiu nos meus olhos, adeus, solidão \uD83D\uDE14                                                              \t','\t(Maneva)\t','Frases de Músicas')\n" +
+                ",('Duas histórias que se cruzam sem intenção \uD83D\uDE09\uD83D\uDE09                                                          \t','\t(Maneva)\t','Frases de Músicas')\n" +
+                ",('E se eu quiser dizer que o universo inteiro, mora em você \uD83D\uDC4F\uD83D\uDC4F                                          \t','\t(Tiago Iorc)\t','Frases de Músicas')\n" +
+                ",('Bendito seja o homem que possa conquistá-la \uD83D\uDE18                                                          \t','\t(Oriente)\t','Frases de Músicas')\n" +
+                ",('Se eu sou feliz, devo isso a você \uD83D\uDE09\uD83D\uDE18                                                                  \t','\t(Nossa história)\t','Frases de Músicas')\n" +
+                ",('Só quer viver que a vida é única, é única \uD83D\uDC4F\uD83D\uDE09                                                          \t','\t(Hungria)\t','Frases de Músicas')\n" +
+                ",('You laugh through your tears.                                                                           \t','\t(Você ri através de suas lágrimas) \uD83D\uDE25\uD83D\uDE09( \t','Frases de Músicas')\n" +
+                ",('Não vou voltar tão cedo, mas vou voltar porque eu amei te ver \uD83D\uDE18❤️                                      \t','\t(Tiago Iorc)\t','Frases de Músicas')\n" +
+                ",('Me escutas quando clamo e acalma o meu pensar. \uD83D\uDE4F\uD83D\uDE4F                                                     \t','\t(Gabriela Rocha)\t','Frases de Músicas')\n" +
+                ",('Viver é melhor que sonhar! \uD83D\uDCAD\uD83D\uDCAD                                                                         \t','\t(Elis Regina) \uD83D\uDC4F\uD83D\uDE09\t','Frases de Músicas')\n" +
+                ",('Deus! Perto de ti eu quero estar, se tenho a ti os medos se vão!  \uD83D\uDE4F\uD83D\uDE4F                                  \t','\t(Davi Sacer)\t','Frases de Músicas')\n" +
+                ",('A felicidade está em coisas simples!  \uD83D\uDC4C\uD83D\uDC4C                                                               \t','\t(Ponto de Equilíbrio)\t','Frases de Músicas')\n" +
+                ",('E como quem não quer nada, você vem...  \uD83D\uDC49\uD83D\uDE0D                                                            \t','\t(Jeito Moleque)\t','Frases de Músicas')\n" +
+                ",('Não querer lidar com pessoas É proteção pra você nunca se machucar! \uD83D\uDE10\uD83D\uDE10                                \t','\t(Supercombo)\t','Frases de Músicas')\n" +
+                ",('Perdi as contas de quantas vezes segurei o mundo dos outros e deixei o meu cair!  \uD83D\uDE15\uD83D\uDE15                  \t','\t(Legião Urbana)\t','Frases de Músicas')\n" +
+                ",('Eu tenho fé em Deus pra resolver qualquer parada! \uD83D\uDC46\uD83D\uDE4F                                                  \t','\t( CBJR.)\t','Frases de Músicas')\n" +
+                ",('Ei dor eu não te escuto mais, você não me leva a nada! \uD83D\uDE4A\uD83D\uDC4A                                             \t','\t(Jota quest)\t','Frases de Músicas')\n" +
+                ",('Reza a lenda que a gente nasceu pra ser feliz! \uD83D\uDE04\uD83D\uDE00                                                     \t','\t(Engenheiros do Hawaii)\t','Frases de Músicas')\n" +
+                ",('O tédio é o sentimento mais moderno que existe! \uD83D\uDC4C\uD83D\uDC4C                                                     \t','\t(Cazuza)\t','Frases de Músicas')\n" +
+                ",('Eleve ao mais alto o seu pensamento. É preciso ter fé, é preciso saber dar tempo ao tempo! \uD83D\uDE4F⏳         \t','\t (Tribo de Jah)\t','Frases de Músicas')\n" +
+                ",('A nossa vida é uma coleção de saudades! \uD83D\uDE10\uD83D\uDE15\uD83D\uDE11                                                          \t','\t (Projota)\t','Frases de Músicas')\n" +
+                ",('A vida me ensinou a nunca desistir, nem ganhar nem perder mas procurar evoluir! ✌✌                     \t','\t (Charlie Brown Jr)\t','Frases de Músicas')\n" +
+                ",('É preciso força pra sonhar e perceber que a estrada vai além do que se vê! \uD83D\uDE43\uD83D\uDE43                         \t','\t (Los Hermanos)\t','Frases de Músicas')\n" +
+                ",('Bobeira é não viver a realidade!\uD83D\uDC4C\uD83D\uDC4C                                                                     \t','\t (Cássia Eller)\t','Frases de Músicas')\n" +
+                ",('Seja fiel a Deus no pouco e muito ele te dará! \uD83D\uDE09\uD83D\uDE4F                                                     \t','\t (Canção Nova)\t','Frases de Músicas')\n" +
+                ",('É fácil de mais viver em paz, é a gente que complica tudo! \uD83D\uDE14\uD83D\uDE2C                                         \t','\t (Thalles)\t','Frases de Músicas')\n" +
+                ",('Não vou me arrepender do que ficou pra trás! \uD83D\uDC4C                                                         \t','\t(Livre Estou, Frozen)\t','Frases de Músicas')\n" +
+                ",('Buscando um novo rumo que faça sentido nesse mundo louco! \uD83D\uDE1C\uD83D\uDE1D\uD83D\uDE1B                                        \t','\t (CBJR)\t','Frases de Músicas')\n" +
+                ",('O mundo gira e bota sempre tudo no lugar!  ✌✌                                                          \t','\t (Strike)\t','Frases de Músicas')\n" +
+                ",('Cada um escuta a voz de Deus de um jeito! \uD83D\uDC42                                                            \t','\t(Projota)\t','Frases de Músicas')\n" +
+                ",('Hoje eu só quero que o dia termine bem! ✌✌                                                             \t','\t (Luciana Melo)\t','Frases de Músicas')\n" +
+                ",('Não diga que a vitória está perdida, tenha fé em DEUS, tenha fé na vida.. \uD83D\uDE4F✌                           \t','\t(Raul Seixas)\t','Frases de Músicas')\n" +
+                ",('Ei dor... eu não te escuto mais. Você não me leva a nada! \uD83D\uDE49\uD83D\uDE49\uD83D\uDC4A                                        \t','\t (O Sol, Jota Quest)\t','Frases de Músicas')\n" +
+                ",('O que importa é nossa alegria! \uD83D\uDE04\uD83D\uDE03\uD83D\uDE00                                                                   \t','\t (Charlie Brown Jr)\t','Frases de Músicas')\n" +
+                ",('Eu que já não quero mais ser um vencedor, levo a vida devagar pra não faltar amor! \uD83D\uDE09\uD83D\uDE09                 \t','\t (Los Hermanos)\t','Frases de Músicas')\n" +
+                ",('Tô aproveitando cada segundo antes que isso aqui vire uma tragédia! ⏰⏰                                \t','\t (Pitty)\t','Frases de Músicas')\n" +
+                ",('Se você tem um sonho a vida tem sentido, uma razão, um alvo a ser atingido.. \uD83D\uDCAD\uD83D\uDCAD                       \t','\t (Shaman King)\t','Frases de Músicas')\n" +
+                ",('Com o tempo a vida faz crescer e aceitar.. Que de repente tudo muda e troca de lugar ‼                  \t','\t (nX ZERO)\t','Frases de Músicas')\n" +
+                ",('O medo cega os nossos sonhos! \uD83D\uDE48\uD83D\uDE48                                                                      \t','\t (Charlie Brown Jr.)\t','Frases de Músicas')\n" +
+                ",('Vou buscando acertar que às vezes eu errei, mas quem pode acusar sem tentar compreender! \uD83D\uDE10\uD83D\uDE10           \t','\t (Rosa de Saron)\t','Frases de Músicas')\n" +
+                ",('Esse arrocha é pra você que achou que eu tava aqui sofrendo, Vai vendo! \uD83D\uDC83\uD83D\uDC83                            \t','\t(Lucas LUCCO)\t','Frases de Músicas')\n" +
+                ",('Veja tudo como se não houvesse amanhã! \uD83D\uDC40\uD83D\uDC40                                                             \t','\t(PITTY)\t','Frases de Músicas')\n" +
+                ",('Dinheiro no bolso, Deus no coração, família unida e champanhe pros irmãos! ✌✌                          \t','\t (Racionais MCs)\t','Frases de Músicas')\n" +
+                ",('Devia ter arriscado mais. E até errado mais. Ter feito o que eu queria fazer! \uD83D\uDC4C\uD83D\uDC4C                       \t','\t (TITÃS)\t','Frases de Músicas')\n" +
+                ",('Espere o melhor, prepare-se para o pior e aceite o que vier! ✌✌                                        \t','\t (Cpm 22)\t','Frases de Músicas')\n" +
+                ",('Tudo é tão simples que cabe num cartão postal... \uD83C\uDF86                                                     \t','\t (Cazuza)\t','Frases de Músicas')\n" +
+                ",('Nada como um dia após o outro... ✌                                                                      \t','\t (Racionais MC’s)\t','Frases de Músicas')\n" +
+                ",('Me passe o número da sua opinião, quem sabe eu ligue pra ela! \uD83D\uDCDE\uD83D\uDE18                                      \t','\t (Wesley Safadão)\t','Frases de Músicas')\n" +
+                ",('Pra quem tem fé a vida nunca tem fim... \uD83D\uDE4F                                                              \t','\t (O Rappa)\t','Frases de Músicas')\n" +
+                ",('Quando eu penso ser meu fim, tu tens um recomeço... \uD83D\uDC46\uD83D\uDE09                                                \t','\t (Davi Sacer)\t','Frases de Músicas')\n" +
+                ",('Meu destino não é de ninguém… \uD83D\uDE24\uD83D\uDE24                                                                      \t','\t (Capital Inicial)\t','Frases de Músicas')\n" +
+                ",('Quem é de verdade, sabe quem é de mentira! \uD83D\uDC4C\uD83D\uDC4C','\t (CBJR)\t','Frases de Músicas')\n" +
+                ",('Meu amor só é flor no teu jardim. \uD83C\uDF39\t','Anônimo','Frases de Amor')\t\t                                \n" +
                 ",('De um jeito divino, o amor é a prova que Deus existe dentro da gente. \uD83E\uDD70\t','Anônimo','Frases de Amor')\t\t\n" +
                 ",('Nosso amor para sempre como o meu combustível particular para viver mais feliz. ❤\t','Anônimo','Frases de Amor')\t\t\n" +
                 ",('Amor é mais do que oferecer morada no peito, é cuidar para que lá sempre seja o melhor lugar para o outro estar. ❤️\t','Anônimo','Frases de Amor')\t\t\n" +
@@ -3694,8 +3694,373 @@ public class Sql {
                 ",('Deixe o seu sorriso aberto que é por ele que o amor prefere entrar. \uD83D\uDC96\t','Anônimo','Frases de Amor')\t\t\n" +
                 ",('O amor é um exercício de confiança. \uD83D\uDC95\t','Anônimo','Frases de Amor')\t\t\n" +
                 ",('Você merece o tipo de amor que daria a outra pessoa. \uD83E\uDD70\t','Anônimo','Frases de Amor')\t\t\n" +
-                ",('Os mares não vivem só de calmaria, quem dirá o amor... \uD83D\uDC95\t','Anônimo','Frases de Amor');";
+                ",('Os mares não vivem só de calmaria, quem dirá o amor... \uD83D\uDC95\t','Anônimo','Frases de Amor');\t";
 
         return frases;
+    }
+    public static String carregarFrases9(){
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                "('Negando os padrões e sendo cada dia mais feliz!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Coisas boas acontecem para quem sorri.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Ás vezes sinto saudade de mim...\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O que eu tanto sinto e vivo não cabe nessa legenda.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Vim respirar, vim aprender a nadar no mar e a mergulhar na vida.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Colecionando histórias e eternizando momentos!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Eu sou o melhor de mim!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('A minha felicidade não cabe dentro de mim.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Não deixe de acreditar em você, menina… Você vai longe!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('A vida reflete aquilo que você sente. Sinta gratidão!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Que eu saiba ser luz quando tudo ao meu redor for escuridão.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O segredo da felicidade é manter a felicidade em segredo.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Faça cada instante da sua vida valer a pena!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Tem que ter fé para as coisas se transformarem.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Os bons momentos não são só registrados na memória.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Se o amor é a resposta, qual a pergunta?\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Não se segure em quem não te segura.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Vamos ser feliz sem pressa. Quem corre, tropeça.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Aceite-se em ser simples. Menos é mais!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Esperança é perceber que, por pior que seja aquele dia, haverá outro totalmente inesperado.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Acredite! Sua hora vai chegar.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Ame-se, aceite-se, liberte-se.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Você fica tão bonita quando se veste de si.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Se faça um favor: se olhe com amor, cuide de você com carinho.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Treine sua mente para ver o lado bom de qualquer situação.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Não sei se viro menina, se viro mulher ou se viro todas.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Quando a gente se completa sozinha, é mais fácil de transbordar!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O meu sorriso reverbera liberdade!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Seja amor, se deixe amar e se ame em primeiro lugar.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Não mude para os outros. Mude apenas para você!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Movida pela liberdade de ser quem eu sou.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Coloque o sorriso no rosto para esse novo dia.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O que tem pra hoje? Sorrir e agradecer!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Aproveite cada minuto, porque o tempo não volta.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Não há dias cinzentos para quem sonha colorido.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Acorde, mas continue sonhando!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Desejo para o teu dia todo amor que estiver em sua caminhada.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Eu tenho o poder de fazer esse dia um bom dia.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Amanhã cedo acorde sendo novamente grata pela vida!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Que hoje seja um novo começo para você!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Exercite mente positiva, vida positiva. Hoje é um novo dia!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Sempre que o sol nasce, surge uma nova esperança.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Sorrio, agradeço e vivo!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Que a felicidade sempre me abrace!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('O sorriso é o silêncio mais bonito que existe.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Sempre batalhando para sorrir cada vez mais.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Sorrio para a vida porque ela sorri para mim.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Decore sua alma com sorrisos sinceros.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Sorrir não gasta eletricidade e gera muito mais luz.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Você é a única pessoa responsável pela sua felicidade, sorria!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Seja luz! Ilumine todos os dias seu caminho.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Um sorriso no rosto pode mudar tudo, acredite!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Que nós continuemos sorrindo em todas as fases da nossa vida!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Faça e refaça aquilo que te deixa feliz.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Pare e agradeça a todas felicidades que aparecem no seu caminho!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Veja sempre o lado bom de todas as coisas.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Encha a tua vida com alegrias, ela é curta demais para agonias.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Quando a energia é boa, o universo não falha.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Sempre grata por a vida sorrir para mim!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Minha felicidade no olhar é de quem sonha com amor.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Me encanta tudo aquilo que me tira da realidade.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Espalhe coisa boa, porque a gente merece e o mundo precisa!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Você nunca vai ser feliz se não se permitir!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Permita que um sorriso floreei seu rosto.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Vista seu melhor sorriso e se jogue no mundo!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Da minha felicidade só quem sabe sou eu!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Mesmo que não haja motivos, eu vou continuar sorrindo...\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Para os dias bons: sorrisos. Para os dias ruins: paciência. Para todos os dias: fé!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Você me faz sonhar acordada e sorrir à toa.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Que sorte a minha ter você sempre ao meu lado!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Sou mais feliz agora tendo você comigo.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Eu daria meu melhor só para te ver sorrir.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Os nossos sorrisos fazemos juntos!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Ele me rouba sorrisos todos os dias.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Estar com você é a melhor parte do dia!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Te desejo sempre brilho nos olhos e sorriso na boca.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Meu amor e minha alegria de todas as vidas!\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('Junto de você a minha felicidade sempre estará completa.\t','\tDesconhecido \t','\tFrases para fotos sorrindo\t')\n" +
+                ",('A cada rolê que a gente dá, tem muita história pra contar.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Aquela que sempre fecha comigo!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Nascemos para essa amizade acontecer!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Aquele tipo de amizade que so´ a gente entende.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Só posso te agradecer por tanto amor, amiga!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Presente que Deus me deu!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Não seria nada sem a amizade delas!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Que todos os dias sejam ensolarados dentro de nós!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Não precisa ter o mesmo sangue para serem irmãs!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('São os amigos que fazem a vida ser maravilhosa.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Com você onde for, quando for, para o que for.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Ela sempre me faz passar vergonha, mas não vivo sem!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Você é minha melhor versão e eu a sua!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Crescemos juntas e nos tornamos melhores amigas!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Eu amo ser sua amiga e ter você na minha vida.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Uma amizade não tem que ser perfeita, mas sim verdadeira.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Amiga, te escolhi para compartilhar tudo de bom que tenho guardado em mim!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('A parceria é forte, a curtição é louca e a amizade é eterna.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Nossa amizade é uma boa e longa história!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Que a gente sempre seja assim, do nosso jeitinho!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Os nossos sorrisos iluminam como o sol!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('A nossa amizade é maravilhosa igual aos dias ensolarados.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Chorar rios e sorrir mares é só com você, amiga!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Na calmaria do mar banhamos nossa amizade!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Feito girassóis, buscamos sempre o sol.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Nossa amizade é forte como as ondas do mar.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Juntas brilhamos mais que os raios do sol!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Individualmente somos gotas, juntas um oceano!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Há mares que vem para o bem.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Os meus melhores risos são com vocês!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('As coisas leves da vida nos dão força pra viver!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Sobre pessoas que a gente aprende a amar acima de qualquer coisa.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('O bom da vida é encontrar amigos que fazem de um pequeno instante, grandes momentos!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Sempre construindo momentos de felicidade!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Com vocês a caminhada ficou muito mais divertida e cheia de histórias para contar...\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Nossa parceria é forte e nada vai abalar!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('A nossa conexão é coisa de outro mundo, ninguém entende...\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Nossa amizade é com muito amor misturado com loucura.\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Amizades que surgem do nada, acabam se tornando tudo!\t','\tDesconhecido \t','\tFrases para foto com amiga\t')\n" +
+                ",('Seja você, por você. Para você.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Quem me ve assim, não imagina da batalha que me libertei.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Amar é bom, mas se amar é maravilhoso.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Estou sempre na minha melhor fase.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O melhor de mim, dedico a mim mesma!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Linda é a mulher que bem se quer!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Seja boa com você mesma.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Cada um é bonito do seu próprio jeito!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Seja como for, vá com a alma.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O que não for leve, que a vida leve...\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Plantei amor em mim, para que eu pudesse florescer.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Sempre aprendendo o dom de recomeçar.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Que a gente saiba florir onde a vida nos plantar.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Gratidão é quando a alma diz obrigada.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Em um mundo de comparações, amar-se é revolucionário.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Sou minha poesia favorita.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Sendo sempre feliz, nada menos que isso.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Bem “se” queira.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Inteira demais para ser uma metade.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Seja quem você deseja ter por perto.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('A mete é ser melhor que ontem!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Em paz comigo mesma, nada mais me abala...\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Em constante transformação...\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Se importando menos e vivendo mais!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Acreditando, sonhando e conquistando.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O que te define é a sua essência, não a opinião alheia!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Sempre seguindo o meu caminho, meus sonhos.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Procuro sempre fazer o meu melhor, pois é isso que me define!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('Vivendo feliz e livre de padrões.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
+                ",('O acalento do mar é o meu amar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Não me leve mal, me leve ao litoral!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('A calmaria do mar me faz levitar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Em caso de dúvida, reme!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Nasci para habitar o mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Perto do mar eu sou mais feliz.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Me cerco dessa energia que o azul do mar traz.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Pés na areia, coração no mar…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Ela é mar, sol e luz.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Que seja imenso e belo como o mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Deixei o mar me levar para longe de todo o mal.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Água salgada, alma lavada.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Permita a brisa te levar...\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Salgue os pés para adoçar a vidar!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('O melhor calmante do mundo não é água com açúcar, é água com sal!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Explore a vida como a brisa explora o mar!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('A vida melhora ao colocar o pé na praia!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Respirar a brisa do mar para aliviar a alma.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Sol e praia é sempre a minha alegria.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('A beleza do mar você não ver, você sente!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Mar calmo nunca fez bom marinheiro.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Sentindo a brisa do mar… ah, a praia é meu lugar!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Uma necessidade chamada mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Um céu, um sol e um mar…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('O cheiro da praia acalma a alma…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Não ha nada que me acalme mais do que a brisa do mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('É no azul do mar que me sinto em casa.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Felicidade é sentir a brisa do mar…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Céu, mar e alguém que amo é tudo que preciso.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Há mares que vem para o bem.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Deixa o sol entrar em você.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Quem é do mar não enjoa.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Quanto mais salgada a água, mais doce a vida!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Eu sou do sol, do mar, da praia.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('A praia é a minha praia.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Que os dias sejam de sol, praia e muita alegria.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Praia é terapia!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Quero poder viver a vida toda na areia...\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('O gostoso da praia é apreciar as ondas do mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Mar doce lar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Always summer vibes.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('Me deixa morar na profundeza do mar...\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('A cada rolê que a gente dá, tem muita história pra contar.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Aquela que sempre fecha comigo!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Nascemos para essa amizade acontecer!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Aquele tipo de amizade que so´ a gente entende.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Só posso te agradecer por tanto amor, amiga!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Presente que Deus me deu!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Não seria nada sem a amizade delas!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Que todos os dias sejam ensolarados dentro de nós!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Não precisa ter o mesmo sangue para serem irmãs!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('São os amigos que fazem a vida ser maravilhosa.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Com você onde for, quando for, para o que for.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Ela sempre me faz passar vergonha, mas não vivo sem!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Você é minha melhor versão e eu a sua!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Crescemos juntas e nos tornamos melhores amigas!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Eu amo ser sua amiga e ter você na minha vida.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Uma amizade não tem que ser perfeita, mas sim verdadeira.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Amiga, te escolhi para compartilhar tudo de bom que tenho guardado em mim!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('A parceria é forte, a curtição é louca e a amizade é eterna.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Nossa amizade é uma boa e longa história!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Que a gente sempre seja assim, do nosso jeitinho!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Os nossos sorrisos iluminam como o sol!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('A nossa amizade é maravilhosa igual aos dias ensolarados.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Chorar rios e sorrir mares é só com você, amiga!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Na calmaria do mar banhamos nossa amizade!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Feito girassóis, buscamos sempre o sol.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Nossa amizade é forte como as ondas do mar.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Juntas brilhamos mais que os raios do sol!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Individualmente somos gotas, juntas um oceano!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Descer a serra é só com ela!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
+                ",('Obrigado meu Deus por tudo!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Deus lhe deu um presente de 86.400 segundos hoje. Você usou um para dizer obrigado?\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Entre as graças que devemos à bondade de Deus, uma das maiores é a música. A música é tal qual como a recebemos: numa alma pura, qualquer música suscita sentimentos de pureza.  \t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Obrigado, Deus meu, pela graça de mais um dia. Assim, junto a você, tudo é bem mais fácil. Tudo é bem mais belo.\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('A bênção de viver é uma graça de Deus e por isso Lhe agradeço eternamente!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Agradeço ao Senhor por me dar esta vida plena de verdade e alegria. Te adoro, meu Deus!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Meu Deus, eu Te agradeço pela dádiva da vida e pela bênção de cada dia!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('O Teu amor cobre as minhas fraquezas e a Tua fidelidade é maior do que todos os obstáculos na minha vida. Obrigado, Deus!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Quando paro e penso na minha vida enxergo o quanto sou abençoado e por isso agradeço a Deus.\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Por tudo que já superei e alcancei na vida eu Te agradeço, meu Deus!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Tu sempre foste meu melhor amigo, Aquele que nunca me abandonou ou desamparou; e por tudo isso Te agradeço, meu Deus!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Eu Te agradeço, meu Deus, pois na Tua palavra encontro a força que preciso para continuar caminhando!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Mais um dia que começa é mais uma oportunidade para Te agradecer por todas as bênçãos, meu Deus!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Agradeço a Deus todos os dias porque em nenhum dia Ele me deixa só!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Esta vitória não é só minha, mas muito mais Tua, meu Deus, e por ela eu Te agradeço!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Te agradeço, meu Deus, por todas as bênçãos que já recebi e irei receber, pois sei que nunca me abandonarás!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Meu Deus, agradeço por teres me concedido mais um ano de vida abençoado por Teu amor e Tua presença!   \t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Agradeço por tudo, meu Deus, pois através do Teu amor vejo que a vida é luz e cada instante é precioso!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Agradeça a Deus não apenas com palavras, mas com gestos de amor e bondade para com seu semelhante.\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Porque Deus é meu apoio todos os dias eu Lhe agradeço a bênção da minha fé!\t','\tDesconhecido \t','\tFrases de Deus\t')\n" +
+                ",('Ô sol, vê se não esquece e me ilumina.                                    \t','\t Vitor Kley\t','\tFrases de Músicas\t')\n" +
+                ",('Não precisa caçar muito pra encontrar a alegria, ela às vezes tá escondida nas coisas do dia a dia.                 \t','\tKamau\t','\tFrases de Músicas\t')\n" +
+                ",('Sei do meu valor e a cotação é dólar.                                     \t','\tIza\t','\tFrases de Músicas\t')\n" +
+                ",('Possui a estranha mania de ter fé na vida.                                \t','\tMilton Nascimento\t','\tFrases de Músicas\t')\n" +
+                ",('Todo mundo tem seu jeito singular de ser feliz, de viver e enxergar!      \t','\tLenine\t','\tFrases de Músicas\t')\n" +
+                ",('O seu all star azul combina com o meu preto de cano alto.                 \t','\tCassia Eller\t','\tFrases de Músicas\t')\n" +
+                ",('A nossa vida é feita mesmo para se aprender.                              \t','\tNatiruts\t','\tFrases de Músicas\t')\n" +
+                ",('Cuide de quem te quer e cuide de você.                                    \t','\t Anitta\t','\tFrases de Músicas\t')\n" +
+                ",('Sempre que eu pensar no meu bem, vou colorir o dia.                       \t','\t Silva\t','\tFrases de Músicas\t')\n" +
+                ",('Nessa paz, eu vou. Munido de amor.                                        \t','\t Tiago Iorc\t','\tFrases de Músicas\t')\n" +
+                ",('Na minha vida, na minha liberdade, quem manda sou eu.                     \t','\tLudmilla\t','\tFrases de Músicas\t')\n" +
+                ",('Agora eu quero ir, pra me reconhecer de volta.                            \t','\tAnaVitória\t','\tFrases de Músicas\t')\n" +
+                ",('Deixo a minha fé guiar.         \t','\t Iza\t','\tFrases de Músicas\t')\n" +
+                ",('Como o mar e a tempestade, valente sempre serei.                          \t','\t Manu Gavassi\t','\tFrases de Músicas\t')\n" +
+                ",('Por onde passei, deixei rastros de amor.                                  \t','\tDrik Barbosa\t','\tFrases de Músicas\t')\n" +
+                ",('Não maltrate o coração, que dedicou ao seu sorriso, as suas batidas.      \t','\tNatiruts\t','\tFrases de Músicas\t')\n" +
+                ",('Do nosso amor a gente é que sabe...                                       \t','\tLos Hermanos\t','\tFrases de Músicas\t')\n" +
+                ",('Se a sorte lhe sorriu, por que não sorrir de volta?                       \t','\t Skank\t','\tFrases de Músicas\t')\n" +
+                ",('Sorrindo à toa, só vibrando amor e paz.                                   \t','\tNatiruts\t','\tFrases de Músicas\t')\n" +
+                ",('E esse teu sorriso largo é poesia...                                      \t','\tLourena\t','\tFrases de Músicas\t')\n" +
+                ",('O mundo acaba hoje e eu estarei dançando.                                 \t','\t Pitty\t','\tFrases de Músicas\t')\n" +
+                ",('Pra ela, não tem tempo ruim.    \t','\tLiniker e os Caramelows\t','\tFrases de Músicas\t')\n" +
+                ",('O seu sorriso vale mais que um diamante.                                  \t','\tCharlie Brown Jr.\t','\tFrases de Músicas\t')\n" +
+                ",('Luz lá do céu me visitou e fez morada em mim.                             \t','\t Iza\t','\tFrases de Músicas\t')\n" +
+                ",('Sozinha, com meus sonhos, que não param de crescer.                       \t','\t Manu Gavassi\t','\tFrases de Músicas\t')\n" +
+                ",('Chegou o dia que o meu coração tá daquele jeito...                        \t','\tIvete Sangalo\t','\tFrases de Músicas\t')\n" +
+                ",('Sorri com força, sorri com vontade, sorri pra vida.                       \t','\t Jair Oliveira\t','\tFrases de Músicas\t')\n" +
+                ",('Meu riso e tão feliz contigo.   \t','\tTribalistas\t','\tFrases de Músicas\t')\n" +
+                ",('Falta teu sorriso em meu olhar. \t','\t Exaltasamba\t','\tFrases de Músicas\t')\n" +
+                ",('Eu só quero o leve da vida.     \t','\tAnaVitória\t','\tFrases de Músicas\t')\n" +
+                ",('A sorrir eu pretendo levar a vida.                                        \t','\t Cartola\t','\tFrases de Músicas\t')\n" +
+                ",('Experimente pensar um pouquinho na gente.                                 \t','\t Cidade Negra\t','\tFrases de Músicas\t')\n" +
+                ",('Livre é o que ela mais queria ser.                                        \t','\t Tiago Iorc\t','\tFrases de Músicas\t')\n" +
+                ",('Hoje sei ser, o que a terra veio me ensinar.                              \t','\tNatiruts\t','\tFrases de Músicas\t')\n" +
+                ",('O amor é o que te faz ser mais feliz.                                     \t','\tManeva\t','\tFrases de Músicas\t')\n" +
+                ",('Pra conseguir subir tem que ser leve.                                     \t','\tLudmilla\t','\tFrases de Músicas\t')\n" +
+                ",('Nada brilha mais que a vibe da tua alma.                                  \t','\tForfun\t','\tFrases de Músicas\t')\n" +
+                ",('Eu sou amor da cabeça aos pés.  \t','\tNovos Baianos\t','\tFrases de Músicas\t')\n" +
+                ",('Verdadeiros amigos me iluminam nessa estrada da vida.                     \t','\tFlora Matos\t','\tFrases de Músicas\t')\n" +
+                ",('Alguns acreditam em anjos, eu acredito em amizade.                        \t','\tProjota\t','\tFrases de Músicas\t')\n" +
+                ",('Foi Deus quem te escolheu pra ser o melhor amigo que eu pudesse ter!      \t','\tLuan Santana\t','\tFrases de Músicas\t')\n" +
+                ",('Meus amigos são tudo pra mim, tamo junto até o fim.                       \t','\t Emicida\t','\tFrases de Músicas\t')\n" +
+                ",('É tão bom te acompanhar!        \t','\tAnavitória\t','\tFrases de Músicas\t')\n" +
+                ",('Valeu por você existir, amiga.  \t','\tFundo de Quintal\t','\tFrases de Músicas\t')\n" +
+                ",('Quem tem amigos, não fica só!   \t','\tMelim\t','\tFrases de Músicas\t')\n" +
+                ",('Pensando bem, eu gosto mesmo de você.                                     \t','\tVictor & Leo\t','\tFrases de Músicas\t')\n" +
+                ",('Amigo, você é o mais certo das horas incertas.                            \t','\tRoberto Carlos\t','\tFrases de Músicas\t')\n" +
+                ",('Nada é igual a ela e eu!        \t','\tCaetano Veloso\t','\tFrases de Músicas\t')\n" +
+                ",('Há flores em tudo que eu vejo   \t','\tTitãs\t','\tFrases de Músicas\t')\n" +
+                ",('Cabeça erguida, pés no chão, marrenta, extrovertida!                      \t','\tDani Russo\t','\tFrases de Músicas\t')\n" +
+                ",('Eu vou com a pureza na alma     \t','\t1Kilo\t','\tFrases de Músicas\t')\n" +
+                ",('Quer saber o sentido da vida? Pra frente                                  \t','\tEmicida\t','\tFrases de Músicas\t')\n" +
+                ",('Faço de mim casa de sentimentos bons onde a má fé não faz morada          \t','\tMarcelo Jeneci\t','\tFrases de Músicas\t')\n" +
+                ",('Em alguns instantes sou pequinina e também gigante                        \t','\tMarisa Monte\t','\tFrases de Músicas\t')\n" +
+                ",('Esse teu sorriso largo é poesia e alegria!                                \t','\tRap Box\t','\tFrases de Músicas\t')\n" +
+                ",('É saber se sentir infinito      \t','\t Ana Vilela\t','\tFrases de Músicas\t')\n" +
+                ",('Felicidade é só questão de ser  \t','\tMarcelo Jeneci\t','\tFrases de Músicas\t')\n" +
+                ",('Vida boa, vida louca, vida breve!                                         \t','\tEstação 77\t','\tFrases de Músicas\t')\n" +
+                ",('Ô sol, vê se não esquece e me ilumina...                                  \t','\tVitor Kley\t','\tFrases de Músicas\t')\n" +
+                ",('Há sempre alguma coisa para celebrar                                      \t','\tVanessa da Mata\t','\tFrases de Músicas\t')\n" +
+                ",('Não sou eu quem me navega, quem me navega é o mar!                        \t','\tPaulinho da Viola\t','\tFrases de Músicas\t')\n" +
+                ",('Eu sou a maré viva, se entrar vai se afogar                               \t','\tFresno\t','\tFrases de Músicas\t')\n" +
+                ",('Pé na areia, água de coco, beira do mar                                   \t','\tDiogo Nogueira\t','\tFrases de Músicas\t')\n" +
+                ",('O mar serenou quando ela pisou na areia                                   \t','\tClara Nunes\t','\tFrases de Músicas\t')\n" +
+                ",('Um pôr do sol na praia, um pôr do sol à beira                             \t','\tmarLudmilla\t','\tFrases de Músicas\t')\n" +
+                ",('Felicidade, paz e harmonia      \t','\t Hori\t','\tFrases de Músicas\t')\n" +
+                ",('Livre, nasci como a brisa       \t','\tAgnaldo Rayol\t','\tFrases de Músicas\t')\n" +
+                ",('Alguns acreditam em anjos, eu acredito em amizade                         \t','\tProjota\t','\tFrases de Músicas\t')\n" +
+                ",('Gaste energia com aquilo que te edifica                                   \t','\tKell Smith\t','\tFrases de Músicas\t')\n" +
+                ",('Quando a gente gosta é claro que a gente cuida                            \t','\tCaetano Veloso\t','\tFrases de Músicas\t')\n" +
+                ",('Eu quero aquela vida que a gente inventa antes de dormir                  \t','\tKell Smith\t','\tFrases de Músicas\t')\n" +
+                ",('Só de coisas boas eu vivo...    \t','\tSaulo\t','\tFrases de Músicas\t')\n" +
+                ",('Eles querem nossa paz, mas temos Deus a nossa volta                       \t','\t Planta e Raíz\t','\tFrases de Músicas\t')\n" +
+                ",('Cuide de quem te quer e cuide de você, que fica tudo bem!                 \t','\tAnitta\t','\tFrases de Músicas\t')\n" +
+                ",('Toda positividade eu desejo a você                                        \t','\t Chorão\t','\tFrases de Músicas\t')\n" +
+                ",('Não há razões para não ser feliz\t','\tLuan Santana\t','\tFrases de Músicas\t')\n" +
+                ",('Só o que é bom dura tempo o bastante pra se tornar inesquecível           \t','\tCharlie Brown Jr.\t','\tFrases de Músicas\t')\n" +
+                ",('Eu quero é você, eu amo só você… O resto tanto faz!                       \t','\t Luan Santana\t','\tFrases de Músicas\t')\n" +
+                ",('Só o amor constrói pontes indestrutíveis                                  \t','\tCharlie Brown Jr.\t','\tFrases de Músicas\t')\n" +
+                ",('Estranho seria se eu não me apaixonasse por você                          \t','\t Cássia Eller\t','\tFrases de Músicas\t')\n" +
+                ",('Meu riso é tão feliz contigo. O meu melhor amigo é o meu amor             \t','\t Tribalistas\t','\tFrases de Músicas\t')\n" +
+                ",('É seu sorriso que mistura com seu cheiro natural, isso é que te faz especial                                        \t','\t Fernando e Sorocaba\t','\tFrases de Músicas\t')\n" +
+                ",('Agora fica comigo e vê se não desgruda de mim                             \t','\t Cazuza\t','\tFrases de Músicas\t')\n" +
+                ",('E no meio de tanta gente eu encontrei você                                \t','\tMarisa Monte\t','\tFrases de Músicas\t')\n" +
+                ",('Assim que o amor entrou no meio, o meio virou amor                        \t','\tMarcelo Camelo\t','\tFrases de Músicas\t')\n" +
+                ",('Que o nosso amor pra sempre viva, minha dádiva                            \t','\tCássia Eller\t','\tFrases de Músicas\t')\n" +
+                ",('Toda positividade eu desejo a você pois precisamos disso nos dias de luta \t','\t Charlie Brown Jr.\t','\tFrases de Músicas\t')\n" +
+                ",('Só eu sei o que eu passei e o que eu vou ter que passar                   \t','\tDina Di\t','\tFrases de Músicas\t')\n" +
+                ",('Quem sabe um dia, por descuido ou poesia, você goste de ficar             \t','\t Chico Buarque\t','\tFrases de Músicas\t')\n" +
+                ",('Nada do que eu fui me veste agora                                         \t','\tMaria Gadú\t','\tFrases de Músicas\t')\n" +
+                ",('A gente segue a direção que o nosso próprio coração mandar                \t','\t Marcelo Camelo\t','\tFrases de Músicas\t')\n" +
+                ",('Deus me fez assim, dona de mim  \t','\tIZA\t','\tFrases de Músicas\t')\n" +
+                ",('Se eu peco, é na vontade de ter um amor de verdade                        \t','\tLos Hermanos\t','\tFrases de Músicas\t')\n" +
+                ",('Pra ela, não tem tempo ruim     \t','\tLiniker e os Caramelows\t','\tFrases de Músicas\t')\n" +
+                ",('Livre é o que ela mais queria ser                                         \t','\tTiago Iorc\t','\tFrases de Músicas\t')\n" +
+                ",('A vida vem em ondas como um mar…\t','\tLulu Santos\t','\tFrases de Músicas\t')\n" +
+                ",('Ser mais forte por acreditar na alegria de viver                          \t','\t Tiago Iorc\t','\tFrases de Músicas\t')\n" +
+                ",('Ser leve é bem melhor, celebre a vida e só                                \t','\tLagum\t','\tFrases de Músicas\t')\n" +
+                ",('É melhor ser alegre que ser triste. Alegria é a melhor coisa que existe…  \t','\tVinicius de Moraes\t','\tFrases de Músicas\t')\n" +
+                ",('Ame tudo que puder, seja o que for, venha o que vier                      \t','\tTiago Iorc\t','\tFrases de Músicas\t')\n" +
+                ",('Não precisa caçar muito pra encontrar a alegria, ela às vezes tá escondida nas coisas do dia a dia                  \t','\tKamau\t','\tFrases de Músicas\t')\n" +
+                ",('Hoje vamos desejar o bem sem olhar a quem, acabar com a solidão no ato de estender a mão                            \t','\tMelim\t','\tFrases de Músicas\t')\n" +
+                ",('O dia vai raiar pra gente se inventar de novo                             \t','\t Cícero\t','\tFrases de Músicas\t')\n" +
+                ",('Cada um de nós compõe a sua história. Cada ser em si carrega o dom de ser capaz, de ser feliz                       \t','\t Almir Sater\t','\tFrases de Músicas\t')\n" +
+                ",('Hoje vamos desejar bem, sem olhar a quem!                                 \t','\t Melim\t','\tFrases de Músicas\t')\n" +
+                ",('Brilhando em vida, sorrindo à toa, só vibrando amor e paz...              \t','\tNatiruts\t','\tFrases de Músicas\t')\n" +
+                ",('Só levo a certeza de que muito pouco eu sei ou nada sei...                \t','\t Anavitória\t','\tFrases de Músicas\t')\n" +
+                ",('A vida vem em ondas, como um mar\t','\tLulu Santos\t','\tFrases de Músicas\t')\n" +
+                ",('Gosto de ser sozinho, livre pra voar...                                   \t','\tExaltasamba\t','\tFrases de Músicas\t')\n" +
+                ",('Abra a janela e veja que eu sou o sol                                     \t','\tIvete Sangalo\t','\tFrases de Músicas\t')\n" +
+                ",('Estou de bem com o meu viver    \t','\tNatiruts\t','\tFrases de Músicas\t')\n" +
+                ",('Agora eu quero ir pra me reconhecer de volta                              \t','\tAnavitória\t','\tFrases de Músicas\t')\n" +
+                ",('Vou voltar pro passado e escrever tudo de novo                            \t','\tMatuê\t','\tFrases de Músicas\t')\n" +
+                ",('Cuida bem da tua forma de ser   \t','\tTulipa Ruiz\t','\tFrases de Músicas\t')\n" +
+                ",('A moça de sorriso aberto        \t','\tMaria Gadú\t','\tFrases de Músicas\t')\n" +
+                ",('Linda feito manhã, feito chá de hortelã                                   \t','\tTiago Iorc\t','\tFrases de Músicas\t')\n" +
+                ",('Todo mundo tem seu jeito singular, de ser feliz, de viver e de enxergar   \t','\tGilberto Gil\t','\tFrases de Músicas\t')\n" +
+                ",('Cada um sabe a dor e a delícia de ser o que é                             \t','\t Caetano Veloso\t','\tFrases de Músicas\t')\n" +
+                ",('Cuide de quem te quer e cuide de você                                     \t','\tAnitta\t','\tFrases de Músicas\t')\n" +
+                ",('Eu vou sair por aí afora, atrás da aurora...                              \t','\tChico Buarque\t','\tFrases de Músicas\t')\n" +
+                ",('Eu quero ficar perto de tudo que acho certo, até o dia em que eu mudar de opinião                                   \t','\tDanni Carlos\t','\tFrases de Músicas\t')\n" +
+                ",('Mesmo triste eu estava feliz    \t','\tMarisa Monte\t','\tFrases de Músicas\t')\n" +
+                ",('Viver é melhor que sonhar       \t','\tElis Regina\t','\tFrases de Músicas\t');";
+
+        return frase;
     }
     }

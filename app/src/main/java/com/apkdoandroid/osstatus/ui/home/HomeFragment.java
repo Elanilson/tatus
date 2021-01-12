@@ -38,7 +38,8 @@ public class HomeFragment extends Fragment {
     private Frases frase = new Frases();
     private List<Frases> frases = new ArrayList<>() ;
     private AdapterFrases adapterFrases;
-
+    private Button buttonRecarregar;
+    private int quantidadeDeItens = 50;
 
 
     public View onCreateView(@NonNull LayoutInflater inflater,
@@ -47,6 +48,7 @@ public class HomeFragment extends Fragment {
                 new ViewModelProvider(this).get(HomeViewModel.class);
         View root = inflater.inflate(R.layout.fragment_home, container, false);
         recyclerView = root.findViewById(R.id.recyclerviewFrases);
+        buttonRecarregar = root.findViewById(R.id.buttonRecarregar);
         //Definir Layout
         LinearLayoutManager layout = new LinearLayoutManager(getActivity());
         layout.setOrientation(RecyclerView.VERTICAL);
@@ -56,16 +58,27 @@ public class HomeFragment extends Fragment {
         carregarfrases();
         adapterFrases = new AdapterFrases(frases,getActivity());
         recyclerView.setAdapter(adapterFrases);
+        buttonRecarregar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                quantidadeDeItens += 10;
+                frases.clear();
+                carregarfrases();
+                adapterFrases.notifyDataSetChanged();
 
+            }
+        });
 
-      //  configurandoClickRecycleview();
 
         return root;
     }
+
     public void carregarfrases (){
         FrasesDao dao = new FrasesDao(getActivity());
-        for(Frases fra : dao.listar()){
-            frases.add(fra);
+        if(quantidadeDeItens != 0){
+            for(Frases fra : dao.listar(quantidadeDeItens)){
+                frases.add(fra);
+            }
         }
 
     }
@@ -99,6 +112,19 @@ public class HomeFragment extends Fragment {
             }
         }
         ));
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        frases.clear();
+        carregarfrases();
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        frases.clear();
     }
 
 

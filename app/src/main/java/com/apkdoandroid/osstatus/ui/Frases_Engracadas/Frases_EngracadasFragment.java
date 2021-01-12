@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.apkdoandroid.osstatus.R;
 import com.apkdoandroid.osstatus.adapter.AdapterFrases;
@@ -34,7 +35,8 @@ public class Frases_EngracadasFragment extends Fragment {
     private Frases frase = new Frases();
     private List<Frases> frases = new ArrayList<>() ;
     private AdapterFrases adapterFrases;
-
+    private Button buttonRecarregar;
+    private int quantidadeDeItens = 50;
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
@@ -88,13 +90,35 @@ public class Frases_EngracadasFragment extends Fragment {
         adapterFrases = new AdapterFrases(frases,getActivity());
         recyclerView.setAdapter(adapterFrases);
 
+        buttonRecarregar = view.findViewById(R.id.buttonRecarregarEngracadas);
+        buttonRecarregar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                quantidadeDeItens += 10;
+                frases.clear();
+                carregarfrases();
+                adapterFrases.notifyDataSetChanged();
+            }
+        });
         return view;
     }
     public void carregarfrases (){
         FrasesDao dao = new FrasesDao(getActivity());
-        for(Frases fra : dao.listar_Frases_Engracadas()){
+        for(Frases fra : dao.listar_Frases_Engracadas(quantidadeDeItens)){
             frases.add(fra);
         }
 
     }
+    @Override
+    public void onStart() {
+        super.onStart();
+        frases.clear();
+        carregarfrases();
+    }
+    @Override
+    public void onStop() {
+        super.onStop();
+        frases.clear();
+    }
+
 }

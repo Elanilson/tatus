@@ -31,24 +31,14 @@ import java.util.List;
 public class AdapterFrases  extends RecyclerView.Adapter<AdapterFrases.MyViewHolder>{
     List<Frases> frases;
     Context context;
-    private Long fraseID =0L;
-    private RecyclerView recyclerView;
     private Frases fra;
-    private String favoritoRec = "";
-
+    private Frases frase = new Frases();
 
     public AdapterFrases(List<Frases> frases, Context context) {
         this.frases = frases;
         this.context = context;
 
     }
-
-//    public AdapterFrases(List<Frases> frases, Context context, Long fraseID, RecyclerView recyclerView) {
-//        this.frases = frases;
-//        this.context = context;
-//        this.fraseID = fraseID;
-//        this.recyclerView = recyclerView;
-//    }
 
     @NonNull
     @Override
@@ -67,7 +57,10 @@ public class AdapterFrases  extends RecyclerView.Adapter<AdapterFrases.MyViewHol
         holder.autor.setText(fra.getAutor());
         holder.texto.setText(fra.getTexto());
         holder.txtid.setText(fra.getId().toString()+"");
-        if(fra.getFavorito() == 0){
+        holder.categoria.setText(fra.getCategoria()+"");
+        holder.dataHora.setText(fra.getData_hora()+"");
+
+        if(fra.getFavorito() == 0){ // sem estrela
             holder.star.setImageResource(R.drawable.ic_star_24);
 
         }else{
@@ -123,29 +116,25 @@ public class AdapterFrases  extends RecyclerView.Adapter<AdapterFrases.MyViewHol
         return dados;
     }
 
-    public  Frases favorito(Long id){
-        FrasesDao dao = new FrasesDao(context);
-        Frases frase = new Frases();
-        for(Frases fra : dao.listar()){
-            if(fra.getId() == id){
-             frase.setId(fra.getId());
-             frase.setAutor(fra.getAutor());
-             frase.setTexto(fra.getTexto());
-             frase.setTitulo(fra.getTitulo());
-             frase.setFavorito(fra.getFavorito());
-             frase.setData_hora(fra.getData_hora());
-             frase.setCategoria(fra.getCategoria());
-
-            }
-        }
-        return frase;
-    }
+//    public  Frases favorito(Long id){
+//        FrasesDao dao = new FrasesDao(context);
+//        Frases frase = new Frases();
+//        for(Frases fra : dao.listar()){
+//            if(fra.getId() == id){
+//
+//
+//            }
+//        }
+//        return frase;
+//    }
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
         TextView favorito;
         TextView txtid;
         TextView texto;
         TextView autor;
+        TextView categoria;
+        TextView dataHora;
         ImageView star;
         private TextView btnCompartilhar;
         private TextView texCopiar;
@@ -156,6 +145,8 @@ public class AdapterFrases  extends RecyclerView.Adapter<AdapterFrases.MyViewHol
              texto = itemView.findViewById(R.id.fraseTexto);
              autor = itemView.findViewById(R.id.fraseAutor);
              favorito = itemView.findViewById(R.id.textViewFavorito);
+             categoria = itemView.findViewById(R.id.textViewCategoria);
+             dataHora = itemView.findViewById(R.id.textViewDataHora);
              star = itemView.findViewById(R.id.imageViewStar);
 
             btnCompartilhar = itemView.findViewById(R.id.textViewCompartilhar);
@@ -176,24 +167,28 @@ public class AdapterFrases  extends RecyclerView.Adapter<AdapterFrases.MyViewHol
             favorito.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
+                    Long id = Long.parseLong( txtid.getText().toString());
+                    frase.setId(id);
+                    frase.setAutor(autor.getText().toString());
+                    frase.setTexto(texto.getText().toString());
+                    frase.setData_hora(dataHora.toString());
+                    frase.setCategoria(categoria.getText().toString());
 
+//                    Toast.makeText(context, "ID :"+txtid.getText().toString(), Toast.LENGTH_SHORT).show();
 
-                      Long id = Long.parseLong(txtid.getText().toString());
                     FrasesDao dao = new FrasesDao(context);
-                    Frases fra = new Frases();
-                    fra = ( favorito(id));
-                    if(fra.getFavorito() == 0){
-                       
-                        fra.setFavorito(1);
-                        if(dao.atualizar(fra)){
 
-                         star.setImageResource(R.drawable.ic_estrela24);
+                    if(frase.getFavorito() == 0){
+
+                            frase.setFavorito(1);
+                        if(dao.atualizar(frase)){
+
+                            star.setImageResource(R.drawable.ic_estrela24);
                         }
 
                     }else{
-                        fra.setFavorito(0);
-                        if(dao.atualizar(fra)){
-
+                        frase.setFavorito(0);
+                        if(dao.atualizar(frase)){
                         star.setImageResource(R.drawable.ic_star_24);
                         }
                     }
@@ -204,6 +199,7 @@ public class AdapterFrases  extends RecyclerView.Adapter<AdapterFrases.MyViewHol
 
 
         }
+
 
 
     }

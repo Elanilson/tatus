@@ -37,9 +37,15 @@ public class FavoritosActivity extends AppCompatActivity {
     }
     public void carregarfrases (){
         FrasesDao dao = new FrasesDao(getApplicationContext());
-        for(Frases fra : dao.listar_Favoritos()){
+        for(Frases fra : dao. listarFavorito()){
             frases.add(fra);
         }
 
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        frases.clear();
     }
 }
