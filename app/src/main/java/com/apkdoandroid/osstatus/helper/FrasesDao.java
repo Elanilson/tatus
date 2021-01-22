@@ -72,9 +72,9 @@ public class FrasesDao implements DaoFrases {
     }
 
     @Override
-    public List<Frases> listar(int qt) {
+    public List<Frases> listar(int qt, String item) {
         List<Frases> frases = new ArrayList<>();
-        String sql = " Select * from " +Banco_BD.TABELA+" limit "+qt+";";
+        String sql = " Select * from " +Banco_BD.TABELA+" where categoria = '"+item+"'  ORDER BY data_hora ASC  limit "+qt+";";
         Cursor c = ler.rawQuery(sql,null);
 
         while (c.moveToNext()){
@@ -92,6 +92,7 @@ public class FrasesDao implements DaoFrases {
         frase.setCategoria(categoria);
         frase.setFavorito(favorito);
         frases.add(frase);
+        Log.i("INFO DB:", "data: "+data );
         }
         Log.i("INFO DB:", "LISTANDO ALL+50" );
 
@@ -119,8 +120,9 @@ public class FrasesDao implements DaoFrases {
             frase.setCategoria(categoria);
             frase.setFavorito(favorito);
             frases.add(frase);
+
         }
-        Log.i("INFO DB:", "LISTANDO ALL" );
+        Log.i("INFO DB:", "LISTANDO ALL " );
 
 
         return frases;

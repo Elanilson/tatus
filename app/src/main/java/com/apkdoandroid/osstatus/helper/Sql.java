@@ -3846,48 +3846,48 @@ public class Sql {
                 ",('Sempre seguindo o meu caminho, meus sonhos.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
                 ",('Procuro sempre fazer o meu melhor, pois é isso que me define!\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
                 ",('Vivendo feliz e livre de padrões.\t','\tDesconhecido \t','\tStatus para Fotos\t')\n" +
-                ",('O acalento do mar é o meu amar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Não me leve mal, me leve ao litoral!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('A calmaria do mar me faz levitar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Em caso de dúvida, reme!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Nasci para habitar o mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Perto do mar eu sou mais feliz.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Me cerco dessa energia que o azul do mar traz.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Pés na areia, coração no mar…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Ela é mar, sol e luz.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Que seja imenso e belo como o mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Deixei o mar me levar para longe de todo o mal.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Água salgada, alma lavada.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Permita a brisa te levar...\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Salgue os pés para adoçar a vidar!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('O melhor calmante do mundo não é água com açúcar, é água com sal!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Explore a vida como a brisa explora o mar!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('A vida melhora ao colocar o pé na praia!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Respirar a brisa do mar para aliviar a alma.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Sol e praia é sempre a minha alegria.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('A beleza do mar você não ver, você sente!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Mar calmo nunca fez bom marinheiro.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Sentindo a brisa do mar… ah, a praia é meu lugar!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Uma necessidade chamada mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Um céu, um sol e um mar…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('O cheiro da praia acalma a alma…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Não ha nada que me acalme mais do que a brisa do mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('É no azul do mar que me sinto em casa.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Felicidade é sentir a brisa do mar…\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Céu, mar e alguém que amo é tudo que preciso.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Há mares que vem para o bem.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Deixa o sol entrar em você.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Quem é do mar não enjoa.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Quanto mais salgada a água, mais doce a vida!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Eu sou do sol, do mar, da praia.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('A praia é a minha praia.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Que os dias sejam de sol, praia e muita alegria.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Praia é terapia!\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Quero poder viver a vida toda na areia...\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('O gostoso da praia é apreciar as ondas do mar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Mar doce lar.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Always summer vibes.\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
-                ",('Me deixa morar na profundeza do mar...\t','\tDesconhecido \t','\tLegendas para foto na praia\t')\n" +
+                ",('O acalento do mar é o meu amar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Não me leve mal, me leve ao litoral!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('A calmaria do mar me faz levitar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Em caso de dúvida, reme!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Nasci para habitar o mar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Perto do mar eu sou mais feliz.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Me cerco dessa energia que o azul do mar traz.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Pés na areia, coração no mar…\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Ela é mar, sol e luz.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Que seja imenso e belo como o mar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Deixei o mar me levar para longe de todo o mal.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Água salgada, alma lavada.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Permita a brisa te levar...\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Salgue os pés para adoçar a vidar!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('O melhor calmante do mundo não é água com açúcar, é água com sal!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Explore a vida como a brisa explora o mar!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('A vida melhora ao colocar o pé na praia!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Respirar a brisa do mar para aliviar a alma.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Sol e praia é sempre a minha alegria.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('A beleza do mar você não ver, você sente!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Mar calmo nunca fez bom marinheiro.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Sentindo a brisa do mar… ah, a praia é meu lugar!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Uma necessidade chamada mar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Um céu, um sol e um mar…\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('O cheiro da praia acalma a alma…\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Não ha nada que me acalme mais do que a brisa do mar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('É no azul do mar que me sinto em casa.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Felicidade é sentir a brisa do mar…\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Céu, mar e alguém que amo é tudo que preciso.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Há mares que vem para o bem.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Deixa o sol entrar em você.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Quem é do mar não enjoa.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Quanto mais salgada a água, mais doce a vida!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Eu sou do sol, do mar, da praia.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('A praia é a minha praia.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Que os dias sejam de sol, praia e muita alegria.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Praia é terapia!\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Quero poder viver a vida toda na areia...\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('O gostoso da praia é apreciar as ondas do mar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Mar doce lar.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Always summer vibes.\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
+                ",('Me deixa morar na profundeza do mar...\t','\tDesconhecido \t','Legendas para foto na praia')\n" +
                 ",('A cada rolê que a gente dá, tem muita história pra contar.\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
                 ",('Aquela que sempre fecha comigo!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
                 ",('Nascemos para essa amizade acontecer!\t','\tDesconhecido \t','\tStatus de  amizade\t')\n" +
@@ -4063,4 +4063,5587 @@ public class Sql {
 
         return frase;
     }
+    public static String carregarFrases10(){
+        String  frase = "INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Deus é meu refugio e fortaleza. Grato Senhor por tudo!','Loading...','Agradecimento')\n" +
+                ", ('Ame quem te ama e quem mereça seu amor\uD83D\uDE18\uD83D\uDC4D','Loading...','Agradecimento')\n" +
+                ", ('Só tenho que agradecer o tanto que Deus já fez pelo o nada que fiz para Ele!','Loading...','Agradecimento')\n" +
+                ", ('Obrigado Deus por me abençoar muito mais do que eu mereço.','Loading...','Agradecimento')\n" +
+                ", ('Aprendi que devemos ser gratos a Deus por não nos dar tudo o que lhe pedimos…','Loading...','Agradecimento')\n" +
+                ", ('Tudo começou a dar certo quando eu parei de pedir chorando e passei a agradecer sorrindo.','Loading...','Agradecimento')\n" +
+                ", ('Querido Deus, hoje acordei, estou saudável, estou vivo, obrigado!','Loading...','Agradecimento')\n" +
+                ", ('Estou transbordando, meu Deus, de tanta gratidão. Só quero te ser grato por ter me dado tanto.','Loading...','Agradecimento')\n" +
+                ", ('Você já agradeceu a Deus pelo dia de hoje? Ainda está em tempo!','Loading...','Agradecimento')\n" +
+                ", ('Obrigada meu Deus por me amar e permitir que eu tenha forças para lidar com as adversidades.','Loading...','Agradecimento')\n" +
+                ", ('Meu Deus, eu tenho tanto a agradecer que nem sei por onde começar.','Loading...','Agradecimento')\n" +
+                ", ('Ser feliz não é possuir tudo. Mas ser grato a Deus por tudo que possui.','Loading...','Agradecimento')\n" +
+                ", ('Obrigado Deus! Eu não poderia ter chegado até aqui sem ti.','Loading...','Agradecimento')\n" +
+                ", ('Agradecer a Deus depois que Ele responde a uma oração, é gratidão. Agradecer a Ele antecipadamente, é fé.','Loading...','Agradecimento')\n" +
+                ", ('Eu poderia reclamar do dia mas escolhi agradecer: obrigado senhor!','Loading...','Agradecimento')\n" +
+                ", ('Mesmo enfrentando muitas batalhas, te agradeço Deus por mais uma semana abençoada.','Loading...','Agradecimento')\n" +
+                ", ('Agradecer é sempre a melhor maneira de merecer, você sabe de algum ingrato feliz da vida?','Loading...','Agradecimento')\n" +
+                ", ('Deus foi meu parceiro na luta, e agora na vitória reconheço a Sua glória e humildemente Lhe agradeço.','Loading...','Agradecimento')\n" +
+                ", ('Obrigado por tudo em minha vida, sejam vitórias, sejam lutas, o Senhor está ao meu lado!','Loading...','Agradecimento')\n" +
+                ", ('Querido Deus, hoje eu só quero dizer: muito obrigado por exatamente; TUDO!','Loading...','Agradecimento')\n" +
+                ", ('Deus, agradeço por estar vivo mais um dia e poder curtir a vida. Obrigada por tudo que tens feito por mim.','Loading...','Agradecimento')\n" +
+                ", ('Aos que me jogaram pedras, o meu ‘muito obrigado’. Foi com elas que construí meu castelo.','Loading...','Agradecimento')\n" +
+                ", ('Hoje acordei com um sorriso no rosto e tudo que quero dizer é: obrigado, meu Deus!','Loading...','Agradecimento')\n" +
+                ", ('Deus é sempre maior porque trilha nosso caminho para a vitória sem que a gente se dê conta.','Loading...','Agradecimento')\n" +
+                ", ('A Deus devo tudo, até o ar que respiro, porque Ele me criou e ao meu mundo também. ','Loading...','Agradecimento')\n" +
+                ", ('Obrigado, Deus meu, pela graça de mais um dia. Assim, junto a você, tudo é bem mais fácil. Tudo é bem mais belo.','Loading...','Agradecimento')\n" +
+                ", ('O Senhor é a minha rocha, a minha fortaleza e o meu libertador!','Loading...','Agradecimento')\n" +
+                ", ('Antes de cobrar a Deus a vida que você sonha, porque não agradece pelo que você já tem?','Loading...','Agradecimento')\n" +
+                ", ('Obrigado por tudo Senhor… Pela cama fresquinha, pela noite, pelo dia, pelo amor.','Loading...','Agradecimento')\n" +
+                ", ('Todos os dias observo Tua obra e encontro nela infinitas razões para sorrir e Te agradecer, meu Deus!','Loading...','Agradecimento')\n" +
+                ", ('Hoje eu só quero dizer: obrigado meu Deus por tudo!','Loading...','Agradecimento')\n" +
+                ", ('Eu Te agradeço, meu Deus, por mais um ano de vida e pela bênção que é ter Teu amor todos os dias!','Loading...','Agradecimento')\n" +
+                ", ('Agradeço a Deus por estar sempre junto a mim e me ajudar a fazer desta vida um palco de felicidades.','Loading...','Agradecimento')\n" +
+                ", ('Agradeço por tudo, meu Deus, pois através do Teu amor vejo que a vida é luz e cada instante é precioso!','Loading...','Agradecimento')\n" +
+                ", ('Querido Deus, Te agradeço por me ouvir, me proteger e me fazer feliz!','Loading...','Agradecimento')\n" +
+                ", ('Se tiver que derrubar um batalhão estou pronto! O que Deus me deu ninguém tira. Meu único aliado: Jesus!!','Loading...','Agradecimento')\n" +
+                ", ('Deus obrigado por me fazer feliz, mesmo quando pensei que tal sentimento não existia…','Loading...','Agradecimento')\n" +
+                ", ('E quem tem Deus no coração sabe que não a mal que vingue, nem inveja que maltrate, nem inimigos. Por que pra todo mal, há cura.','Loading...','Agradecimento')\n" +
+                ", ('Deus obrigado por nunca desistir de mim.','Loading...','Agradecimento')\n" +
+                ", ('Que a gente saiba agradecer o pouco para que possamos ter o muito. \uD83D\uDE09\uD83D\uDE42','Loading...','Agradecimento')\n" +
+                ", ('Meu Deus tenho tanto a agradecer que nem sei por onde começar…\uD83D\uDE4C\uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('Gratidão significa que a energia recebida deve ser devolvida\uD83D\uDE09\uD83D\uDE18','Loading...','Agradecimento')\n" +
+                ", ('Hoje eu só quero dizer: obrigado meu Deus por tudo! \uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('Obrigado Senhor, pelo Seu maravilhoso amor. ❤️\uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('E se você tivesse acordado hoje somente com o que você agradeceu a Deus ontem? \uD83D\uDE0C','Loading...','Agradecimento')\n" +
+                ", ('Agradeço todas as dificuldades que passei na vida. Elas foram grandes adversárias, mas que tornaram minhas vitórias muito mais saborosas. \uD83D\uDC4A\uD83D\uDE09','Loading...','Agradecimento')\n" +
+                ", ('Deus obrigada por nunca desistir de mim. \uD83D\uDE4C\uD83D\uDE0C','Loading...','Agradecimento')\n" +
+                ", ('Sonhe alto, seja grato e sinta amor…❤️\uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('O hábito de agradecer libera o fluxo de receber… \uD83D\uDE18','Loading...','Agradecimento')\n" +
+                ", ('A gratidão é a memória do coração. ❤️','Loading...','Agradecimento')\n" +
+                ", ('Gratidão é reconhecer que a vida é um presente. \uD83C\uDF81','Loading...','Agradecimento')\n" +
+                ", ('Agradecer fará você uma pessoa consciente do que tem e merecedora do que ainda pode ter.\uD83D\uDE09\uD83D\uDE18','Loading...','Agradecimento')\n" +
+                ", ('Obrigado Deus por me abençoar muito mais do que eu mereço. \uD83D\uDE4F\uD83D\uDE0C','Loading...','Agradecimento')\n" +
+                ", ('Não são as pessoas felizes que são gratas, as pessoas gratas que são felizes. \uD83D\uDE4F\uD83D\uDE03','Loading...','Agradecimento')\n" +
+                ", ('A luz de um novo dia invade a minha alma, e o coração se inunda de alegria e gratidão a Deus! ❤️\uD83D\uDE00\uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('Deus foi meu parceiro na luta, e agora na vitória reconheço a Sua glória e humildemente lhe agradeço.\uD83D\uDC4A\uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('Sempre ha uma razão para ser grato(a) \uD83D\uDE09','Loading...','Agradecimento')\n" +
+                ", ('E todos os dias tenho algo por aprender, algo por esquecer e muitas muitas coisas para agradecer.\uD83D\uDE42\uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('Feliz é aquele que possui sabedoria suficiente para reconhecer em cada minuto da vida um motivo para agradecer. \uD83D\uDC4F\uD83D\uDE42','Loading...','Agradecimento')\n" +
+                ", ('Quanto mais a gente agradece mais coisas boas acontecem. \uD83D\uDE4F\uD83D\uDE0A','Loading...','Agradecimento')\n" +
+                ", ('Faça a dieta da alegria: um sorriso a cada manhã. Um agradecimento ao final do dia. \uD83D\uDE00\uD83D\uDE09','Loading...','Agradecimento')\n" +
+                ", ('Agradeço ao meu pai e minha mãe, cuja fé em mim me ensinou a ter fé em mim mesmo e em Deus. \uD83D\uDC66\uD83D\uDE4D\uD83D\uDC4F','Loading...','Agradecimento')\n" +
+                ", ('A gratidão trás tantas coisas boas que nem sobram espaços para nada de ruim. ☺️\uD83D\uDE18','Loading...','Agradecimento')\n" +
+                ", ('Enfim, tenho agradecido por estar vivo e ter andado por onde andei e ter vivido tudo o que vivi e ser exatamente como sou. \uD83D\uDE4F\uD83D\uDE0C','Loading...','Agradecimento')\n" +
+                ", ('Querido Deus, desta vez não quero pedir, Quero somente agradecer! \uD83D\uDE4F','Loading...','Agradecimento')\n" +
+                ", ('Sempre existe pelo menos um motivo para agradecer. \uD83D\uDC4F\uD83D\uDE4C','Loading...','Agradecimento')\n" +
+                ", ('Sempre é dia de agradecer. \uD83D\uDE4F\uD83D\uDE18','Loading...','Agradecimento')\n" +
+                ", ('Quem agradece estende ao outro um atestado de carinho, respeito por ter sido fruto de uma boa intenção! \uD83D\uDE0A\uD83D\uDE09\"','Loading...','Agradecimento')\n" +
+                ", ('Para conseguir a amizade de uma pessoa digna, é preciso desenvolvermos em nós mesmos as qualidades que naquela admiramos. \uD83D\uDE09\uD83D\uDC4F','Loading...','Status de  amizade')\n" +
+                ", ('Amigo a gente não procura, o coração que encontra! ❤️','Loading...','Status de  amizade')\n" +
+                ", ('Amizade não se compra, se conquista, se vc não é verdadeiro pega a pista...','Loading...','Status de  amizade')\n" +
+                ", ('A parceria é forte, a curtição é louca e a amizade é eterna!','Loading...','Status de  amizade')\n" +
+                ", ('Quando te dói olhar para trás e te dá medo olhar adiante, mira para a esquerda ou a direita e ali estarei, ao teu lado.','Loading...','Status de  amizade')\n" +
+                ", ('Amiga verdadeira não é aquela que diz vai em frente mas sim aquela que diz eu vou junto','Loading...','Status de  amizade')\n" +
+                ", ('A diversão e pra sempre e a amizade é eterna!! \uD83D\uDE0D','Loading...','Status de  amizade')\n" +
+                ", ('A amizade é uma coisa que não tem como comprar e não tem como vender, amizade de verdade se encontra e pra sempre fica com você \uD83D\uDC97\uD83D\uDC97','Loading...','Status de  amizade')\n" +
+                ", ('Amiga de verdade não é aquela que separa uma briga, mas aquela que chega dando voadora','Loading...','Status de  amizade')\n" +
+                ", ('Ou corre com nós, ou corre de nós! \uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('A amizade não se busca, não se sonha, não se deseja. Se exerce!! É uma virtude! \uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Amigo de verdade é aquele que diz o que você precisa ouvir, não o que você quer ouvir! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Status de  amizade')\n" +
+                ", ('Um bom amigo conhece suas melhores histórias. O melhor amigo viveu todas elas ao seu lado! \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status de  amizade')\n" +
+                ", ('Amigos são anjos que nos deixam de pé \uD83D\uDC7C, quando nossas asas se esquecem como voar! \uD83D\uDE0A','Loading...','Status de  amizade')\n" +
+                ", ('Amizade verdadeira não é ser inseparável. É estar separado, e nada mudar‼️','Loading...','Status de  amizade')\n" +
+                ", ('Pois se a moda agora é ostentação deixa comigo, ao invés de nome de carro eu falo o nome dos amigos! \uD83D\uDE1C\uD83D\uDE1D','Loading...','Status de  amizade')\n" +
+                ", ('Amigos: com eles você faz as maiores loucuras, paga os maiores micos e tem os melhores momentos da sua vida..\uD83D\uDE02\uD83D\uDE02\uD83D\uDC97','Loading...','Status de  amizade')\n" +
+                ", ('Um amigo me chamou para cuidar da dor dele…Guardei a minha no bolso e fui! \uD83D\uDE42','Loading...','Status de  amizade')\n" +
+                ", ('Não conte quantos amigos você tem, e sim com quantos você pode contar… \uD83D\uDC4C','Loading...','Status de  amizade')\n" +
+                ", ('Alguns falam pra você ficar bem…Outras fazem você ficar! \uD83D\uDE09\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Aos anjos que encontrei pelo caminho, dei um nome bonito: Amigos. \uD83D\uDE07\uD83D\uDC6C','Loading...','Status de  amizade')\n" +
+                ", ('Amigo é quem acredita e confia em você! \uD83D\uDC6C\uD83D\uDC4D\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('A segunda melhor coisa do mundo é fazer amigos. A primeira é manter. \uD83D\uDC6C\uD83D\uDC4D','Loading...','Status de  amizade')\n" +
+                ", ('É raro ter um amigo para chamar de irmão! \uD83D\uDC4C\uD83D\uDC6D\uD83D\uDC4D','Loading...','Status de  amizade')\n" +
+                ", ('Nem todos os anjos tem asas, as vezes, eles tem apenas o dom de te fazer sorrir! \uD83D\uDE07\uD83D\uDC4D\uD83D\uDE04','Loading...','Status de  amizade')\n" +
+                ", ('Bons amigos ajudam você a encontrar coisas importantes, quando já as perdeu… Seu sorriso, sua esperança e sua coragem. \uD83D\uDE04\uD83D\uDE09\uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('Tem amigo que é melhor que psicólogo! \uD83D\uDC6C\uD83D\uDC4D\uD83D\uDCAC','Loading...','Status de  amizade')\n" +
+                ", ('Não precisamos de muitos amigos. Precisamos de bons amigos! \uD83D\uDC6D\uD83D\uDC6C\uD83D\uDC6D\uD83D\uDC4E\uD83D\uDC4D\uD83D\uDC6C','Loading...','Status de  amizade')\n" +
+                ", ('Quando defendemos os nossos amigos, justificamos a nossa amizade! \uD83D\uDCAA\uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('A amizade é, acima de tudo CERTEZA! È isso que a distingue do amor! \uD83D\uDE09\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Ter muitos amigos é não ter nenhum! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Status de  amizade')\n" +
+                ", ('O que é um amigo? Uma única alma habitando dois corpos! \uD83D\uDC95','Loading...','Status de  amizade')\n" +
+                ", ('Amigo é aquele que sabe tudo a seu respeito e, mesmo assim, ainda gosta de você! \uD83D\uDE04\uD83D\uDE03','Loading...','Status de  amizade')\n" +
+                ", ('Um irmão pode não ser um amigo, mas um amigo será sempre um irmão! \uD83D\uDC95','Loading...','Status de  amizade')\n" +
+                ", ('Repreende o amigo em segredo e elogia-o em público‼','Loading...','Status de  amizade')\n" +
+                ", ('Guarda teu amigo sob a chave de tua própria vida! \uD83D\uDD11','Loading...','Status de  amizade')\n" +
+                ", ('Onde quer que nos encontremos, são os nossos amigos que constituem o nosso mundo! ‼','Loading...','Status de  amizade')\n" +
+                ", ('Voltando com amigos o mesmo caminho é mais curto… \uD83D\uDE09\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Viver sem amigos não é viver‼','Loading...','Status de  amizade')\n" +
+                ", ('Amizade é como flores, não podemos deixar de regá-las, mas também não podemos regá-las muito!\uD83C\uDF39\uD83C\uDF3B\uD83C\uDF3A','Loading...','Status de  amizade')\n" +
+                ", ('Os verdadeiros amigos são como as estrelas no céu. Eles são mais claros nos tempos de escuridão… \uD83C\uDF1F\uD83C\uDF1F','Loading...','Status de  amizade')\n" +
+                ", ('Escolho os meus amigos pela cara lavada e pela alma exposta! \uD83D\uDE1D\uD83D\uDE1B','Loading...','Status de  amizade')\n" +
+                ", ('O que mais impede de ter um bom amigo é o empenho em ter muitos! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Status de  amizade')\n" +
+                ", ('Amigo de verdade se descobre nas dificuldades.\uD83D\uDE2A\uD83D\uDC6C\uD83D\uDC4D','Loading...','Status de  amizade')\n" +
+                ", ('A falta de amigos faz com que o mundo pareça um deserto. \uD83D\uDC6D\uD83C\uDF0F\uD83D\uDC4E','Loading...','Status de  amizade')\n" +
+                ", ('Dos amores humanos, o menos egoísta, o mais puro e desinteressado é o amor da amizade.\uD83D\uDE07❤\uD83D\uDC6C','Loading...','Status de  amizade')\n" +
+                ", ('Ainda que seja raro o verdadeiro amor, é no entanto menos raro que a verdadeira amizade.\uD83D\uDC4C❤\uD83D\uDC4D\uD83D\uDC6D','Loading...','Status de  amizade')\n" +
+                ", ('Bons amigos são como estrelas, nem sempre podemos ver, mas temos certeza que estarão sempre lá. \uD83D\uDC4D\uD83C\uDF0C\uD83D\uDC40','Loading...','Status de  amizade')\n" +
+                ", ('AMIZADE:Passar horas e horas com a pessoa e nunca enjoar dela \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status de  amizade')\n" +
+                ", ('Na minha vida você é insubstituível. \uD83D\uDE18\uD83D\uDC4F','Loading...','Status de  amizade')\n" +
+                ", ('Que tudo aquilo que vivemos esteja para sempre com a gente ✌️\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Love u ❤️','Loading...','Status de  amizade')\n" +
+                ", ('A sintonia faz o sangue o sangue faz irmão…✌️\\n(CBJR)','Loading...','Status de  amizade')\n" +
+                ", ('A amizade é séria, nós não somos\uD83D\uDE0E\uD83D\uDE06','Loading...','Status de  amizade')\n" +
+                ", ('Eu por você, você por mim…\uD83D\uDE09\uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('É amor, é cumplicidade…❤️✌️','Loading...','Status de  amizade')\n" +
+                ", ('Amor de alma, é amor que acalma…❤️\uD83D\uDE0C','Loading...','Status de  amizade')\n" +
+                ", ('Com você onde for, quando for, pro que for \uD83D\uDC4A\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Aconteça o que acontecer. Em dias bons, ou ruins. É pra sempre \uD83D\uDE18\uD83D\uDC4F','Loading...','Status de  amizade')\n" +
+                ", ('Conexão que não tem explicação…✌️','Loading...','Status de  amizade')\n" +
+                ", ('Sintonia, telepatia comunicação pelo cortex…\uD83D\uDE09\uD83D\uDE0C\\n(CBJR)','Loading...','Status de  amizade')\n" +
+                ", ('Parceria sem limites…\uD83D\uDC4F\uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('Obrigada Senhor por ter mais gente por mim do que contra mim \uD83D\uDC4F\uD83D\uDE4F\\n(Projota)','Loading...','Status de  amizade')\n" +
+                ", ('Ou corre com nóis, ou corre de nóis! \uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('Eu sei que sua amizade foi um laço que eu criei na alma ✌️\uD83D\uDC4F','Loading...','Status de  amizade')\n" +
+                ", ('Aquela amizade de Sempre pra Sempre…\uD83D\uDC4A\uD83D\uDC4C','Loading...','Status de  amizade')\n" +
+                ", ('Jóia rara. Ta comigo e não falha…\uD83D\uDC4A','Loading...','Status de  amizade')\n" +
+                ", ('A gente vive junto, a gente se da bem…\uD83D\uDC4F\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Sintonia tão forte que eu sei que tive sorte…✌️\uD83D\uDE18','Loading...','Status de  amizade')\n" +
+                ", ('A cada rolê que a gente dá, tem muita história pra contar \uD83D\uDC4F\uD83D\uDE0E','Loading...','Status de  amizade')\n" +
+                ", ('A gente é da gente, e da gente ninguém tira…\uD83D\uDC4A\uD83D\uDE0C','Loading...','Status de  amizade')\n" +
+                ", ('Antes era eu, agora é nós…✌️','Loading...','Status de  amizade')\n" +
+                ", ('Nosso laço é mais forte e nada pode abalar. \uD83D\uDC4A\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Parceria é parceria, em qualquer situação,\uD83D\uDC4A✌️','Loading...','Status de  amizade')\n" +
+                ", ('A vida é assim: Melhores amigos estarão sempre juntos, aconteça o que acontecer. \uD83D\uDC4A\uD83D\uDE0C','Loading...','Status de  amizade')\n" +
+                ", ('Merece tudo e mais um pouco! \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status de  amizade')\n" +
+                ", ('Insubstituível, inseparável e inconfundível ❤️\uD83D\uDE18','Loading...','Status de  amizade')\n" +
+                ", ('São os idiotas que fazem a vida valer a pena! \uD83D\uDE1C\uD83D\uDC4D✌','Loading...','Status de  amizade')\n" +
+                ", ('Ame a vida e os amigos, pois a vida é curta e os bons amigos são poucos.❤\uD83D\uDC6D\uD83D\uDC6C\uD83D\uDC4E\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Amizade verdadeira não é ser inseparável, É estar separados e nada mudar. \uD83D\uDE18\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('Amizade não é uma coisa grande, são milhares de coisas pequenas. \uD83D\uDC6D\uD83D\uDC6C\uD83D\uDE09','Loading...','Status de  amizade')\n" +
+                ", ('A medida que crescemos, nós não perdemos amigos. Apenas aprendemos quem são os verdadeiros.\uD83D\uDC4C\uD83D\uDC4D\uD83D\uDC6C','Loading...','Status de  amizade')\n" +
+                ", ('Bons amigos são presentes do Pai, agradeça pela vida deles!\uD83D\uDC4D\uD83D\uDC6C\uD83C\uDF81\uD83D\uDE4F','Loading...','Status de  amizade')\n" +
+                ", ('Amigo de vidro, quebra. Amigo de papel, rasga. Amigo falso, desiste. Amigo como você, não existe!','Loading...','Status de  amizade')\n" +
+                ", ('A vida é assim: Melhores amigos estarão sempre juntos, aconteça o que acontecer.','Loading...','Status de  amizade')\n" +
+                ", ('Sim, eu tenho aquela amizade que não trocaria por nada e nem por ninguém.','Loading...','Status de  amizade')\n" +
+                ", ('As pessoas entram na nossa vida por acaso; mas não é por acaso que elas permanecem.','Loading...','Status de  amizade')\n" +
+                ", ('Talvez eu não tenha muitos amigos. Mas os que eu tenho são os melhores que alguém poderia ter…','Loading...','Status de  amizade')\n" +
+                ", ('Não há melhor espelho que um velho amigo.','Loading...','Status de  amizade')\n" +
+                ", ('Amigo de verdade não é aquele que diz “vá em frente”, mas sim aquele que diz “eu vou junto”.','Loading...','Status de  amizade')\n" +
+                ", ('Algumas amizades passam rápido, num piscar de olhos. Outras são feitas para durar até que você pisque pela última vez.','Loading...','Status de  amizade')\n" +
+                ", ('Um bom amigo conhece suas melhores histórias. O melhor amigo viveu todas elas ao seu lado.','Loading...','Status de  amizade')\n" +
+                ", ('Não importa quanto tempo passe, tudo que é verdadeiro sempre irá permanecer!','Loading...','Status de  amizade')\n" +
+                ", ('Amizade verdadeira não é ser inseparável. É estar separado, e nada mudar.','Loading...','Status de  amizade')\n" +
+                ", ('Quando te dói olhar para trás e te dá medo olhar adiante, mira para a esquerda ou a direita e ali estarei, ao teu lado.','Loading...','Status de  amizade')\n" +
+                ", ('A parceria é forte, a curtição é louca e a amizade é eterna!','Loading...','Status de  amizade')\n" +
+                ", ('Quando a amizade é verdadeira, ela é sincera, ela é divertida, ela é foda, ela é pra sempre!','Loading...','Status de  amizade')\n" +
+                ", ('A vida muda sempre. Mas tem algo que nunca muda: nossa amizade.','Loading...','Status de  amizade')\n" +
+                ", ('Amigos de verdade não se separam apenas seguem caminhos diferentes. ','Loading...','Status de  amizade')\n" +
+                ", ('É tão bom estar perto de quem gosta da gente, dar risadas e esquecer dos problemas…','Loading...','Status de  amizade')\n" +
+                ", ('Descobri que eu não preciso de certas pessoas. Eu só preciso das pessoas certas.','Loading...','Status de  amizade')\n" +
+                ", ('Nenhum caminho é longo demais quando um amigo nos acompanha.','Loading...','Status de  amizade')\n" +
+                ", ('A segunda melhor coisa do mundo é fazer amigos. A primeira é manter.','Loading...','Status de  amizade')\n" +
+                ", ('É muito difícil encontrar um bom amigo, mais difícil ainda deixá-lo e impossível esquecê-lo.','Loading...','Status de  amizade')\n" +
+                ", ('Que a vida leve nossa idade, mas nunca nossa amizade.','Loading...','Status de  amizade')\n" +
+                ", ('Um amor pode acabar e eu entristecer, mas a nossa amizade vai sempre prevalecer.','Loading...','Status de  amizade')\n" +
+                ", ('Ter um amigo que você considera um irmão, é muito raro…mas eu tenho: VOCÊ!','Loading...','Status de  amizade')\n" +
+                ", ('Enquanto eu existir você nunca estará só.','Loading...','Status de  amizade')\n" +
+                ", ('Amigo é alguém que me faz sentir uma pessoa totalmente aceitável.','Loading...','Status de  amizade')\n" +
+                ", ('Foi com as minhas melhores amigas que vivenciei as risadas mais gostosas da minha vida.','Loading...','Status de  amizade')\n" +
+                ", ('Todas as riquezas do mundo não valem um bom amigo.','Loading...','Status de  amizade')\n" +
+                ", ('É difícil te aturar todos os dias, mas difícil mesmo seria se eu não tivesse você pra aturar.','Loading...','Status de  amizade')\n" +
+                ", ('Para sermos felizes, precisamos de amor, família e amigos. Amor nós temos, família formaremos, e amigos são vocês.','Loading...','Status de  amizade')\n" +
+                ", ('Um irmão é um amigo que Deus lhe deu, um amigo é um irmão que seu coração escolheu.','Loading...','Status de  amizade')\n" +
+                ", ('Ter amigos é sair sem dinheiro e voltar bêbado.','Loading...','Status de  amizade')\n" +
+                ", ('A medida que crescemos, nós não perdemos amigos. Apenas aprendemos quem são os verdadeiros.','Loading...','Status de  amizade')\n" +
+                ", ('Sinto saudades de velhos amigos, e os bons momentos que vivemos. Mas guardarei todos em meu coração.','Loading...','Status de  amizade')\n" +
+                ", ('Amizade pra mim é falar com a mesma pessoa todos os dias e nunca me cansar dela.','Loading...','Status de  amizade')\n" +
+                ", ('Amigo de verdade é alguém que ignora nossos defeitos e tolera nosso sucesso.','Loading...','Status de  amizade')\n" +
+                ", ('Amigo é aquele que te sacaneia, te bate, te xinga, mas não deixa que os outros façam a mesma coisa com você!','Loading...','Status de  amizade')\n" +
+                ", ('Se o mundo se virar contra você, será eu e você contra o mundo!','Loading...','Status de  amizade')\n" +
+                ", ('Amigo é igual parafuso: a gente só sabe que é bom na hora do aperto!','Loading...','Status de  amizade')\n" +
+                ", ('Que Deus proteja os meus amigos. Dos inimigos, cuido eu.','Loading...','Status de  amizade')\n" +
+                ", ('E o meu amor… Esse foi reservado só pra você! \uD83D\uDC49\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('O amor não é viver felizes para sempre, isso é um conto de fadas. O amor é saber como enfrentar a vida juntos \uD83D\uDC4A\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('São poucas, mas ainda existem pessoas que valem a pena \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Alguns amam o poder outros têm o poder de amar \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Você é euro ou dólar? Porque você é muito linda pra ser real','Loading...','Frases de Amor')\n" +
+                ", ('Amar é poder compartilhar os sentimentos e saber fazer feliz quem está do seu lado... \uD83C\uDF43❤\uD83D\uDC4A\uD83C\uDF41\uD83D\uDE31','Loading...','Frases de Amor')\n" +
+                ", ('Meu Porto Seguro é você minha vida \uD83D\uDC6B\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Cada um escolhe um destino , então preferi seguir o meu \uD83D\uDE0E','Loading...','Frases de Amor')\n" +
+                ", ('Te amar não é sacrifício, sacrifício seria se você me pedisse pra te esquecer \uD83D\uDC95','Loading...','Frases de Amor')\n" +
+                ", ('Tudo passa, tudo muda, só amor de verdade permanece','Loading...','Frases de Amor')\n" +
+                ", ('Não importa se somos diferentes, de qualquer forma você me completa.','Loading...','Frases de Amor')\n" +
+                ", ('O amor não precisa ser perfeito, apenas precisa ser verdadeiro.','Loading...','Frases de Amor')\n" +
+                ", ('O amor não deve te segurar, te privar, te manipular. O amor é liberdade de querer estar com alguém por vontade própria e gostar desta pessoa mesmo conhecendo todos seus defeitos','Loading...','Frases de Amor')\n" +
+                ", ('Meu nome é amor meu destino é viver, meu sonho é sonhar e meu sonho é vc!!','Loading...','Frases de Amor')\n" +
+                ", ('Se um minuto perto de vc fico feliz, imagina a vida toda. ❤','Loading...','Frases de Amor')\n" +
+                ", ('O amor não pode ser encontrado onde não existe, como também não pode ser escondido onde realmente está...\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Sabe qual é a diferença entre você e um cubo magico? É que do cubo eu desisto \uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Se amar é viver, eu vivo porque te amo❤\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Eu só quero é ser feliz, com você e mais ninguém \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Enquanto houver motivos, eu juro, vou lutar por esse amor ❤️\uD83D\uDC4A','Loading...','Frases de Amor')\n" +
+                ", ('Como se fosse a primeira vez é assim que eu te amava todos os dias ❤️\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('O amor é uma viagem, valeu pela carona \uD83D\uDE09❤️\\n(Projota)','Loading...','Frases de Amor')\n" +
+                ", ('Mas quando se vale a pena, o amor supera ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Só pra constar nos registros por aí….O meu amor é seu! ❤️\uD83D\uDC49','Loading...','Frases de Amor')\n" +
+                ", ('Seu sorriso contagia. Tem amor dentro do coração ❤️\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Amar, porque nada melhor para a saúde que um amor correspondido! \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('O significado da palavra amor, tem o seu nome. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Eu me apaixonei por suas qualidades e defeitos. Não teve jeito! \uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Ela quer alguém pra amar da maneira certa ❤️\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Amar não é olhar um para o outro, é olhar juntos na mesma direção \uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Basta um verdadeiro amor para unir o que antes foi quebrado ❤️❤️','Loading...','Frases de Amor')\n" +
+                ", ('Já não me alcançam as palavras não Pra lhe explicar o que eu sinto \uD83D\uDE0A\uD83D\uDE18\\n(Mateus e Kauan)','Loading...','Frases de Amor')\n" +
+                ", ('Que meu infinito seja ao seu lado \uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Tem amor que nasceu para durar uma vida inteira, tipo o meu por você ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Se faz sentir, faz sentido \uD83D\uDE09\uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('O amor é a força mais sutil do mundo ❤️❤️','Loading...','Frases de Amor')\n" +
+                ", ('Somos dois seres imperfeitos, mas que juntos fazem um amor perfeito \uD83D\uDE18❤️','Loading...','Frases de Amor')\n" +
+                ", ('O amor pode te fazer imortal \uD83D\uDE0A❤️','Loading...','Frases de Amor')\n" +
+                ", ('Coração apaixonado só quer amor ❤️\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('O amor transcende todo entendimento ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Amor é ter o céu e querer só uma estrela. É ter o mundo e querer apenas uma pessoa ⭐️','Loading...','Frases de Amor')\n" +
+                ", ('Eu te amo assim sem virgulas, sem aspas e sem ponto final ❗️❗️','Loading...','Frases de Amor')\n" +
+                ", ('Meu presente, meu futuro… Eu pretendo viver com você \uD83D\uDC49\uD83D\uDE04','Loading...','Frases de Amor')\n" +
+                ", ('Que o amor não seja apenas uma ação, mas sim uma reação de sentimentos \uD83D\uDE18❤️','Loading...','Frases de Amor')\n" +
+                ", ('Não há um dia sequer, que eu não deseje estar ao seu lado \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('A medida do amor é amar sem medida \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Te ganhei, me ganhou, Veio pra ficar e ficou \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Já era amor bem antes de ser ❤️\uD83D\uDE0A\\n(Henrique e Juliano)','Loading...','Frases de Amor')\n" +
+                ", ('Sei que o acaso fez de nós um caso de amor \uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Mais é que o amor meu caro faz a gente vê um arco-irís em céu nublado ❤️\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Isso é amor, tá rolando amor é o encontro de metades a rosa e o beija flor \uD83D\uDC4F\uD83D\uDE18\\n(Mateus e Kauan)','Loading...','Frases de Amor')\n" +
+                ", ('O que o mundo vai dizer quando o amor vencer? ❤️\uD83D\uDC4A','Loading...','Frases de Amor')\n" +
+                ", ('O amor se renova e fortalece no namoro do dia-a-dia. \uD83D\uDC8F\uD83D\uDC4A','Loading...','Frases de Amor')\n" +
+                ", ('Nada é pequeno no amor. Quem espera as grandes ocasiões para provar a sua ternura não sabe amar ❤️\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Na batalha da vida, nosso amor é o cessar-fogo \uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('Podemos brincar com nossos corpos, mas jamais com nossas emoções ❤️','Loading...','Frases de Amor')\n" +
+                ", ('O amor é o maior e melhor sentimento que duas pessoas podem compartilhar ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('A força desse amor, Não dá pra ser medida, Amar como eu te amo, Só uma vez na vida! ☝\uD83D\uDC98','Loading...','Frases de Amor')\n" +
+                ", ('Orar por quem você ama é uma das mais lindas provas de amor! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Amor')\n" +
+                ", ('Quando eu notei já era amor eu não imaginava … \uD83D\uDE33\uD83D\uDE01 (Jorge e Mateus)','Loading...','Frases de Amor')\n" +
+                ", ('Eu tenho tanto pra lhe falar, mas com palavras não sei dizer, como é grande o meu amor por você! ❤❤❤','Loading...','Frases de Amor')\n" +
+                ", ('O verdadeiro amor nunca se desgasta, quando mais se dá, mas se tem! \uD83D\uDC93','Loading...','Frases de Amor')\n" +
+                ", ('Assim como viver sem ter amor não é viver, Não há você sem mim e eu não existo sem você! \uD83D\uDC49\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Amor é querer estar e mesmo nas dificuldades não ir embora, porque amor é assim, é conforto, é segurança! \uD83D\uDE09\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Existem pessoas no mundo que você simplesmente pode amar e amar e amar, não importa o que aconteça! \uD83D\uDC9A\uD83D\uDC9C\uD83D\uDC99','Loading...','Frases de Amor')\n" +
+                ", ('O amor que existe dentro de mim, tem a medida certa que o seu coração precisa! \uD83D\uDC4C\uD83D\uDC49\uD83D\uDC98','Loading...','Frases de Amor')\n" +
+                ", ('Amor é uma palavra que significa muito, mas nem metade do que eu sinto por você! \uD83D\uDC49\uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Amar você é crer em Deus, pois Deus é amor. E você é tudo que um dia eu pedi pra mim! \uD83D\uDE4F❤','Loading...','Frases de Amor')\n" +
+                ", ('Amar é ter o universo e querer apenas uma pessoa: Você! \uD83D\uDC49','Loading...','Frases de Amor')\n" +
+                ", ('Meu riso é tão feliz contigo, O meu melhor amigo é o meu amor! \uD83D\uDE0A\uD83D\uDE04\uD83D\uDE1A','Loading...','Frases de Amor')\n" +
+                ", ('Quando se ama não é preciso entender o que se passa lá fora, pois tudo passa a acontecer dentro de nós! \uD83D\uDC98','Loading...','Frases de Amor')\n" +
+                ", ('Te amei no passado, te amo no presente, Se o futuro permitir, Te amarei eternamente! \uD83D\uDC97\uD83D\uDC93\uD83D\uDC95','Loading...','Frases de Amor')\n" +
+                ", ('Hoje eu te amo mais do que ontem e muito menos que amanhã!  \uD83D\uDC4C\uD83D\uDC4C\uD83D\uDE3B','Loading...','Frases de Amor')\n" +
+                ", ('Eu te amo assim sem virgulas, sem espaço e sem ponto final ❗️❗️','Loading...','Frases de Amor')\n" +
+                ", ('Amar de verdade não é gritar para o mundo inteiro ouvir, é fazer com que a outra pessoa se sinta, que de todo mundo, você só precisa dela! \uD83D\uDC49❤\uD83D\uDC97\uD83D\uDC93\uD83D\uDC95','Loading...','Frases de Amor')\n" +
+                ", ('Que todo o nosso amor só cresça…❤️\uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('A felicidade é uma palavra de dez letras. A minha resumi-se em quatro: você.','Loading...','Frases de Amor')\n" +
+                ", ('São raras as pessoas que despertam em mim esse medo louco de perdê-las.','Loading...','Frases de Amor')\n" +
+                ", ('Meu ponto fraco tem nome, endereço e um sorriso lindo.','Loading...','Frases de Amor')\n" +
+                ", ('Sabe quando você quer que um momento dure para sempre? Então, é assim quando estou com você.','Loading...','Frases de Amor')\n" +
+                ", ('Nunca é tarde, nunca é demais; Onde estou, onde estás; Meu amor vem me buscar. ','Loading...','Frases de Amor')\n" +
+                ", ('Um momento não é tudo… Mas você é tudo em um só momento.','Loading...','Frases de Amor')\n" +
+                ", ('Se te faz sorrir, é porque te faz bem. Se te faz bem, não deixe escapar.','Loading...','Frases de Amor')\n" +
+                ", ('Não importa se somos diferentes, de qualquer forma você me completa.','Loading...','Frases de Amor')\n" +
+                ", ('O primeiro sorriso do meu dia aparece quando abro os olhos e me lembro de você. Bom dia, meu amor!','Loading...','Frases de Amor')\n" +
+                ", ('Minha vida sem você seria uma história sem qualquer sentido.','Loading...','Frases de Amor')\n" +
+                ", ('O amor só é lindo, quando encontramos alguém que nos transforme no melhor que podemos ser.','Loading...','Frases de Amor')\n" +
+                ", ('Nada como um grande amor para esquecer os momentos difíceis da vida!','Loading...','Frases de Amor')\n" +
+                ", ('Meu maior sonho, é trazer você para minha realidade.','Loading...','Frases de Amor')\n" +
+                ", ('Não sei o que tu tem mas sei que amo você como nunca amei ninguém','Loading...','Frases de Amor')\n" +
+                ", ('Das coisas boas da minha vida, você certamente é a melhor!','Loading...','Frases de Amor')\n" +
+                ", ('Prova de amor foi quando ele disse: eu vou enfrentar o seu pai!','Loading...','Frases de Amor')\n" +
+                ", ('Quem ama não promete fazer você feliz. Ele faz sua felicidade acontecer todos os dias!','Loading...','Frases de Amor')\n" +
+                ", ('Você nem imagina quantos sorrisos eu já dei só de pensar em você.','Loading...','Frases de Amor')\n" +
+                ", ('Palavras são incapazes de expressar todo sentimento que tenho por você. Te amo muito.','Loading...','Frases de Amor')\n" +
+                ", ('O plano é bem simples: ficar com você a minha vida inteira.','Loading...','Frases de Amor')\n" +
+                ", ('Você não tem noção do vazio que você deixa quando você não está aqui…','Loading...','Frases de Amor')\n" +
+                ", ('Se eu pudesse escolher de novo, eu escolheria novamente você.','Loading...','Frases de Amor')\n" +
+                ", ('Nos seus braços eu encontro segurança contra todas as tempestades da vida.','Loading...','Frases de Amor')\n" +
+                ", ('Eu não fiz nada pra esse amor nascer,mas faço tudo pra não acabar.','Loading...','Frases de Amor')\n" +
+                ", ('Um dia alguém vai te abraçar tão apertado que todas suas peças quebradas irão se juntar novamente.','Loading...','Frases de Amor')\n" +
+                ", ('O tempo passa e o meu amor por você só aumenta a cada dia.','Loading...','Frases de Amor')\n" +
+                ", ('Distância não significa nada, Quando o Amor significa tudo.','Loading...','Frases de Amor')\n" +
+                ", ('Foi por acaso que você entrou na minha vida, mas peço que fique nela de propósito.','Loading...','Frases de Amor')\n" +
+                ", ('Só sofro com toda a força do mundo porque amo com a intensidade de um cometa.','Loading...','Frases de Amor')\n" +
+                ", ('Quando você ama alguém de verdade, não interessa o que pensam e o que dizem, o que interessa é o que você sente.','Loading...','Frases de Amor')\n" +
+                ", ('Não sei se o mundo é bom, mas ele ficou muito melhor quando você chegou.','Loading...','Frases de Amor')\n" +
+                ", ('Importante não foi o dia que te conheci, mas o momento em que você passou a viver dentro de mim.','Loading...','Frases de Amor')\n" +
+                ", ('Uma boa relação é quando alguém aceita seu passado, apoia seu presente e motiva seu futuro.','Loading...','Frases de Amor')\n" +
+                ", ('A força desse amor, Não dá pra ser medida, Amar como eu te amo, Só uma vez na vida!','Loading...','Frases de Amor')\n" +
+                ", ('A melhor sensação é quando você olha para aquela pessoa, e ela já está olhando para você.','Loading...','Frases de Amor')\n" +
+                ", ('O verdadeiro amor nunca se desgasta, quando mais se dá, mas se tem!','Loading...','Frases de Amor')\n" +
+                ", ('Você sabe qual é o motivo do meu sorriso todos os dias? A primeira palavra dessa frase.','Loading...','Frases de Amor')\n" +
+                ", ('Eu não preciso de mil motivos para sorrir, você já é o suficiente.','Loading...','Frases de Amor')\n" +
+                ", ('Tudo o que eu precisava encontrei em você!','Loading...','Frases de Amor')\n" +
+                ", ('Amor é uma palavra que significa muito, mas nem metade do que eu sinto por você.','Loading...','Frases de Amor')\n" +
+                ", ('Quando a felicidade de alguém é a sua felicidade, isso é amor.','Loading...','Frases de Amor')\n" +
+                ", ('Mesmo que o ouro perca o seu valor, mesmo que o sol deixe de brilhar, por toda vida eu vou te amar.','Loading...','Frases de Amor')\n" +
+                ", ('Se a tua vida depender do meu amor, viverás além da vida, pois lhe amo além do amor.','Loading...','Frases de Amor')\n" +
+                ", ('A alegria de saber que você existe faz-me forte para suportar a tristeza de sua ausência. Eu amo você!','Loading...','Frases de Amor')\n" +
+                ", ('Só tem uma coisa no mundo mais bonita que você. Nós.','Loading...','Frases de Amor')\n" +
+                ", ('E era amor. Desde o jeito de olhar, até as palavras não ditas ❤️\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('O amor é ir ao céu e voltar sem sequer sair do lugar ❤️❤️','Loading...','Frases de Amor')\n" +
+                ", ('Sei que o acaso fez de nós um caso de amor \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Eu amo o seu sorriso, e seu jeito de falar, eu amo quando você me olha e dou risada sem pensar \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Amar se aprende amando \uD83D\uDE09❤️','Loading...','Frases de Amor')\n" +
+                ", ('Seu amor trouxe significado à minha existência ❤️\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Só o amor enche a vida de sentido ❤️❤️','Loading...','Frases de Amor')\n" +
+                ", ('Eu prometo te dizer eu te amo todas as noites e te provar isso todos os dias \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('O amor não começa na palavra, o amor começa no olhar \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('O amor não pode ser ensinado, mas deve ser dado ❤️\uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('Largaria o mundo para segurar a sua mão \uD83D\uDE3B\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Mas quando se vale a pena o amor supera ✌️❤️\\n(Jorge e Mateus)','Loading...','Frases de Amor')\n" +
+                ", ('A força desse amor não dá pra ser medida \uD83D\uDC4A❤️','Loading...','Frases de Amor')\n" +
+                ", ('Ao menor sinal de amor, retribua \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Quando o amor for a sua maior fraqueza você será a pessoa mais forte do mundo \uD83D\uDC4A\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Ame muito, cada vez mais, de modos diferentes \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('E dos perfumes mais raros, eu escolheria teu cheiro \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Tudo o que eu precisava encontrei em você \uD83D\uDE3B\uD83D\uDE3B','Loading...','Frases de Amor')\n" +
+                ", ('Que as declarações sejam diárias e o amor seja constante ❤️\uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('Você pode até tentar, mas não dá pra esconder o amor ❤️\uD83D\uDE0E','Loading...','Frases de Amor')\n" +
+                ", ('Meu sorriso é seu,meu coração é seu e meu amor é todo seu \uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('I love you more than all the stars ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('(Eu te amo mais que todas as estrelas)','Loading...','Frases de Amor')\n" +
+                ", ('Entre mil outros, você. Entre mil sorrisos, o seu. Entre mil amores, o nosso \uD83D\uDC6B\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Eu te amo de todas as maneiras que posso ❤️❤️','Loading...','Frases de Amor')\n" +
+                ", ('Ama meu sorriso, eu amo seu olhar…\uD83D\uDE3B\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Seu sorriso contagia. Tem amor dentro do coração ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Com você ao meu lado, qualquer céu é estrelado \uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Amor é uma palavra que significa muito, mas nem metade do que eu sinto por você \uD83D\uDE18❤️','Loading...','Frases de Amor')\n" +
+                ", ('Que apesar de tudo eu ainda prefiro você \uD83D\uDC6B\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Amor é cuidado, amor é carinho, amor também é amizade \uD83D\uDC6B❤️','Loading...','Frases de Amor')\n" +
+                ", ('Eu te amo, assim sem vírgulas, sem espaço e sem ponto final ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('O verdadeiro amor nunca se desgasta. Quanto mais se dá, mais se tem ❤️\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Apaixone-se todos os dias pela mesma pessoa\uD83D\uDE3B\uD83D\uDE3B','Loading...','Frases de Amor')\n" +
+                ", ('As mais lindas palavras de amor são ditas no silêncio de um olhar \uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Amor é quando você tem todos os motivos para desistir de alguém, e não desiste \uD83D\uDC4A❤️','Loading...','Frases de Amor')\n" +
+                ", ('Eu queria ter 10 vidas, pra 10 vezes eu te amar ❤️❤️\\n(Projota)','Loading...','Frases de Amor')\n" +
+                ", ('Te ganhei, me ganhou, veio pra ficar e ficou \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('O coração dispara, tropeça, quase para, me encaixo no teu cheiro e ali me vejo inteiro \uD83D\uDC4F\uD83D\uDE3B\\n(Thiago Iorc)','Loading...','Frases de Amor')\n" +
+                ", ('A melhor versão de mim é quando estou com você \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('O nosso santo bateu, o amor da sua vida sou eu \uD83D\uDC6B❤️\\n(Mateus e Kauan)','Loading...','Frases de Amor')\n" +
+                ", ('E ao seu lado conheci a felicidade \uD83D\uDC8F\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Amar como eu te amo, Só uma vez na vida \uD83D\uDE3B\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Que preenche a vida vazia, mande embora a agonia. E que traga paz pro coração…❤️\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Cuida bem do meu coração, pois ele pertence a você \uD83D\uDC49❤️','Loading...','Frases de Amor')\n" +
+                ", ('Não quero apenas te ver bem, eu quero ser a pessoa que vai te deixar bem \uD83D\uDE18\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('O amor não precisa ser perfeito, ele precisa ser de verdade ❤️✌️','Loading...','Frases de Amor')\n" +
+                ", ('Amar é uma decisão. E eu decidi te amar ❤️\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Vim cuidar de você, te proteger, te fazer feliz…\uD83D\uDE0A\uD83D\uDE09','Loading...','Frases de Amor')\n" +
+                ", ('É amor demais, que chegou na hora certa e me trouxe paz ❤️\uD83D\uDE18','Loading...','Frases de Amor')\n" +
+                ", ('Que meu pra sempre seja com você \uD83D\uDC4F\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('E se eu falar que você é tudo que eu sempre quis pra ser feliz? \uD83D\uDC49\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Meu bem, eu torço tanto pelo nosso amor \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Amor');";
+        return frase;
     }
+    public static String carregarFrases11() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Feliz aniversário!! Que Deus esteja sempre em seu caminho abençoando sua vida todos os dias e te lembrando que existem pessoas,que se importam muito com a sua felicidade\uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns! Que seu dia seja recheado de boas surpresas e que Deus ilumine seus caminhos. Feliz aniversário! \uD83D\uDE4F\uD83D\uDE18\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Desejo a você uma vida maravilhosa com muita Saúde, Proteção e Paz no seu coração! ❤️\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Que neste dia especial, Deus com todo o seu amor, inunde sua vida de bençãos! Feliz aniversário! \uD83D\uDC46\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns pelo seu dia, que ele seja repleto de alegrias! Deus te abençoe ricamente! Muitas felicidades e muitos anos de vida. \uD83D\uDC4F\uD83D\uDE09\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Comemore a maravilha de ser você! Festeje… É o seu aniversário… Parabéns!\uD83D\uDE18\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Neste dia especial, eu desejo que você tenha saúde, sucesso e que esta data se repita por muitos anos!\uD83D\uDE09\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz Aniversário! Que sua vida seja uma soma de bençãos. \uD83D\uDE4F\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns meu querido irmão,\uD83D\uDE0A que Deus te abençoe muitoooo! TE AMO \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('“Te desejo tantas e tantas coisas boas, que expressar através de simples palavras fica até difícil, Então felicidades!! \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('É seu aniversário tomara que chova… presentes, alegrias, felicidades, amizades e muitas realizações. Parabéns! \uD83C\uDF81\uD83D\uDE1A','Loading...','Frases de Aniversario')\n" +
+                ", ('Que os anjos acampem sempre ao seu redor, iluminando sua vida. Parabéns e muitos anos de saúde, felicidade e fé. \uD83D\uDE07\uD83D\uDE0A\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Que Deus sempre esteja ao seu lado e que você também sempre esteja ao lado de Deus. Parabéns!! \uD83D\uDC46\uD83D\uDE4F\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus te abençoe no seu aniversário e inunde a sua casa com felicidade e alegria. Parabéns! \uD83D\uDE00\uD83D\uDE4F\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Que Deus, em sua infinita bondade, lhe dê tudo de bom que você merece. Que você tenha muita alegria, paz, saúde e felicidade. Parabéns! \uD83D\uDE4C\uD83D\uDE1A\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Que o Senhor te abençoe mais e mais a cada ano que passa! Parabéns!\uD83D\uDE4F\uD83C\uDF81 ','Loading...','Frases de Aniversario')\n" +
+                ", ('Todos os grandes desejos começam no coração. E de coração eu te desejo: Feliz Aniversário! ❤️\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Peço que o Senhor Deus ilumine mais essa fase da sua vida e que você siga em seu caminho com fé. Parabéns!! \uD83D\uDE4F\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Peço a Deus neste seu dia tão especial que Ele te abençoe e proteja por todos os dias de sua vida, com muita Paz e Saúde. \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Agradeço a Deus pela tua vida, pelas tuas conquistas e pelas vitórias que irás conseguir e te desejo felicidade sempre!  \uD83D\uDE4F\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Que você seja sempre alegre e sorridente, pois é assim que eu gosto de te ver. Parabéns! \uD83D\uDE04\uD83D\uDE1A\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns pelo seu dia. Parabéns pelo seu aniversário e que Deus te dê muita paz e muitas felicidades. \uD83D\uDC46\uD83D\uDE0A\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Hoje é o dia de comemorarmos a vinda de um anjo aqui na Terra e agradecer a Deus por esse anjo fazer parte de nossas vidas. \uD83D\uDE07\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns a ti! Deus te cubra de bençãos e te faça feliz!! \uD83C\uDF89\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Os seus melhores dias estão à sua frente. Feliz aniversário! \uD83C\uDF82\uD83D\uDC4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Desejo que o Criador das maravilhas caminhe a todo instante lado a lado com você. Feliz aniversário! \uD83C\uDF89\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz Aniversário! Que sua vida seja uma soma de bençãos e de vitórias. Parabéns!! \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Hoje a estrela é você! Que o show de sua vida dure para sempre. Feliz aniversário! \uD83C\uDF89\uD83D\uDE1A','Loading...','Frases de Aniversario')\n" +
+                ", ('Todo dia é uma nova oportunidade que a vida oferece a quem nela crê. Aproveite o seu dia. Feliz Aniversário! \uD83C\uDF81\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus te abençoe grandemente e glorifique as suas escolhas.\uD83D\uDC46\uD83D\uDE0A\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga! com certeza sua existência faz minha vida mais feliz…\uD83D\uDE0A\\nPor isso pra você quero o melhor, felicidade, amor, paz, saúde e muito juízo! \uD83D\uDC4F❤️\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga! Espero que o seu aniversário seja incrível,\\nmaravilhoso, cheio de amor e riso… exatamente como você! \uD83D\uDE09\uD83D\uDC49❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Felicidades amiga!! \uD83D\uDC4F\uD83D\uDE04\\nQue Deus te conceda a graça de realizar seus sonhos, e que tenha muitos anos de vida! \uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('A minha alegria é ver a sua alegria, por isso amiga,\\nquero que tenha todos os seus sonhos realizados e uma felicidade plena. Parabéns! \uD83D\uDC4F\uD83D\uDC4F\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns, anjo sem asas! \uD83D\uDE07\\nAgradeço a Deus todos os dias por ter conhecido você e por ter o privilégio de ser sua amiga. \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Adoro nossa amizade e nossa cumplicidade…\uD83D\uDE18❤️\\nDesejo que você hoje, receba muitas homenagens sinceras,\\nque o seu dia seja lindo!! Meus Parabéns! \uD83D\uDC4F\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga linda, hoje é o seu dia, um dia mais que especial e feliz, \uD83D\uDE04\uD83D\uDE0A\\nna vida de todo mundo que tem o prazer de conviver com você! Feliz Aniversário!  \uD83C\uDF82\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga! Hoje é um dia especial, pois é o seu aniversário…\\nDe ❤️ desejo sucesso na construção de seus sonhos e de sua felicidade tão merecida. Te amo e te admiro! parabéns!! \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Hoje o dia tem um brilho diferente e intenso, igual o seu amiga! Feliz aniversário! \uD83D\uDC4F\uD83C\uDF81\uD83D\uDE04','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga! Você não imagina como fiquei feliz ao lembrar que hoje é o seu aniversário.\\nSaiba que você é uma pessoa que admiro muito, alguém realmente especial! \uD83D\uDE04\uD83D\uDC4F\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns, minha amiga! Que o seu dia seja tão lindo quanto o seu sorriso, \uD83D\uDE0A\\ne lhe ofereça tanta felicidade quanto a sua amizade envia para a minha vida. \uD83D\uDE04\uD83D\uDC4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga, sua linda! Parabéns! Que a alegria te acompanhe por todos os momentos,\\ne que Deus continue guiando todos os seus passos! \uD83D\uDE4F\uD83D\uDE04\uD83D\uDC4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Quero que tenha um dia incrível, cheio de boas surpresas…\uD83D\uDE18\uD83D\uDC4F\\nVocê tem um ❤️ amoroso e generoso, minha amiga, capaz de valorizar a si mesma e aos outros. Parabéns!!','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga!! Felicidades mil e risos garantidos nesse dia…\uD83D\uDE04\uD83D\uDC4F\uD83D\uDE06\\nSó desejo as melhores coisas dessa vida, por que você merece o melhor. \uD83C\uDF82\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Que Deus abençoe você, minha amiga! Espero passar com você inúmeros aniversários,\\ne poder te vê cada dia mais feliz! \uD83D\uDC4F\uD83D\uDC4F\uD83D\uDE04❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Não tem como não lembrar dessa data, na qual já nos divertimos muito, juntas…\uD83D\uDC4F\uD83D\uDC4F\uD83C\uDF81\\nPor isso com muita alegria e carinho te desejo o melhor dia, felicidades, conquistas e muito amor hoje e sempre! ❤️\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Amiga! Tenha um dia iluminado e feliz!! \uD83D\uDC4F\uD83D\uDE04\\nDesejo a você um dia repleto de boas surpresas e muitas alegrias. \uD83C\uDF88\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns, amiga! Parabéns por completar mais um ano de vida,\\ne por ser uma amiga tão especial. \uD83C\uDF81\uD83C\uDF82❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Tenha um feliz aniversário! E que a vida lhe sorria sempre,\\nque você seja imensamente feliz. Te adoro!! \uD83D\uDE04\uD83D\uDC4F❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Você é muito especial e nossa amizade é imprescindível para mim!\\nUm feliz aniversário! Que Deus realize tudo que você almeja. \uD83C\uDF88\uD83C\uDF82\uD83D\uDE4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Adoro você, minha amiga, e desejo que tenha um dia lindo \uD83D\uDE0D\\ne uma vida onde sempre reinem a felicidade, a paz e o amor!  \uD83D\uDC4F❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns e feliz aniversário, amiga! \uD83D\uDC4F\uD83C\uDF81\\nQue este seja um dia muito alegre pra você , que a felicidade e o amor\\nNunca abandonem o seu caminho. Te amo! ❤️\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Vou me dar de \uD83C\uDF81 a você nessa data repleta de felicidade e regada pelo seu perfume.\\nFeliz aniversário amor! Te amo muito!  \uD83D\uDC4F\uD83C\uDF88❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Vim te desejar um dia inesquecível, para entender o quanto você é especial,\\ne que neste mundo, jamais haverá alguém como você! Parabéns, meu amor! \uD83D\uDC4F\uD83D\uDE0D❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Suas emoções também são minhas. Por isso, amor te desejo toda felicidade do mundo, nesse dia! \uD83D\uDE04\uD83D\uDC4F❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Te amo muito e quero neste dia tão especial, te desejar todos os votos de felicidade,\\namor, carinho e tudo de melhor que possa existir…Parabéns! Amor! \uD83D\uDC4F\uD83D\uDE0D\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário, amor! Que Deus de a você longa vida para amar… ❤️\\nque a felicidade seja sempre teu eterno guia \uD83D\uDE04\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Meu amor, hoje é seu dia! \uD83D\uDE0D\\nDesejo a você a mesma felicidade, que almejo pra mim. Parabéns! \uD83D\uDC4F\uD83C\uDF81\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Te amo muito e te desejo somente as coisas ❤️\\nmaravilhosas que existem no mundo.\\nParabéns Meu Amor! \uD83C\uDF88\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Amor! Hoje, no dia do seu aniversário, quero agradecer a dádiva do seu amor ❤️\\ne lhe dizer o quanto sou feliz ao seu lado.\\nParabéns e Feliz Aniversário! Te amo! \uD83D\uDC4F\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns, meu amor! Espero que este dia seja tão maravilhoso\\ncomo tem sido estar ao seu lado. Te amo! ❤️\uD83D\uDC4F\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns pelo seu aniversário, meu amor.\\nTe amo demais! \uD83D\uDC4F\uD83D\uDC4F\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Meu amor! Mais um ano se passa em tua vida, contudo,\\ntenho a impressão que o tempo não passou para nós dois. Feliz aniversário! ❤️\uD83C\uDF81\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário meu amor…Seja feliz no dia de hoje.\\nSinta-se o mais importante do mundo. Por que hoje é seu dia! \uD83D\uDE0D❤️\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns amor! Felicidades pelo seu aniversário! \uD83D\uDC4F\uD83C\uDF81\\nQue os seus sonhos e desejos possam tornar-se realidade, principalmente se eu fizer parte dele. \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário meu amor! Eu te amo com todas as forças do meu ser, de maneira suave,\\nmas principalmente de maneira plena, pois você me completa. ❤️\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário amor! Hoje quero estar com você bem juntinho…\\nCom você passar este dia bem feliz. Te amo! ❤️\uD83D\uDE0D\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário meu amor, espero que você esteja muito feliz.\\nMuitas alegrias! te completem nesse dia especial. Te amo! \uD83D\uDE04\uD83D\uDC4F❤️','Loading...','Frases de Aniversario')\n" +
+                ", ('Felicidades! \uD83C\uDF88 Esse é um momento vitorioso, que representa mais uma etapa de sua vida, onde a saúde, conquistas, felicidade e todas as bênçãos do universo fazem parte! Feliz Aniversário! \uD83D\uDC4F\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Que datas especiais como estas possam se repetir por longos anos em tua vida, e que sejam sempre marcados por muitas paz e felicidade! Feliz Aniversário!\uD83C\uDF81\uD83C\uDF89\uD83C\uDF82\uD83C\uDF8A','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus te envie muitos presentes nesta data… Saúde, paz, alegria, prosperidade, amor, e uma infinidade de coisas boas. Você merece!\uD83C\uDF81\uD83C\uDF89\uD83C\uDF82\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Hoje é um dia muito especial, você comemora mais um ano de vida, de jornada! É muito Bom poder estar aqui e comemorar, pois, são pessoas como você, que fazem a minha vida mais feliz! Feliz aniversário!\uD83C\uDF88\uD83C\uDF89\uD83C\uDF82\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz Aniversário! Que sua vida seja constantemente presenteada com bons e felizes momentos. Parabéns!\uD83C\uDF88\uD83C\uDF81\uD83C\uDF89\uD83C\uDF82\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Pessoas maravilhosas como você, merecem muita alegria, muita paz e muito amor! Que Deus continue te iluminando sempre! Feliz Aniversário!\uD83C\uDF88\uD83C\uDF81\uD83C\uDF89\uD83C\uDF8A\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Que todo bem e todo sucesso possam acompanhar sua evolução e suas vitórias! Parabéns pelo seu aniversário! \uD83D\uDE18\uD83C\uDF81\uD83C\uDF8A\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Fazer Aniversário é amadurecer um pouco mais e olhar a vida como uma dádiva de Deus. É ser grato, reconhecido, forte, destemido. Parabéns a você nesse dia tão grandioso! \uD83C\uDF81\uD83C\uDF88\uD83C\uDF89\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Que sua vida seja o caminho do amor! \uD83D\uDC97 Só ele é capaz de mostrar o verdadeiro sentido da vida, por isso olhe com o sorriso mais esse ano que passou, agradeça a Deus cada segundo vivido e que os próximos sejam de luz! \uD83C\uDF81\uD83C\uDF80\uD83C\uDF89\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus te abençoe no seu aniversário e inunde a sua casa com felicidade e alegria. Parabéns! \uD83C\uDF89\uD83C\uDF88\uD83C\uDF80\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz Aniversário! Espero que a cada ano, você adquira novas forças e que continue firme e vencendo sempre. Deus está do seu lado e terá sempre uma bênção para te oferecer!\uD83C\uDF81\uD83C\uDF82\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Que o brilho de tua vida busque no céu a essência da luz da vitória para espalhar em teu caminho otimismo, esperança, compreensão, coragem e que tenha determinação para continuar a vencer. Feliz aniversário!\uD83C\uDF80\uD83C\uDF81\uD83C\uDF88\uD83D\uDE0A\uD83D\uDE18\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Que Deus esteja contigo e te abençoe, que não conheças nada além da felicidade! Que Deus te conceda muitos anos de vida! Feliz Aniversário!\uD83C\uDF80\uD83C\uDF81\uD83C\uDF88\uD83C\uDF89\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Sorrisos, gargalhadas, alegria e felicidade… Desejo que o seu dia seja repleto destes ingredientes. Você merece tudo isso e muito mais! Feliz aniversário!\uD83C\uDF80\uD83C\uDF81\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz Aniversario… Que todos os olhares voltem para ti neste dia tão especial, e que os abraços a ti ofertados sejam sinceros e harmoniosos; Parabéns pelo seu aniversario!!\uD83C\uDF89\uD83C\uDF82\uD83C\uDF88\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Que a esperança, a alegria de viver, a paz e a saúde sejam dádivas renovadas em sua vida hoje e que se estendam por todo o ano. Feliz Aniversário!\uD83C\uDF89\uD83C\uDF82\uD83C\uDF81\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns por esse dia tão especial, muita alegria, paz e harmonia. Que todos os seus desejos se realizem, pois você merece. Feliz aniversário!\uD83C\uDF89\uD83C\uDF82\uD83C\uDF81\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Hoje não é um dia qualquer. Hoje é um dia muito especial. Você está completando mais um ano de vida e estou muito feliz de celebrar essa data com você. Feliz aniversário! \uD83C\uDF81\uD83C\uDF82\uD83D\uDE18\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus te envie muitos presentes nesta data… Saúde, paz, alegria, prosperidade, amor, e uma infinidade de coisas boas. Você merece! \uD83C\uDF81\uD83C\uDF82\uD83C\uDF88\uD83C\uDF80\uD83C\uDF81\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Que Deus esteja contigo e te abençoe, que não conheças nada além da felicidade! Que Deus te conceda muitos anos de vida! Feliz Aniversário!\uD83C\uDF81\uD83C\uDF82\uD83C\uDF88\uD83C\uDF80\uD83C\uDF81\uD83C\uDF89\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus te abençoe no seu aniversário e inunde a sua casa com felicidade e alegria. Parabéns! \uD83C\uDF80\uD83C\uDF88\uD83C\uDF89\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Todos os grandes desejos começam no coração. E de coração eu te desejo: Feliz Aniversário! \uD83C\uDF81\uD83C\uDF89\uD83C\uDF82\uD83D\uDE18','Loading...','Frases de Aniversario')\n" +
+                ", ('Feliz aniversário! Que Deus em sua infinita bondade lhe dê tudo de bom. Parabéns! \uD83C\uDF81\uD83C\uDF89\uD83C\uDF82\uD83C\uDF88\uD83C\uDF80','Loading...','Frases de Aniversario')\n" +
+                ", ('Te desejo um grande dia!! Agradeço a Deus por existir pessoas como você, e por fazer uma delas minha amiga!! Parabéns!\uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Aniversario')\n" +
+                ", ('Minha vida tem mais graça e sentido porque você está nela. A sua amizade e carinho são fundamentais à minha felicidade. Você é especial, maravilhosa, linda e única. Você é uma mulher completa que eu admiro muito,Parabéns, e seja muito feliz!\uD83C\uDF81\uD83C\uDF80\uD83C\uDF89\uD83C\uDF82','Loading...','Frases de Aniversario')\n" +
+                ", ('Obrigado por ser uma pessoa com quem posso sempre conversar, meditar, refletir e compartilhar minha vida, Felicidades! \uD83D\uDE09\uD83D\uDC4F\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Desejo para você toda a felicidade do mundo que Deus te ilumine sempre, guie seus passos e de muita forca para que você possa lutar pelos seus objetivos! Feliz Aniversario! \uD83D\uDC4F\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Te desejo todas as alegrias desse mundo, amiga! Que o destino se encarregue de nunca te tirar da minha vida! \uD83D\uDE03\uD83D\uDE0A\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Minha Amiga Querida! \uD83D\uDC97 Que Deus ilumine sua vida com muita alegria, muita força e muita prosperidade! Que sejam derramadas muitas bençãos! Felicidades, paz e saúde! Parabéns! \uD83C\uDF88\uD83C\uDF88','Loading...','Frases de Aniversario')\n" +
+                ", ('Parabéns Amigo! Hoje é o seu aniversário e quero lhe desejar todas as alegrias dessa vida porque você é uma pessoa especial com quem me sinto bem em estar todos os dias! Felicidades!\uD83D\uDE42\uD83C\uDF89\uD83C\uDF89','Loading...','Frases de Aniversario')\n" +
+                ", ('Como não dar graças a Deus por um dia como hoje? Ele nos deu o presente mais precioso que temos!Feliz aniversário e muitas bênçãos para você!\uD83D\uDE4F\uD83D\uDC4F\uD83C\uDF81','Loading...','Frases de Aniversario')\n" +
+                ", ('Hoje celebramos mais um ano de amor, mas ainda são poucos, pois ao seu lado quero a eternidade.\\nFeliz aniversário de namoro, te amo ❤️\uD83D\uDE0D','Loading...','Aniversario de Namoro')\n" +
+                ", ('Hoje estamos de parabéns, meu amor, você, eu, nós, nosso namoro.Parabéns \uD83D\uDC4F❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('Quero estar sempre na sua história e fazer você muito feliz. Parabéns para nós ❤️\uD83D\uDC4F','Loading...','Aniversario de Namoro')\n" +
+                ", ('Desejo que o Senhor nos ilumine e nos conceda a bênção de continuarmos juntos e principalmente unidos e felizes \uD83D\uDE4F\uD83D\uDE09','Loading...','Aniversario de Namoro')\n" +
+                ", ('Vamos ficar juntos por muitos mais anos e compartilhar os melhores momentos da nossa vida. Te amo ❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('Você é muito especial e já faz parte da minha vida. Juntos por muitos mais dias, meses e anos. Te amo muito ❤️\uD83D\uDE0D','Loading...','Aniversario de Namoro')\n" +
+                ", ('Feliz aniversário, meu amor! Te amo muito mais do que quando te conheci.\\nObrigada por fazer eu me sentir assim, tão feliz \uD83D\uDE0A\uD83D\uDE04','Loading...','Aniversario de Namoro')\n" +
+                ", ('Que tudo seja a dois para sempre.Feliz aniversário! Te amo \uD83D\uDE0A❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('Aniversário de quem caminha junto tentando ancorar no presente a possível harmonia do futuro. Te amo \uD83D\uDE0D❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('E o meu coração está batendo mais forte. Agradecendo a sua existência ❤️\uD83D\uDE0A','Loading...','Aniversario de Namoro')\n" +
+                ", ('Você é o meu sonho realizado, aquele que posso viver todos os dias depois que acordo, e dormindo também \uD83D\uDC4F\uD83D\uDE18','Loading...','Aniversario de Namoro')\n" +
+                ", ('E quem diria, ainda ontem nos conhecemos e nem esperávamos esse romance tão maravilhoso.\\nMeu amor, feliz aniversário de namoro ❤️\uD83D\uDE18','Loading...','Aniversario de Namoro')\n" +
+                ", ('E esse amor que nos liga é um forte alicerce para que tudo continue rumo a eternidade \uD83D\uDE18\uD83D\uDE1A','Loading...','Aniversario de Namoro')\n" +
+                ", ('Na vida precisamos contar com o apoio daquela pessoa que escolhemos para partilhar de todos os nossos momentos \uD83D\uDC4F\uD83D\uDE0A','Loading...','Aniversario de Namoro')\n" +
+                ", ('É que o amor nem sempre é arco-íris ou dia de sol, por vezes a satisfação tem de ser conquistada.\\nDesejo que esse novo ano seja tão poderoso quanto o que passou. Obrigada por me fazer sentir tão realizada! Te amo ❤️\uD83D\uDE1A','Loading...','Aniversario de Namoro')\n" +
+                ", ('Feliz primeiro aniversário de namoro, meu amor!! \uD83D\uDE0A\uD83D\uDE0D','Loading...','Aniversario de Namoro')\n" +
+                ", ('Foram, sem dúvida, os melhores 365 dias da minha vida. Temos muitos motivos para comemorar \uD83D\uDE0A\uD83D\uDE0D','Loading...','Aniversario de Namoro')\n" +
+                ", ('Parabéns para nós, meu amor! Passaram três anos desde que iniciamos a maior aventura das nossas vidas.\\nJamais imaginaria que nosso namoro me realizasse tanto assim \uD83D\uDE0D\uD83D\uDE0A','Loading...','Aniversario de Namoro')\n" +
+                ", ('Amo você, amo nós dois e tudo que vivemos juntos.\\nMas sonho com muito mais, mais vida, mais conquistas, mais tudo ao seu lado. Parabéns a nós, amor \uD83D\uDE18\uD83D\uDE0A','Loading...','Aniversario de Namoro')\n" +
+                ", ('Feliz Aniversário para nós, meu amor! Hoje estamos de parabéns.\\nEstamos celebrando mais um ano de nosso namoro! Que dia feliz ❤️\uD83D\uDC4F','Loading...','Aniversario de Namoro')\n" +
+                ", ('Eu te amo! Feliz aniversário de namoro!! ❤️\uD83D\uDE09','Loading...','Aniversario de Namoro')\n" +
+                ", ('Eu vim acabar com essa sua vidinha de balada','Loading...','Aniversario de Namoro')\n" +
+                ", ('Meu amor, meu namorado, paixão da minha vida, hoje se completa meio ano do nosso namoro. Parabéns a nós \uD83D\uDC4F\uD83D\uDE18','Loading...','Aniversario de Namoro')\n" +
+                ", ('Meu amor, hoje estamos de parabéns, pois nosso amor triunfou! Feliz aniversário de um ano de namoro\uD83D\uDE0D❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('Eu amo você, e hoje quero celebrar ao seu lado o dia em que nossas vidas se juntaram, e espero que assim continuemos para sempre \uD83D\uDC4F\uD83D\uDE0A','Loading...','Aniversario de Namoro')\n" +
+                ", ('Que o amor que nos une e a paixão que nos atrai continuem presentes na nossa relação.Parabéns! Te amo \uD83D\uDC4F\uD83D\uDE0D','Loading...','Aniversario de Namoro')\n" +
+                ", ('Meu amor, hoje se completam dois anos de encantamento e mágica; parabéns a nós, por estes dois anos de namoro \uD83D\uDE09❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('Passados dois anos o meu coração bate ainda mais forte por você. Feliz aniversário de namoro, meu amor \uD83C\uDF80❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('Oito anos já se passaram desde o dia em que nossos corações se encontraram para começarem a bater juntos em harmonia. Hoje estamos de parabéns, meu amor \uD83D\uDE0D\uD83D\uDE18','Loading...','Aniversario de Namoro')\n" +
+                ", ('O amor não se mede pelo tempo ou outras bobagens, mas pela intensidade com que se sente.\\nE o nosso em apenas 3 meses já superou todas as minhas expetativas. Te amo ❤️','Loading...','Aniversario de Namoro')\n" +
+                ", ('E o meu amor… Esse foi reservado só pra você! \uD83D\uDC49\uD83D\uDE0D','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor não é viver felizes para sempre, isso é um conto de fadas. O amor é saber como enfrentar a vida juntos \uD83D\uDC4A\uD83D\uDC8F','Loading...','Frases Apaixonadas')\n" +
+                ", ('São poucas, mas ainda existem pessoas que valem a pena \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Eu só quero é ser feliz, com você e mais ninguém \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Enquanto houver motivos, eu juro, vou lutar por esse amor ❤️\uD83D\uDC4A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Como se fosse a primeira vez é assim que eu te amava todos os dias ❤️\uD83D\uDE0A','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor é uma viagem, valeu pela carona \uD83D\uDE09❤️\\n(Projota)','Loading...','Frases Apaixonadas')\n" +
+                ", ('Mas quando se vale a pena, o amor supera ❤️\uD83D\uDC4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Só pra constar nos registros por aí….O meu amor é seu! ❤️\uD83D\uDC49','Loading...','Frases Apaixonadas')\n" +
+                ", ('Seu sorriso contagia. Tem amor dentro do coração ❤️\uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amar, porque nada melhor para a saúde que um amor correspondido! \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('O significado da palavra amor, tem o seu nome. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('Eu me apaixonei por suas qualidades e defeitos. Não teve jeito! \uD83D\uDE0D','Loading...','Frases Apaixonadas')\n" +
+                ", ('Ela quer alguém pra amar da maneira certa ❤️\uD83D\uDE0A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amar não é olhar um para o outro, é olhar juntos na mesma direção \uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('Basta um verdadeiro amor para unir o que antes foi quebrado ❤️❤️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Já não me alcançam as palavras não Pra lhe explicar o que eu sinto \uD83D\uDE0A\uD83D\uDE18\\n(Mateus e Kauan)','Loading...','Frases Apaixonadas')\n" +
+                ", ('Que meu infinito seja ao seu lado \uD83D\uDC8F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Tem amor que nasceu para durar uma vida inteira, tipo o meu por você ❤️\uD83D\uDC4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Se faz sentir, faz sentido \uD83D\uDE09\uD83D\uDE09','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor é a força mais sutil do mundo ❤️❤️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Somos dois seres imperfeitos, mas que juntos fazem um amor perfeito \uD83D\uDE18❤️','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor pode te fazer imortal \uD83D\uDE0A❤️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Coração apaixonado só quer amor ❤️\uD83D\uDC8F','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor transcende todo entendimento ❤️\uD83D\uDC4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Ama e se entregar pro amor de corpo e alma \uD83D\uDC9E\uD83D\uDC9F\uD83D\uDC9D\uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('Não deixe que algumas mágoas impeça o mundo de ver o seu belo sorriso. \uD83D\uDE0C❤\uD83C\uDF0E','Loading...','Frases Apaixonadas')\n" +
+                ", ('Meu amor é somado, e nunca subtraido, sendo multiplicado e contigo dividido','Loading...','Frases Apaixonadas')\n" +
+                ", ('Se o dia estiver triste, e a noite querendo chover, são lágrimas dos meus olhos, chorando por não te ver.\uD83C\uDF07\uD83D\uDE33\uD83C\uDF87☔\uD83D\uDCA6\uD83D\uDC40\uD83C\uDFC3','Loading...','Frases Apaixonadas')\n" +
+                ", ('Deus não une pessoas, une propósitos ❤\uD83D\uDE4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amor é ter o céu e querer só uma estrela. É ter o mundo e querer apenas uma pessoa ⭐️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Eu te amo assim sem virgulas, sem aspas e sem ponto final ❗️❗️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Meu presente, meu futuro… Eu pretendo viver com você \uD83D\uDC49\uD83D\uDE04','Loading...','Frases Apaixonadas')\n" +
+                ", ('Que o amor não seja apenas uma ação, mas sim uma reação de sentimentos \uD83D\uDE18❤️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Não há um dia sequer, que eu não deseje estar ao seu lado \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases Apaixonadas')\n" +
+                ", ('A medida do amor é amar sem medida \uD83D\uDE18\uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('Te ganhei, me ganhou, Veio pra ficar e ficou \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Já era amor bem antes de ser ❤️\uD83D\uDE0A\\n(Henrique e Juliano)','Loading...','Frases Apaixonadas')\n" +
+                ", ('Sei que o acaso fez de nós um caso de amor \uD83D\uDC8F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Mais é que o amor meu caro faz a gente vê um arco-irís em céu nublado ❤️\uD83D\uDE18','Loading...','Frases Apaixonadas')\n" +
+                ", ('Isso é amor, tá rolando amor é o encontro de metades a rosa e o beija flor \uD83D\uDC4F\uD83D\uDE18\\n(Mateus e Kauan)','Loading...','Frases Apaixonadas')\n" +
+                ", ('O que o mundo vai dizer quando o amor vencer? ❤️\uD83D\uDC4A','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor se renova e fortalece no namoro do dia-a-dia. \uD83D\uDC8F\uD83D\uDC4A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Nada é pequeno no amor. Quem espera as grandes ocasiões para provar a sua ternura não sabe amar ❤️\uD83D\uDE0A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Na batalha da vida, nosso amor é o cessar-fogo \uD83D\uDE09','Loading...','Frases Apaixonadas')\n" +
+                ", ('Podemos brincar com nossos corpos, mas jamais com nossas emoções ❤️','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor é o maior e melhor sentimento que duas pessoas podem compartilhar ❤️\uD83D\uDC4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('A força desse amor, Não dá pra ser medida, Amar como eu te amo, Só uma vez na vida! ☝\uD83D\uDC98','Loading...','Frases Apaixonadas')\n" +
+                ", ('Orar por quem você ama é uma das mais lindas provas de amor! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Apaixonadas')\n" +
+                ", ('Quando eu notei já era amor eu não imaginava … \uD83D\uDE33\uD83D\uDE01 (Jorge e Mateus)','Loading...','Frases Apaixonadas')\n" +
+                ", ('Eu tenho tanto pra lhe falar, mas com palavras não sei dizer, como é grande o meu amor por você! ❤❤❤','Loading...','Frases Apaixonadas')\n" +
+                ", ('O verdadeiro amor nunca se desgasta, quando mais se dá, mas se tem! \uD83D\uDC93','Loading...','Frases Apaixonadas')\n" +
+                ", ('Assim como viver sem ter amor não é viver, Não há você sem mim e eu não existo sem você! \uD83D\uDC49\uD83D\uDE0A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amor é querer estar e mesmo nas dificuldades não ir embora, porque amor é assim, é conforto, é segurança! \uD83D\uDE09\uD83D\uDE0D','Loading...','Frases Apaixonadas')\n" +
+                ", ('Existem pessoas no mundo que você simplesmente pode amar e amar e amar, não importa o que aconteça! \uD83D\uDC9A\uD83D\uDC9C\uD83D\uDC99','Loading...','Frases Apaixonadas')\n" +
+                ", ('O amor que existe dentro de mim, tem a medida certa que o seu coração precisa! \uD83D\uDC4C\uD83D\uDC49\uD83D\uDC98','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amor é uma palavra que significa muito, mas nem metade do que eu sinto por você! \uD83D\uDC49\uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amar você é crer em Deus, pois Deus é amor. E você é tudo que um dia eu pedi pra mim! \uD83D\uDE4F❤','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amar é ter o universo e querer apenas uma pessoa: Você! \uD83D\uDC49','Loading...','Frases Apaixonadas')\n" +
+                ", ('Meu riso é tão feliz contigo, O meu melhor amigo é o meu amor! \uD83D\uDE0A\uD83D\uDE04\uD83D\uDE1A','Loading...','Frases Apaixonadas')\n" +
+                ", ('Quando se ama não é preciso entender o que se passa lá fora, pois tudo passa a acontecer dentro de nós! \uD83D\uDC98','Loading...','Frases Apaixonadas')\n" +
+                ", ('Te amei no passado, te amo no presente, Se o futuro permitir, Te amarei eternamente! \uD83D\uDC97\uD83D\uDC93\uD83D\uDC95','Loading...','Frases Apaixonadas')\n" +
+                ", ('Hoje eu te amo mais do que ontem e muito menos que amanhã!  \uD83D\uDC4C\uD83D\uDC4C\uD83D\uDE3B','Loading...','Frases Apaixonadas')\n" +
+                ", ('Eu te amo assim sem virgulas, sem espaço e sem ponto final ❗️❗️','Loading...','Frases Apaixonadas')\n" +
+                ", ('Amar de verdade não é gritar para o mundo inteiro ouvir, é fazer com que a outra pessoa se sinta, que de todo mundo, você só precisa dela! \uD83D\uDC49❤\uD83D\uDC97\uD83D\uDC93\uD83D\uDC95','Loading...','Frases Apaixonadas')\n" +
+                ", ('Que todo o nosso amor só cresça…❤️\uD83D\uDE09','Loading...','Frases Apaixonadas')\n" +
+                ", ('Quanto maior for a dificuldade, mais forte tem que ser sua determinação \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('A direção dos seus passos determina seu caráter; em frente é coragem, para trás é fraqueza✌️\uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Se a caminhada está difícil, é porque você está no caminho certo \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Apoio')\n" +
+                ", ('Se não puder fazer tudo, faça tudo que puder \uD83D\uDE18','Loading...','Frases Apoio')\n" +
+                ", ('Que Deus esteja sempre com você, mas acima de tudo, que você esteja sempre com Deus \uD83D\uDE4F','Loading...','Frases Apoio')\n" +
+                ", ('O que deixa a vida interessante é poder lutar para modificá-la e descobrir o quanto somos capazes\uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Pelo tamanho da sua luta, você já pode vê o tamanho da sua vitória Não desista \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Apoio')\n" +
+                ", ('Vai, vence; a glória só depende de você \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('Não há nada nessa vida que não sejamos capazes de conquistar, temos inteligência e quando queremos alguma coisa, nossa mente trabalha em nosso favor ✌️\uD83D\uDE18','Loading...','Frases Apoio')\n" +
+                ", ('Vai em busca dos teus sonhos, nada pode impedir seus passos quando você acredita em seu próprio potencial \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('A vida é um constante recomeço. Não se dê por derrotado e siga adiante. As pedras que hoje atrapalham sua caminhada amanhã enfeitarão a sua estrada \uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('As pessoas costumam dizer que a motivação não dura sempre. Bem, nem o efeito do banho, por isso recomenda-se diariamente \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Apoio')\n" +
+                ", ('Não tenha medo da mudança. Coisas boas se vão para que melhores possam vir✌️','Loading...','Frases Apoio')\n" +
+                ", ('Tente a sua sorte! A vida é feita de oportunidades. O homem que vai mais longe é quase sempre aquele que tem coragem de arriscar \uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Não desanime jamais, pois se deixar de lutar, certamente irá se arrepender por ter abandonado a batalha\uD83D\uDC4A✌️','Loading...','Frases Apoio')\n" +
+                ", ('Se você ficar parado, certamente nada vai mudar, por isso caminhe em busca de seus sonhos \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Quando enfrentamos tudo o que a vida coloca em nosso caminho sem desanimar, sabendo usar a inteligência, venceremos, sem dúvida \uD83D\uDE42\uD83D\uDC4F','Loading...','Frases Apoio')\n" +
+                ", ('Aqueles que não esperam a vida acontecer estão sempre em primeiro lugar na lista de vencedores\uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('Nenhum obstáculo é grande demais quando confiamos em Deus \uD83D\uDE4F','Loading...','Frases Apoio')\n" +
+                ", ('Homens fracos acreditam na sorte. Homens fortes acreditam em causa e efeito \uD83D\uDE42\uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Você desconhece sua verdadeira força, por isso lute para a descobrir \uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Não se desiluda com o mundo, se você nada faz para mudar sua vida. Lute \uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Se sua meta fica nessa direção, corra para ela com toda motivação \uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('Se o sonho ainda está vivo não há motivo para desistir \uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Se a vida não ficar mais fácil, trate de ficar mais forte \uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('Imagine uma nova história para sua vida e acredite nela \uD83D\uDC4A','Loading...','Frases Apoio')\n" +
+                ", ('Todo esforço tem a sua recompensa ✌️','Loading...','Frases Apoio')\n" +
+                ", ('Vida boa mesmo é ter seu amor por perto \uD83D\uDE0D\uD83D\uDC97','Loading...','Frases Apoio')\n" +
+                ", ('Tudo posso naquele que me fortalece','Loading...','Frases Apoio')\n" +
+                ", ('Não cruze os braços diante de uma dificuldade, pois o maior homem do mundo morreu de braços abertos!!\uD83D\uDC4F❤\uD83D\uDCAD\uD83C\uDF43','Loading...','Frases Apoio')\n" +
+                ", ('Use a força de seu braço para ajudar os que precisam de ajuda pra se levantar.','Loading...','Frases Apoio')\n" +
+                ", ('Te amei no passado, te amei no presente, e se o futuro permitir, te amarei eternamente','Loading...','Frases Apoio')\n" +
+                ", ('Nenhum troféu é ganho com preguiça; só o sacrifício e a determinação serão capazes de levar ao sucesso\uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Apoio')\n" +
+                ", ('Encare seus sacrifícios como passos dados rumo ao sucesso \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Apoio')\n" +
+                ", ('Deus é a esperança em meio a tempestade. \uD83D\uDC46\uD83D\uDE4F\\n(Jeremias 143:22)','Loading...','Frases de Deus ')\n" +
+                ", ('Em ti confiarei, na adversidade. \uD83D\uDE4F\uD83D\uDE0C\\n(Salmos 91:4)','Loading...','Frases de Deus ')\n" +
+                ", ('Felizes os que guardam os mandamentos de Deus e lhe obedecem de todo coração. ❤️\uD83D\uDC4F\\n(salmo 119:2)','Loading...','Frases de Deus ')\n" +
+                ", ('Tu orarás e ele te ouvirá. \uD83D\uDE4F\uD83D\uDC46\\n(jó 22:27)','Loading...','Frases de Deus ')\n" +
+                ", ('A paz de Deus que está além de toda compreensão, guardará seu coração. \uD83D\uDC4F\uD83D\uDC46\\n(Filipenses 4:7)','Loading...','Frases de Deus ')\n" +
+                ", ('Deus disse: de maneira alguma te deixarei, nunca, jamais te abandonarei. \uD83D\uDC46\uD83D\uDE4F\\n(Hebreus 13:5)','Loading...','Frases de Deus ')\n" +
+                ", ('O meu mandamento é este: amem uns aos outros como eu amo vocês. \uD83D\uDE4F❤️\\n(João 15:12)','Loading...','Frases de Deus ')\n" +
+                ", ('Obedecer é melhor que sacrificar. \uD83D\uDC4F\uD83D\uDC4F\\n(I Samuel 15:22)','Loading...','Frases de Deus ')\n" +
+                ", ('E Deus limpará dos seus olhos toda a lágrima. \uD83D\uDC46\uD83D\uDE22\\n(Apocalipse 21:4)','Loading...','Frases de Deus ')\n" +
+                ", ('Felizes são os que ouvem a palavra de Deus e a guardam! \uD83D\uDE4F\uD83D\uDC4F\\n(Lucas 11:28)','Loading...','Frases de Deus ')\n" +
+                ", ('O que é impossível para os homens é possível para Deus. \uD83D\uDC46\uD83D\uDE09  Lucas:18','Loading...','Frases de Deus ')\n" +
+                ", ('Tenham cuidado com a maneira como vocês vivem; que não seja como insensatos, mas como sábios .  \uD83D\uDE0CEfésios 5:15','Loading...','Frases de Deus ')\n" +
+                ", ('Pois o Senhor é quem dá sabedoria de sua boca procedem o conhecimento e o discernimento.  \uD83D\uDC46\uD83D\uDE09Provérbios 2:6','Loading...','Frases de Deus ')\n" +
+                ", ('Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus. \uD83D\uDE4CSalmo 20:7','Loading...','Frases de Deus ')\n" +
+                ", ('Não seja sábio aos seus próprios olhos; tema o Senhor e evite o mal. \uD83D\uDE4FProvérbios 3:7','Loading...','Frases de Deus ')\n" +
+                ", ('A boca do justo profere sabedoria, e a sua língua fala conforme a justiça. \uD83D\uDE42\uD83D\uDC4FSalmos 37:30','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. \uD83D\uDC4A\uD83D\uDE4F Salmo 46:1','Loading...','Frases de Deus ')\n" +
+                ", ('Os que confiam no Senhor serão como o monte de Sião, que não se abala, mas permanece para sempre. \uD83D\uDC4A\uD83D\uDC4F Salmo 125:1','Loading...','Frases de Deus ')\n" +
+                ", ('Esperei ansiosamente pelo Senhor e ele se inclinou para mim, e ouviu o meu clamor.\uD83D\uDE4FSalmo 40:1','Loading...','Frases de Deus ')\n" +
+                ", ('A minha alma espera somente em Deus; dele vem a minha salvação \uD83D\uDE4CSalmo 62:1','Loading...','Frases de Deus ')\n" +
+                ", ('Grandes coisas fez o Senhor por nós, por isso estamos alegres \uD83D\uDE00 Salmos 126:3','Loading...','Frases de Deus ')\n" +
+                ", ('Quão bom e quão suave é que os irmãos vivam em união  \uD83D\uDC4F Salmo 133:1','Loading...','Frases de Deus ')\n" +
+                ", ('Sobre tudo o que se deve guardar, guarda o teu coração, pois dele procedem as saídas da vida \uD83D\uDE4FProvérbios 4:23','Loading...','Frases de Deus ')\n" +
+                ", ('Conhecereis a verdade e a verdade vos libertará \uD83D\uDE4CJoão 8:32','Loading...','Frases de Deus ')\n" +
+                ", ('Portanto, que ninguém separe o que Deus uniu.\uD83D\uDC46❤️\\n(Mateus 19:5-6)','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é a minha salvação. Terei confiança e não temerei. \uD83D\uDC46\uD83D\uDC4F\\n(Isaías 12:2)','Loading...','Frases de Deus ')\n" +
+                ", ('Pois onde estiver o amor, ali estará também o nosso coração. \uD83D\uDC4F❤️\\n(Lucas 12:34)','Loading...','Frases de Deus ')\n" +
+                ", ('Desvia os meus olhos das coisas inúteis, faze-me viver no caminho que traçaste. \uD83D\uDE4C\\n(Salmos 119:37)','Loading...','Frases de Deus ')\n" +
+                ", ('Mulher virtuoso, quem a achará? O seu valor muito excede ao rubi. \uD83D\uDC4F\\n(Provérbios 31:10)','Loading...','Frases de Deus ')\n" +
+                ", ('O anjo no Senhor acampa-se ao redor dos que o temem e os livra. \uD83D\uDE07\uD83D\uDC46\\n(Salmos 84:7)','Loading...','Frases de Deus ')\n" +
+                ", ('Cria em mim ó Deus um coração puro, e renova em mim um espírito reto. \uD83D\uDC46\uD83D\uDE4C\\n(Salmos 91:10)','Loading...','Frases de Deus ')\n" +
+                ", ('A boca fala do que está cheio o coração. ❤️\\n(Mateus 12:34)','Loading...','Frases de Deus ')\n" +
+                ", ('Chegai-vos a Deus, e Ele se chegará a vós. \uD83D\uDE4F\uD83D\uDC46\\n(Tiago 4:8)','Loading...','Frases de Deus ')\n" +
+                ", ('Não amemos de palavras nem de língua, mas por ações e em verdade. ❤️\uD83D\uDE0C\\n(I João 3:18)','Loading...','Frases de Deus ')\n" +
+                ", ('A graça do Senhor Jesus seja com todos. \uD83D\uDC46\uD83D\uDC4F\\n(Apocalipse 22:21)','Loading...','Frases de Deus ')\n" +
+                ", ('O coração do homem planeja o seu caminho, mas o Senhor lhe dirige os passos. \uD83D\uDC46\uD83D\uDE0C\\n(Provérbios 16:9)','Loading...','Frases de Deus ')\n" +
+                ", ('Asseguro-lhes que aquele que crê tem a vida eterna. \uD83D\uDE4FJoão 6:47','Loading...','Frases de Deus ')\n" +
+                ", ('O mais importante para Deus é o que está no coração ❤️ Samuel 16:7','Loading...','Frases de Deus ')\n" +
+                ", ('Uma coisa eu sei: Deus está comigo \uD83D\uDC46\uD83D\uDE0A Salmo 56:9','Loading...','Frases de Deus ')\n" +
+                ", ('Deem graças ao Senhor porque ele é bom; o seu amor dura para sempre.  \uD83D\uDE4FSalmo 118:1','Loading...','Frases de Deus ')\n" +
+                ", ('Assim, permanecem agora estes três: a fé, a esperança e o amor. O maior deles, porém, é o amor. \uD83D\uDE4F❤️ 1 Coríntios 13:13','Loading...','Frases de Deus ')\n" +
+                ", ('Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá.','Loading...','Frases de Deus ')\n" +
+                ", ('Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.','Loading...','Frases de Deus ')\n" +
+                ", ('O SENHOR é o meu pastor, nada me faltará. (Salmo23)','Loading...','Frases de Deus ')\n" +
+                ", ('Preparas uma mesa perante a mim na presença do meus inimigos, unges a minha cabeça com óleo, e o meu cálice transborda. (salmos 23:5)','Loading...','Frases de Deus ')\n" +
+                ", ('Esperei ansiosamente pelo SENHOR, e ele se inclinou para mim, e ouviu o meu clamor.','Loading...','Frases de Deus ')\n" +
+                ", ('Não te deixes vencer pelo mal, mas vence o mal com o bem.','Loading...','Frases de Deus ')\n" +
+                ", ('Os que confiam no SENHOR serão como o monte de Sião, que não se abala, mas permanece para sempre.','Loading...','Frases de Deus ')\n" +
+                ", ('Aqueles que esperam no Senhor renovam as suas forças. Voam alto como águias. Correm e não ficam exaustos, andam e não se cansam.','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.','Loading...','Frases de Deus ')\n" +
+                ", ('Mil poderão cair ao seu lado, dez mil à sua direita, mas nada o atingirá. (Salmo91)','Loading...','Frases de Deus ')\n" +
+                ", ('Querido Deus, Tu és minha proteção, a minha fortaleza. Tu és o meu Deus, eu confio em Ti.','Loading...','Frases de Deus ')\n" +
+                ", ('Entregue o seu caminho ao Senhor; confie nele, e ele agirá.','Loading...','Frases de Deus ')\n" +
+                ", ('Respondeu Jesus: “Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim.','Loading...','Frases de Deus ')\n" +
+                ", ('Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus.','Loading...','Frases de Deus ')\n" +
+                ", ('Tudo posso naquele que me fortalece.','Loading...','Frases de Deus ')\n" +
+                ", ('Jesus respondeu: “O que é impossível para os homens é possível para Deus”.','Loading...','Frases de Deus ')\n" +
+                ", ('Venham a mim, todos os que estão cansados e sobrecarregados, e eu darei descanso a vocês. (Deus)','Loading...','Frases de Deus ')\n" +
+                ", ('Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.','Loading...','Frases de Deus ')\n" +
+                ", ('O homem bom cuida bem de si mesmo, mas o cruel prejudica o seu corpo.','Loading...','Frases de Deus ')\n" +
+                ", ('Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus.','Loading...','Frases de Deus ')\n" +
+                ", ('O choro pode durar uma noite, mas a alegria vem pela manhã.','Loading...','Frases de Deus ')\n" +
+                ", ('Os que semeiam em lágrimas segarão com alegria. (Salmo 126)','Loading...','Frases de Deus ')\n" +
+                ", ('O meu mandamento é este: amem uns aos outros como eu amo vocês. (Deus)','Loading...','Frases de Deus ')\n" +
+                ", ('Esta é a confiança que temos ao nos aproximarmos de Deus: se pedirmos alguma coisa de acordo com a vontade de Deus, ele nos ouvirá.','Loading...','Frases de Deus ')\n" +
+                ", ('Todo aquele que invocar o nome do Senhor será salvo.','Loading...','Frases de Deus ')\n" +
+                ", ('Venham e vejam o que Deus tem feito; como são impressionantes as suas obras em favor dos homens.','Loading...','Frases de Deus ')\n" +
+                ", ('Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento.','Loading...','Frases de Deus ')\n" +
+                ", ('Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal.','Loading...','Frases de Deus ')\n" +
+                ", ('O céu e a terra passarão, mas as minhas palavras não hão de passar.','Loading...','Frases de Deus ')\n" +
+                ", ('E conhecerão a verdade, e a verdade os libertará.','Loading...','Frases de Deus ')\n" +
+                ", ('Cria ó Deus em mim um coração puro e renova em mim um espírito reto!','Loading...','Frases de Deus ')\n" +
+                ", ('Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?.','Loading...','Frases de Deus ')\n" +
+                ", ('Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós? \uD83D\uDE4C\uD83D\uDE4F\\n(Romanos 8:31)','Loading...','Frases de Deus ')\n" +
+                ", ('A alegria do Senhor é a vossa força. \uD83D\uDC4A\uD83D\uDE4F\\n(Neemias 8:10)','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. \uD83D\uDE4C\uD83D\uDE2A\uD83D\uDE4F\\n(Salmos 46:1)','Loading...','Frases de Deus ')\n" +
+                ", ('O SENHOR é o meu pastor, nada me faltará. \uD83D\uDE4F\\n(Salmos 23:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Jesus respondeu: Eu sou o caminho, a verdade e a vida Ninguém vem ao Pai senão por mim. \uD83D\uDC46\uD83D\uDE4C\\n(João 14:6)','Loading...','Frases de Deus ')\n" +
+                ", ('Grandes coisas fez o Senhor por nós, por isso estamos alegres! \uD83D\uDE4F\uD83D\uDE03\\n(Salmos 126:3)','Loading...','Frases de Deus ')\n" +
+                ", ('Não te deixes vencer pelo mal, mas vence o mal com o bem! \uD83D\uDE07\uD83D\uDE4F\\n(Romanos 12:21)','Loading...','Frases de Deus ')\n" +
+                ", ('Posso todas as coisas naquele que me fortalece! \uD83D\uDE4C\uD83D\uDC4A\\n(Filipenses 4:13)','Loading...','Frases de Deus ')\n" +
+                ", ('Bem aventurado o homem que teme ao Senhor e anda nos seus caminhos.\uD83D\uDC46\uD83D\uDE4F\\n(Salmos 128:1-2)','Loading...','Frases de Deus ')\n" +
+                ", ('Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei!\uD83D\uDE14\uD83D\uDE22\uD83D\uDE4F\\n(Mateus 11:28-30)','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia! \uD83D\uDC46\uD83D\uDC4A\uD83D\uDE4C\\n(Salmo 46:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto. \uD83D\uDE4F\uD83D\uDC46\uD83D\uDE09\\n(Isaías 55:6)','Loading...','Frases de Deus ')\n" +
+                ", ('A minha alma espera somente em Deus; dele vem a minha salvação! \uD83D\uDE4F\uD83D\uDC46\\n(Salmo 62:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar.  \uD83D\uDE4F\uD83D\uDE09\\n(Josué 1:9)','Loading...','Frases de Deus ')\n" +
+                ", ('Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal. \uD83D\uDE4F\uD83D\uDE4C\\n(Salmos 41:1)','Loading...','Frases de Deus ')\n" +
+                ", ('O homem bom cuida bem de si mesmo, mas o cruel prejudica o seu corpo. \uD83D\uDC4D\uD83D\uDE4F\\n(Provérbios 11:17)','Loading...','Frases de Deus ')\n" +
+                ", ('A minha alma espera somente em Deus; dele vem a minha salvação. \uD83D\uDC46\uD83D\uDE4C\\n(Salmos 62:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará. \uD83D\uDE0C\uD83D\uDE4C\\n(Salmos 91:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Os que confiam no SENHOR serão como o monte de Sião, que não se abala, mas permanece para sempre. \uD83D\uDC4A\uD83D\uDE4C\uD83D\uDE09\\n(Salmos 125:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Os que semeiam em lágrimas segarão com alegria. \uD83D\uDE2A\uD83D\uDE0A\\n(Salmos 126:5)','Loading...','Frases de Deus ')\n" +
+                ", ('Quão bom e quão suave é que os irmãos vivam em união. \uD83D\uDC6C\uD83D\uDC4D\\n(Salmos 133:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Confia no SENHOR de todo o teu coração, e não te desvie no teu próprio entendimento. \uD83D\uDE4F❤\uD83D\uDC46\\n(Provérbios 3:5)','Loading...','Frases de Deus ')\n" +
+                ", ('Não tenhas inveja do homem violento, nem escolhas nenhum dos seus caminhos. \uD83D\uDCAA\uD83D\uDC4E\uD83D\uDC63\\n(Provérbios 3:31)','Loading...','Frases de Deus ')\n" +
+                ", ('Sobre tudo o que se deve guardar, guarda o teu coração, pois dele procedem as saídas da vida. ❤\uD83D\uDC46\\n(Provérbios 4:23)','Loading...','Frases de Deus ')\n" +
+                ", ('Por isso não tema, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa. ✋\uD83D\uDC46\uD83D\uDC4A\\n(Isaías 41:10)','Loading...','Frases de Deus ')\n" +
+                ", ('Ainda antes que houvesse dia, eu sou; e ninguém há que possa fazer escapar das minhas mãos; agindo eu, quem impedirá? \uD83D\uDE4C\uD83D\uDE4F\\n(Isaías 43:13)','Loading...','Frases de Deus ')\n" +
+                ", ('Eu sei que pensamentos tenho a vosso respeito, diz o SENHOR; pensamentos de paz, e não de mal, para vos dar o fim que desejais. \uD83D\uDC46\uD83D\uDCAD\uD83D\uDE4F\\n(Jeremias 29:11)','Loading...','Frases de Deus ')\n" +
+                ", ('Busquem, pois, em primeiro lugar o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas a vocês. (Mateus 6:33) \uD83D\uDC46\uD83D\uDC49\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Pois que aproveita ao homem ganhar o mundo inteiro, se perder a sua alma? Ou que dará o homem em recompensa da sua alma? \uD83C\uDF0F\uD83D\uDE07\\n(Mateus 16:26)','Loading...','Frases de Deus ')\n" +
+                ", ('O céu e a terra passarão, mas as minhas palavras não hão de passar. \uD83D\uDC46\uD83D\uDE4F\\n(Mateus 24:35)','Loading...','Frases de Deus ')\n" +
+                ", ('Indo, portanto, fazei discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo. \uD83D\uDE4C\uD83D\uDE4F (Mateus 28:19)','Loading...','Frases de Deus ')\n" +
+                ", ('Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito para que todo que nele crê não pereça, mas tenha vida eterna. \uD83D\uDE4C\uD83D\uDE4F\\n(João 3:16)','Loading...','Frases de Deus ')\n" +
+                ", ('Conhecereis a verdade e a verdade vos libertará. \uD83D\uDE4C\\n(João 8:32)','Loading...','Frases de Deus ')\n" +
+                ", ('Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito. \uD83D\uDE4F\uD83D\uDC4F(João 15:7)','Loading...','Frases de Deus ')\n" +
+                ", ('Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor. \uD83D\uDE08\uD83D\uDE4C\uD83D\uDE4F (Romanos 6:23)','Loading...','Frases de Deus ')\n" +
+                ", ('Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito. ❤\uD83D\uDC46\uD83D\uDE4C\\n(Romanos 8:28 )','Loading...','Frases de Deus ')\n" +
+                ", ('Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem, são as que Deus preparou para os que o amam. ❤\uD83D\uDC46\\n(I Coríntios 2:9)','Loading...','Frases de Deus ')\n" +
+                ", ('Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse a caridade, seria como o bronze que soa ou como o címbalo que tine. \uD83D\uDE2A\uD83D\uDE09\\n(I Coríntios 13:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Não andeis ansiosos de coisa alguma; em tudo, porém, sejam conhecidas diante de Deus as vossas petições pela oração e pela súplica, com ações de graças. \uD83D\uDE4F\\n(Filipenses 4:6)','Loading...','Frases de Deus ')\n" +
+                ", ('Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e com ele cearei, e ele, comigo. \uD83D\uDE4C\uD83D\uDC4F\\n(Apocalipse 3:20)','Loading...','Frases de Deus ')\n" +
+                ", ('E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito. \uD83D\uDE4C❤\uD83D\uDE4F\\n(Romanos 8:28)','Loading...','Frases de Deus ')\n" +
+                ", ('Os que confiam no SENHOR serão como o monte de Sião, que não se abala, mas permanece para sempre. \uD83D\uDC4A\uD83D\uDE4C\\n(Salmo 125:1)','Loading...','Frases de Deus ')\n" +
+                ", ('Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros. ❤\uD83D\uDC6C\uD83D\uDC6D\uD83D\uDE4C\\n(João 13:35)','Loading...','Frases de Deus ')\n" +
+                ", ('Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos, os meus caminhos, diz o Senhor. (Isaías 55:8) \uD83D\uDCAD\uD83D\uDC49\uD83D\uDC63\uD83D\uDC49\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem o vosso Pai, que está nos céus. \uD83D\uDC46\uD83D\uDCA1\\n(Mateus 5:16)','Loading...','Frases de Deus ')\n" +
+                ", ('E Jesus disse-lhe: Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento.\uD83D\uDC46❤\uD83D\uDE07\uD83D\uDCAD\\n(Mateus 22:37)','Loading...','Frases de Deus ')\n" +
+                ", ('E, tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens. \uD83D\uDC46❤\\n(Colossenses 3:23)','Loading...','Frases de Deus ')\n" +
+                ", ('Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti. \uD83D\uDC46\uD83D\uDE4F\\n(Isaías 26:3)','Loading...','Frases de Deus ')\n" +
+                ", ('Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus, nosso Senhor! ❤\uD83D\uDE4C\\n(Romanos 8:39)','Loading...','Frases de Deus ')\n" +
+                ", ('Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize. \uD83D\uDE4F\uD83D\uDE4C❤\\n(João 14:27)','Loading...','Frases de Deus ')\n" +
+                ", ('Porque o meu jugo é suave, e o meu fardo é leve. \uD83D\uDC46\uD83D\uDE4C\\n(Mateus 11:30)','Loading...','Frases de Deus ');";
+        return frase;
+    }
+    public static String carregarFrases12() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Para você eu desejo os sonhos  mais lindos de uma noite, e que todos os seus sonhos sejam realizados ao amanhecer. Boa noite!  \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('A noite é uma boa oportunidade para descansar, perdoar, esquecer, sonhar e se preparar para as lutas do dia seguinte! Boa Noite! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa Noite! Como é maravilhoso chegar ao fim do dia e agradecer a Deus por todas as bençãos e livramentos que ele generosamente nos concede! \uD83D\uDE4F\uD83D\uDE0C','Loading...','Frases Boa Noite')\n" +
+                ", ('Que todos os teus sonhos te alcancem, que eles não adormeçam, que você não e canse, que não perca a esperança. tudo pode melhorar, Confie, Espere! O Melhor acontece.  \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('No relógio de Deus não existe hora pra falar com as pessoas queridas. Então eu conversei com Ele, e resolvi falar de você, pedi a Ele que te protegesse e te fizesse feliz \uD83D\uDE04\uD83D\uDC46','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite, Sempre deixe acesa as luzes da esperança do amor e da fé… Elas são capazes de iluminar qualquer escuridão. \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Boa Noite')\n" +
+                ", ('Nunca deixe o dia acabar sem agradecer a Deus pelo privilégio de ter vivido mais um dia. Boa noite! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Cada dia é uma soma de batalhas vencidas, etapas concluídas, promessas alcançadas‼ Algumas lágrimas contidas \uD83D\uDE30, outras derramadas. Obrigado Senhor \uD83D\uDE4F, por mais um dia!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! O Deus que tudo governa e sustenta o universo está cuidando da sua vida e protegendo a sua família. \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite gente linda! Que essa noite venha suave e perfumada, que o aroma da alegria e da paz estejam por todos os lados… Que Deus abençoe e guarde nossas famílias e amigos. Amém! \uD83D\uDE4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Não se lamente por achar que seus sonhos estão velhos, erga a cabeça e corra atrás dos seus sonhos não vividos. Boa Noite! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! Diante de alguma dificuldade, se você estiver para desanimar, aqueça os sentidos, revigore a fé, e ouvirá a voz da consciência Dizer: Persevere e vencerá! \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Espero que você tenha uma noite de paz e durma com Deus e os anjinhos \uD83D\uDC7C\uD83D\uDC7C!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! Quem tem a luz de Deus não teme nenhuma escuridão ‼ \uD83D\uDE09\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Durma com Deus e sonhe comigo\uD83D\uDE0B\uD83D\uDE18','Loading...','Frases Boa Noite')\n" +
+                ", ('Durma com ideias , acorde com atitudes ‼ Boa noite! \uD83D\uDC4C\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Querido Deus, abençoe \uD83D\uDE4F esta noite e nos livre de todo mal, boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Que sua noite seja tranquila e seu sono seja suave \uD83D\uDCA4, para que o seu dia seja abençoado \uD83D\uDE4F! Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite. Durma em paz. Amanhã tem mais! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Quando os olhos pesarem, que os sonhos sejam leves. Uma ótima noite para você \uD83D\uDE18\uD83D\uDE18!','Loading...','Frases Boa Noite')\n" +
+                ", ('Que a sua noite seja doce e feliz!! \uD83D\uDE18\uD83D\uDE04','Loading...','Frases Boa Noite')\n" +
+                ", ('Tudo nessa vida depende de nossas ações e da forma como lidamos com os ingredientes do sucesso para sermos sempre conquistas. Boa noite‼','Loading...','Frases Boa Noite')\n" +
+                ", ('Espero que você tenha uma ótima noite! Aproveite e sonhe com os anjos \uD83D\uDC7C\uD83D\uDC7C!!','Loading...','Frases Boa Noite')\n" +
+                ", ('A noite está linda como a beleza do teu ser irradiando emoções dentro do meu coração que tanto te ama ❤. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Quem de manhã compreendeu os ensinamentos da sabedoria à noite pode dormir o sono dos justos‼ Boa noite! \uD83D\uDE0C','Loading...','Frases Boa Noite')\n" +
+                ", ('O dia foi cansativo, mas Deus é fiel para renovar as nossas forças e conservar nossa esperança \uD83D\uDE4F. Boa noite e bom descanso!','Loading...','Frases Boa Noite')\n" +
+                ", ('A noite chega para dar tranquilidade e paz aos nossos corações \uD83D\uDC97! Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('A qualidade de vida que você quer, depende da qualidade de fé que você tem \uD83D\uDE4F ! Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Trocaria todas as riquezas desse mundo por um simples beijo seu \uD83D\uDE18!Boa noite meu amor ❤!!','Loading...','Frases Boa Noite')\n" +
+                ", ('Quem tem a luz de Deus não teme nenhuma escuridão. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('O choro pode durar uma noite, mas a alegria vem pela manhã. Te desejo uma boa noite.','Loading...','Frases Boa Noite')\n" +
+                ", ('E assim adormece esse homem que nunca precisa dormir para sonhar. Boa noite.','Loading...','Frases Boa Noite')\n" +
+                ", ('Esta mensagem é a prova de que meu último pensamento do dia é você. Boa noite amor!','Loading...','Frases Boa Noite')\n" +
+                ", ('Tenha uma boa noite e lembre-se: a alegria vem pela manhã.','Loading...','Frases Boa Noite')\n" +
+                ", ('Deus entrego esta noite em tuas mãos pois sem ti nada sou e nada posso fazer. Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite…e um descanso justo do guerreiro!','Loading...','Frases Boa Noite')\n" +
+                ", ('Chegou a hora de apagar a luz e acender as estrelas… Para dar vida aos sonhos. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Lá se vai outro dia. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Nada como uma boa noite de sono para repormos as boas energias. Boa noite de descanso!','Loading...','Frases Boa Noite')\n" +
+                ", ('Mais um dia vencido. Obrigada Senhor por estar presente em minha vida. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Um brinde aos nossos defeitos, porque nossas qualidades ninguém reconhece. Durmam bem.','Loading...','Frases Boa Noite')\n" +
+                ", ('Trocaria todas as riquezas desse mundo por um simples beijo seu. Boa noite meu amor!','Loading...','Frases Boa Noite')\n" +
+                ", ('Mais um dia terminou. Agradeça! Quando Deus te diz NÃO, ele está te livrando do pior.','Loading...','Frases Boa Noite')\n" +
+                ", ('Quando os olhos pesarem, que os sonhos sejam leves. Uma ótima noite para você!','Loading...','Frases Boa Noite')\n" +
+                ", ('Não temerei a noite mais escura, se você estiver do meu lado. Boa noite, amor!','Loading...','Frases Boa Noite')\n" +
+                ", ('Deus obrigado por mais um dia que vencemos juntos, Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Estou indo dormir. Só me acorde se for pra me dar dinheiro. Boa noite. kkk \uD83D\uDE42','Loading...','Frases Boa Noite')\n" +
+                ", ('Você estará nos meus sonhos hoje à noite. Boa noite.','Loading...','Frases Boa Noite')\n" +
+                ", ('A qualidade de vida que você quer, depende da qualidade de fé que você tem, Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('A luz se apaga, mas a minha esperança de um futuro próspero continuará sempre acesa! Bons sonhos!','Loading...','Frases Boa Noite')\n" +
+                ", ('Nunca desista daquilo que você pede a Deus todas as noites. Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Mude o modo que você olha para as coisas, e as coisas que você olha mudarão. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Querido Deus, abençoe esta noite e nos livre de todo mal, boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Durma com ideias, acorde com atitudes. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Que hoje Deus zele pela tua noite, ilumine tua mente e alivie o peso dos teus problemas. Boa noite.','Loading...','Frases Boa Noite')\n" +
+                ", ('Ando tão feliz, que não encontro palavras pra dizer o quanto eu gosto de você. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Que o dia de amanhã seja sempre melhor que o de hoje. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('O que o mundo te oferece, é passageiro. O que Deus te oferece, é eterno. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Ansioso por adormecer para sonhar com você. Boa noite, meu amor!','Loading...','Frases Boa Noite')\n" +
+                ", ('Mais é claro que o sol vai voltar amanhã… (Legião Urbana)','Loading...','Frases Boa Noite')\n" +
+                ", ('Não deixe que o medo de cair o impeça de voar sempre mais alto. Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite, meu amor! Que o travesseiro seja um bom conselheiro e os sonhos levem você até mim.','Loading...','Frases Boa Noite')\n" +
+                ", ('Para tudo na vida há um novo dia, um novo sol, um novo luar… Boa noite.','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! Muito Obrigado Deus pelo dia de hoje! \uD83D\uDE4F Obrigado por me guiar e me proteger, Não sei o que me espera amanha, mas sei que Deus preparou o melhor! \uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Quando o cansaço tomar conta de você e o desânimo bater na sua porta…\\nlembre a si mesmo o que deseja alcançar, qual o futuro almeja e use a energia para seguir adiante. Boa noite! \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa Noite!\uD83C\uDF1C Não deixe que um dia ruim faça com que todos os outros dias se tornem piores ainda, Levante a tua cabeça e siga em frente. \uD83D\uDCAA\uD83D\uDC46 Esqueça o ontem viva o hoje, e o amanhã deixe nas mãos de Deus! \uD83D\uDE4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Amanhã é um novo dia, cheio de oportunidades para você alcançar seus objetivos e conquistar sua felicidade‼️ Boa Noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Nunca se esqueça que mesmo nos dias mais difíceis da sua vida, Deus cuida de você… \uD83D\uDC46\uD83D\uDE4F\\nTenha uma bela noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Deus é poderoso para fazer infinitamente mais \uD83D\uDE4F , muito além daquilo que pedimos ou pensamos. Confie em Deus e tenha uma boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Mais um dia vencido, mais um dia em que as mãos de Deus estiveram presentes \uD83D\uDE4C nas nossas vidas. É tão bom nos sentirmos seguros, protegidos e amados por um Pai tão zeloso! Boa noite!! \uD83D\uDE0A','Loading...','Frases Boa Noite')\n" +
+                ", ('Tenha sabedoria para escolher suas batalhas,\\né essencial aprender definir pelo que vale a pena lutar, e pelo que se deve desistir, \uD83D\uDC4A\\nPor uma vida de mais equilíbrio e bom senso! Boa noite! ✌️','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! Tenha uma noite plena…\\nDesejo mesmo é que Jesus renove suas forças e sua fé enquanto,\\nvocê dorme nesta noite. \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Sonhe com um futuro onde todos os seus desejos se tornem realidade,\\ne amanhã desperte para um novo dia onde isso pode se tornar verdade.\\nBasta acreditar e lutar com determinação. \uD83D\uDC4A\uD83D\uDE09\\nBoa noite, bons sonhos e descanse!','Loading...','Frases Boa Noite')\n" +
+                ", ('Nunca se culpe por um dia ruim…\\nDias bons nos trazem felicidade, dias ruins nos trazem experiência.\\nAmbos são essenciais em nossas vidas. Tenha uma boa noite! \uD83D\uDC4F\uD83D\uDE18 ','Loading...','Frases Boa Noite')\n" +
+                ", ('Quem descansa nos braços do Senhor certamente recuperará as forças,\\npara enfrentar o amanhã com esperança e alegria. Boa noite! \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Deixe os sonhos tomarem conta de você…\\nOs sonhos são necessários à vida…\\nQue os anjos embalem seu sono e joguem fora tudo de ruim do dia que passou. Boa noite!!','Loading...','Frases Boa Noite')\n" +
+                ", ('Que Deus dê descanso para o teu corpo e alívio para a tua alma,\\npara que você possa enfrentar o amanhã com um sorriso no rosto! Boa noite! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Que a cada noite você sinta que a vida está te esperando de braços abertos,\\npara receber os seus sonhos e realiza-los um a um! Boa noite!!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! A vida é um momento, é um sopro…\\nE a gente só leva daqui o amor que deu e recebeu, a alegria, o carinho e mais nada. ❤️','Loading...','Frases Boa Noite')\n" +
+                ", ('A noite é uma maravilhosa oportunidade para descansar,\\nperdoar, esquecer, sonhar e se preparar para as lutas do dia seguinte. \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Que nunca falte um sonho para lutar,\\num projeto para realizar, algo para aprender,\\num lugar para ir e alguém para amar. Boa noite! ❤️\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Que sua noite seja tranquila e seu sono seja suave,\\npara que o seu dia seja abençoado. Boa noite! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Que as⭐️ lhe tragam bons sonhos\\ne a \uD83C\uDF1B possa clarear sua alma.\\nQue os problemas pelos quais\\nvocê está passando nesse momento, se resolvam. Boa noite! \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Boa Noite')\n" +
+                ", ('Para um novo dia começar é preciso um linda noite terminar, por isso, venho desejar uma noite especial e sonhos lindos! Boa noite!! \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Boa Noite')\n" +
+                ", ('Que Deus esteja sempre com você e sua família, abençoando e protegendo sua casa, Boa noite!! \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Ser feliz é chegarmos ao fim do dia e, ainda que cansados,\\nsentirmos que desfrutamos de bons momentos. Boa noite!! \uD83D\uDC4F\uD83D\uDE03','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! Que seus sonhos contenham sons e cores absolutamente inesquecíveis e deslumbrantes…\\nQue Deus esteja a frente dos seus sonhos e planos.\uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Que sua noite seja luz para o dia maravilhoso que Deus está preparando para você. \uD83D\uDE4C\uD83D\uDC4F\\nDurma muito bem!','Loading...','Frases Boa Noite')\n" +
+                ", ('Para você eu desejo os sonhos mais lindos,\\nde uma noite e que todos eles se realizem ao amanhecer. Boa noite! \uD83D\uDE18\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('Quando os olhos pesarem, que os sonhos sejam leves…\\nTenha uma noite tranquila e iluminada. Boa noite!! \uD83D\uDE18','Loading...','Frases Boa Noite')\n" +
+                ", ('A vida é tão corrida que muitas vezes deixamos de dizer o que sentimos,\\nEntão aproveite a noite de hoje para dedicar seu tempo,\\ne espalhar seu amor para aqueles que ama. Boa noite! ❤️','Loading...','Frases Boa Noite')\n" +
+                ", ('O silêncio é por vezes a melhor resposta a dar aquele que não cala.\\nEm momentos assim, o silêncio fala mais que muitas palavras,\\ne tem mais efeito que muitas ações…\uD83D\uDE09\\nÉ um silêncio que fala por si só. Boa noite!','Loading...','Frases Boa Noite')\n" +
+                ", ('Uma boa noite repleta de carinho…\uD83D\uDE0A\\nUma boa noite recheada com muita fé…\uD83D\uDE4F\\nUma boa noite imensa com afeto… Durma bem!!','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite e lindos sonhos!\\nQue a sua noite seja linda como uma flor e bela como o seu ❤️\\nUm beijo doce e meu eterno carinho. \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Boa Noite')\n" +
+                ", ('Boa noite! Não tenha a certeza do meu amanhã,\\nmas tenha a certeza de que o seu amanhã está sendo escrito por Deus. \uD83D\uDE4C\uD83D\uDC4F','Loading...','Frases Boa Noite')\n" +
+                ", ('Não podemos economizar palavras e mensagens quando podemos dizer uma boa noite a quem amamos!','Loading...','Frases Boa Noite')\n" +
+                ", ('Para você eu desejo… Os sonhos mais lindos de uma noite.\\nE todos os seus sonhos realizados ao amanhecer. Boa noite! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Boa Noite')\n" +
+                ", ('É preciso força pra sonhar e perceber que a estrada vai além do que se vê.Boa tarde! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Talvez Deus não mude tua situação, mas Ele está usando essa situação para mudar você.Boa tarde!! \uD83D\uDC46\uD83D\uDC49','Loading...','Frases Boa Tarde')\n" +
+                ", ('Entregue o seu caminho ao Senhor; confie nele, e ele agirá. Boa tarde! \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('A vida não oferece promessas e garantias, apenas possibilidade e oportunidades. Boa tarde!! \uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não há caminho difícil quando DEUS é o guia.Boa tarde! \uD83D\uDC46\uD83D\uDC4FDeixe pra trás o que não te leva pra frente. Boa tarde!! \uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('A fé é um dom que cresce à medida que o utilizamos. Boa tarde! \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que Deus cuide sempre de você! Agradeço o carinho de sua amizade sempre pertinho de mim!! \uD83D\uDE18\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Pode a vida ser difícil mais temos capacidade de sobra para vence-la. Boa tarde!! \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Quer ter uma tarde abençoada? Fale com Deus !! \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Se a gente cresce com os golpes duros da vida, também podemos crescer com os toques suaves da alma. Boa tarde! \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que a sua tarde seja leve, abençoada, iluminada, produtiva e feliz. \uD83D\uDE04\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que todo “hoje” seja bem vivido! Boa tarde! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não seja arrastado por seus problemas, seja guiado por seus sonhos. Boa tarde! \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Faça valer a pena, as oportunidades não voltam. Boa tarde!! \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Se você encontrar um caminho sem obstáculos, ele provavelmente não leva a lugar nenhum.Boa tarde!! \uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Faça de sua fé a força que está precisando. Acredite na sua vitória total e não imagine obstáculos em sua frente!! \uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde!! Que sua tarde seja ricamente abençoada e que sejam prósperas todas as obras de tuas mãos \uD83D\uDC4F\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que a alegria do Senhor seja sua força Boa tarde!! \uD83D\uDE4F\uD83D\uDC4A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa Tarde Pessoa Abençoada e muito Amada por Deus e por mim \uD83D\uDE4F❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nunca desista de um sonho só por causa do tempo que você vai levar para realizá-lo. Boa tarde!! \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que esta tarde seja repleta de paz para você. Deus abençoe!! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Deus não erra, não falha, não tarda. Quando Ele quer não há quem impeça. Boa tarde!! \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! A fé transforma nosso caminho! \uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Deus faz hoje o que só entenderemos amanhã.Confie! Boa tarde \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde!!Deus sem você continua sendo Deus, mas você sem Deus é nada \uD83D\uDE09\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Receita para realizar sonhos: Comece onde você está, use o que você tem e faça o que você pode!Boa tarde! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Algumas pessoas surgem em nossas vidas como uma benção, outras como lição. Boa tarde!! \uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Cuide da oração e Deus cuidará do seu ❤️. Tenha uma boa tarde! \uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que a gente sempre carregue fé, amor e pensamento positivo em nossos dias. Boa tarde! \uD83D\uDE18❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Uma das melhores coisas da vida é ter amigos, são eles que nos fazem mais felizes.\uD83D\uDC4A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Sabe por que eu venho aqui todos os dias? Eu preciso me abastecer na doçura da tua amizade. \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Qualquer obstáculo, com Deus, torna-se um grão de areia. \uD83D\uDC46\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Felicidade é um fim de tarde. Boa tarde! \uD83C\uDF24','Loading...','Frases Boa Tarde')\n" +
+                ", ('A fé em Deus nos faz crer no incrível, ver o invisível e realizar o impossível.Boa tarde!! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Ponha Deus no início e Ele cuidará do fim.Boa tarde!! \uD83D\uDC46\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('DEUS fará o impossível na sua vida, amado. Realizará o impossível que DEUS em CRISTO nos abençoe.Boa tarde! \uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('O melhor lugar do mundo é sempre ao lado de quem te faz feliz! Boa tarde ❤️\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Passei só para lhe dizer que não me esqueço de você. Tenha uma ótima Tarde! \uD83D\uDE18\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Consegue fazer com pequenos e simples gestos que eu me sinta a pessoa mais feliz e especial desse mundo.Boa tarde! \uD83D\uDE09\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Duas vidas, dois ❤️ ❤️ unidos na amizade, unidos no amor! \uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('O amor se renova e fortalece no namoro do dia-a-dia.Boa tarde amor! \uD83D\uDC8F❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Só desejo uma coisa dessa vida: poder dividir sempre minha vida com a sua. Boa tarde amor  \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Meu ponto fraco tem nome, endereço e um sorriso lindo.Boa tarde! \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Sinto uma felicidade constante e a vontade de estar ao seu lado aumenta a cada dia. Boa tarde amor \uD83D\uDE18\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde amor! Com você aprendi a amar a vida, aprendi a encarar ela com mais alegria e pensamento positivo \uD83D\uDC8F\uD83D\uDE04','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nossa relação é a melhor que eu poderia ter, eu te amo. Boa tarde ❤️\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Essa relação é única e muito especial em minha vida. Boa tarde! Amo você \uD83D\uDE0D\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Você é a página mais linda que o destino escreveu na minha vida.Tarde boa! ❤️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('A essência pura do amor existe na compreensão de dois corações.Boa tarde!! ❤️❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Não é o amor que sustenta o relacionamento, é o modo de se relacionar que sustenta o amor \uD83D\uDC8F❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nunca imaginei que alguém me faria tão feliz. Você é especial e me completa. Boa tarde!! Amo você \uD83D\uDE04\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('A palavra mais bonita que eu já disse sobre o amor foi o seu nome.Boa tarde!! amor \uD83D\uDC4F\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Uma boa tarde! Até o infinito fica pequeno quando se trata do que eu sinto por você. Te amo muito ❤️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('O que o meu ❤️ deseja é que você tenha uma linda tarde amor','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que este seja nosso destino: amar, viver e passar o dia juntos. Boa tarde! \uD83D\uDC8F\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Gostoso mesmo é encontrar o amor da sua vida, todos os dias, na mesma pessoa.Tarde boa ❤️\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Te aguardo ansiosa, e enquanto nosso momento não chega, tenha uma boa tarde pensando muito em mim \uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Existem coisas infindáveis como o meu amor por ti. Boa tarde! \uD83D\uDE18❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa Tarde! Ás vezes, estamos sem rumo, mas alguém entra em nossa vida, e se torna o nosso destino \uD83D\uDE09\uD83D\uDC8F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa Tarde! O mundo e o tempo rodam rápido demais. E cabe tanto amor… em cada segundo ❤️\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Querido amor, você faz desta e de todas as outras tardes eternas, mal vejo a hora de poder te encontrar e desejar boa tarde pessoalmente \uD83D\uDE18\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Amar significa entregar-se sem garantias. Na esperança de que nosso amor faça feliz a pessoa amada… Boa tarde, meu amor ❤️\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Meu amor, te amo no que você é! Te amarei em tudo ❤️\uD83D\uDC8F','Loading...','Frases Boa Tarde')\n" +
+                ", ('A vida é cheia de opções, e eu optei a te levar pra minha vida inteira.Boa tarde \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa Tarde! O mundo e o tempo rodam rápido demais. E cabe tanto amor… em cada segundo. ❤️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nós somos criaturas de emoções… e a nossa vida corre igualmente com os nossos desejos. Boa Tarde! \uD83D\uDE0D❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Vim deixar meu carinho e te desejar uma boa tarde! \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Te aguardo ansioso e enquanto o nosso momento não chega. Boa Tarde Meu Amor! ❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Das coisas boas da minha vida… você certamente é a melhor! Esta tarde com você, ficará melhor ainda! \uD83D\uDC8F\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Um amor sempre fica de modo especial em nossos pensamentos.Boa tarde amor! ❤️\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('A beleza das pessoas está na capacidade de amar e encontrar no próximo a continuidade de seu ser. Beijos de boa tarde, amor! \uD83D\uDE18\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não sei se dentro de você existe um pouco de mim, mas dentro de mim existe muito de você. Boa tarde!! ❤️❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Tarde dourada, como é bom te sentir e fazer de ti presente para quem amo. Boa tarde! \uD83D\uDC8F❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Tenha uma tarde maravilhosa! Adoro o prazer da sua companhia.\uD83D\uDC8F\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Vivamos aquele carinho que nos é dado com amor… livremente.! Boa tarde! ❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('E para ser feliz de verdade, a gente precisa mesmo é de gente disposta a ser feliz com a gente..Boa tarde!! \uD83D\uDC4F\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que o nosso amor cresça cada dia mais e mais…Boa tarde!! ❤️\uD83D\uDC8F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que Deus cuide sempre de você! Te amo ❤️\uD83D\uDC8F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Essa tarde linda é toda sua, pois você merece toda a luz do dia \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Te amo e te quero muito. Uma boa tarde, meu amor ❤️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Memórias são doces, saboreie-as. Boa Tarde \uD83D\uDE0D❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa Tarde ! Para Nós todo o Amor do Mundo.❤️\uD83D\uDC8F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Sinto que minha felicidade é ao seu lado. Sinto que cada momento contigo é único.Boa tarde!! \uD83D\uDE0D\uD83D\uDC8F','Loading...','Frases Boa Tarde')\n" +
+                ", ('O amor não é feito de trocas de olhares mas de olharmos juntos na mesma direção.Boa tarde!! \uD83D\uDE18\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('O amor é a única loucura de um sábio e a única sabedoria de um tolo.Tenha uma tarde linda! ❤️\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que meu amor, não será passageiro. Boa tarde!! ❤️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Amor é quando você tem todos os motivos para desistir de alguém, e não desiste. Boa tarde!! \uD83D\uDC8F\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('O amor é fogo que acende sem chama e sem combustível. Boa tarde! \uD83D\uDC4F\uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde!! Cada um sente o amor à sua maneira, mas a todos faltam as palavras na hora de o explicar. ❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde!O amor não faz o mundo girar. O amor é o que faz o giro valer a pena. Boa tarde meu amor!! \uD83D\uDE0D','Loading...','Frases Boa Tarde')\n" +
+                ", ('A medida do amor é amar sem medida. Boa tarde!! ❤️❤️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nunca tema o desconhecido, pois é lá que mora a beleza da descoberta. Tenha uma tarde maravilhosa!','Loading...','Frases Boa Tarde')\n" +
+                ", ('O que você faz em vida ecoa por toda eternidade. Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('O mundo e o tempo rodam rápido demais. E cabe tanto amor, em cada segundo. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não existe um caminho para a felicidade. A felicidade é o caminho. Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Sorria sempre, por que mais triste que um sorriso triste, é não poder sorrir. Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não se importe com o que vão pensar de você. Faça o que você quiser e procure apenas a sua felicidade. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Tudo o que é bom, dura o tempo necessário para ser inesquecível. Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Aceite o triunfo e a perda com igual serenidade. Faça tudo com humildade. Tenha uma boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Passei só para lhe dizer que não me esqueço de você. Tenha uma ótima tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não diga que a vitória está perdida se é de batalhas que se vive a vida. Tenha uma tarde feliz!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que a sua tarde seja leve, abençoada, iluminada, produtiva e feliz.','Loading...','Frases Boa Tarde')\n" +
+                ", ('A vida é a grande oportunidade de escrever seu nome na História do mundo. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Às vezes, estamos sem rumo, mas alguém entra em nossa vida, e se torna o nosso destino.','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nunca deixe de ficar atento à diferença entre esperar, e perder tempo \uD83D\uDE09 . Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Mais vale um lágrima por não ter vencido do que a vergonha de não ter lutado. Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Eu vivo por você, porque você é a minha vida. Boa Tarde amor!','Loading...','Frases Boa Tarde')\n" +
+                ", ('O importante não é ser importante, mas sim dar a importância a quem te acha importante. Boa Tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Você deve ser sempre uma prioridade na sua vida. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Curta com alegria! Você merece todas as coisas boas da vida e esta tarde está sendo maravilhosa!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa Tarde! Uma amizade como a sua merece meu carinho sempre.','Loading...','Frases Boa Tarde')\n" +
+                ", ('Na vida há coisas simples e importantes… Simples como eu e importante como você! Boa tarde my love!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que esta tarde seja repleta de paz para você. Deus te abençoe!','Loading...','Frases Boa Tarde')\n" +
+                ", ('O sucesso nunca é permanente, o fracasso nunca é total. O importante é a coragem de lutar. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Não tenho medo de tempestades, pois elas me ensinam a navegar.','Loading...','Frases Boa Tarde')\n" +
+                ", ('Hoje, o meu beijo vai para você, pessoa linda que mesmo tão distante, sempre se faz presente. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que Deus cuide sempre de você!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nunca deposite sua esperança em alguém que não está disposto a enxugar as suas lágrimas. Boa tarde!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Já sorriu para alguém hoje?','Loading...','Frases Boa Tarde')\n" +
+                ", ('A amizade é uma linda viagem onde os passageiros jamais largam as mãos. Boa Tarde amigo!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Tenha uma Tarde maravilhosa! Adoro o prazer da sua companhia.','Loading...','Frases Boa Tarde')\n" +
+                ", ('Uma feliz tarde para todos!','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Maior do que aqueles que querem me derrubar é aquele que me levanta todos os dias e me faz lutar! \uD83D\uDE4F\uD83D\uDC4A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Manter-se otimista é a melhor forma de superar qualquer obstáculo. Boa tarde ✌️\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Acredite sempre apesar das dificuldades, pois quem tem fé pode ser surpreendido. Boa tarde \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Faça de sua fé a força que está precisando \uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Pessoas maravilhosas como você merecem que cada instante do dia seja perfeito. Boa tarde  \uD83D\uDE1A\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Oportunidades surgem no caminho daqueles que correm com determinação. Boa tarde \uD83D\uDE09\uD83D\uDE00','Loading...','Frases Boa Tarde')\n" +
+                ", ('A felicidade se constrói dando o máximo em cada instante da vida. Boa tarde \uD83D\uDE00\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que cada instante de hoje seja especial e inesquecível \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Dê amor e alegria a este mundo e receba paz e felicidade em dobro. Boa tarde ❤️\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nunca deixe de ficar atento(a) à diferença entre esperar, e perder tempo. Boa Tarde \uD83D\uDE09\uD83D\uDE1A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Para dias bons: Sorrisos. Para dias ruins: Paciência.Boa tarde \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Uma vida sem desafios não vale a pena ser vivida \uD83D\uDE0A\uD83D\uDC4A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Você atrai o que transmite! Boa tarde \uD83D\uDE42✌️','Loading...','Frases Boa Tarde')\n" +
+                ", ('A felicidade ou a tristeza estão ao seu alcance e a decisão só depende de você.Boa tarde \uD83D\uDE00\uD83D\uDE22','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não deixe que seu dia-a-dia seja comum, transforme-o em algo grandioso. Boa tarde \uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que hoje seja um dia marcado por conquistas e vitórias para a glória de Deus \uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que se alegrem os rostos e se preparem os corações para instantes de alegria.Boa tarde \uD83D\uDE04\uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('As melhores coisas da vida acontece quando deixamos Deus guiar nossos passos. Boa tarde \uD83D\uDE1A\uD83D\uDC46','Loading...','Frases Boa Tarde')\n" +
+                ", ('Deus da as batalhas mais difíceis aos seus melhores soldados.Boa tarde \uD83D\uDE1A\uD83D\uDC4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Já sorriu para alguém hoje? \uD83D\uDE18\uD83D\uDE04','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não importa se o mundo esteja contra ti, faça de Deus a sua força para vencê-lo e ser feliz \uD83D\uDE00\uD83D\uDE4F','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que a sua tarde seja abençoada por Deus.Boa tarde \uD83D\uDE4F\uD83D\uDE42','Loading...','Frases Boa Tarde')\n" +
+                ", ('Uma feliz tarde para todos \uD83D\uDE04\uD83D\uDE00','Loading...','Frases Boa Tarde')\n" +
+                ", ('Levante-se e vá realizar seus planos. Boa tarde \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Aconteça o que acontecer acredite que consegue e pense sempre positivo ✌️\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Que Deus cuide sempre de você \uD83D\uDE4F\uD83D\uDE1A','Loading...','Frases Boa Tarde')\n" +
+                ", ('As pessoas vão longe demais pra ser feliz e a felicidade fica tão pertinho…Boa tarde \uD83D\uDE01','Loading...','Frases Boa Tarde')\n" +
+                ", ('Gente boa se atrai…Boa tarde ✌️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('As coisas mais simples são as mais bonitas Boa tarde \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Confie em si mesmo para conquistar tudo que falta.Boa tarde \uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Sonhos podem acontecer quando menos esperamos \uD83D\uDE18\uD83D\uDE42','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Distribua sua energia positiva pelo mundo e pelas pessoas e sinta-se feliz ✌️\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Apenas o agora importa, por isso este é o momento para lutar pela sua felicidade. Boa tarde \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Tenho mil planos para um único objetivo: ser feliz. Boa tarde \uD83D\uDE00\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Se a tempestade não passar dance na chuva. Boa tarde \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! As coisas realmente boas levam tempo não desista \uD83D\uDC4A\uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Não existe um caminho para a felicidade. A felicidade é o caminho. Boa Tarde \uD83D\uDE00\uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('O destino decide quem entra em nossas vidas. Nossas atitudes decidem quem permanece! Boa Tarde \uD83D\uDE00\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nada na vida fará você ser feliz até que você escolha ser feliz. Boa tarde \uD83D\uDE18✌️','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde!! Você se torna especial a cada atitude memorável \uD83D\uDE0A\uD83D\uDE42','Loading...','Frases Boa Tarde')\n" +
+                ", ('Saber encontrar a alegria na alegria dos outros é o segredo da felicidade.Boa tarde \uD83D\uDE00\uD83D\uDE04','Loading...','Frases Boa Tarde')\n" +
+                ", ('A felicidade é um bem que se multiplica ao ser dividido. Tenha uma boa tarde \uD83D\uDE18','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que seu dia seja muito proveitoso.Boa tarde ✌️\uD83D\uDE0A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Nós poderíamos ser muito melhores se não quiséssemos ser tão bons. Boa tarde \uD83D\uDE18\uD83D\uDE42','Loading...','Frases Boa Tarde')\n" +
+                ", ('Boa tarde! Se você não tentar, nunca vai saber se vai dar certo ou não \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases Boa Tarde')\n" +
+                ", ('Tenha uma tarde linda como o seu sorriso e iluminada como a sua alma \uD83D\uDE04\uD83D\uDE09','Loading...','Frases Boa Tarde')\n" +
+                ", ('Que o meu amor possa atrair muito mais alegrias para sua vida! Boa tarde \uD83D\uDE0A\uD83D\uDE04','Loading...','Frases Boa Tarde')\n" +
+                ", ('Busque o seu melhor todos os dias incansavelmente, sem medo do que possa encontrar pelo caminho, E seja muito Feliz! \uD83D\uDE04\uD83D\uDE18 Bom dia!☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Enquanto você tiver Deus em sua vida, nunca estará só‼ Tenha um Bom Dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Este dia é uma bênção e um presente de Deus \uD83C\uDF81 \uD83D\uDE4F; aceite-o com alegria e viva-o com gratidão!\uD83D\uDE4F  Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Os dias prósperos não vem por acaso, nascem de muito trabalho e persistência! \uD83D\uDCAA  Bom dia! \uD83C\uDF3B','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia pra você\uD83D\uDC49, que tem fé em Deus e sabe que Ele não te dá um fardo maior do que pode carregar!\uD83D\uDE4F Que nada acontece por acaso, e que quem semeia o bem só pode colher sorrisos! \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Deus obrigada por mais um dia !\uD83D\uDE4F , abençoe meus amigos e minha família onde quer que eles estejam. Amém! \uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Ao acordar lembre-se sempre que o dia mais importante da sua vida é aquele que está começando! Bom dia! \uD83D\uDE09☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Regra do dia: Esquecer o que não deu certo ontem. Hoje é um novo dia! ✌✌','Loading...','Frases Bom Dia')\n" +
+                ", ('Com a presença de Deus, a jornada de hoje vai ser maravilhosa. Bom dia! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Derrama Senhor, sobre nós a tua benção para que nosso dia seja de vitórias e alegrias! \uD83D\uDE4F\uD83D\uDE4F Bom dia‼️','Loading...','Frases Bom Dia')\n" +
+                ", ('Deus nos mostra o caminho \uD83D\uDC46\uD83D\uDC46, e hoje ganhamos mais uma chance de nos mantermos nele. Bom dia! \uD83D\uDC4D\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Sempre que o sol nasce ☀️, você tem uma nova oportunidade de ser feliz! \uD83D\uDE01 Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia Deus, Bom dia vida, Bom dia Amigos… Que o nosso dia seja lindo e muito abençoado!','Loading...','Frases Bom Dia')\n" +
+                ", ('Abençoado é o coração que amanhece agradecendo \uD83D\uDE4F ao Senhor pela dádiva da vida. Bom dia! ❤','Loading...','Frases Bom Dia')\n" +
+                ", ('Com a presença de Deus, a jornada de hoje vai ser maravilhosa. Bom dia! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Pra hoje: sorrisos bobos \uD83D\uDE0A\uD83D\uDE0A, uma mente tranquila \uD83D\uDE0E e um coração cheio de paz ❤. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Hoje, amanhã e sempre a fé vai te conduzir! \uD83D\uDE4F\uD83D\uDE4F Bom dia! ☀☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Hoje seu dia será especial ‼ Muito melhor que ontem e um aprendizado para amanhã. Hoje você tem a oportunidade de fazer as coisas diferentes‼ Tenha um ótimo dia! \uD83D\uDE04\uD83D\uDE03','Loading...','Frases Bom Dia')\n" +
+                ", ('Sorria! Deus acaba de te dar um novo dia e coisas extraordinárias podem acontecer se você crer. Bom dia! \uD83D\uDE04\uD83D\uDE4F','Loading...','Frases Bom Dia')\n" +
+                ", ('A cada nova manhã, nasce junto uma nova chance. Bom dia! ⛅⛅','Loading...','Frases Bom Dia')\n" +
+                ", ('O dia está alegre! E eu também, por desejar mais um perfeito dia para você!☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Ponha Deus em primeiro lugar, que tudo começará a dar certo. Bom dia!!','Loading...','Frases Bom Dia')\n" +
+                ", ('O dia só começa bem quando, o nosso coração fala com Deus. Bom dia!! ❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Todos os dias acordo feliz e em paz, pois trago Deus no coração! \uD83D\uDC97\uD83D\uDC97 Bom dia! \uD83C\uDF1E\uD83C\uDF1E','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! O êxito na vida não se mede pelo que você conquistou, mas sim pelas dificuldades que superou no caminho! \uD83D\uDCAA\uD83D\uDCAA','Loading...','Frases Bom Dia')\n" +
+                ", ('Que não falte fé \uD83D\uDE4F, ânimo e força \uD83D\uDCAA pra viver um dia abençoado hoje. Bom dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Viva cada momento, ria todos os dias, ame ❤ além das palavras… Tenha um bom dia! \uD83D\uDC4D\uD83D\uDC4D','Loading...','Frases Bom Dia')\n" +
+                ", ('Enxergue a vida com alegria e gratidão, que o amor de Deus viva no seu coração ❤! Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Os homens fariam maiores coisas, se não julgassem tantas coisas impossíveis. Bom dia!☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom Dia! Meu Deus \uD83D\uDE4F , Em cada passo que eu der, cada estrada que eu trilhar, todo caminho que eu escolher, a tua mão me guiará‼','Loading...','Frases Bom Dia')\n" +
+                ", ('Que a grandeza do Senhor nos revista de forças, que a nossa fé \uD83D\uDE4F nele nos encoraje e que esta tão doce esperança em nós nos conduza em toda e qualquer decisão! Bom dia! ☀☀','Loading...','Frases Bom Dia')\n" +
+                ", ('O dia de amanhã pertence a Deus \uD83D\uDE4F , então busquemos por Ele hoje! Bom Dia ‼','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que o Senhor derrame toda sorte de bênçãos sobre a sua vida hoje! \uD83D\uDC4F\uD83D\uDC4F\uD83C\uDF1E','Loading...','Frases Bom Dia')\n" +
+                ", ('Todo dia é dia de recomeçar, é dia de ser feliz. Abra-se ao novo, deseje-se um bom dia e lute por ele. É de dia após dia que é feita a vida! Bom Dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Não deixe que seu dia-a-dia seja comum, transforme-o em algo grandioso! Bom dia!\uD83C\uDF1E','Loading...','Frases Bom Dia')\n" +
+                ", ('Lutemos por melhores dias, contudo o mais importante é saber acordar e fazer do novo dia um instrumento de fé \uD83D\uDE4F  e conquistas!\uD83C\uDF1E','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que hoje seja um dia marcado por conquistas e vitórias para a glória de Deus! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Feliz de quem atravessa a vida inteira tendo mil razões para viver. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Senhor, todos os dias sou presenteada com riquezas incalculáveis. Ensina-me a ter olhos doces para perceber, e sobretudo agradecer. Bom dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! ☀ Olhe à sua volta e não perca a beleza que Deus nos dá diariamente…','Loading...','Frases Bom Dia')\n" +
+                ", ('Somente quem vê a mão de Deus \uD83D\uDE4F em todas as coisas pode colocar todas as coisas em suas mãos. Tenha um bom dia! \uD83C\uDF1E','Loading...','Frases Bom Dia')\n" +
+                ", ('Cada nova manhã é uma nova oportunidade que temos de estar com quem amamos ❤! Bom dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('A vida sempre te oferece uma nova chance.Isso se chama amanhecer.Bom dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Abençoadas sejam todas as voltas que a vida dá. Bom dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Acordo, abro os olhos e sorrio, pois meu primeiro pensamento é você. Bom dia amor \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Nunca poderei retribuir todas as maravilhas que trouxe para minha vida, mas toda manhã ouvirá de mim um bom dia, amor ❤️\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('O amanhecer me lembrou que juntos podemos viver os melhores momentos da nossa vida. Bom dia, meu amor \uD83D\uDE0D\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('Você me faz feliz, me ajuda a sorrir e me torna uma pessoa melhor. Bom dia, meu amor ❤️❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Amar você é a tarefa mais fácil que a vida já me ofereceu. Bom dia, querido ❤️\uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que nosso amor seja sempre a razão da harmonia nos nossos corações ❤️\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Existem coisas que precisamos lembrar, mas tem coisas impossíveis de esquecer: você. Bom dia meu amor \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Desde o amanhecer, até que se ponha o Sol, você estará em cada pensamento meu. Bom dia, meu amor \uD83D\uDE18❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Ter você do meu lado é ter a certeza que não há melhor forma de começar o meu dia \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('A manhã começa com a certeza que o meu amor por você vai aumentar todos os dias. Bom dia, amor ❤️\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia, amor! Por sua causa eu tenho lindos sonhos para sonhar \uD83D\uDE0A\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('Agradeço sempre por mais um dia e por ter você. Bom dia \uD83D\uDE4F❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia amor! Que o amor seja a melhor forma de começar e terminar o dia…❤️\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Meu amor, lhe desejo um dia feliz e repleto de realizações. Sorria, divirta-se, Bom dia \uD83D\uDE1A\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Como é bom começar o dia pensando em você. Tenha um excelente dia \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('O dia está alegre! E eu também, por desejar mais um perfeito dia ao meu amor. Te amo ❤️❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia amor! Você é a melhor parte do meu dia \uD83D\uDE09\uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('O teu amor mudou a minha vida, assim como a luz do Sol transforma a noite em dia. Bom dia, amor ❤️\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Dizem que depois da tempestade vem a calmaria… No meu caso, veio você. Bom dia amor \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Meu desejo é ficar todo segundo da minha vida ao teu lado ❤️\uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('Mas de que importa o mundo lá fora, se eu tenho você comigo? Bom dia \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia amor! E que vire rotina, acordar todos os dias com você do meu lado \uD83D\uDC6B❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Vou pedir ao céus, você aqui comigo.Bom dia\uD83D\uDE4F\uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia amor! Todo dia, se eu pudesse, eu ia estar com você ❤️\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('As memórias mais lindas da minha vida foram construídas do teu lado! Bom dia, amor \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Você me transformou com o teu amor e carinho e pintou a minha vida com as cores mais bonitas que eu já vi! Bom dia, amor \uD83D\uDE0A❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Dormir e acordar ao seu lado é o sonho da minha vida.Bom dia \uD83D\uDE1A\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Quando duas pessoas se amam, elas não se submetem e nem se dominam, apenas se completam diariamente. Bom dia, te amo \uD83D\uDE0D❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Você é tudo o que eu preciso para enfrentar os desafios que a vida reservou para mim. Bom dia, amor \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('E a vida sorri a cada instante só porque você está ao meu lado. Bom dia, amor ❤️\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Preciso de um beijo seu para trazer doçura ao meu café da manhã. Bom dia, amor\uD83D\uDE09\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('Caminhar ao lado de quem amamos é saber que estamos pisando o solo da felicidade. Bom dia, amor \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Falando em saudade, de novo eu acordei pensando em você.Bom dia amor \uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Quero que você sorria ao pensar em mim. E em seu sorriso, viverei para sempre.\uD83D\uDE1A\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Te querer por uma noite é pouco, te quero pra vida inteira. Bom dia ❤️\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Eu te escolhi, e te escolheria outras mil vezes..Bom dia \uD83D\uDE18\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Te amei no passado, te amo no presente, Se o futuro permitir, Te amarei eternamente! Bom dia ❤️\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Agradeço á Deus por te ter todos os dias ao meu lado.Bom dia \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Não é qualquer sorriso, é o seu.Bom dia amor \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Eu vou te amar nas outras vidas que virão.Bom dia amor ❤️\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia amor! Além de namorado, você é amigo. Abre mão dos sonhos pra sonhar comigo \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Nunca se esqueça que minha felicidade depende da sua. Bom dia amor \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Longe ou perto você está sempre no meu coração e vá onde for meu pensamento vai com você. Bom dia, amor ❤️❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Hoje preciso que nossos olhares se encontrem, porque um segundo ao seu lado é suficiente para me deixar feliz. Bom dia, amor \uD83D\uDE18\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('E se não houver amanhã… Você fez o hoje valer a pena. Bom dia amor \uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Dono do meus olhares, me rouba suspiros e ares \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Exagero é falar de você, passo meu tempo te admirando.Bom dia \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Vou te provar, te fazer sentir que cada dia eu volto a te escolher ❤️\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Vou recitar no resto dos meus dias, a poesia que há em seu olhar. Bom dia, meu amor \uD83D\uDE18\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Porque meus dias mais bonitos, são com você. Bom dia ❤️\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Tem gente que chega e muda os planos da gente.Bom dia meu amor \uD83D\uDE0D\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Quero estar ao seu lado, em cada derrota, e cada vitoria. Enxugando cada lágrima e registrando cada sorriso \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Bons amigos ajudam você a encontrar coisas importantes, quando já as perdeu… Seu sorriso \uD83D\uDE00 , sua esperança e sua coragem \uD83D\uDCAA, Bom Dia a todos! \uD83C\uDF1E\uD83C\uDF1E','Loading...','Frases Bom Dia')\n" +
+                ", ('Se o seu dia for do jeito que imagino… \uD83D\uDCAD\uD83D\uDCAD certamente você terá a realização necessária para fazer de sua vida motivo de orgulho para todos que torcem pelo seu sucesso! \uD83D\uDC4F\uD83D\uDC4F Bom dia! ☀','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia, amigo! Agora que já acordou, inspire motivação, coloque um sorriso no rosto e saia para conquistar o mundo \uD83D\uDE04\uD83D\uDC4C','Loading...','Frases Bom Dia')\n" +
+                ", ('Amigos são uma família que o coração ❤ escolhe! Que todos tenham um dia Abençoado! \uD83D\uDE4F','Loading...','Frases Bom Dia')\n" +
+                ", ('É sobre saber que em algum lugar alguém zela por ti. Tenha um bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Amiga! Que Deus te dê força e sabedoria, para enfrentar os obstáculos do dia a dia! \uD83D\uDE4F\uD83D\uDCAA','Loading...','Frases Bom Dia')\n" +
+                ", ('Amigo! Hoje você tem duas opções: Ser feliz ou ser mais feliz ainda. Bom dia! \uD83D\uDE09\uD83D\uDE04','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Tudo o que você precisa é de amor e um pouco de ☕️ Que seu dia, seja lindo!! ☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Quem tem amigos igual a você, só deseja viver muito para desfrutar a vida com eles. Bom dia! \uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases Bom Dia')\n" +
+                ", ('Amigo! Eu sei nem todos os dias são fáceis, mas entregá-los todas as manhãs a Deus te faz ter a certeza de que ele está no controle de tudo. \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('A amizade é como um laço, que une o ❤️ das pessoas. Bom dia!! \uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('As pessoas entram por acaso em nossas vidas, mas não é por acaso que elas ficam, assim são os amigos. Bom dia! ❤️\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Quando você fraquejar eu serei tua base, e quando eu fraquejar, você será a minha. Bom dia!! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Bons amigos, são família que nos permitiram escolher. Bom dia! \uD83D\uDE0A❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Esse é o segredo dos amigos verdadeiros. Te rouba um sorriso e te devolve dois. Bom dia!! \uD83D\uDE04\uD83D\uDE06','Loading...','Frases Bom Dia')\n" +
+                ", ('Dou valor aos meus amigos, pois eles me aceitam do jeito que sou. Bom dia! \uD83D\uDE0C\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Pra você, amigo! Eu desejo um bom dia, um ☕️ bem forte e um abraço apertado \uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Não importa se a AMIZADE for recente, o que vale é que ela seja VERDADEIRA! Bom dia!! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia, Amigo especial! Sei que em você eu posso confiar. \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia amiga! Com você ao meu lado, meu mundo sempre será cor de rosa \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Um pequeno pensamento positivo pela manhã pode mudar todo o seu dia. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Ao acordar lembre-se sempre que o dia mais importante da sua vida é aquele que está começando. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Para Hoje: Sorrisos, Uma mente tranquila e um coração cheio de paz!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bonito mesmo é estar de bem com a vida! Bom Dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('A vida é muito curta para você acordar com preguiça. Mexa o corpo e tenha um bom dia! ','Loading...','Frases Bom Dia')\n" +
+                ", ('Regra do dia: Esquecer o que não deu certo ontem. Hoje é um novo dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Sorria, você está sendo abençoada. Bom dia, minha amiga!','Loading...','Frases Bom Dia')\n" +
+                ", ('Nesse mundo não há perdas e fracassos quando temos no coração a vontade de lutar e modificar a vida! Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom Dia! Não coloque limites em seus sonhos, coloque fé!','Loading...','Frases Bom Dia')\n" +
+                ", ('Sorria! Deus acaba de te dar um novo dia e coisas extraordinárias podem acontecer se você crer!','Loading...','Frases Bom Dia')\n" +
+                ", ('Nós poderíamos ser muito melhores se não quiséssemos ser tão bons. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Nada na vida fará você ser feliz, até que você escolha ser feliz. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('O sentido da vida é dar à vida um sentido. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Na plenitude da felicidade, cada dia é uma vida inteira. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Meu amor, lhe desejo um dia feliz e repleto de realizações. Sorria, divirta-se, viva!','Loading...','Frases Bom Dia')\n" +
+                ", ('Se não foi ontem, será hoje! Um bom dia com muita determinação.','Loading...','Frases Bom Dia')\n" +
+                ", ('Mantenha o foco no objetivo, centralize a força para lutar e utilize a fé para vencer. Tenha um dia fantástico!','Loading...','Frases Bom Dia')\n" +
+                ", ('Não importa a cor do céu. Quem faz o dia bonito é você.','Loading...','Frases Bom Dia')\n" +
+                ", ('Existem coisas que precisamos lembrar para não esquecer, mas tem coisas impossíveis de esquecer: você. Bom dia meu amor!','Loading...','Frases Bom Dia')\n" +
+                ", ('Nunca desanime, as vezes é só ir um pouco mais além! Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que hoje seja um dia marcado por conquistas e vitórias para a glória de Deus.','Loading...','Frases Bom Dia')\n" +
+                ", ('O dia mal começou e eu já sinto uma vontade danada de ser feliz o tempo inteiro…','Loading...','Frases Bom Dia')\n" +
+                ", ('Hoje é o dia da conquista, da superação, de dar a volta por cima. Tenha fé!','Loading...','Frases Bom Dia')\n" +
+                ", ('Não deixe que seu dia-a-dia seja comum, transforme-o em algo grandioso! Tenha um dia fantástico!','Loading...','Frases Bom Dia')\n" +
+                ", ('Quem fica olhando o tamanho da dificuldade, não alcança o que deseja! Bom Dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Sempre existe um amanhecer onde Deus renova nossas forças para prosseguir. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Como é bom começar o dia pensando em você. Tenha um excelente dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Se a caminhada está difícil, é porque você está no caminho certo. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que seu dia seja tão especial como você!','Loading...','Frases Bom Dia')\n" +
+                ", ('Comece o dia com o coração agradecido! Quanto mais se agradece mais se ganha! Bom Dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Se você ainda não desistiu, é porque sabe que vale a pena. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('O primeiro sorriso do meu dia aparece quando abro os olhos e me lembro de você. Bom dia, meu amor!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom Dia Amigos! Que Deus nos dê força, coragem e sabedoria para enfrentar os obstáculos do dia a dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('A palavra impossível foi inventada por alguém que desistiu. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Não espere que os seus dias sejam de sucesso se não acordar antes que o Sol dê seu espetáculo. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Lembre-se sempre, cada dia nasce de um novo amanhecer. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Um novo dia é uma página em branco na sua vida. Escreva apenas o que vale a pena. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Que a pressa não nos impeça de ver os detalhes. Bom dia!','Loading...','Frases Bom Dia')\n" +
+                ", ('Aos meus queridos amigos, eu desejo um bom dia, um café bem forte, e uma abraço apertado.','Loading...','Frases Bom Dia')\n" +
+                ", ('Ter um bom dia vai depender mais de você, do que de qualquer outra pessoa.\\nCada dia é único, não se perca na rotina, faça de cada dia um dia especial. Bom dia!!','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que hoje, seja mais um dia abençoado…\\nE que Deus nos cuide e nos instrua,\\nacerca de toda e qualquer decisão no dia de hoje. \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia!! Lembre-se o mais importante não é vencer todas as batalhas,\\nmas sim, continuar a tentar alcançar seus objetivos, sem desanimar no meio do caminho…\\nQue seu dia seja de muita determinação.\uD83D\uDC4A\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Que uma infinidade de bênçãos cheguem até você, neste novo dia que começa.\\nAcredite que será um dia grandioso, com pessoas do bem, e tudo de melhor. Bom dia!! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Todo novo dia que nasce nos dá a possibilidade de evoluirmos,\\nde amadurecermos, de nos tornarmos pessoas melhores…\\nUse essa oportunidade que a vida lhe dá de presente a cada dia. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Acordar é a melhor razão para ser feliz, Grato a Deus por mais um dia…\\nTenha um belo dia! \uD83D\uDE4F☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Um brinde a todas as formas de dar a volta por cima…\\nOu por baixo. Pouco importa,\\ndesde que hoje seja melhor que ontem. Bom dia! ☀️\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que esse novo dia que chega, seja de renovação….\\nDe novas bênçãos. De novas conquistas. Novas alegrias.\\nQue você se renove a cada amanhecer. ☀️\uD83D\uDC4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que seu dia seja alegre e especial…\uD83D\uDE03\uD83D\uDE18\\nQue seja repleto de paz, de amor, de boas conversas…\\nQue o trabalho seja produtivo e a relação com os que ama seja plena. ❤️','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia!! Se cubra de oração, se encha de gratidão e recomece…\\nO que for benção para a sua vida, Deus te entregará! \uD83D\uDE4F','Loading...','Frases Bom Dia')\n" +
+                ", ('Desejo um Bom dia e que hoje descubra o quanto você é capaz…\\nEsqueça os medos e inseguranças e confie em você. Acredite no seu talento! \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia!! O que nos move é a expectativa por um novo dia…\\nTenha certeza de uma coisa:\\nDeus é sábio e lhe reserva um grande presente todos os dias. \uD83D\uDC46\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Te desejo um bom dia hoje, amanhã e sempre…\\nAproveite o dia para refletir, sobre o quanto se pode melhorar,\\ncomo pessoa e desenvolva todo seu potencial. Bom dia!! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('A vida perde o sentido, se não houverem os sonhos, e se não pudermos,\\ntrabalhar na conquista deles, portanto, não meçamos esforços\\npara conseguir tudo aquilo que realmente almejamos. Bom dia!! \uD83D\uDC4A☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Desejo que nenhum mal estar, nenhum mal humor,\\nnem nada, possa atrapalhar o seu Bom Dia! \uD83D\uDC4F☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia!! \uD83D\uDE03\uD83D\uDC4F A vida precisa ser vivida com leveza e, uma pitada de humor,\\nsó assim, se pode ser verdadeiramente feliz!\\nQue o dia seja de sorrisos!','Loading...','Frases Bom Dia')\n" +
+                ", ('A vida é o que fazemos dela, é como a encaramos,\\né como decidimos vivê-la…\\nQue possamos escolher uma vida de paz! Bom dia! ☀️\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('A cada manhã trás uma bênção única e especial…\\nAproveite a sua hoje e seja grato!\\nTenha um dia lindo e especial! ☀️\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Um novo dia, uma nova chance de dar gargalhada, de abraçar a alegria,\\numa nova chance de ser feliz. Tenha um bom dia!! ☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Aproveite todos os momentos deste dia de forma inteira, completa!\\nO dia está esperando você com um abraço muito, muito reconfortante…\\nÉ hora de sorrir para a vida. Bom dia!! \uD83D\uDE03☀️','Loading...','Frases Bom Dia')\n" +
+                ", ('Eu espero que você tenha um belo amanhecer, e que desperte sorrindo, e que sorrindo,\\nvocê transmita paz e tranquilidade a todos a sua volta. Bom dia!! ☀️\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Que nessa manhã, sua energia seja renovada, e você saiba como usa-la,\\nPois é o ingrediente mais importante para um grande dia\\nUm bom e carinhoso dia para você. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Tenha um bom dia. Que a jornada de hoje seja memorável,\\ne que provoque em você sensações bem positivas.\\nViva cada uma delas, durante todo seu dia. Bom dia!! ✌️\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia!! Que a gente saiba ser reciproco as coisas boas,\\ne imune as coisas ruins…Capacidade para se encher de vida\\namor e refletir nos outros. ❤️\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Com a presença de Deus, a jornada de hoje vai ser maravilhosa. Bom dia! \uD83D\uDE4C\uD83D\uDE18\uD83D\uDE0A','Loading...','Frases Bom Dia')\n" +
+                ", ('Um novo dia sempre vem com algo de bom! Aprecie! Bom dia! \uD83D\uDE0A\uD83D\uDE1A\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Que a gente saiba agradecer o pouco, para que possamos receber muito. Bom dia! \uD83D\uDE4F\uD83D\uDE4C\uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Encher o coração de coisas boas é a melhor maneira de se proteger das maldades alheias. ❤\uD83D\uDE04\uD83D\uDE12','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que seu dia seja igual a vontade de Deus: bom, perfeito e agradável. \uD83D\uDC46\uD83D\uDE0A☺\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Os bons dias lhe dão felicidade… Bom dia! \uD83D\uDE04☺\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Um dia bem começado, deve ser bem acabado Bom dia! \uD83D\uDE0E☺\uD83D\uDE1A','Loading...','Frases Bom Dia')\n" +
+                ", ('Deixe cada dia refletir a beleza de sua alma. Bom dia! \uD83D\uDE0A\uD83D\uDE06\uD83D\uDE09','Loading...','Frases Bom Dia')\n" +
+                ", ('Um “Bom dia!” se retribui com outro “bom dia!” Afinal, A gentileza é a essência do ser humano. \uD83D\uDC4D\uD83D\uDE0A\uD83D\uDE18','Loading...','Frases Bom Dia')\n" +
+                ", ('Bom dia! Que seu dia seja cheio de coisas boas! \uD83D\uDC4D\uD83D\uDE0A\uD83D\uDE18☺','Loading...','Frases Bom Dia');";
+        return frase;
+    }
+    public static String carregarFrases13() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                "('Me abrace, que no abraço mais do que em palavras, as pessoas se gostam \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Bonitas')\n" +
+                ", ('E naquele momento eu seria capaz de jurar que éramos infinitos \uD83D\uDE03\uD83D\uDE18','Loading...','Frases Bonitas')\n" +
+                ", ('Quando você tem medo e faz mesmo assim, isso é coragem \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Bonitas')\n" +
+                ", ('O para sempre é composto de agoras \uD83D\uDC4F☺️','Loading...','Frases Bonitas')\n" +
+                ", ('Um Dia todo mundo Aprende Que Não Precisa Correr Atrás De Quem Vc Deseja, Pq A Vida Trás Quem Vc Merece...\uD83D\uDE0E\uD83C\uDF40\uD83D\uDC4F\uD83C\uDFFC\uD83D\uDE0F\uD83D\uDCAD❤⚓','Loading...','Frases Bonitas')\n" +
+                ", ('Que os dias tristes sejam raros e que os felizes virem rotina \uD83D\uDC93\uD83C\uDF3C\uD83D\uDE01','Loading...','Frases Bonitas')\n" +
+                ", ('Acima de tudo, guarde o seu coração, pois dele depende toda a sua vida ❤️\uD83D\uDE18','Loading...','Frases Bonitas')\n" +
+                ", ('Só o que é bom dura tempo o bastante pra se tornar inesquecível \uD83D\uDE1A❤️\\n(Charlie Brown Jr).','Loading...','Frases Bonitas')\n" +
+                ", ('As melhores coisas da vida, não podem ser vistas nem tocadas, mas sim sentidas pelo coração \uD83D\uDE0A❤️','Loading...','Frases Bonitas')\n" +
+                ", ('Deus: o único que te escuta quando ninguém mais quer ouvir sua voz \uD83D\uDE4F','Loading...','Frases Bonitas')\n" +
+                ", ('A distância separa dois olhares, mas nunca dois corações ❤️❤️','Loading...','Frases Bonitas')\n" +
+                ", ('É preciso força pra sonhar e perceber que a estrada vai além do que se vê \uD83D\uDC4A\uD83D\uDE18\\n(Los Hermanos)','Loading...','Frases Bonitas')\n" +
+                ", ('É preciso amar as pessoas como se não houvesse amanhã ❤️\uD83D\uDE1A\\n(Legião Urbana)','Loading...','Frases Bonitas')\n" +
+                ", ('Aquele que crê em mim nunca estará sozinho.Disse:Jesus \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases Bonitas')\n" +
+                ", ('Enquanto a cor da pele for mais importante que o brilho dos olhos haverá guerra \uD83D\uDC4F','Loading...','Frases Bonitas')\n" +
+                ", ('A mais bela maquiagem de uma mulher é o sorriso \uD83D\uDE03\uD83D\uDE18','Loading...','Frases Bonitas')\n" +
+                ", ('Não sou melhor que ninguém, mas procuro ser melhor que eu mesmo a cada dia \uD83D\uDE0A','Loading...','Frases Bonitas')\n" +
+                ", ('A amizade duplica nossas alegrias e divide nossa tristeza \uD83D\uDE04\uD83D\uDE03\uD83D\uDE22','Loading...','Frases Bonitas')\n" +
+                ", ('No que acredito mesmo é em Deus \uD83D\uDE4F\uD83D\uDC46','Loading...','Frases Bonitas')\n" +
+                ", ('O choro pode durar uma noite, mas a alegria vem pela manhã \uD83D\uDE22\uD83D\uDE03\\n(Salmos 30:5)','Loading...','Frases Bonitas')\n" +
+                ", ('Agora permanecem a fé, a esperança e o amor. Porém, o maior desses é o amor ❤️\uD83D\uDC4F\\n(I Coríntios 13:13)','Loading...','Frases Bonitas')\n" +
+                ", ('Tenho em mim todos os sonhos do mundo \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases Bonitas')\n" +
+                ", ('Vamos viver nossos sonhos, temos tão pouco tempo ✌️\uD83D\uDE18\\n(Charlie Brown Jr).','Loading...','Frases Bonitas')\n" +
+                ", ('Bom, às vezes a vida é dura, mas eu tenho muita coisa para agradecer \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Bonitas')\n" +
+                ", ('Às vezes as pessoas são bonitas. Não pela aparência física, nem pelo que dizem, só pelo que são \uD83D\uDE0D','Loading...','Frases Bonitas')\n" +
+                ", ('Dê a quem você ama: asas para voar, raízes para voltar e motivos para ficar \uD83D\uDE18\uD83D\uDC4F','Loading...','Frases Bonitas')\n" +
+                ", ('Pois o amor resolve todos os problemas ❤️\uD83D\uDE1A','Loading...','Frases Bonitas')\n" +
+                ", ('O amor tudo sofre, tudo crê, tudo espera, tudo suporta ❤️\uD83D\uDC4A\\n(I Coríntios 13:7)','Loading...','Frases Bonitas')\n" +
+                ", ('Estou sempre alegre. Essa é a melhor maneira de resolver os problemas da vida \uD83D\uDE03\uD83D\uDE04','Loading...','Frases Bonitas')\n" +
+                ", ('Se você encontrar um caminho sem obstáculos, ele provavelmente não leva a lugar nenhum \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases Bonitas')\n" +
+                ", ('O amor é um ato de fé. Quem tiver pouca fé também terá pouco amor ❤️\uD83D\uDE4F','Loading...','Frases Bonitas')\n" +
+                ", ('Não existe um caminho para a felicidade. A felicidade é o caminho \uD83D\uDE03\uD83D\uDE04','Loading...','Frases Bonitas')\n" +
+                ", ('Você nunca sabe a força que tem. Até que a sua única alternativa é ser forte \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Bonitas')\n" +
+                ", ('A alegria de fazer o bem é a única felicidade verdadeira.   \uD83D\uDC4D\uD83D\uDE04\uD83D\uDE0A','Loading...','Frases Bonitas')\n" +
+                ", ('Felizes são os que ouvem a palavra de Deus e a guardam!  \uD83D\uDE4F❤','Loading...','Frases Bonitas')\n" +
+                ", ('Deus está nas coincidências.  \uD83D\uDE09\uD83D\uDE4F','Loading...','Frases Bonitas')\n" +
+                ", ('Quem fala menos, ouve melhor. E quem ouve melhor, aprende mais.  \uD83D\uDC42\uD83D\uDC4D','Loading...','Frases Bonitas')\n" +
+                ", ('As pessoas criticam, porque criticar é muito mais fácil do que fazer melhor.  \uD83D\uDC4C','Loading...','Frases Bonitas')\n" +
+                ", ('Consciência é o que todo ser humano deveria ter de melhor, pois é a partir daí que seu caráter inspirará a formação de outras virtudes. \uD83D\uDE09','Loading...','Frases Bonitas')\n" +
+                ", ('As melhores coisas na vida não são coisas.  \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Bonitas')\n" +
+                ", ('O segredo da felicidade é encontrar a nossa alegria na alegria dos outros.  \uD83D\uDE0A\uD83D\uDE03','Loading...','Frases Bonitas')\n" +
+                ", ('Ser feliz sem motivo é a mais autêntica forma de felicidade. \uD83D\uDE04\uD83D\uDC4C','Loading...','Frases Bonitas')\n" +
+                ", ('Aquele que desperdiça o dia de hoje lamentando o de ontem, desperdiçará o de amanhã, lamentando o de hoje. \uD83D\uDE1E\uD83D\uDC4E','Loading...','Frases Bonitas')\n" +
+                ", ('A felicidade é a única coisa que podemos dar sem possuir.  \uD83D\uDE0C\uD83D\uDE00','Loading...','Frases Bonitas')\n" +
+                ", ('Sofremos muito com o pouco que nos falta e gozamos pouco o muito que temos  \uD83D\uDE26\uD83D\uDE12','Loading...','Frases Bonitas')\n" +
+                ", ('Para quem ama, qualquer sacrifício é alegria.  \uD83D\uDE11\uD83D\uDE09','Loading...','Frases Bonitas')\n" +
+                ", ('O futuro pertence aqueles que acreditam na beleza de seus próprios sonhos. \uD83D\uDC4D\uD83D\uDE0C','Loading...','Frases Bonitas')\n" +
+                ", ('A amizade desenvolve a felicidade e reduz o sofrimento, duplicando a nossa alegria e dividindo a nossa dor. \uD83D\uDC4D\uD83D\uDC6C','Loading...','Frases Bonitas')\n" +
+                ", ('Se não puder se destacar pelo talento, vença pelo esforço  \uD83D\uDC4A','Loading...','Frases Bonitas')\n" +
+                ", ('Os sentimentos verdadeiros se manifestam mais por atos que palavras.  ❤\uD83D\uDC4C','Loading...','Frases Bonitas')\n" +
+                ", ('Conseguir um amigo é uma graça, mantê-lo é um dom e amá-lo é uma virtude. \uD83D\uDC4D\uD83D\uDC4C\uD83D\uDC6C❤','Loading...','Frases Bonitas')\n" +
+                ", ('Procure ser um homem de valor, em vez de procurar ser um homem de sucesso.\uD83D\uDC4D\uD83D\uDC68','Loading...','Frases Bonitas')\n" +
+                ", ('A única maneira de se conseguir um amigo é ser um amigo.\uD83D\uDC4D\uD83D\uDC6C\uD83D\uDC4C','Loading...','Frases Bonitas')\n" +
+                ", ('Prefiro os que me criticam, pois ajudam a me corrigir aqueles que me bajulam perpetuando meus erros  \uD83D\uDC4A','Loading...','Frases Bonitas')\n" +
+                ", ('A diferença entre o possível e o impossível está na vontade humana.  \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Bonitas')\n" +
+                ", ('Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.\uD83D\uDC4D✌','Loading...','Frases Bonitas')\n" +
+                ", ('As mais lindas palavras de amor são ditas no silêncio de um olhar. \uD83D\uDC4D\uD83D\uDC40','Loading...','Frases Bonitas')\n" +
+                ", ('Um tesouro nem sempre é um amigo, mas um amigo sempre é um tesouro.  \uD83D\uDC4D\uD83D\uDC6C\uD83D\uDC8E','Loading...','Frases Bonitas')\n" +
+                ", ('Só entendi o valor do silêncio no dia que resolvi calar para não magoar alguém. \uD83D\uDE14','Loading...','Frases Bonitas')\n" +
+                ", ('Melhor viver uma vida de luta e batalhas do que viver uma vida de mentiras e falsidade. \uD83D\uDE14\uD83D\uDE26','Loading...','Frases Bonitas')\n" +
+                ", ('O que você tem de diferente é o que você tem de mais bonito.\uD83D\uDE1A☺','Loading...','Frases de carinho')\n" +
+                ", ('Meu lugar favorito é dentro do seu abraço!\uD83D\uDE45\uD83D\uDE18','Loading...','Frases de carinho')\n" +
+                ", ('Você é um pedacinho de Deus na minha vida.\uD83D\uDC46\uD83D\uDE4C','Loading...','Frases de carinho')\n" +
+                ", ('Nada encanta mais que um carinho bem feito! \uD83D\uDE1A','Loading...','Frases de carinho')\n" +
+                ", ('Não existe amor sem perdão, e não existe perdão sem amor!!!!','Loading...','Frases de carinho')\n" +
+                ", ('Enquanto alguns escolhem pessoas perfeitas, eu escolho as que me fazem bem.\uD83D\uDE0C\uD83D\uDC4D','Loading...','Frases de carinho')\n" +
+                ", ('Nenhum lugar é melhor do que perto…☺\uD83D\uDE0A','Loading...','Frases de carinho')\n" +
+                ", ('Pra hoje e sempre te desejo: o bom, o bem e o melhor!\uD83D\uDE09☺\uD83D\uDE04','Loading...','Frases de carinho')\n" +
+                ", ('A vida é muito curta pra gente não dizer o que sente de verdade.\uD83D\uDE06\uD83D\uDE1A','Loading...','Frases de carinho')\n" +
+                ", ('Carinho é o remédio mais poderoso, ministrado sem dosagem e sem efeito colateral.☺\uD83D\uDE0A\uD83D\uDE0C','Loading...','Frases de carinho')\n" +
+                ", ('O abraço é o cobertor que aquece o coração quando faz frio.\uD83D\uDE45❤','Loading...','Frases de carinho')\n" +
+                ", ('Tem gente que chega e faz seu dia clarear, tem gente que chega e ilumina sua vida inteira.\uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases de carinho')\n" +
+                ", ('Especiais são as pessoas que te fazem sorrir nos piores momentos.\uD83D\uDE04\uD83D\uDE09','Loading...','Frases de carinho')\n" +
+                ", ('Eu desejo que seus dias sejam felizes, que suas noites sejam tranquilas e que não lhe falte paz e amor.✌❤','Loading...','Frases de carinho')\n" +
+                ", ('Nunca implore carinho, atenção ou amor. Se não é dado livremente, não vale a pena ter. ☺\uD83D\uDE16\uD83D\uDE18','Loading...','Frases de carinho')\n" +
+                ", ('Tem palavras que chegam como um abraço… E tem abraços que não precisam de palavras…\uD83D\uDC4D\uD83D\uDE18','Loading...','Frases de carinho')\n" +
+                ", ('Eu gosto de pessoas que tiram sorrisos de mim quando eu menos espero e mais preciso.\uD83D\uDE04\uD83D\uDE0A','Loading...','Frases de carinho')\n" +
+                ", ('Pessoas incríveis fazem lugares comuns se tornarem extraordinários.\uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de carinho')\n" +
+                ", ('Te desejo uma tempestade de coisas boas!\uD83D\uDE09☺','Loading...','Frases de carinho')\n" +
+                ", ('Carinho é tocar com respeito o mundo do outro.\uD83C\uDF0D\uD83D\uDE19','Loading...','Frases de carinho')\n" +
+                ", ('Existem dias em que qualquer carinho é bem vindo. ☺\uD83D\uDE0A','Loading...','Frases de carinho')\n" +
+                ", ('Os abraços são anjos costurando nossas almas com fios de nuvem. \uD83D\uDE07\uD83D\uDE45','Loading...','Frases de carinho')\n" +
+                ", ('O melhor dos carinhos tem o sabor e o som da melhor melodia .\uD83D\uDE1A☺','Loading...','Frases de carinho')\n" +
+                ", ('Tenho por ti um carinho imenso que certamente, de tão grande, não cabe no infinito!\uD83D\uDE09\uD83D\uDE0D','Loading...','Frases de carinho')\n" +
+                ", ('Carinhosamente adentro seu coração todos os dias e planto nele o brilho do amor que lhe tenho. Te amo!❤\uD83D\uDE0D','Loading...','Frases de carinho')\n" +
+                ", ('O carinho é uma forma especial de entrar na alma das pessoas pela porta da frente e continuar brilhando para sempre nos olhos delas.\uD83D\uDE1A\uD83D\uDE09','Loading...','Frases de carinho')\n" +
+                ", ('O carinho é a madeira que alimenta o fogo do desejo de aquecer a quem queremos bem em nosso coração.❤\uD83D\uDE19','Loading...','Frases de carinho')\n" +
+                ", ('Sou todo carinho quando te vejo chegar e aprendi a ser carinhoso constantemente só para lhe dar amor em forma de poesia.❤\uD83D\uDE0A','Loading...','Frases de carinho')\n" +
+                ", ('O carinho é a ferramenta com que construímos no outro a nossa presença como felicidade e caminho de paz.\uD83D\uDE0A☺\uD83D\uDE1A','Loading...','Frases de carinho')\n" +
+                ", ('Você pode se esquecer dos beijos que lhe dei, até do amor que fizemos incontáveis vezes, mas nunca poderá se esquecer do carinho que lhe dei!\uD83D\uDE0A☺\uD83D\uDE18','Loading...','Frases de carinho')\n" +
+                ", ('Me faça sentir ciúmes e eu vou fazer você sentir minha falta \uD83D\uDE0C\uD83D\uDE18','Loading...','Frases de ciumes')\n" +
+                ", ('Jesus mandou dividir o pão, e não as pessoas da minha vida \uD83D\uDE12\uD83D\uDE1C','Loading...','Frases de ciumes')\n" +
+                ", ('Ta reclamando do meu ciúmes!? Espera até ver meu desprezo \uD83D\uDC4C\uD83D\uDE20','Loading...','Frases de ciumes')\n" +
+                ", ('Valorize meu ciúmes, por que se ele for embora o amor vai com ele \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de ciumes')\n" +
+                ", ('Respiro ciúmes, transpiro raiva \uD83D\uDE12\uD83D\uDE20','Loading...','Frases de ciumes')\n" +
+                ", ('Três passos pra me irritar: Me faça sentir ciúmes, me faça ciúmes, não tenha ciúmes de mim \uD83D\uDC4A\uD83D\uDE20','Loading...','Frases de ciumes')\n" +
+                ", ('Antes meu ciúmes te fazendo raiva, do que minha falta te fazendo triste \uD83D\uDE20\uD83D\uDE22','Loading...','Frases de ciumes')\n" +
+                ", ('Se ciúmes fosse beleza, eu seria a mais bela…\uD83D\uDC44\uD83D\uDE09','Loading...','Frases de ciumes')\n" +
+                ", ('Só o ciúme me faz saber se estou amando… \uD83D\uDE12❤️','Loading...','Frases de ciumes')\n" +
+                ", ('Eu sinto ciúmes, por que eu tenho medo de perder quem amo. \uD83D\uDE0C\uD83D\uDC4C','Loading...','Frases de ciumes')\n" +
+                ", ('Ser ciumenta não ta dando certo…Por que eu ainda não tenho licença pra matar \uD83D\uDC4C\uD83D\uDD2B','Loading...','Frases de ciumes')\n" +
+                ", ('Hoje pude entender, que o meu ciumes é menor que o amor por você \uD83D\uDE0C\uD83D\uDE0D','Loading...','Frases de ciumes')\n" +
+                ", ('Não é orgulho, muito menos ignorância, é só medo de perder. \uD83D\uDE0C','Loading...','Frases de ciumes')\n" +
+                ", ('Não é ciumes \uD83D\uDC4E é medo de perder o que foi tão difícil de encontrar\uD83D\uDC4C❤','Loading...','Frases de ciumes')\n" +
+                ", ('De tristeza em tristeza, muitos acabam por fazer dela sua identidade','Loading...','Frases de ciumes')\n" +
+                ", ('Se ciúmes fosse um droga, eu estaria em uma clínica de reabilitação.','Loading...','Frases de ciumes')\n" +
+                ", ('Ciúmes não é besteira, é só medo de perder quem foi tão difícil de encontrar','Loading...','Frases de ciumes')\n" +
+                ", ('Nunca me abandone pois eu não quero te perder\uD83D\uDE18\uD83D\uDE0D\uD83D\uDC94\uD83D\uDC95','Loading...','Frases de ciumes')\n" +
+                ", ('Valorize meu ciúme, por que se ele for embora o amor vai com ele\uD83D\uDC4A❤','Loading...','Frases de ciumes')\n" +
+                ", ('Se ela quer você, não se preocupe com quem está querendo ela.\uD83D\uDE0C\uD83D\uDE18','Loading...','Frases de ciumes')\n" +
+                ", ('Meu ciúme se multiplica, quando se trata de você.\uD83D\uDE0C\uD83D\uDE23','Loading...','Frases de ciumes')\n" +
+                ", ('Quem disse que tenho ciúmes? o ciúmes é que me tem.\uD83D\uDE1C\uD83D\uDE06','Loading...','Frases de ciumes')\n" +
+                ", ('Se a pessoa é minha, ninguém tem que ficar de mimimi com ela. \uD83D\uDE1D\uD83D\uDE06','Loading...','Frases de ciumes')\n" +
+                ", ('Não é ciúmes, se o par é meu! \uD83D\uDE12','Loading...','Frases de ciumes')\n" +
+                ", ('Nasci com muito ciúmes e nenhuma paciência…\uD83D\uDE12\uD83D\uDE20','Loading...','Frases de ciumes')\n" +
+                ", ('Meu Ciúmes não é ostentação mas todo mundo vê \uD83D\uDE0E\uD83D\uDE1D','Loading...','Frases de ciumes')\n" +
+                ", ('Ciúmes é só uma forma de dizer que amo \uD83D\uDE0C\uD83D\uDE0D','Loading...','Frases de ciumes')\n" +
+                ", ('Para um bom ciumento, uma olhada basta \uD83D\uDE12\uD83D\uDE0F','Loading...','Frases de ciumes')\n" +
+                ", ('Ter ciúme não quer dizer que um não confia no outro \uD83D\uDE09','Loading...','Frases de ciumes')\n" +
+                ", ('No quesito beleza eu perco, mas no ciúmes quero ver alguém ganhar de mim \uD83D\uDE1D\uD83D\uDC4A','Loading...','Frases de ciumes')\n" +
+                ", ('A imaginação de um ciumento é sem limites \uD83D\uDE0C\uD83D\uDE1C','Loading...','Frases de ciumes')\n" +
+                ", ('Sinto ciúmes do que é meu e do que não é! \uD83D\uDE1D\uD83D\uDE0F','Loading...','Frases de ciumes')\n" +
+                ", ('A cada 5 brigas 10 é ciúmes…\uD83D\uDC4C','Loading...','Frases de ciumes')\n" +
+                ", ('A melhor pessoa é aquela que independente das suas crises de ciúmes não desiste de você \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de ciumes')\n" +
+                ", ('Decepção: palavra usada para definir atitudes inesperadas das últimas pessoas que você imaginaria.','Loading...','Frases de decepcao')\n" +
+                ", ('Pessoas falsas são como produtos piratas. Te atraem pela facilidade, mas logo te decepcionam pela qualidade.','Loading...','Frases de decepcao')\n" +
+                ", ('Eu já quis que o destino me surpreendesse. Hoje eu só espero que ele não me decepcione.','Loading...','Frases de decepcao')\n" +
+                ", ('Quem nunca se apaixonou por uma foto no Facebook, não sabe o que é decepção.','Loading...','Frases de decepcao')\n" +
+                ", ('Não importa como, onde ou porquê. O fato é que todos, de uma maneira ou de outra, vão te decepcionar.','Loading...','Frases de decepcao')\n" +
+                ", ('Esperar por você é como esperar a chuva nessa seca: inútil e decepcionante!','Loading...','Frases de decepcao')\n" +
+                ", ('Decepções são apenas uma forma de Deus dizer: Eu tenho algo melhor para você.','Loading...','Frases de decepcao')\n" +
+                ", ('O tempo que você perde visitando o perfil do seu ex, você poderia aproveitar fazendo leituras da bíblia e aprendendo que só Deus não decepciona.','Loading...','Frases de decepcao')\n" +
+                ", ('Confie em Deus e em si mesmo. Confiar nos outros é perder tempo.','Loading...','Frases de decepcao')\n" +
+                ", ('Se decepção ensina, então eu já tenho faculdade…kkk','Loading...','Frases de decepcao')\n" +
+                ", ('Tem gente que é como uma rosa \uD83C\uDF39... Linda e perfumada ... Mas um dia murcha \uD83D\uDC4A','Loading...','Frases de decepcao')\n" +
+                ", ('Decepção não mata, ensina a viver\uD83D\uDE09','Loading...','Frases de decepcao')\n" +
+                ", ('Toc toc. Quem é? É a decepção. Entra, você já é de casa.','Loading...','Frases de decepcao')\n" +
+                ", ('Talvez meu maior problema é me importar demais com as pessoas.','Loading...','Frases de decepcao')\n" +
+                ", ('O maior problema de acreditar nas pessoas erradas,é que um dia você acaba não acreditando em mais ninguém.','Loading...','Frases de decepcao')\n" +
+                ", ('Minha professora mandou eu soletrar a palavra “Amor” e eu soletrei “I – L – U – S – Ã – O”.','Loading...','Frases de decepcao')\n" +
+                ", ('Saudade da época em que decepção para mim era ter duas aulas de matemática seguidas.','Loading...','Frases de decepcao')\n" +
+                ", ('Namorar pra quê? Se eu já consigo me decepcionar sozinha.','Loading...','Frases de decepcao')\n" +
+                ", ('Basta que uma pessoa te decepcione, e você passará a duvidar de todas as outras.','Loading...','Frases de decepcao')\n" +
+                ", ('Confiar em quem te decepcionou é o mesmo que andar no escuro: você não sabe o que virá pela frente.','Loading...','Frases de decepcao')\n" +
+                ", ('Quando a gente ama é claro que a gente… se lasca.','Loading...','Frases de decepcao')\n" +
+                ", ('A mulher não tem medo de tentar de novo. Ela apenas tem medo de se decepcionar de novo pelo mesmo motivo.','Loading...','Frases de decepcao')\n" +
+                ", ('O destino deve estar nos olhando, decepcionado.','Loading...','Frases de decepcao')\n" +
+                ", ('Alguém me perguntou se eu conhecia você. Um milhão de lembranças passaram em minha memória, e então respondi: NÃO MAIS! ','Loading...','Frases de decepcao')\n" +
+                ", ('Na maioria das vezes, não foi a pessoa que mudou, foi você que nunca soube quem ela realmente era.','Loading...','Frases de decepcao')\n" +
+                ", ('Quem nunca encheu o copo de leite e só depois viu que não tinha Nescau, não sabe o que é decepção…kkk','Loading...','Frases de decepcao')\n" +
+                ", ('Abri mão de meus sonhos pra ficar contigo, e você não é capaz de abrir mão de mínimas coisas por mim.','Loading...','Frases de decepcao')\n" +
+                ", ('Eu achei que tinha achado o amor da minha vida, mas no primeiro obstáculo, eu fui trocada.','Loading...','Frases de decepcao')\n" +
+                ", ('Se eu já tive amigos imaginários? Não, tive amigos que eu imaginava ser verdadeiros.','Loading...','Frases de decepcao')\n" +
+                ", ('Não pense muito, não espere muito, não ame muito, porque tudo que é muito, decepciona…','Loading...','Frases de decepcao')\n" +
+                ", ('Sabe por que a decepção é foda? Porque ela nunca vem do inimigo.','Loading...','Frases de decepcao')\n" +
+                ", ('Dormir é a melhor coisa da vida. Não traz problemas, não traz tristeza, não traz decepção.','Loading...','Frases de decepcao')\n" +
+                ", ('Se eu pudesse escolher, eu morreria um dia antes de te conhecer.','Loading...','Frases de decepcao')\n" +
+                ", ('A vida é feita de momentos, foi num desses momentos que te conheci e que te amei…Amo você!!❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Amo compartilhar a vida com você e estar ao seu lado em todos os momentos…\uD83D\uDC8F\uD83D\uDC6B','Loading...','Frases de Amor')\n" +
+                ", ('Sorrindo vim de longe! Sorrindo aqui cheguei! Sorrindo te conheci! Sorrindo me apaixonei.','Loading...','Frases de Amor')\n" +
+                ", ('Não há sentimento mais belo que o amor, quando verdadeiro o amor consegue vencer todas as barreiras,\\ntodas as dificuldades…Ele permanece forte e inabalado! Te amo ❤️❤️','Loading...','Frases de Amor')\n" +
+                ", ('Obrigada por ser essa pessoa tão especial e por compartilhar comigo a sua vida.\\nVocê me realiza em tudo.Te amo! ❤️\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Te amo!!Com todas as letras, palavras e pronúncias… Em todas as línguas e sotaques.\\nEm todos os sentidos e jeitos…\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Hoje me vejo vivendo um momento realmente especial…\\nDescobrindo que amar vale a pena e que a vida pode ser verdadeiramente feliz! Te amo ❤️','Loading...','Frases de Amor')\n" +
+                ", ('Até que a morte nos separe é muito pouco pra mim….Preciso de você por mais de uma vida. \uD83D\uDC4F❤️','Loading...','Frases de Amor')\n" +
+                ", ('O amor que eu sinto por você, pode até não ser o mais perfeito…❤️\uD83D\uDE0D\\nMas é o mais sincero. Amo você!!','Loading...','Frases de Amor')\n" +
+                ", ('Se eu pronunciasse as mais belas palavras do mundo…\uD83D\uDE0D\uD83D\uDC8F\\njamais conseguiria expressar tudo o que sinto por você. Te amo!!','Loading...','Frases de Amor')\n" +
+                ", ('Você é muito mais que meu amor…\uD83D\uDE0A\uD83D\uDC6B\\nVocê é meu lugar no mundo, meu lar, meu aconchego…Te amo!','Loading...','Frases de Amor')\n" +
+                ", ('Você mudou a minha vida por completo e a tornou melhor…\uD83D\uDC8F\uD83D\uDC4F\\nVocê fez dos meus dias tristes, dias felizes…','Loading...','Frases de Amor')\n" +
+                ", ('Eu nunca pensei que algum dia poderia amar alguém tanto quanto eu amo você.\\nO amor é poesia dos sentidos…❤️\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Você acabou se tornando tudo o que eu tenho…\uD83D\uDC6B\\nmisturado com tudo que eu sempre quis ter.','Loading...','Frases de Amor')\n" +
+                ", ('Eu te escolhi. Te escolhi pra ser o amor da minha vida ❤️\uD83D\uDE0D\\no meu refúgio, o meu alicerce e a solução de tudo.','Loading...','Frases de Amor')\n" +
+                ", ('O que sinto por você é maior que qualquer coisa…\uD83D\uDE0D\uD83D\uDC6B\\nque já fui capaz de sentir na vida… É incapaz de ser explicado','Loading...','Frases de Amor')\n" +
+                ", ('Sou grata por ter você, e por me permitir sentir todo esse amor…❤️\uD83D\uDC8F\\nPorque te amar me basta. E eu te amo, apenas.','Loading...','Frases de Amor')\n" +
+                ", ('Queria conseguir te dar toda a felicidade desse mundo,\\nsó para ver você não tirar nunca esse sorriso lindo do rosto, e o brilho encantador do seu olhar. Te amo!! ❤️\uD83D\uDE0D','Loading...','Frases de Amor')\n" +
+                ", ('Só desejo uma coisa dessa vida: poder dividir sempre minha vida com a sua.\\nTe amo muito mais do que você pode imaginar! \uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Somos um só! Somos um só pensamento, as mesmas vontades, desejos e sonhos.\\nTornamos-nos um só, pois compartilhamos tudo um com o outro…\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Você me ajuda a ser uma pessoa melhor…\uD83D\uDE0D\uD83D\uDE0A\\nTodos os dias quando acordo, percebo como tenho sorte de ter você ao meu lado\\nEu te amo da forma mais pura e sincera que é possível se amar.','Loading...','Frases de Amor')\n" +
+                ", ('Palavras jamais poderiam expressar tudo o que realmente sinto por amar você!\\nNão dá para medir, mensurar ou quantificar…\uD83D\uDC8F\\nhoje, mais do que nunca, preciso de sua atenção!','Loading...','Frases de Amor')\n" +
+                ", ('Você me mostrou que amar não é sofrer, muito pelo contrário,\\namar é a coisa mais maravilhosa desse mundo\\ne foi você que me ensinou a amar de verdade…❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('A cada dia que passa eu gosto muito mais de você.\\nEstar ao seu lado é maravilhoso, estamos construindo nossa história,\\ne o nosso relacionamento tem me dado muita alegria…\uD83D\uDC8F\uD83D\uDE0A','Loading...','Frases de Amor')\n" +
+                ", ('Quanto mais tempo passo ao seu lado, mais tenho a certeza de que nasci para encontrar você.\\nQuando nos conhecemos, senti no seu olhar uma familiaridade antiga, eterna,\\nvinda de outras vidas. Senti conforto. Te amo!! ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('Te amarei com o coração, a alma e a vida. Te amarei por horas, dias, meses, anos e em cada oportunidade que tiver direi aos céus o quanto preciso de um sorriso teu, para que de algum lugar do mundo, essa curva se forme em teus lábios, me fazendo te amar mais ainda ❤️\uD83D\uDC4F','Loading...','Frases de Amor')\n" +
+                ", ('É maravilhoso sentir que o nosso amor está presente em todos os momentos. Em cada coisa que fazemos, a qualquer hora. \uD83D\uDC4F\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Sei que esse sentimento me estimula para enfrentar qualquer barreira, qualquer obstáculo.\uD83D\uDC4A❤️','Loading...','Frases de Amor')\n" +
+                ", ('Nosso amor vai além das fronteiras do pensamento e acontece em cada ato que fazemos,\\nem cada gesto. Sou feliz por isso e vejo que você também é. \uD83D\uDC4F\uD83D\uDC6B','Loading...','Frases de Amor')\n" +
+                ", ('A felicidade é isso, pequenos momentos, pequenos gestos, a certeza da parceria,\\ndo companheirismo, do carinho e do afeto. ❤️\uD83D\uDC8F','Loading...','Frases de Amor')\n" +
+                ", ('Não tente voltar para o que te quebrou! \uD83D\uDE09','Loading...','Frases de desapego')\n" +
+                ", ('Ta sentindo minha falta é? Agora eu digo: Beija tua liberdade e abraça teus amigos! \uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Uma dose de amnésia e duas de desapego! \uD83C\uDF78\uD83D\uDE0C\uD83D\uDC4C','Loading...','Frases de desapego')\n" +
+                ", ('O mundo dá voltas e hoje vc chora!','Loading...','Frases de desapego')\n" +
+                ", ('Não gosta de mim, deita na brasa pois adoro cheirinho de galinha assada.','Loading...','Frases de desapego')\n" +
+                ", ('Seu pior erro foi me ensinar a ficar sem você!! \uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('A melhor vingança é o esquecimento! \uD83D\uDE0C\uD83D\uDE1A','Loading...','Frases de desapego')\n" +
+                ", ('Não corro nem atrás de ônibus, imagine de você! \uD83D\uDC4C\uD83D\uDE1C','Loading...','Frases de desapego')\n" +
+                ", ('Coragem, às vezes, é desapego! \uD83D\uDC4A\uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Não perdi nada, acabei de me livrar! \uD83D\uDC4B\uD83D\uDE4F (Marilia Mendonça)','Loading...','Frases de desapego')\n" +
+                ", ('Deixa pra trás o que não te leva pra frente.\uD83D\uDE0C\uD83D\uDC4A','Loading...','Frases de desapego')\n" +
+                ", ('Faço melhor o papel de vilã do que o de otária. \uD83D\uDE3D\uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Coração mole , vida dura, Tanto apanha ate que muda!! ❤\uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de desapego')\n" +
+                ", ('Se vacilar, a gente substitui! \uD83D\uDC49\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Deixei ir, o melhor está por vim… \uD83D\uDE0C\uD83D\uDE18','Loading...','Frases de desapego')\n" +
+                ", ('Esqueça o passado, desapego é o segredo! \uD83D\uDE1D\uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Tanto motivo pra beber, imagina  se eu vou gastar uma dose pensando em você!  \uD83C\uDF78\uD83D\uDC4B','Loading...','Frases de desapego')\n" +
+                ", ('Vou voltar e mais bonita ainda e pronta para dar a volta por cima. \uD83D\uDC44\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Sabe o que aconteceu? Você perdeu! \uD83D\uDC4A','Loading...','Frases de desapego')\n" +
+                ", ('O mundo é dos espertos, sorri mais quem se apega menos. \uD83D\uDE1D\uD83D\uDE09','Loading...','Frases de desapego')\n" +
+                ", ('E quem perdeu que chore, eu vou atrás de ser feliz!! \uD83D\uDE22\uD83D\uDC4B\uD83D\uDE1D','Loading...','Frases de desapego')\n" +
+                ", ('Me faz bem, mas vivo melhor sem! \uD83D\uDE1C\uD83D\uDE1A','Loading...','Frases de desapego')\n" +
+                ", ('Hoje eu to livre, leve e desapegada…\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Em caso de dor, desapego, por favor. \uD83D\uDC4B\uD83D\uDE0C','Loading...','Frases de desapego')\n" +
+                ", ('Mas hoje o esquema é outro, não me apego, não sofro.\uD83D\uDE0E\uD83D\uDE1D','Loading...','Frases de desapego')\n" +
+                ", ('Não curto amores, eu curto sabores!! ❤\uD83C\uDF78\uD83D\uDE18','Loading...','Frases de desapego')\n" +
+                ", ('Pra ela tanto faz… Até porque ela não é do tipo que corre atrás…\uD83C\uDFC3\uD83D\uDC4B','Loading...','Frases de desapego')\n" +
+                ", ('Enquanto uns vivem de amor, eu só tenho a certeza de que por ele eu não morro. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de desapego')\n" +
+                ", ('Vacilou, sem caô! Ela só quer curtir não quer um novo amor! \uD83D\uDC4C','Loading...','Frases de desapego')\n" +
+                ", ('Não valorizou? Manda o próximo da fila por favor…\uD83D\uDE3D\uD83D\uDC4B','Loading...','Frases de desapego')\n" +
+                ", ('To bem, to zen, desapeguei de você meu bem!! \uD83D\uDE0C\uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Se a vida anda tão louca, eu não vou me apegar a pequenas coisas! \uD83D\uDE1A\uD83D\uDE0C','Loading...','Frases de desapego')\n" +
+                ", ('Sozinha, na pista pra negócio. Tá de boa, soltinha, não tá querendo sócio!! \uD83C\uDF78\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Bem-me-quero!! \uD83D\uDE1A\uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Desapego não se trata de desistir. Desapego é aceitar o fato de que você merece coisa melhor.\uD83D\uDE1A','Loading...','Frases de desapego')\n" +
+                ", ('Meu desapego agora, é meu sossego!! ✌','Loading...','Frases de desapego')\n" +
+                ", ('Desapega que a vida leva! \uD83D\uDE0C\uD83D\uDC49','Loading...','Frases de desapego')\n" +
+                ", ('To praticando a lei do desapego.\uD83D\uDE0C\uD83D\uDE09','Loading...','Frases de desapego')\n" +
+                ", ('Uma dose de amnésia, e duas de desapego. \uD83D\uDE0C\uD83D\uDE0E\uD83C\uDF78','Loading...','Frases de desapego')\n" +
+                ", ('Aprendi a não depender muito de ninguém pra ser feliz. \uD83D\uDC4C','Loading...','Frases de desapego')\n" +
+                ", ('Pouco fez, agora tanto faz! \uD83D\uDC4B\uD83D\uDE09','Loading...','Frases de desapego')\n" +
+                ", ('Hoje eu tô gostando mais de mim, já era, sua chance teve fim…❤\uD83D\uDE0C','Loading...','Frases de desapego')\n" +
+                ", ('Não to nem atendendo, quanto mais ligando. \uD83D\uDCDE\uD83D\uDE1D','Loading...','Frases de desapego')\n" +
+                ", ('Que besteira, me deixou solteira logo numa sexta feira! \uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Amor só de mãe, paixão só de cristo, quem quiser me amar que sofra. \uD83D\uDC94\uD83D\uDE1D','Loading...','Frases de desapego')\n" +
+                ", ('E que venham os melhores, porque o ”bom” acabou de sair. \uD83D\uDC49\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Antes a cabeça doendo de ressaca do que o coração doendo por alguém!! \uD83D\uDC94\uD83D\uDE1C','Loading...','Frases de desapego')\n" +
+                ", ('Só vive bem aquele que não se prende a ninguém. \uD83D\uDC4B\uD83D\uDC4C','Loading...','Frases de desapego')\n" +
+                ", ('Você segue sua vida, ou a vida segue sem você… \uD83D\uDE09','Loading...','Frases de desapego')\n" +
+                ", ('Mas se me fizer de palhaça,eu vou te fazer de circo. \uD83D\uDE0E\uD83D\uDE1C','Loading...','Frases de desapego')\n" +
+                ", ('Diz pra que namorar, se o negócio é festar to sem freio! \uD83C\uDF78\uD83D\uDE0E\uD83D\uDE1A','Loading...','Frases de desapego')\n" +
+                ", ('Cê acha que se deu bem? Na tua fila tem uma, na dela tem cem!! \uD83D\uDC49\uD83D\uDE1D\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Cansou de ser boba, já sofreu demais, agora ela vai fazer malandro correr atrás. \uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases de desapego')\n" +
+                ", ('A liberdade começa quando sua necessidade de impressionar os outros termina! \uD83D\uDC4B','Loading...','Frases de desapego')\n" +
+                ", ('Se quiser ficar aqui, tudo bem. Se não, amém! \uD83D\uDE0C\uD83D\uDE4F','Loading...','Frases de desapego')\n" +
+                ", ('Comece-ironicamente-seguindo o conselho de qem deixou de te amar.Cuide de você! \uD83D\uDC49\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Estou em processo de desapego por favor não perturbe. \uD83D\uDE09\uD83D\uDE1D','Loading...','Frases de desapego')\n" +
+                ", ('Você faz a Diferença: Desapega! \uD83D\uDE09\uD83D\uDE0E','Loading...','Frases de desapego')\n" +
+                ", ('Desapego… É disso que eu preciso. \uD83D\uDE09\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Pare de correr atrás, pare de se importar. Seja indisponível, desapegue. Pessoas gostam, do que não têm ✌\uD83D\uDE18','Loading...','Frases de desapego')\n" +
+                ", ('Sou apego pelo que vale a pena e desapego pelo que não quer valer.✌\uD83D\uDE09\uD83D\uDE3D','Loading...','Frases de desapego')\n" +
+                ", ('Seja mais amigo do desapego e afaste da sua vida tudo aquilo que atrasa o seu encontro com a felicidade.\uD83D\uDE18\uD83D\uDE3D\uD83D\uDE1D','Loading...','Frases de desapego')\n" +
+                ", ('Em um relacionamento sério com a pegação.\uD83D\uDE0E\uD83D\uDE1D\uD83D\uDE1C','Loading...','Frases de desapego')\n" +
+                ", ('Eu tô ausente pra romance, agora a minha vibe é dar um lance. \uD83D\uDE1D\uD83D\uDE18','Loading...','Frases de desapego')\n" +
+                ", ('Desapega, sofrer pela ausência de alguém que vive feliz sem te ter por perto é inútil. \uD83D\uDC4B\uD83D\uDC4C','Loading...','Frases de desapego')\n" +
+                ", ('Desapega que ele dá valor. \uD83D\uDE0E\uD83D\uDE0C','Loading...','Frases de desapego')\n" +
+                ", ('Só não vale se apegar e nem se apaixonar. ❤\uD83D\uDC4B','Loading...','Frases de desapego')\n" +
+                ", ('Deus promete, Deus cumpre, Deus honra. Basta você acreditar e ter paciência \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('A oração transforma \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('O abraço de Deus é o único que pode juntar todos os nossos pedaços \uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Não adianta só pedir pra Deus, tem que agradecer também \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Se até as palavras tem força, imagina uma oração…\uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('É proibido desistir, respira fundo, fala com Deus e continua \uD83D\uDC4F\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Bonito mesmo é o amor de Deus, que nos ensina a amar! \uD83D\uDE4F❤','Loading...','Frases de Deus ')\n" +
+                ", ('Fala pra tua tristeza, que Deus ama o teu sorriso!  \uD83D\uDE13❤\uD83D\uDE04','Loading...','Frases de Deus ')\n" +
+                ", ('Há para todas as coisas um tempo determinado por Deus! \uD83D\uDE09\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Enquanto Deus for meu chão, não há quem me derrube! \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases de Deus ')\n" +
+                ", ('Há sempre algo para nos tirar a paz, mas há sempre Deus para devolvê-la. \uD83D\uDE29\uD83D\uDE4F\uD83D\uDE00','Loading...','Frases de Deus ')\n" +
+                ", ('O hábito de falar com Deus muda o nosso jeito de falar com as pessoas. \uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Seu problema é grande? Deus é maior! \uD83D\uDE2A\uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Obrigada senhor, pois quando mais precisei tu estavas comigo! \uD83D\uDE4F\uD83D\uDC4D','Loading...','Frases de Deus ')\n" +
+                ", ('\uD83D\uDCABDeus está no controle \uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Onde há fé há amor, onde há amor há paz e onde há Deus nada falta. \uD83D\uDE07','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é tudo na nossa vida, não o culpe pelo seus defeitos \uD83D\uDE0C\uD83D\uDE0C\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Uns chamam de sorte, eu chamo de Deus ❤\uD83D\uDC4F\uD83D\uDCAB','Loading...','Frases de Deus ')\n" +
+                ", ('O Meu Deus, é o Deus do Impossível❕\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Jesus morreu de braços abertos para que nós não cruzássemos os nossos!','Loading...','Frases de Deus ')\n" +
+                ", ('Enquanto Deus for o meu chão, não ha quem me derrube! ❤\uD83D\uDE4C\uD83D\uDCFF','Loading...','Frases de Deus ')\n" +
+                ", ('Desabe! Mas desabe nos braços de Deus!  \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, a razão do meu sorrir! \uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Entrega nas mãos de Deus e vai… \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Não espere sentado, espere orando! \uD83D\uDE0C\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Mude para agradar a Deus não aos outros \uD83D\uDE09\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Quanto mais você enche seu coração de Deus, menos apertado ele fica ❤️\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Ela orou porque sabia que só Deus entenderia o que ela sentia \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Em profundos oceanos minha fé permanecerá \uD83D\uDE4C\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é a esperança em meio a tempestade \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Quando a noite esconde a luz Deus acende as estrelas \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Por Cristo. Com Cristo. E em Cristo \uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Orar por quem você ama, é uma das mais lindas provas de amor \uD83D\uDE4F❤️','Loading...','Frases de Deus ')\n" +
+                ", ('Não importa o que aconteça, Deus nunca vai te abandonar \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, eu sei que estás comigo, eu sei que não me deixas sozinho em minhas lutas \uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('E o mundo pode até fazer você chorar, mas Deus te quer sorrindo \uD83D\uDC46\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Onde há fé, há amor, há paz, onde há Deus, nada falta \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Não faça Deus uma opção, ele é sua prioridade \uD83D\uDC4F\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Falar com Deus é curar a alma \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases de Deus ')\n" +
+                ", ('Mas Deus, eu preciso da Sua força pra seguir em frente \uD83D\uDC4A\uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Não coloque interrogação onde Deus já colocou ponto final \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('A cada minuto Deus se importa com você \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('O choro pode durar uma noite, mas a alegria vem pela manhã \uD83D\uDE2D\uD83D\uDE04','Loading...','Frases de Deus ')\n" +
+                ", ('Ore. Espere. Confie \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Dê valor a Deus ele nunca te decepcionou \uD83D\uDE4C\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Oração é oxigênio da alma \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Não espere coisas pequenas de um Deus tão grande \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Sonhe os sonhos de Deus \uD83D\uDC4F\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Se o céu já é bonito, imagine o dono dele \uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('O mundo precisa de Deus \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, obrigado por ter me acordado nesse novo dia. Que hoje tudo dê certo. Amém \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Ninguém explica Deus…\uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Transbordando a presença e a unção de Deus \uD83D\uDE4C\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Uma oração e o coração se acalma \uD83D\uDE4F❤️','Loading...','Frases de Deus ')\n" +
+                ", ('A Tua presença é o meu sustento, a Tua palavra meu alimento \uD83D\uDE4C\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Me encontrei em Ti, Senhor \uD83D\uDC46\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Tu és o meu refúgio, ó Deus \uD83D\uDE4F\uD83D\uDE4C\\n(Gabriela Rocha)','Loading...','Frases de Deus ')\n" +
+                ", ('Quem procura Deus, nunca perde tempo \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Que todo amor venha do Céu \uD83D\uDE4C❤️','Loading...','Frases de Deus ')\n" +
+                ", ('Pedir a Deus às vezes é preciso, mas agradecer é necessário! \uD83D\uDCAC\uD83D\uDE4C\uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Conta tudo para Deus. Ele sabe guardar segredo!\uD83D\uDCAC\uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Toda oração tem resposta, basta esperar e confiar! \uD83D\uDE4C\uD83D\uDE4F\uD83D\uDE04','Loading...','Frases de Deus ')\n" +
+                ", ('Rema para fé e deixa teu barquinho nas mão de Deus!  \uD83D\uDE04⛵\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Quando Deus escreve sua história, ele é o único que pode mudar seus caminhos! \uD83D\uDC46\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('É difícil, mas enquanto Deus estiver comigo não desistirei de tentar.\uD83D\uDE4C\uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Entender a vontade de Deus nem sempre é fácil, Mas crer que ela está no comando e tem um plano pra nossa vida, faz a caminhada valer a pena! \uD83D\uDE4C\uD83D\uDC4D\uD83D\uDE09\uD83D\uDEB6','Loading...','Frases de Deus ')\n" +
+                ", ('Nada melhor do que um dia após o outro, e Deus na frente de tudo! ⛅\uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Onde há fé, há amor, há paz, onde há Deus, nada falta. \uD83D\uDE4F❤✌\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, que tudo que nasça em mim, seja o Teu querer! \uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Deus não tem atalhos, Deus tem caminhos, Deus não abre brechas, Deus abre portas. Espere o tempo de Deus!  \uD83D\uDD11\uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Ponha Deus no início e Ele cuidará do fim… \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus mora em sua vida, não tenha dúvidas, Confie nele! \uD83D\uDE4C\uD83C\uDFE0\uD83D\uDE03\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus mora no coração de quem ora!  \uD83D\uDE4C\uD83C\uDFE0❤\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus não castiga, Deus ensina. Deus não tira, Deus livra. Deus não demora, Deus capricha!  \uD83D\uDE4F\uD83D\uDC4D','Loading...','Frases de Deus ')\n" +
+                ", ('Amar a Deus sobre todas as coisas! ❤\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Não há o que temer, Não tem inveja, olho grande, não tem nada que possa prejudicar aquele que fez um pacto com Deus. \uD83D\uDC4A\uD83D\uDE0C\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Peça a Deus o melhor, e ele te concederá! \uD83D\uDE4F\uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Quando Deus apaga algo da tu vida, é porque virão coisas melhores! \uD83D\uDE4C\uD83D\uDE03','Loading...','Frases de Deus ')\n" +
+                ", ('Posso ter mil problemas, e mil motivos para desistir. Mas tenho uma única razão que me faz continuar: Deus! \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Enxuga essa lágrima e sorria porque Deus te ama! \uD83D\uDE22\uD83D\uDE04\uD83D\uDE4F\uD83D\uDC93','Loading...','Frases de Deus ')\n" +
+                ", ('O que é impossível coloquei nas mãos de Deus e sei que Ele fará melhor do que eu posso imaginar.  \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Tudo que Deus faz é perfeito, ele nunca erra! \uD83D\uDE4C\uD83D\uDC4D\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Se compreenderes o amor de Deus por ti, deixarias de mendigar qualquer amor. \uD83D\uDE4F❤\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('A vontade de Deus, seja qual for, é a melhor pra você! \uD83D\uDE4C\uD83D\uDC4D\uD83D\uDE0A\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Mais a nossa capacidade vem de Deus. \uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Porque vivemos por fé, e não pelo que vemos. \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('E Deus limpará dos seus olhos toda a lágrima. \uD83D\uDE22\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('E conhecereis a verdade e a verdade vos libertará. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('A fé torna as coisas possíveis, não fácil. \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Bendito seja Deus, que não me rejeita a oração, nem retira de mim o seu amor.\uD83D\uDE4F❤️','Loading...','Frases de Deus ')\n" +
+                ", ('Senhor afasta de mim tudo que me afasta de Ti. \uD83D\uDE09\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Não separe o homem o que Deus uniu. \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('O choro pode durar uma noite mas a alegria vem pela manhã. \uD83D\uDE22\uD83D\uDE04','Loading...','Frases de Deus ')\n" +
+                ", ('O Senhor é meu pastor e nada me faltará. \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Amar a Deus sobre todas as coisas. ❤️\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Chegai-vos a Deus, e Ele se chegará a vós. \uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Tua palavra é luz para o meu caminho. \uD83D\uDC46\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Por que dele por ele para ele são todas as coisas. \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Tu, ó Senhor Deus, és tudo o que tenho. O meu futuro está em Tuas mãos. Tu diriges a minha vida. \uD83D\uDE4F\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Pois onde estiver o amor, ali estará também o nosso coração. ❤️','Loading...','Frases de Deus ')\n" +
+                ", ('Deus disse: de maneira alguma te deixarei, nunca, jamais te abandonarei. \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é a minha salvação. Terei confiança e não temerei.','Loading...','Frases de Deus ')\n" +
+                ", ('Melhor que meus sonhos, são os planos de Deus para minha vida!','Loading...','Frases de Deus ')\n" +
+                ", ('Enquanto Deus for meu chão, não há quem me derrube!','Loading...','Frases de Deus ')\n" +
+                ", ('A fé em Deus nos faz crer no incrível, ver o invisível e realizar o impossível.','Loading...','Frases de Deus ')\n" +
+                ", ('O mundo fecha portas, mas Deus abre caminhos.','Loading...','Frases de Deus ')\n" +
+                ", ('Nenhum obstáculo é grande demais quando confiamos em Deus.','Loading...','Frases de Deus ')\n" +
+                ", ('Deus não castiga, Deus ensina. Deus não tira, Deus livra. Deus não demora, Deus capricha!','Loading...','Frases de Deus ')\n" +
+                ", ('A luz que me guia é bem mais forte do que os olhos que me cercam.','Loading...','Frases de Deus ')\n" +
+                ", ('Se a fé em Deus for verdadeira haverá sempre certeza de vitória no coração.','Loading...','Frases de Deus ')\n" +
+                ", ('Decepções são apenas uma forma de Deus dizer: eu tenho algo melhor para você.','Loading...','Frases de Deus ')\n" +
+                ", ('Hoje eu só quero dizer: obrigado Deus por tudo!','Loading...','Frases de Deus ')\n" +
+                ", ('Querido Deus, por favor, guia meus passos no caminho da bondade, da justiça e da verdade.','Loading...','Frases de Deus ')\n" +
+                ", ('Obrigada Deus por não fazer as minhas vontades e sim atender as minhas necessidades.','Loading...','Frases de Deus ')\n" +
+                ", ('Não importa o Tamanho da Montanha…Ela Nunca Poderá Tapar o Sol!','Loading...','Frases de Deus ')\n" +
+                ", ('Ter fé não é achar que Deus fará o que eu quero, mas ter a certeza de que Deus fará por mim tudo o que preciso.','Loading...','Frases de Deus ')\n" +
+                ", ('O segredo é ter fé em Deus.','Loading...','Frases de Deus ')\n" +
+                ", ('Tudo é como é, e é perfeito. Se não é perfeito aos nossos olhos, é perfeito aos olhos de Deus.','Loading...','Frases de Deus ')\n" +
+                ", ('Quem fica de joelhos diante de Deus, fica de pé diante de qualquer coisa.','Loading...','Frases de Deus ')\n" +
+                ", ('Quanto mais a gente agradece, mais coisas boas acontecem.','Loading...','Frases de Deus ')\n" +
+                ", ('Por acreditar em Deus alimento em mim uma fé imensa que ultrapassa o limite da própria criação!','Loading...','Frases de Deus ')\n" +
+                ", ('Com a cabeça erguida e mantendo a fé em Deus.','Loading...','Frases de Deus ')\n" +
+                ", ('Não sei o que me espera amanhã, mas estou em paz, pois sei que Deus tem o melhor para mim.','Loading...','Frases de Deus ')\n" +
+                ", ('Ponha Deus no início e ele cuidará do fim…','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, obrigado por não permitir que eu perca o equilíbrio, quando sei que inúmeras forças querem que eu caia.','Loading...','Frases de Deus ')\n" +
+                ", ('A fé em Deus é a força que me mantém de pé perante as adversidades da vida.','Loading...','Frases de Deus ')\n" +
+                ", ('Se o mundo tentar me derrubar, a minha fé em Deus me fará voar.','Loading...','Frases de Deus ')\n" +
+                ", ('Somente com a fé em Deus os sonhos se atingem, as batalhas se vencem e os milagres surgem.','Loading...','Frases de Deus ')\n" +
+                ", ('Pra quem tem fé, a vida nunca tem fim.','Loading...','Frases de Deus ')\n" +
+                ", ('Sou cristão e não acredito em acaso. Só acredito nos planos de Deus para mim.','Loading...','Frases de Deus ')\n" +
+                ", ('Não há escuridão que se propague se temos conosco a fé na luz de Deus!','Loading...','Frases de Deus ')\n" +
+                ", ('E Deus está sussurrando: “Sabe essa dor, filho?” Eu sou maior que ela, confie em mim.','Loading...','Frases de Deus ')\n" +
+                ", ('Há para todas as coisas um tempo determinado por Deus!','Loading...','Frases de Deus ')\n" +
+                ", ('Quando o mundo diz “desista”, Deus sussurra “tente mais uma vez”.','Loading...','Frases de Deus ')\n" +
+                ", ('Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. (Jesus)','Loading...','Frases de Deus ')\n" +
+                ", ('Deus transforma choro em sorriso, dor em força, fraqueza em fé e sonho em realidade.','Loading...','Frases de Deus ')\n" +
+                ", ('Sorria! Deus acaba de te dar um novo dia e coisas extraordinárias podem acontecer se você crer!','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é minha luz e minha salvação.','Loading...','Frases de Deus ')\n" +
+                ", ('Podem falar, opinar, dizer o que quiserem dizer. Mas da minha vida é Deus quem cuida!','Loading...','Frases de Deus ')\n" +
+                ", ('Enquanto você tiver Deus no coração, a sua vida terá todos os ingredientes para ser alegria!','Loading...','Frases de Deus ')\n" +
+                ", ('Você sabe o que você quer, mas Deus sabe o que você precisa.','Loading...','Frases de Deus ');";
+        return frase;
+    }
+    public static String carregarFrases14() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Quanto mais perto estiver de Deus, mais chance terá de ouvi-lo.','Loading...','Frases de Deus ')\n" +
+                ", ('Deus anima o seu ❤️ quando a sua força está perdida, Deus ensina que a dele é infinita \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('As vezes Deus acalma a tempestade, as vezes ele acalma o marinheiro\\nOutras ele nos ensina a nadar… \uD83D\uDC46\uD83C\uDF0A','Loading...','Frases de Deus ')\n" +
+                ", ('Ore: Muitas vezes os seus joelhos podem te levar mais longe do que seus pés \uD83D\uDE4F\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Não há nada que supere o amor de Deus por nós ❤️\uD83D\uDC46\\nEle é refúgio é certeza, socorro mais presente na hora da angústia \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('E é isso que Deus faz, transforma a tempestade em brisa suave,\\npreocupação em descanso,caos em paz, morte em vida \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Pedi força a Deus, e ele me deu dificuldades para me fortalecer nelas.\uD83D\uDC4F\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Sempre que Deus quer fazer um homem grande,\\nEle o quebra em pedaços primeiro \uD83D\uDC46\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Sinto que meu ❤️ bate conforme os passos de Deus em minha vida \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus está contigo. Nunca duvide das coisas extraordinárias \uD83D\uDC4F\uD83D\uDC46\\nque Ele ainda pode e vai fazer em sua vida \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, se não for da Tua vontade, tira do meu ❤️','Loading...','Frases de Deus ')\n" +
+                ", ('O Teu abraço Deus, é um lar e é onde eu quero me aconchegar todos os dias \uD83D\uDC46\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Orar não deve ser a última solução, mais a primeira atitude \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Quando você diz: Eu não vejo a saída Deus diz: Eu guiarei seus passos \uD83D\uDC46\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Que a minha gratidão a Deus não se limite aos momentos bons \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Eu não sei como Deus irá fazer, mais eu sei; Vai ser perfeito! \uD83D\uDE4F❤️','Loading...','Frases de Deus ')\n" +
+                ", ('Meu Deus o que não for de ti, não permita que chegue até mim \uD83D\uDE0C\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Os planos de Deus são maiores que os meus, por isso vale a pena a creditar \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus sem você continua sendo Deus, você sem Deus não é nada\uD83D\uDC46\uD83D\uDE09 Nunca esqueça!','Loading...','Frases de Deus ')\n" +
+                ", ('Deus vê se ha em mim algum caminho mal e guia-me pelo seu caminho \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus tu és minha inspiração…\uD83D\uDC46\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('A paz de Deus que está além de toda compreensão, guardará o seu ❤️','Loading...','Frases de Deus ')\n" +
+                ", ('Deus é perfeito \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus ')\n" +
+                ", ('Nem tudo que a gente passa é por que Deus quer que a gente passe \uD83D\uDC46\\nAs vezes é apenas fruto da nossa teimosia \uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Nenhum obstáculo é grande demais quando confiamos em Deus.\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus não tarda, nem adianta, ele sempre chega na hora certa! \uD83D\uDE09\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Os que confiam em Deus jamais serão frustrados. \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Quando a presença de Deus for tudo que você tem, perceberá que tem tudo que precisa. \uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Deixa Deus ser a base de todos os seus planos e guiar a sua vida e você terá um futuro que jamais imaginou!\uD83D\uDE09\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Deus, se algum dia eu perder a esperança, ajude-me a lembrar que os teus planos são melhores que os meus!\uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Um problema é uma oportunidade para que você se esforce e cresça. Onde tua força acaba, ali começa o trabalho de Deus!\uD83D\uDCAA\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Quando o homem está com a razão, Deus é o seu advogado. \uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Meu mundo pode cair, mas eu não solto a mão de Deus.\uD83C\uDF0D \uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Deus faz hoje pra entendermos amanhã \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Deus estava ali comigo, quando ninguém mais estava.\uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Quem fica de joelhos diante de Deus, fica de pé diante de qualquer coisa. \uD83D\uDE4F\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Deus sabe do que você precisa, antes mesmo de você pedir. \uD83D\uDC46\uD83D\uDC49\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('Ninguém perde nada acreditando em Deus. \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Deus cuida de mim para que eu possa cuidar de quem precisa de mim. \uD83D\uDE4F\uD83D\uDC49\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Deus não lhe dá mais do que você pode carregar.\uD83D\uDC46\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Joelhos dobrados são mais poderosos que a força dos punhos fechados.\uD83D\uDE4F \uD83D\uDC4A','Loading...','Frases de Deus ')\n" +
+                ", ('O que nós somos é o presente de Deus a nós. O que nós nos tornamos é nosso presente a Deus \uD83C\uDF81\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Quando você quiser felicidade de verdade, fale com Deus.\uD83D\uDC46 \uD83D\uDE04','Loading...','Frases de Deus ')\n" +
+                ", ('E Deus está sussurrando: “Sabe essa dor, filho?” Eu sou maior que ela, confie em mim. \uD83D\uDE22\uD83D\uDE4F','Loading...','Frases de Deus ')\n" +
+                ", ('O amor de Deus é como o vento, o qual você não vê, mas sente, e durará para sempre! ❤\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Eu tive muitas coisas que guardei em minhas mãos, e as perdi. Mas tudo o que eu guardei nas mãos de Deus, eu ainda possuo. \uD83D\uDE4C\uD83D\uDC4D','Loading...','Frases de Deus ')\n" +
+                ", ('Hoje eu só quero dizer: obrigado Deus por tudo! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus ')\n" +
+                ", ('Não acredito em acaso. Só acredito nos planos de Deus para mim. \uD83D\uDC46\uD83D\uDE0A','Loading...','Frases de Deus ')\n" +
+                ", ('Obrigado Senhor, por ouvir e responder minhas orações. \uD83D\uDE4F\uD83D\uDCAC','Loading...','Frases de Deus ')\n" +
+                ", ('A alegria do senhor é a minha força. \uD83D\uDE03\uD83D\uDC46\uD83D\uDC4A','Loading...','Frases de Deus ')\n" +
+                ", ('Amar a Deus sobre todas as coisas! ❤\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Deus sabe o que faz. Nós, não. \uD83D\uDC46\uD83D\uDC4D\uD83D\uDE0C','Loading...','Frases de Deus ')\n" +
+                ", ('Nunca foi vergonha ajoelhar, agradecer a Deus e pedir forças para lutar. \uD83D\uDE4F\uD83D\uDC4A','Loading...','Frases de Deus ')\n" +
+                ", ('Deus sabe o que faz.\uD83D\uDC46\uD83D\uDE4C','Loading...','Frases de Deus ')\n" +
+                ", ('Antes de dormir, entregue toda a sua ansiedade a Deus e esqueça. Deus está sempre trabalhando por você. \uD83D\uDE4F\uD83D\uDC49','Loading...','Frases de Deus ')\n" +
+                ", ('Quem carrega Deus no coração tem sempre a vida iluminada. \uD83D\uDC46❤\uD83D\uDE07','Loading...','Frases de Deus ')\n" +
+                ", ('Quando aprendemos a agradecer pela nossa vida, nós vemos Deus em todos os lugares e em todas as pessoas.\uD83D\uDE4F\uD83D\uDC46','Loading...','Frases de Deus ')\n" +
+                ", ('Agradeço a Deus por você, pelo nosso amor, pelo nosso companheirismo, mas também agradeço a você, por ser quem é e por me fazer tão feliz. Eu te amo! \uD83D\uDE18\uD83D\uDE0A\uD83D\uDE3B','Loading...','Dia dos Namorados')\n" +
+                ", ('Hoje eu quero lembrar mais uma vez o quanto você é importante na minha vida! \uD83D\uDE0D\uD83D\uDE0A\\nÉ o meu porto seguro, meu melhor abraço , meu colo protetor, está sempre disposto a me ouvir e me aconselhar!\\nQuero te dizer o quanto eu amo tanto isso… \uD83D\uDC97\uD83D\uDC97\\nTudo isso me mostra que vale a pena, que eu fiz sim a escolha certa! Obrigada por tudo!\\nFeliz Dia dos Namorados! \uD83C\uDF81\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('O Amor é isso! \uD83D\uDC97 Não prende, não aperta, não sufoca… Porque quando vira nó, já deixou de ser um laço!\\nFeliz Dia dos Namorados para você, que é o grande amor da minha Vida!\uD83D\uDC98\uD83D\uDC9D','Loading...','Dia dos Namorados')\n" +
+                ", ('Pois onde estiver o amor, ali estará também o nosso coração!\\n(Lucas 12:34)\\nFeliz Dia dos Namorados!❤\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('Obrigada por ser a melhor parte de mim \uD83D\uDE0A, por estar ao meu lado e me fazer tão Feliz!\\nA cada dia tento ser uma pessoa melhor, fazer com que você se sinta bem e muito amado, Porque é isso que você merece‼️\\nNada me faz tão feliz quanto ter você na minha Vida! Te amo Muito!\uD83D\uDC97 Feliz Dia dos Namorados!\uD83D\uDC9D\uD83D\uDC98','Loading...','Dia dos Namorados')\n" +
+                ", ('Me sinto uma pessoa abençoada por saber que fui presenteada com tamanho sentimento, tamanho amor \uD83D\uDC95, por viver tão feliz ao seu lado!\\nObrigado por tudo, nunca vou cansar de agradecer por ter te conhecido! Feliz Dia dos Namorados! \uD83C\uDF81\uD83D\uDC98','Loading...','Dia dos Namorados')\n" +
+                ", ('Gostoso mesmo é encontrar o amor da sua vida, todos os dias, na mesma pessoa! Feliz Dia dos Namorados! \uD83D\uDC8F\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('Feliz Dia dos Namorados meu Amor! Quando eu digo que te amo, não digo por força de hábito. Eu digo para te lembrar que você foi a melhor coisa que já aconteceu na minha vida. Te amo! ❤\uD83D\uDE1A','Loading...','Dia dos Namorados')\n" +
+                ", ('Amor é apenas uma palavra até que você encontre alguém que dê um verdadeiro sentido a ela. \uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68 ❤\\nObrigada por ter entrado na minha vida! Por me fazer feliz… Te Amo! Feliz Dia dos Namorados! ❤️❤️','Loading...','Dia dos Namorados')\n" +
+                ", ('Sempre foi você. E continuará sendo você. Minha escolha, meu amor… \uD83D\uDE18\uD83D\uDE0D\\nEu Amo você!❤️ Feliz Dia dos Namorados! ❤️❤️','Loading...','Dia dos Namorados')\n" +
+                ", ('Amor, você é até mais do que eu sempre desejei e talvez mereça, veio no momento certo para mudar minha vida e me fazer uma pessoa mais feliz! \uD83D\uDE0A☺️\\nO meu presente de Dia dos Namorados é você \uD83D\uDC9D, e eu irei cuidar da melhor forma possível e te amar pra sempre.\\nFeliz Dia dos Namorados!','Loading...','Dia dos Namorados')\n" +
+                ", ('O amor é lindo quando encontramos alguém que nos transforme no melhor que podemos ser. \uD83D\uDE09\uD83D\uDE0D','Loading...','Dia dos Namorados')\n" +
+                ", ('Ontem você fez parte dos meus melhores sonhos. Hoje você faz parte da minha melhor realidade! \uD83D\uDE1A\uD83D\uDE09\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('O amor não é viver felizes para sempre, isso é um conto de fadas. O amor é saber como enfrentar a vida juntos.\\nQue continuemos assim.. Unidos e nos amando! Feliz Dia dos Namorados! \uD83D\uDE09\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('Sinto que minha felicidade é ao seu lado. Sinto que cada momento contigo é único. Sinto que esse amor vai durar a vida inteira! \uD83D\uDE3B❤','Loading...','Dia dos Namorados')\n" +
+                ", ('O sorriso é meu, mas o motivo é você. A vida é minha, mas meu coração é seu! Feliz Dia dos Namorados! ❤\uD83D\uDE0A\uD83D\uDE3B','Loading...','Dia dos Namorados')\n" +
+                ", ('Eu descobri que era amor quando as palavras se tornaram insuficientes para descrever o que eu sentia por você. ❤\uD83D\uDE0A','Loading...','Dia dos Namorados')\n" +
+                ", ('Quando eu estou em seus braços tudo parece tão certo. Eu sei que é onde eu deveria estar! Feliz Dia dos Namorados! \uD83D\uDE3B\uD83D\uDE18\uD83D\uDE0A','Loading...','Dia dos Namorados')\n" +
+                ", ('Dois corações que, unidos na fé e no amor, celebram uma união abençoada! Feliz Dia dos Namorados! ❤\uD83D\uDE0D\uD83D\uDC8F','Loading...','Dia dos Namorados')\n" +
+                ", ('Desde que te conheci, todas as musicas de amor começaram a ter sentido \uD83C\uDFB6❤️','Loading...','Dia dos Namorados')\n" +
+                ", ('Você é a pessoa mais doce que eu já conheci, é a minha alegria ao amanhecer, é a felicidade que eu tenho em acordar, é a eternidade que quero que fique em mim para sempre! \uD83D\uDC95\uD83D\uDE3B','Loading...','Dia dos Namorados')\n" +
+                ", ('Algumas escolhas mudam nossas vidas completamente. Agradeço todos os dias por escolher você. \uD83D\uDE09\uD83D\uDE1A','Loading...','Dia dos Namorados')\n" +
+                ", ('E com o tempo, a gente vai se conhecendo, se querendo, se cuidando. \uD83D\uDC6B\uD83D\uDC95\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68\\nQue venham muitas datas como essa! Feliz Dia dos Namorados!❤','Loading...','Dia dos Namorados')\n" +
+                ", ('O verdadeiro amor nunca se desgasta. Quanto mais se dá mais se tem. ❤\uD83D\uDC4D\uD83D\uDE1A','Loading...','Dia dos Namorados')\n" +
+                ", ('Você é tudo aquilo que eu nunca nem imaginei em ter. \uD83D\uDE0D\uD83D\uDE1A','Loading...','Dia dos Namorados')\n" +
+                ", ('O meu amor conhece cada gesto seu! Palavras que o seu olhar só diz pro meu (Ana Carolina) \uD83D\uDE0D\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('Quando duas pessoas se amam, elas não se submetem e não se dominam, apenas se completam. \uD83D\uDC95\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('Se for pra ser feliz, que seja com você!! \uD83D\uDE0A\uD83D\uDE1A','Loading...','Dia dos Namorados')\n" +
+                ", ('Que este seja nosso destino: amar, viver e começar cada dia juntos! ❤\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('A força desse amor não dá pra ser medida ❤️\uD83D\uDE09','Loading...','Dia dos Namorados')\n" +
+                ", ('Deus sabia exatamente o que estava fazendo quando me trouxe você. Amo você! \uD83D\uDC46\uD83D\uDC8F','Loading...','Dia dos Namorados')\n" +
+                ", ('Palavras são incapazes de expressar todo sentimento que tenho por você. Te amo muito. \uD83D\uDE3B❤\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('Um casamento perfeito é feito de duas pessoas imperfeitas que se recusam a desistir um do outro. \uD83D\uDE18\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('Eu coleciono cada sorriso dela…\uD83D\uDE0D\uD83D\uDE0D','Loading...','Dia dos Namorados')\n" +
+                ", ('Não importa se serão momentos bons ou ruins, mas se for ao seu lado, cada segundo valerá a pena \uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('Eu amo você, menina..Amo você… (Tim Maia) ❤\uD83D\uDE3B','Loading...','Dia dos Namorados')\n" +
+                ", ('Não quero muita coisa, só quero você ❤️\uD83D\uDC49','Loading...','Dia dos Namorados')\n" +
+                ", ('A minha felicidade já tinha nome, sobrenome e até endereço \uD83D\uDC4F\uD83D\uDE0D','Loading...','Dia dos Namorados')\n" +
+                ", ('Não existe nada em mim que não seja totalmente apaixonada por você. \uD83D\uDC8F❤','Loading...','Dia dos Namorados')\n" +
+                ", ('O amor é entrega, assim entregamo-nos um ao outro e ambos a Deus. \uD83D\uDC95\uD83D\uDE4F\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('O amor é a poesia dos sentidos. Quando existe, existe para todo o sempre e aumenta cada vez mais. ❤','Loading...','Dia dos Namorados')\n" +
+                ", ('Vi que era amor, quando te achei em mim e me perdi em você…\uD83D\uDE0D\uD83D\uDC8F','Loading...','Dia dos Namorados')\n" +
+                ", ('O meu melhor lugar sempre é você…\uD83D\uDE0D\uD83D\uDC49','Loading...','Dia dos Namorados')\n" +
+                ", ('Porque até o silencio dele, olhando pra mim, é bonito. \uD83D\uDE0A\uD83D\uDE0D','Loading...','Dia dos Namorados')\n" +
+                ", ('Foi o seu abraço que tirou a graça de todos os outros abraços. \uD83D\uDE3B\uD83D\uDE18','Loading...','Dia dos Namorados')\n" +
+                ", ('Assim que o amor entrou no meio, o meio virou amor. ❤\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68\uD83D\uDC95','Loading...','Dia dos Namorados')\n" +
+                ", ('Os namorados sonham um futuro a dois, até que o amor os torne um. \uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68\uD83D\uDE3B','Loading...','Dia dos Namorados')\n" +
+                ", ('Deixa eu dizer que te amo, deixa eu pensar em você, isso me acalma me acolhe a alma isso me ajuda a viver…(Marisa Monte) ❤\uD83D\uDE3B','Loading...','Dia dos Namorados')\n" +
+                ", ('Eu só sei que a vida é mais colorida com você. (Jorge & Mateus) \uD83D\uDE1A\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('Você é a medida exata de tudo o que um dia eu sonhei pra mim. \uD83D\uDE0A\uD83D\uDC6B','Loading...','Dia dos Namorados')\n" +
+                ", ('E eu acho que gosto mesmo de você, bem do jeito que você é. (Pitty) \uD83D\uDE3B\uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Dia dos Namorados')\n" +
+                ", ('Exageros à parte, por você eu morreria de amor na Terra e viveria em Marte. \uD83D\uDC6B \uD83D\uDE0D','Loading...','Dia dos Namorados')\n" +
+                ", ('Eu gosto dela e ela gosta de mim, o destino quis assim: início, meio, sem fim. \uD83D\uDC6B\uD83D\uDE0D❤','Loading...','Dia dos Namorados')\n" +
+                ", ('Tem bares que vem para o bem!  \uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases Engraçadas')\n" +
+                ", ('Nunca use uma pessoa pra esquecer outra, use duas ou três que dá certo \uD83D\uDE0E\uD83D\uDE1D','Loading...','Frases Engraçadas')\n" +
+                ", ('Acho que meu maior dom é gastar \uD83D\uDCB5 e depois me arrepender \uD83D\uDE14','Loading...','Frases Engraçadas')\n" +
+                ", ('Você pensa: Não a pessoa não pode ser tão sem noção…Sim ela pode! \uD83D\uDE1D\uD83D\uDE0E','Loading...','Frases Engraçadas')\n" +
+                ", ('Vocês que já tomaram um rumo? tem gosto de que? \uD83D\uDE04\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Se a vida lhe vira as costas, passe a mão na bunda dela','Loading...','Frases Engraçadas')\n" +
+                ", ('Loira na piscina morena no capim, quem gosta de loira pula na água e deixa a morena pra mim.','Loading...','Frases Engraçadas')\n" +
+                ", ('Eu só ímpar e você é meu par','Loading...','Frases Engraçadas')\n" +
+                ", ('Gata você não é catuaba, mas seu suvaco tá com um cheiro selvagem. \uD83D\uDE34','Loading...','Frases Engraçadas')\n" +
+                ", ('Ando ocupado demais sendo legal, que não sobra tempo para ser bonito. \uD83D\uDE06\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Eu gostaria de ter um filho um dia… dois dias, no máximo \uD83D\uDE1C\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Alguns erros são divertidos demais para serem cometidos só uma vez.\uD83D\uDE1D\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('As aparências enganam… e em alguns casos assustam.\uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Desistir é para os fracos…Faça como eu, nem tente \uD83D\uDE0E','Loading...','Frases Engraçadas')\n" +
+                ", ('Admita, você nunca apaga a conversa porque acha que um dia vai precisar de provas. \uD83D\uDE1C\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Aviso a quem pensa em me ofender: Sou fluente em palavrões \uD83D\uDE09\uD83D\uDE1D','Loading...','Frases Engraçadas')\n" +
+                ", ('Se seu problema é dinheiro e você não tem dinheiro, então você não tem problema \uD83D\uDCB5\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('O pior inimigo do homem é a \uD83C\uDF7A…Mas o homem que foge dos seus inimigos é um covarde!!','Loading...','Frases Engraçadas')\n" +
+                ", ('Quando você estiver \uD83D\uDE22 cante! Assim você vai ver que a sua voz é pior que os seus problemas…\uD83D\uDE03','Loading...','Frases Engraçadas')\n" +
+                ", ('Dizem que a felicidade vem das coisas pequenas…Então olhe para o seu salário e seja feliz…\uD83D\uDE04\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Não basta ser pobre…Tem que falar: É só uma lembrancinha! \uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Procurei seu nome no dicionário, mas não achei porque você não significa nada \uD83D\uDC4C\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('O dia que alguém correr atrás de mim podem ter certeza, é assalto \uD83D\uDE1D\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Tô cada dia mais linda, noticia lamentável pra quem me odeia \uD83D\uDC44\uD83D\uDC4C','Loading...','Frases Engraçadas')\n" +
+                ", ('2017 tem que ser o ano que vou dizer “até que enfim caralho” \uD83D\uDC4A\uD83D\uDE1D','Loading...','Frases Engraçadas')\n" +
+                ", ('O mundo da voltas, isso explica tanta gente tonta…\uD83D\uDE0F\uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Não piso na sua cara, por que odeio pisar em falso \uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Nunca confunda, Acordei!! Com vou levantar! \uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Se a culpa é minha eu ponho em quem quiser. \uD83D\uDC4C\uD83D\uDE0F','Loading...','Frases Engraçadas')\n" +
+                ", ('Café para mudar aquilo que posso, vinho para aceitar aquilo que não posso. ☕️\uD83C\uDF77','Loading...','Frases Engraçadas')\n" +
+                ", ('Nunca chego atrasada, apenas gero expectativa. \uD83D\uDE06\uD83D\uDE18','Loading...','Frases Engraçadas')\n" +
+                ", ('Vamos amar o próximo, que o anterior a gente sabe que não deu certo. ❤️\uD83D\uDE0C','Loading...','Frases Engraçadas')\n" +
+                ", ('A vida é aquele sorvete de palito, que quando você morde um lado cai o outro pedaço no chão. \uD83C\uDF66\uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Tudo nessa vida passa, menos a vontade de ganhar dinheiro dormindo. \uD83D\uDCB5\uD83D\uDE0C','Loading...','Frases Engraçadas')\n" +
+                ", ('Estude…Até queimadura tem segundo grau. \uD83D\uDD25\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Não deixes que nada te desanime, pois até um pé-na-bunda te empurra para a frente. \uD83D\uDE1D\uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Respeito a opinião de todos que concordam comigo. \uD83D\uDC4C\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Se o Facebook tivesse sido criado por uma mulher, com certeza teria um botão “nem te conto” \uD83D\uDE18\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Meu filho vai se chamar ipad, só pra eu dizer que tenho um… \uD83D\uDE1D\uD83D\uDE0E.','Loading...','Frases Engraçadas')\n" +
+                ", ('Você não cansa de comer?? Eu não como correndo \uD83C\uDF54\uD83C\uDF57\uD83C\uDFC3','Loading...','Frases Engraçadas')\n" +
+                ", ('Uns namoram uns ficam e eu sou lindo! é isso que importa…\uD83D\uDE0E\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('A vida tenta dar uma rasteira na gente mas a gente aproveita que ta deitado e dorme \uD83D\uDCA4\uD83D\uDC4C','Loading...','Frases Engraçadas')\n" +
+                ", ('Se o extintor de incêndio pegar fogo, o que devemos fazer?\uD83D\uDD25\uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Mulher é indefesa apenas enquanto o esmalte está secando.\uD83D\uDC85\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Não te desejo o mal…Com essa cara você já tem o suficiente \uD83D\uDE1D\uD83D\uDC4C','Loading...','Frases Engraçadas')\n" +
+                ", ('Me joga no google, me chama de pesquisa…Diz que sou tudo que você precisa \uD83D\uDE06\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Acho que meu cupido é matemático: ele só me traz problemas \uD83D\uDE04\uD83D\uDE1D','Loading...','Frases Engraçadas')\n" +
+                ", ('Namore alguém que coma com você e não que reclame que você está comendo demais \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Sou a favor do botão: Sair do grupo sem ninguém perceber…\uD83D\uDE1C\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('O dinheiro não trás felicidade… manda comprar! \uD83D\uDCB5\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Mais feliz que o Datena, transmitindo tiroteio ao vivo! \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Sou humilde por ser pobre, não por opção! \uD83D\uDE04✌','Loading...','Frases Engraçadas')\n" +
+                ", ('Quando um não quer… o outro insiste! \uD83D\uDE14\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Cada vez sobra mais mês no fim do dinheiro!  \uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Acho que penso, logo, acho que existo! \uD83D\uDE06\uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Ter um coração OLX nem sempre é um bom negócio ❤\uD83D\uDC4E','Loading...','Frases Engraçadas')\n" +
+                ", ('Se a ignorância é uma bênção, a humanidade está salva. \uD83D\uDCAD\uD83C\uDF0D\uD83D\uDC4D','Loading...','Frases Engraçadas')\n" +
+                ", ('Eu quase nada sei.. mas desconfio de alguma coisa!\uD83D\uDE0F\uD83D\uDE0F','Loading...','Frases Engraçadas')\n" +
+                ", ('Se for dirigir não beba, se for beber me chame! \uD83C\uDF7A\uD83D\uDC4D\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Aprenda uma coisa: o mundo não gira em torno de você. Só quando você bebe demais! \uD83C\uDF0D\uD83D\uDE18','Loading...','Frases Engraçadas')\n" +
+                ", ('Gosto tanto de comida que o meu super herói preferido é o supermercado. \uD83D\uDE0A\uD83C\uDF57\uD83C\uDF54\uD83C\uDF5F','Loading...','Frases Engraçadas')\n" +
+                ", ('Se um dia você sentir um vazio em você, coma que é fome! \uD83D\uDE2F\uD83D\uDE0B','Loading...','Frases Engraçadas')\n" +
+                ", ('Passar a mulher para trás é fácil, difícil é passar adiante! \uD83D\uDE4E\uD83D\uDC49','Loading...','Frases Engraçadas')\n" +
+                ", ('Se você está se sentindo sozinho, abandonado, achando que ninguém liga para você… atrase um pagamento…\uD83D\uDCB5\uD83D\uDE04\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Se um dia a vida lhe der as costas, passe a mão na bunda dela. \uD83D\uDE1C\uD83D\uDE1D\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Não leve a vida tão a sério, afinal, você não vai sair vivo dela mesmo…✌\uD83D\uDE1C\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Amigos: ganha-se e perde-se. Inimigos: acumula-se. \uD83D\uDE0F\uD83D\uDE11','Loading...','Frases Engraçadas')\n" +
+                ", ('Quem ri por último não entendeu a piada. \uD83D\uDE0F\uD83D\uDE0F\uD83D\uDE04\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Se tempo fosse dinheiro, meu relógio seria milionário! ⏰\uD83D\uDCB5\uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Se os fatos não confirmam a teoria, abandone os fatos. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases Engraçadas')\n" +
+                ", ('Homem deve ser tratado como um bom vinho: no escuro, na horizontal, e com rolha na boca.','Loading...','Frases Engraçadas')\n" +
+                ", ('De nada adianta ter barriga de tanquinho se a torneira não funciona.','Loading...','Frases Engraçadas')\n" +
+                ", ('O cara era tão feio, mas tão feio, que foi comprar uma máscara de terror e só lhe venderam o elástico.','Loading...','Frases Engraçadas')\n" +
+                ", ('Mulher gorda é que nem Ferrari: quando sobe na balança vai de zero a cem em um segundo.','Loading...','Frases Engraçadas')\n" +
+                ", ('Tô tão carente que o churrasqueiro chegou e disse: “- Coração?!” E eu respondi: “- Que foi, amor?! ','Loading...','Frases Engraçadas')\n" +
+                ", ('Status de relacionamento em evolução: amor, amorzinho, mor, mô, morra diabo!','Loading...','Frases Engraçadas')\n" +
+                ", ('Justo mesmo é o soutien: oprime os grandes, levanta os caídos, protege e disfarça os pequenos.','Loading...','Frases Engraçadas')\n" +
+                ", ('Sua opinião pra mim é igual a anúncio do Youtube: eu ignoro em 5 segundos.','Loading...','Frases Engraçadas')\n" +
+                ", ('Numa coisa homens e mulheres concordam: ambos não confiam em mulheres.','Loading...','Frases Engraçadas')\n" +
+                ", ('Os políticos são como as fraldas… Devem ser trocados constantemente, e sempre pelo mesmo motivo.','Loading...','Frases Engraçadas')\n" +
+                ", ('Porque os homens preferem mulheres inteligentes? Porque os opostos se atraem.','Loading...','Frases Engraçadas')\n" +
+                ", ('Mulher feia é igual a limão. Só vai com cachaça.','Loading...','Frases Engraçadas')\n" +
+                ", ('Se o plano A não deu certo, não desista, o alfabeto tem mais 25 letras para você tentar','Loading...','Frases Engraçadas')\n" +
+                ", ('Ela era tão feia que quando fui curtir uma foto dela apareceu na tela : “TEM CERTEZA” ?','Loading...','Frases Engraçadas')\n" +
+                ", ('Tem gente que gosta tanto de Carnaval, que vive o ano inteiro de máscara.','Loading...','Frases Engraçadas')\n" +
+                ", ('Não basta ser pobre. Tem que abaixar o volume da TV pra escutar quando tem briga no vizinho.','Loading...','Frases Engraçadas')\n" +
+                ", ('A diferença entre o sexo pago e o sexo grátis… é que o sexo pago costuma sair mais barato!','Loading...','Frases Engraçadas')\n" +
+                ", ('Não adianta passar a vida procurando sua metade da laranja, se você é um limão azedo.','Loading...','Frases Engraçadas')\n" +
+                ", ('Aprenda uma coisa: o mundo não gira em torno de você. Só quando você bebe demais.','Loading...','Frases Engraçadas')\n" +
+                ", ('Não tenho medo de ser demitido, até porque a diferença de salário não seria tão grande.','Loading...','Frases Engraçadas')\n" +
+                ", ('Dizem que tudo que vai volta. Acho que meu dinheiro se perdeu pelo caminho.','Loading...','Frases Engraçadas')\n" +
+                ", ('Não basta ser pobre…Tem que falar: É só uma lembrancinha!','Loading...','Frases Engraçadas')\n" +
+                ", ('Eu sou ÓTIMO de cama. Durmo que é uma beleza.','Loading...','Frases Engraçadas')\n" +
+                ", ('Ela é tão feia que as fotos dela tem definição HD: Horrível Demais!','Loading...','Frases Engraçadas')\n" +
+                ", ('O pior inimigo do homem é a bebida…Mas o homem que foge dos seus inimigos não é um covarde!?','Loading...','Frases Engraçadas')\n" +
+                ", ('Nas próximas eleições votem nas putas, por que os filhos delas não resolvem nada.','Loading...','Frases Engraçadas')\n" +
+                ", ('Como ganhar dinheiro com a Internet: Vá no seu Facebook, desative e vá trabalhar.','Loading...','Frases Engraçadas')\n" +
+                ", ('Você nasce sem pedir e morre sem querer. Aproveite o intervalo!','Loading...','Frases Engraçadas')\n" +
+                ", ('Até a bateria do meu celular dura mais do que o amor eterno de certas pessoas!','Loading...','Frases Engraçadas')\n" +
+                ", ('Odeio pessoas bipolares. Sério, adoro!','Loading...','Frases Engraçadas')\n" +
+                ", ('Se bater na madeira afasta o azar, tô precisando desmatar a Amazônia na base da porrada.','Loading...','Frases Engraçadas')\n" +
+                ", ('Nunca dormi com mulher feia, mas já acordei com várias.','Loading...','Frases Engraçadas')\n" +
+                ", ('Com o tempo eu aprendi o significado de amor ao próximo. Não me ama? Próximo!','Loading...','Frases Engraçadas')\n" +
+                ", ('Único final feliz que eu conheço é o final de semana.','Loading...','Frases Engraçadas')\n" +
+                ", ('A mulher que não tem sorte com os homens não sabe a sorte que tem.','Loading...','Frases Engraçadas')\n" +
+                ", ('Se errar é humano… acertar deve ser coisa de extraterrestre.','Loading...','Frases Engraçadas')\n" +
+                ", ('Meu maior defeito é ser modesto demais…se eu não fosse tão modesto eu seria perfeito!','Loading...','Frases Engraçadas')\n" +
+                ", ('Coma merda! Milhões de moscas não podem estar erradas…','Loading...','Frases Engraçadas')\n" +
+                ", ('Quem bebe vive menos: menos triste, menos deprimido, menos tenso… \uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Eu sempre fui pobre, mas esse mês estou de parabéns \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Engraçadas')\n" +
+                ", ('Diga-me com quem andas e eu direi se vou junto ou não \uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Ao discutir com uma mulher: ou ela está certa, ou você está errado \uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Não roube! O Governo não gosta de concorrência \uD83D\uDE06\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('O final feliz que conheço é o final de semana ✌️\uD83D\uDE18','Loading...','Frases Engraçadas')\n" +
+                ", ('Cabelo ruim é igual a bandido, ou tá preso ou tá armado \uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Se eu tivesse de beleza o que tenho de sono… meu Deus como eu seria lindo! \uD83D\uDE0E','Loading...','Frases Engraçadas')\n" +
+                ", ('Procura-se um relacionamento engraçado, porque sério eu estou desistindo \uD83D\uDC4C\uD83D\uDE03','Loading...','Frases Engraçadas')\n" +
+                ", ('Evite a ressaca, mantenha-se bêbado \uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Me passe o número da sua opinião, quem sabe um dia eu ligue pra ela \uD83D\uDCDE','Loading...','Frases Engraçadas')\n" +
+                ", ('As aparências enganam … e em alguns casos assustam \uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Depois da tempestade, vem a gripe \uD83D\uDE0A','Loading...','Frases Engraçadas')\n" +
+                ", ('Por um mundo onde as pessoas torrem as minhas calorias e não a minha paciência \uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases Engraçadas')\n" +
+                ", ('Se quem ama cuida, muita gente deve me amar… Porque o que tem de pessoas cuidando da minha vida, não é brincadeira \uD83D\uDC4F❤️','Loading...','Frases Engraçadas')\n" +
+                ", ('A fome é inimiga da refeição \uD83D\uDE06\uD83D\uDE04','Loading...','Frases Engraçadas')\n" +
+                ", ('Sobre me apaixonar: Minha parte eu quero em dinheiro \uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Olhei pra minha havaianas, e lembrei de você, afinal todo mundo usa \uD83D\uDE18','Loading...','Frases Engraçadas')\n" +
+                ", ('Ter amigos é sair sem dinheiro e voltar bêbado \uD83D\uDE1C\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Se tudo que vai volta, acho que meu dinheiro se perdeu no caminho \uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Minha metade da laranja deve ter virado suco \uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Os últimos serão desclassificados \uD83D\uDE09','Loading...','Frases Engraçadas')\n" +
+                ", ('Devo tanto, que se eu chamar alguém de meu bem, o banco me toma \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02','Loading...','Frases Engraçadas')\n" +
+                ", ('Se a vida te der limões, adicione pinga e açúcar \uD83D\uDE06\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Na vida tudo é relativo. Um fio de cabelo na cabeça é pouco; na sopa, é muito \uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Foi só mandar um brasileiro pro espaço que já sumiu um planeta \uD83D\uDE06\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Não é que eu tenha medo de morrer. Só não quero estar lá quando isso acontecer \uD83D\uDE01','Loading...','Frases Engraçadas')\n" +
+                ", ('É muito triste quando se é rico, bonito e sensual e aí vem o despertador e acaba com tudo \uD83D\uDE06\uD83D\uDE06\uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Só não morro de preguiça porque tenho preguiça de morrer \uD83D\uDE0E','Loading...','Frases Engraçadas')\n" +
+                ", ('Na maré de azar nós surfa \uD83D\uDE0E','Loading...','Frases Engraçadas')\n" +
+                ", ('Esperei 9 meses para nascer, depois disso não tive paciência para esperar mais nada \uD83D\uDE06','Loading...','Frases Engraçadas')\n" +
+                ", ('Nós chamamos de meio ambiente por que já destruímos a metade \uD83D\uDE01','Loading...','Frases Engraçadas')\n" +
+                ", ('O mundo dá voltas. – Disse o bêbado \uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('Nem meu parto foi normal imagina eu \uD83D\uDE1C\uD83D\uDE1C','Loading...','Frases Engraçadas')\n" +
+                ", ('As pessoas me esquecem como se eu fosse a letra do hino nacional \uD83D\uDE23','Loading...','Frases Engraçadas')\n" +
+                ", ('Por toda a minha vida, ó senhor, te louvarei! \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Deus te ouve antes mesmo de você falar! \uD83D\uDC42\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Senhor, eu sou fraco, preciso de ti, não desista de mim \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Deixa Deus ser Deus na sua Vida \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Transbordando a presença e a unção de Deus \uD83D\uDC4F\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Nada é em vão, se não é benção, é lição \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Tu És o Deus extraordinário \uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Pai, tá difícil manter o caminho, tenho andado em meio a espinhos \uD83D\uDE14\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Se encha de Deus e jamais se sentirá vazio \uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Tudo posso naquele que me fortalece !','Loading...','Frases de Deus')\n" +
+                ", ('Deus não fez ninguém perfeito, mas sabe fazer a diferença.','Loading...','Frases de Deus')\n" +
+                ", ('Entregue o seu caminho ao Senhor; confie nele, e ele agirá.','Loading...','Frases de Deus')\n" +
+                ", ('Amar a Deus e encontrar reciprocidade ❤️\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Aquele momento que você ora e Deus te pega no colo \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Deus, você é o melhor pai do mundo \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Se for da vontade de Deus, vai acontecer \uD83D\uDE09\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Deus está apenas a uma oração de distância \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Primeiro a palavra de Deus. Depois a sua opinião \uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Confie seu coração a Deus e não às pessoas ❤️\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Nas mãos de DEUS, pessoas comuns se tornam instrumentos extraordinários\uD83D\uDC4F\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Que Deus seja nossa prioridade \uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('O meu Deus é o Deus do impossível \uD83D\uDE4C\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Quem Pede Com Fé , Consegue o que quer \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Perfeito mesmo é o amor de Deus ❤️\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Louvado seja o Teu nome, Teu Santo nome \uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Deus não desistiu de você \uD83D\uDC46\uD83D\uDE0A','Loading...','Frases de Deus')\n" +
+                ", ('Te agradeço pelo pão de cada dia Que o Senhor nunca deixou faltar…\uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Ele cura os de coração quebrado e cuida dos seus ferimentos \uD83D\uDC46❤️','Loading...','Frases de Deus')\n" +
+                ", ('O abraço de Deus é o único que pode juntar todos os nossos pedaços \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Pedir a Deus às vezes é preciso, mas agradecer é necessário \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Irmão, se tu tem fé, tu tem tudo \uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Mas o que Deus prepara para a gente sempre é o melhor do que pedimos e pensamos \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Tua graça me basta \uD83D\uDE4C\uD83D\uDE0A','Loading...','Frases de Deus')\n" +
+                ", ('Faz-me Teu servo, Senhor, me livra do mal! \uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Se estou fraco, se eu estou caído, Ele não deixa de me amar! \uD83D\uDC4E\uD83D\uDC4A\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Não importa o que aconteça, Deus nunca vai te abandonar! \uD83D\uDE4C\uD83D\uDE2A\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('É ele o autor da Fé, Do princípio ao fim em todos os seus tormentos!  \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Mesmo sendo falho, mesmo sem merecer, Deus me ama! \uD83D\uDE4F\uD83D\uDC93','Loading...','Frases de Deus')\n" +
+                ", ('Mas quando eu sentir medo, confiarei no senhor! \uD83D\uDC46\uD83D\uDE4F\uD83D\uDE23','Loading...','Frases de Deus')\n" +
+                ", ('Grandes coisas fez o Senhor por nós, por isso estamos alegres. \uD83D\uDE4C\uD83D\uDE04','Loading...','Frases de Deus')\n" +
+                ", ('Me ajude a ser fiel, eu quero chegar no céu e te abraçar, Senhor! ❤\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Mesmo sendo assim, pobre pecador, Deus me ama! \uD83D\uDE1E\uD83D\uDE4C❤','Loading...','Frases de Deus')\n" +
+                ", ('Esteja a onde estiver, tenha fé! \uD83D\uDE09\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Grandes coisas fez o Senhor por nós, por isso estamos alegres! \uD83D\uDE04\uD83D\uDE4C\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Prepare-se para viver tudo que Deus te prometeu, porque vai acontecer! \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Em cada passo que eu der, cada estrada que eu trilhar, todo caminho que eu escolher, a tua mão me guiará! \uD83D\uDE4F\uD83D\uDEB6','Loading...','Frases de Deus')\n" +
+                ", ('Ore. Espere. Confie. \uD83D\uDE4F\uD83D\uDE0C','Loading...','Frases de Deus')\n" +
+                ", ('A fé em Deus nos faz crer no incrível, ver o invisível e realizar o impossível\uD83D\uDC4D\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Jesus é único e incomparável. Não há ninguém igual a Ele! \uD83D\uDC46\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Ontem me guiou. Hoje me guardou. Amanhã, o meu Deus, já preparou! \uD83C\uDFC3\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Confie seus passos e sua vida a Deus\uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Ore. Espere. Confie \uD83D\uDE09\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Tudo é possível àquele que crê\uD83D\uDC4F\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Caminhamos pela fé, e não pela visão\uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Que no meu caminhar DEUS seja o guia\uD83D\uDE4F\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Felizes os que promovem a paz, porque serão chamados filhos de Deus \uD83D\uDC46\uD83D\uDE0A','Loading...','Frases de Deus')\n" +
+                ", ('Conheça a verdade e ela te libertará \uD83D\uDE4F\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('O problema não é que Deus não nos fale, nós é que não o ouvimos \uD83D\uDE4F\uD83D\uDE0C','Loading...','Frases de Deus')\n" +
+                ", ('Após uma provação vencida o Senhor sempre nos presenteia com uma benção \uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('O dia de amanhã pertence a Deus, então busquemos por Ele hoje \uD83D\uDE4C\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Confie no Senhor. Paciência. Ele trabalha para aqueles que nele esperam \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Quanto mais ando com Deus, menos cansaço eu sinto\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Saiba sempre agradecer, Deus resiste aos soberbos, mas dá graça aos humildes \uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('A fé é o elemento essencial para o ser humano conhecer a Deus \uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Alimente a sua fé e todos os seus medos morrerão de fome \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Aquietai-vos e sabei que Eu Sou Deus \uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Quando Jesus está no barco não importa o tamanho das ondas\uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Existe vazios que só Deus preenche\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Peço a Deus que abençoe os meus planos e eles darão certo \uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Aquele que se deleita no Senhor, Deus atende o desejo do seu coração \uD83D\uDE4F❤️','Loading...','Frases de Deus')\n" +
+                ", ('A maior perda de tempo é quando se tenta realizar sem Deus \uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Deus é mais poderoso do que se imagina e mais amor do que se pensa ❤️\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Viver sem Deus não é viver \uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Agindo Deus, Ninguém impedirá?\uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Quando um sonho se desfaz Deus reconstrói \uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('O que dizem de nós só será importante se também for a “opinião” de Deus \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Enquanto há vida, há esperança \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Deus sabe o que é bom para você\uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('A fé em Deus nos faz crer no incrível, ver o invisível e realizar o impossível \uD83D\uDE4F\uD83D\uDE4C\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Agora, pois, permanecem a fé, a esperança e o amor, estes três; porém o maior destes é o amor \uD83D\uDE4F❤️','Loading...','Frases de Deus')\n" +
+                ", ('Tudo é permitido”, mas nem tudo convém. “Tudo é permitido”, mas nem tudo edifica \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Deus')\n" +
+                ", ('Você não pode ser qualquer coisa que desejar ser. Mas pode ser tudo o que Deus quer que você seja\uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Deus nunca disse que a jornada seria fácil, mas Ele disse que a chegada valeria a pena\uD83D\uDE4C\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Deus não está tão acima de você que não possa ser tocado pelas suas lágrimas \uD83D\uDE22\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Se Deus é por nós, quem será contra nós? \uD83D\uDE4F\uD83D\uDE0C','Loading...','Frases de Deus')\n" +
+                ", ('Deus limpará de seus olhos todas as lágrimas \uD83D\uDE22\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('A semente de Deus se desenvolverá melhor se o solo do coração estiver limpo ❤️\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Jesus é único e incomparável. Não há ninguém igual a Ele\uD83D\uDC46\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('O choro pode durar uma noite, mas a alegria vem pela manhã\uD83D\uDE22\uD83D\uDE03\uD83D\uDC4F','Loading...','Frases de Deus')\n" +
+                ", ('Entreguem todas as suas preocupações a Deus, pois ele cuida de vocês \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Mal de ex é achar que é inesquecível \uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Não te quero mal, só não te quero mais… \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Ela era esperta demais, para ficar infeliz por muito tempo…\uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Amava teu sorriso… hoje prefiro o meu \uD83D\uDE03','Loading...','Frases para Ex')\n" +
+                ", ('Deixei de ter pena de mim por estar sem você, e passei a ter pena de você por estar sem mim. \uD83D\uDE0C','Loading...','Frases para Ex')\n" +
+                ", ('A vida sempre se encarrega, de levar o que a gente não merece carregar! \uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Te perdendo eu cresci tanto, que não quero mais te encontrar. \uD83D\uDE0E\uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Ela aprendeu que todo amor pode acabar, menos o próprio. \uD83D\uDE09❤️','Loading...','Frases para Ex')\n" +
+                ", ('Eu era a primeira a querer falar de você, hoje evito ouvir seu nome \uD83D\uDE14\uD83D\uDE14','Loading...','Frases para Ex')\n" +
+                ", ('Quando dei por mim, eu estava completamente curada do meu pior vício: você. \uD83D\uDE18\uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Ela meteu o pé tio, agora chora \uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Eu era a primeira a querer falar de você, hoje evito ouvir seu nome \uD83D\uDE14\uD83D\uDE14','Loading...','Frases para Ex')\n" +
+                ", ('Quando dei por mim, eu estava completamente curada do meu pior vício: você. \uD83D\uDE18\uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Se não me faz bem, eu não quero pra mim \uD83D\uDE0C','Loading...','Frases para Ex')\n" +
+                ", ('Desapega que a vida flui…\uD83D\uDE09\uD83C\uDF43','Loading...','Frases para Ex')\n" +
+                ", ('A fila andou, e você foi pro final. \uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Vou amar quem me ama, esquecer quem não me quis, e mostrar pra quem me odeia o poder de ser feliz ♡☆♥','Loading...','Frases para Ex')\n" +
+                ", ('Tá com saudade? Então volta pro passado, porque foi lá que eu te quis\uD83D\uDC94\uD83D\uDC40\uD83D\uDCAA\uD83D\uDE0D','Loading...','Frases para Ex')\n" +
+                ", ('Agora quem não quer sou eu… \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Aprendi a nunca esperar nada de ninguém. Desde então, eu só tenho surpresas \uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Se tu antes não queria, hoje é ela que não quer \uD83D\uDE18\uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Deixo para trás, quem não soube me levar para frente \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases para Ex')\n" +
+                ", ('Não sei se acabou, ou se, na verdade nunca existiu \uD83D\uDE14','Loading...','Frases para Ex')\n" +
+                ", ('Não mudei de cidade, nem de \uD83D\uDCDE. Só escolhi ser feliz \uD83D\uDE04','Loading...','Frases para Ex')\n" +
+                ", ('Eu to de boa, vai passado de fininho, eu to amando outra pessoa \uD83D\uDE09','Loading...','Frases para Ex')\n" +
+                ", ('Ela resolveu viver como flor,se colorir sozinha. \uD83C\uDF3A','Loading...','Frases para Ex')\n" +
+                ", ('O mundo dá voltas e olha eu por cima, continuo apaixonado mas agora pela vida \uD83D\uDE0E','Loading...','Frases para Ex')\n" +
+                ", ('Superar é da nossa natureza…\uD83D\uDE0C\uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Confiar é preciso, seguir em frente é necessário, dar à volta por cima é uma questão de honra…\uD83D\uDC4A\uD83D\uDE0E','Loading...','Frases para Ex')\n" +
+                ", ('Um dia tu vai sentir minha falta, oh se vai \uD83D\uDE18\uD83D\uDE09','Loading...','Frases para Ex')\n" +
+                ", ('Era meu grande amor hoje é só mais um ex ✌️\uD83D\uDE09','Loading...','Frases para Ex')\n" +
+                ", ('Vacilão, tava com a melhor, com a mais de fé, mas não deu valor \uD83D\uDC4A','Loading...','Frases para Ex')\n" +
+                ", ('E ela vai embora, dessa vez é de verdade, cansada de dar o máximo e não receber metade \uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Ele que encontre outra pra aturar as suas patifarias \uD83D\uDE21','Loading...','Frases para Ex')\n" +
+                ", ('Você não fez ela feliz, agora um vagabundo faz \uD83D\uDE18\uD83D\uDC4A','Loading...','Frases para Ex')\n" +
+                ", ('Perdeu playboy, agora a vida vai te mostrar como a solidão dói \uD83D\uDC4C','Loading...','Frases para Ex')\n" +
+                ", ('Pra mim foi amor, pra você foi curtição, mó vacilão \uD83D\uDC4A\uD83D\uDE21','Loading...','Frases para Ex')\n" +
+                ", ('É neguin, tu perdeu a única que te boto fé \uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases para Ex')\n" +
+                ", ('Bobeou meu bem, não sabe cuidar perde o que tem \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Não vou puxar de volta aqueles que vi correr \uD83D\uDE09\uD83D\uDE18','Loading...','Frases para Ex')\n" +
+                ", ('Não falo mal de ex, porque um dia ele me fez feliz \uD83D\uDE1A\uD83D\uDE0C','Loading...','Frases para Ex')\n" +
+                ", ('Se nem a atual do meu ex me esqueceu imagina ele \uD83D\uDE09','Loading...','Frases para Ex')\n" +
+                ", ('Se um dia seu ex namorado te disser que você nunca vai encontrar alguém como ele… Responda : Deus te ouça!','Loading...','Frases para Ex')\n" +
+                ", ('Aí você olha pro seu passado e pensa: Meu Deus, como eu pude um dia gostar disso.','Loading...','Frases para Ex')\n" +
+                ", ('A vida é curta demais para perder tempo com quem não vale a pena.','Loading...','Frases para Ex')\n" +
+                ", ('Meu ex me mandou um SMS: Por favor, apague meu número da sua agenda. Eu respondi: Quem é?','Loading...','Frases para Ex')\n" +
+                ", ('O que você não valoriza, a vida vem e tira.','Loading...','Frases para Ex')\n" +
+                ", ('Inteligente não é quem sabe para onde ir, mas quem aprendeu para onde não deve voltar.','Loading...','Frases para Ex')\n" +
+                ", ('Quem não sabe o que quer, perde o que tem!','Loading...','Frases para Ex')\n" +
+                ", ('Lei da vida: Eu te amo, você não me ama. Eu demonstro, você despreza. Eu desisto, você se importa.','Loading...','Frases para Ex')\n" +
+                ", ('Se ex fosse bom, Deus não mandava amar o próximo.','Loading...','Frases para Ex')\n" +
+                ", ('Ta afim de mim? Então volta pro passado, porque foi lá que eu te quis.','Loading...','Frases para Ex')\n" +
+                ", ('Muita gente não sabe, mas é possível dar valor antes de perder alguém.','Loading...','Frases para Ex')\n" +
+                ", ('Amava o sorriso dele… Sempre amei. Mas dessa vez, preferi o meu!','Loading...','Frases para Ex')\n" +
+                ", ('Prefiro sofrer por uma abstinência, do que sofrer por um amor que nunca existiu.','Loading...','Frases para Ex')\n" +
+                ", ('Vacilou? Perdeu a vez. Não cuidou? Virou ex.','Loading...','Frases para Ex')\n" +
+                ", ('Se existe uma coisa que eu me arrependo é de ter confiado em algumas pessoas… ','Loading...','Frases para Ex')\n" +
+                ", ('Pra todo game-over existe um play again.','Loading...','Frases para Ex');";
+        return frase;
+    }
+    public static String carregarFrases15() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Se você ama alguém, deixo-o livre; se ele voltar, ele é seu; se não, nunca foi.','Loading...','Frases para Ex')\n" +
+                ", ('Primeiro você sente muito, depois você sente falta e quando menos espera, você não sente mais nada.','Loading...','Frases para Ex')\n" +
+                ", ('Querer alguém que não te quer é como tentar voar com uma asa quebrada.','Loading...','Frases para Ex')\n" +
+                ", ('Não existe amor impossível, apenas pessoas incapazes de lutar por aquilo que chamam de amor.','Loading...','Frases para Ex')\n" +
+                ", ('Filme de comédia é ver ex pegando gente feia.','Loading...','Frases para Ex')\n" +
+                ", ('Sinto saudade, mas logo lembro o motivo pela qual me afastei… Então, foda-se!','Loading...','Frases para Ex')\n" +
+                ", ('A pessoa já te esqueceu, e você aí pensando que é orgulho.','Loading...','Frases para Ex')\n" +
+                ", ('Chega uma hora que a gente cansa de sofrer.','Loading...','Frases para Ex')\n" +
+                ", ('Você sabe que está no caminho certo, quando perde o interesse de olhar para trás.','Loading...','Frases para Ex')\n" +
+                ", ('Voltar com ex é para os fracos. Os fortes arrumam coisa melhor.','Loading...','Frases para Ex')\n" +
+                ", ('Não cospe no prato que comeu, pois pode te dar fome de novo.','Loading...','Frases para Ex')\n" +
+                ", ('Você me pede para te esquecer, mas quem é você mesmo?','Loading...','Frases para Ex')\n" +
+                ", ('Procurando aqui no Google Maps onde eu estava com a cabeça quando te dei moral.','Loading...','Frases para Ex')\n" +
+                ", ('Devolva a bateria que eu gastei com você no WhatsApp.','Loading...','Frases para Ex')\n" +
+                ", ('Depois que eu desistir, não adianta insistir.','Loading...','Frases para Ex')\n" +
+                ", ('E outra vez o meu coração escolheu a pessoa errada.','Loading...','Frases para Ex')\n" +
+                ", ('Meu coração apanhou por quem ele mais batia.','Loading...','Frases para Ex')\n" +
+                ", ('Não vou te bloquear, te excluir, nem nada do tipo. Quero que você esteja presente e veja como sou mais feliz sem você.','Loading...','Frases para Ex')\n" +
+                ", ('Curtida de ex, pra mim é saudade.','Loading...','Frases para Ex')\n" +
+                ", ('É tanta falsidade, tanta hipocrisia, tanto fingimento. Que cansa vivenciar isso todos os dias!\uD83D\uDC4C\uD83D\uDE24','Loading...','Frases de falsidade')\n" +
+                ", ('Alguma vez você já foi realmente você❓\uD83D\uDE12','Loading...','Frases de falsidade')\n" +
+                ", ('Tomara que tu se afogue nesse teu mar de falsidade!\uD83C\uDF0A\uD83D\uDD2B','Loading...','Frases de falsidade')\n" +
+                ", ('Eu gosto de gente que é gente, sem falsidade, enganação nem máscaras. Sinceridade que transborda no olhar, amor nas atitudes e verdade nas palavras!\uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de falsidade')\n" +
+                ", ('Excesso de simpatia é falsidade!\uD83D\uDE12\uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('As vezes me pergunto se é falsa mesmo ou faz curso \uD83D\uDE18','Loading...','Frases de falsidade')\n" +
+                ", ('Sou um mel pra minhas amigas e veneno pras inimigas','Loading...','Frases de falsidade')\n" +
+                ", ('Eu não pago na mesma moeda, eu simplesmente dou o troco!\uD83D\uDE18','Loading...','Frases de falsidade')\n" +
+                ", ('Amigos a gente vê por atitudes e não por palavra\uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Cachorra que rosna não morde\uD83D\uDE0D\uD83D\uDE0D\uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Em baile de máscaras, falsa vai de cara limpa!\uD83D\uDE04\uD83D\uDE36','Loading...','Frases de falsidade')\n" +
+                ", ('Nesse mundo de falsidade, sinceridade vira arrogância \uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Só pra deixar bem claro, os verdadeiros eu sei quem são ✌️\uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('Adoro dar corda pra ver até onde a falsidade vai \uD83D\uDE18\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('As pessoas querem te ver bem, mas nunca melhor que elas \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('A falsidade é o forte de muitas pessoas \uD83D\uDC4A\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Na tua saudade só há falsidade, te orienta \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Engraçado como as atitudes definem uma pessoa e mostram sua verdadeira face \uD83D\uDE10','Loading...','Frases de falsidade')\n" +
+                ", ('As outras pessoas não mudam, elas apenas nunca foram o que você pensou \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de falsidade')\n" +
+                ", ('Por que eu ainda insisto em acreditar nas pessoas?  \uD83D\uDE10','Loading...','Frases de falsidade')\n" +
+                ", ('Tem gente que gosta tanto de Carnaval, que vive o ano inteiro de máscaras \uD83D\uDC4A\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('A falsidade vem de quem você menos espera…\uD83D\uDE14','Loading...','Frases de falsidade')\n" +
+                ", ('Sai Zika, sua maldade aqui não fica \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Uma hora ou outra sua máscara ia cair \uD83D\uDC4E\uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Agiu na falsidade, mas tudo bem, a sua hora vai chegar \uD83D\uDC4C\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Prefiro pisar em espinhos que calçar sua falsidade \uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('Pode ir embora, afinal pessoas falsas nunca foram minhas favoritas \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de falsidade')\n" +
+                ", ('Quem nada me acrescenta, nenhuma falta me faz \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Puxava tanto o saco que por fim acabou puxando o tapete \uD83D\uDC4A\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Suporto tudo, menos falsidade \uD83D\uDE21\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Não finja se importar, é ridículo \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('A pessoa com tanta louça pra lavar em casa, vem falar da minha vida','Loading...','Frases de falsidade')\n" +
+                ", ('A última coisa que eu preciso é de alguém que finja se importar \uD83D\uDC4A\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Irônico mesmo é você, que é a mais falsa, reclamando de falsidade \uD83D\uDE06\uD83D\uDE06','Loading...','Frases de falsidade')\n" +
+                ", ('Tem gente que só no olhar você já vê a falsidade… \uD83D\uDE09\uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('Pior que gente falsa, é gente falsa e ingrata \uD83D\uDE21\uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Me trata bem eu trato em dobro, me trato mal vai tratar uma vez só \uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Alguns valem um brinde, enquanto outros não valem um gole \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Duas coisas que nunca esqueço na vida: quem me deu a mão quando precisei e quem soltou ela também \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('Amigos a gente vê por atitudes, e não por palavras. Fique esperto \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Mais cedo ou mais tarde as máscaras caem… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Eu não tenho inimigos, tenho gente falsa que se diz meus amigos \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('O pior inimigo é aquele que anda do seu lado, e te chama de amigo… \uD83D\uDE0F\uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Amizade falsa não mata, apenas te ensina a saber qual é verdadeira. \uD83D\uDE09\uD83D\uDE0F','Loading...','Frases de falsidade')\n" +
+                ", ('Iludida até nas amizades…\uD83D\uDE0C\uD83D\uDE2B','Loading...','Frases de falsidade')\n" +
+                ", ('Amigo falso é pior que inimigo declarado \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Mas olha que ironia, na frente pagava de amigo, por trás era só judaria \uD83D\uDE21','Loading...','Frases de falsidade')\n" +
+                ", ('Fugindo das pessoas, que eu achava que conhecia \uD83D\uDE0C\uD83D\uDE2B','Loading...','Frases de falsidade')\n" +
+                ", ('Quem fala mal dos outros para você. Fala mal de você para os outros. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('É melhor levar uma surra da sinceridade, do que um abraço da falsidade. \uD83D\uDE23','Loading...','Frases de falsidade')\n" +
+                ", ('Máscaras vão cair, aguarde…\uD83D\uDE09\uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Eu não preciso de amizades falsas! \uD83D\uDE0F','Loading...','Frases de falsidade')\n" +
+                ", ('Decepção é um sentimento capaz de fazer, uma pessoa mudar muito \uD83D\uDE23','Loading...','Frases de falsidade')\n" +
+                ", ('Amigos a gente vê por atitudes, e não por palavras. \uD83D\uDC4C\uD83D\uDC4F','Loading...','Frases de falsidade')\n" +
+                ", ('Tu é mais falsa que “entendi” na aula de matemática ☹️','Loading...','Frases de falsidade')\n" +
+                ", ('A falsidade é o forte de muitas pessoas…\uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Tem gente que só no olhar você já vê a falsidade…\uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('Se você nunca gostou de mim, por que fingiu que sim? \uD83D\uDE0F','Loading...','Frases de falsidade')\n" +
+                ", ('Como se eu não soubesse, quem é falso comigo…\uD83D\uDE20','Loading...','Frases de falsidade')\n" +
+                ", ('Os piores inimigos, são aqueles que já foram nossos amigos um dia. \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Algumas pessoas surgem como uma benção, outras como lição. \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('As outras pessoas não mudam, elas apenas nunca foram o que você pensou. \uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('Engraçado como as atitudes definem uma pessoa e mostra sua verdadeira face \uD83D\uDE0C','Loading...','Frases de falsidade')\n" +
+                ", ('Pegar nojo de alguém é pior do que ódio \uD83D\uDE20','Loading...','Frases de falsidade')\n" +
+                ", ('Não existe essa de amigos falsos. Se são falsos, não são amigos \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('Se amizade fosse dinheiro, andaríamos cheios de notas falsas. \uD83D\uDE09','Loading...','Frases de falsidade')\n" +
+                ", ('É muito vacilo, falsidade, mimimi, cobrança e má fé. \uD83D\uDC4A','Loading...','Frases de falsidade')\n" +
+                ", ('A inveja existe, e a cada 10, 5 é na maldade. \uD83D\uDC4C','Loading...','Frases de falsidade')\n" +
+                ", ('Já tive um melhor amigo que hoje é apenas mais um estranho \uD83D\uDE0C','Loading...','Frases de falsidade')\n" +
+                ", ('Sou feliz sendo quem eu sou, e não o que os outros querem que eu seja. \uD83D\uDE0E\uD83D\uDE18','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade se faz, não se acha…✌️\uD83D\uDE09','Loading...','Frases de felicidade')\n" +
+                ", ('Moça, plante felicidade e colha sorrisos \uD83C\uDF3C\uD83D\uDE04','Loading...','Frases de felicidade')\n" +
+                ", ('Procure sua felicidade sem depender das pessoas \uD83D\uDC4C\uD83D\uDE04','Loading...','Frases de felicidade')\n" +
+                ", ('Ser feliz é mais simples do que eu pensei \uD83D\uDE04✌️','Loading...','Frases de felicidade')\n" +
+                ", ('Chique é ser feliz…\uD83D\uDE06\uD83D\uDE05','Loading...','Frases de felicidade')\n" +
+                ", ('Sempre existe algo pelo que valha a pena viver☺','Loading...','Frases de felicidade')\n" +
+                ", ('Não Basta Viver Para Ser Feliz, Mas Basta Ser Feliz Para Viver','Loading...','Frases de felicidade')\n" +
+                ", ('As quedas não conseguiram tirar dela, a vontade de ser feliz  \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases de felicidade')\n" +
+                ", ('Que minha única mania seja sorrir, e meu único vicio seja a felicidade \uD83D\uDE03✌️','Loading...','Frases de felicidade')\n" +
+                ", ('Felicidade sem motivo, melhor impossível ✌️\uD83D\uDE03','Loading...','Frases de felicidade')\n" +
+                ", ('Ser feliz até onde der, até onde puder. Sem adiar!! \uD83D\uDE06\uD83D\uDE05','Loading...','Frases de felicidade')\n" +
+                ", ('Felicidade contagia, então seja feliz…\uD83D\uDE06\uD83D\uDE04','Loading...','Frases de felicidade')\n" +
+                ", ('Ser feliz é uma combinação de sorte, com escolhas bem feitas… \uD83D\uDC4F\uD83D\uDE03','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade me guia…\uD83D\uDE04\uD83D\uDC63','Loading...','Frases de felicidade')\n" +
+                ", ('Sou feliz, só por preguiça. A infelicidade dá uma trabalheira \uD83D\uDE06\uD83D\uDE02','Loading...','Frases de felicidade')\n" +
+                ", ('Ser feliz não é apenas sorrir, e sim passar a alegria para todos a sua volta \uD83D\uDE04\uD83D\uDC4F','Loading...','Frases de felicidade')\n" +
+                ", ('Seja feliz , não perfeito \uD83D\uDE0E\uD83D\uDE09','Loading...','Frases de felicidade')\n" +
+                ", ('Quais são as razões para ser feliz? Todas! ✌️\uD83D\uDC4F','Loading...','Frases de felicidade')\n" +
+                ", ('Busque ser feliz, sem ocultar a felicidade de ninguém \uD83D\uDE04\uD83D\uDE09','Loading...','Frases de felicidade')\n" +
+                ", ('Onde fores feliz, fica! \uD83D\uDE04\uD83D\uDE03','Loading...','Frases de felicidade')\n" +
+                ", ('Sou feliz e não admito que ninguém me acorde. \uD83D\uDE01\uD83D\uDE02','Loading...','Frases de felicidade')\n" +
+                ", ('E quem é feliz, faz feliz os outros. \uD83D\uDE0D\uD83D\uDC4F','Loading...','Frases de felicidade')\n" +
+                ", ('Você só vai ser feliz, quando parar de viver para agradar os outros ✌️\uD83D\uDE18','Loading...','Frases de felicidade')\n" +
+                ", ('Eu desafio você a ter uma overdose de felicidade \uD83D\uDE02\uD83D\uDE06','Loading...','Frases de felicidade')\n" +
+                ", ('Não viva somente do que faz sentido, Viva do que te faz feliz  \uD83D\uDC4F\uD83D\uDE03','Loading...','Frases de felicidade')\n" +
+                ", ('Você vai rir sem perceber, felicidade é só questão de ser \uD83D\uDE09\uD83D\uDE04','Loading...','Frases de felicidade')\n" +
+                ", ('Não quero um final feliz, quero felicidade sem fim \uD83D\uDE06\uD83D\uDE18','Loading...','Frases de felicidade')\n" +
+                ", ('Quero ser feliz, também \uD83D\uDC4F✌️','Loading...','Frases de felicidade')\n" +
+                ", ('Estou muito feliz hoje!!… sem saber o por que. \uD83D\uDE02\uD83D\uDE01','Loading...','Frases de felicidade')\n" +
+                ", ('Eu só quero ser feliz, ficar à toa, viver na boa.','Loading...','Frases de felicidade')\n" +
+                ", ('Minha meta é ser feliz, não perfeito.','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade consiste em dar passos na direção de si próprio.','Loading...','Frases de felicidade')\n" +
+                ", ('A nossa felicidade depende mais do que temos nas nossas cabeças, do que nos nossos bolsos.','Loading...','Frases de felicidade')\n" +
+                ", ('Na incerteza do amanhã, escolhi o hoje para ser feliz. ','Loading...','Frases de felicidade')\n" +
+                ", ('Não existe um caminho para a felicidade. A felicidade é o caminho.','Loading...','Frases de felicidade')\n" +
+                ", ('Que a felicidade vire rotina!','Loading...','Frases de felicidade')\n" +
+                ", ('Na plenitude da felicidade, cada dia é uma vida inteira.','Loading...','Frases de felicidade')\n" +
+                ", ('Viver o hoje e o agora, esse é o segredo para ser feliz.','Loading...','Frases de felicidade')\n" +
+                ", ('A alegria de fazer o bem é a única felicidade verdadeira.','Loading...','Frases de felicidade')\n" +
+                ", ('Tem coisa que dá vontade de viver de novo. E de novo, e de novo…','Loading...','Frases de felicidade')\n" +
+                ", ('Posso até ser louco, mas sou um louco feliz!','Loading...','Frases de felicidade')\n" +
+                ", ('O mais feliz dos felizes é aquele que faz os outros felizes.','Loading...','Frases de felicidade')\n" +
+                ", ('Sou tão feliz que dou risada da minha risada.','Loading...','Frases de felicidade')\n" +
+                ", ('Quem não encontra a felicidade em si mesmo, é inútil procurá-la em outro lado.','Loading...','Frases de felicidade')\n" +
+                ", ('Os melhores momentos da vida não tiveram nada a ver com dinheiro.','Loading...','Frases de felicidade')\n" +
+                ", ('Eu não tenho culpa se esse é meu defeito, eu nasci pra ser feliz e não para ser perfeito.','Loading...','Frases de felicidade')\n" +
+                ", ('O maior problema e o único que nos deve preocupar é vivermos felizes.','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade consiste em três pontos: trabalho, paz e saúde.','Loading...','Frases de felicidade')\n" +
+                ", ('A verdadeira felicidade está na própria casa, entre as alegrias da família.','Loading...','Frases de felicidade')\n" +
+                ", ('Um coração feliz é o resultado inevitável de um coração ardente de amor.','Loading...','Frases de felicidade')\n" +
+                ", ('Toda felicidade do mundo te espera na colheita que plantastes.','Loading...','Frases de felicidade')\n" +
+                ", ('Ser feliz até onde der, até onde puder. Sem adiar, ser feliz o tanto que durar.','Loading...','Frases de felicidade')\n" +
+                ", ('Saber encontrar a alegria na alegria dos outros, é o segredo da felicidade.','Loading...','Frases de felicidade')\n" +
+                ", ('Aquele que nunca viu a tristeza, nunca reconhecerá a alegria.','Loading...','Frases de felicidade')\n" +
+                ", ('O sorriso mais bonito é aquele que vem do nada. Solto, livre e sincero. ','Loading...','Frases de felicidade')\n" +
+                ", ('Muitas vezes me pego feliz e não me esqueço de agradecer a Deus essa alegria.','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade é um bem que se multiplica ao ser dividido.','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade é como a saúde: se não sentes a falta dela, significa que ela existe.','Loading...','Frases de felicidade')\n" +
+                ", ('A verdadeira felicidade está nas coisas mais simples da vida.','Loading...','Frases de felicidade')\n" +
+                ", ('Se você não é feliz com você mesmo, você nunca será feliz com ninguém.','Loading...','Frases de felicidade')\n" +
+                ", ('A felicidade é uma recompensa para quem não a procura.','Loading...','Frases de felicidade')\n" +
+                ", ('Mas se não cuida do amor, ele morre tão rápido, quanto ele nasce! \uD83D\uDC94','Loading...','Frases de fim de namoro')\n" +
+                ", ('Às vezes, é tudo uma questão de não fazer mais questão da pessoa…\uD83D\uDE0E\uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Ausências causam esquecimento…e o fim do relacionamento \uD83D\uDC94\uD83D\uDE22','Loading...','Frases de fim de namoro')\n" +
+                ", ('Ontem eu não me importava, hoje estou tipo ontem…\uD83D\uDC4C\uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('O que já foi bom, hoje não faz mais sentido…Perdeu o brilho.\uD83D\uDE14','Loading...','Frases de fim de namoro')\n" +
+                ", ('Se eu não te procurar mais, saiba que aprendi com você! \uD83D\uDE0F','Loading...','Frases de fim de namoro')\n" +
+                ", ('Cada um sabe exatamente o que tem ao seu lado. O problema é que ninguém acredita que um dia vai perder. \uD83D\uDE21\uD83D\uDC4A','Loading...','Frases de fim de namoro')\n" +
+                ", ('O problema não é a dor, o problema é deixar de senti-la \uD83D\uDE1E\uD83D\uDE14','Loading...','Frases de fim de namoro')\n" +
+                ", ('Ontem eu te amei, hoje parei de te amar, amanhã tanto faz \uD83D\uDE0C\uD83D\uDE15\uD83D\uDC4C\uD83D\uDC94','Loading...','Frases de fim de namoro')\n" +
+                ", ('Tudo que vai volta, menos eu\uD83D\uDC4A❤\uD83D\uDE0D','Loading...','Frases de fim de namoro')\n" +
+                ", ('Vou te tratar com indiferença, pra você perceber a diferença que eu faço na sua vida! \uD83D\uDC4A','Loading...','Frases de fim de namoro')\n" +
+                ", ('As nossas necessidades unem-nos, mas as nossas opiniões separam-nos. \uD83D\uDC4E','Loading...','Frases de fim de namoro')\n" +
+                ", ('Cê faz bem pra minha mente, mas maltrata o coração. \uD83D\uDC94','Loading...','Frases de fim de namoro')\n" +
+                ", ('O que eu sinto por você é ingênuo ao ponto de eu ter achado que não doeria. \uD83D\uDE13\uD83D\uDE33','Loading...','Frases de fim de namoro')\n" +
+                ", ('As pessoas fazem escolhas, depois não aceitam as consequências… \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases de fim de namoro')\n" +
+                ", ('O que é teu, chega com o tempo. E o que não é se vai com ele \uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não perdi nada, acabei de me livrar…\uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Nada mais justo do que deixar pra lá, quem já te deixou…\uD83D\uDE0C\uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não seja a menina que caiu. Seja a mulher que usou a fé, se levantou e deu a volta por cima! \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases de fim de namoro')\n" +
+                ", ('O que sobrou? Só me sobrou amor acumulado… \uD83D\uDC94\uD83D\uDE1E','Loading...','Frases de fim de namoro')\n" +
+                ", ('Porque, assim como o café, o amor só serve quente…☕️❤️','Loading...','Frases de fim de namoro')\n" +
+                ", ('Já te bloqueei nas redes sociais, agora falta bloquear no coração \uD83D\uDEAB❤️','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não vale a pena se doar, pra quem fez doer…\uD83D\uDC94\uD83D\uDE1E','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não adianta procurar amor onde não tem nada…\uD83D\uDE14\uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Depois de tantas promessas vazias, optei por trancar meu coração \uD83D\uDD12❤️','Loading...','Frases de fim de namoro')\n" +
+                ", ('Se tu não fez, outra pessoa faz…\uD83D\uDC4C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Quem não sabe o que quer, perde o que tem \uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Eu já sabia que ia acabar assim, mas você valia o risco \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não faz? Tem quem faça. Não quer? Tem quem queira! \uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Forte o suficiente para deixá-lo, fraca o suficiente pra sentir sua falta. \uD83D\uDC94\uD83D\uDE22','Loading...','Frases de fim de namoro')\n" +
+                ", ('Você era meu objetivo, virou caminho perdido… \uD83D\uDE22\uD83D\uDE1E','Loading...','Frases de fim de namoro')\n" +
+                ", ('Nós dois tínhamos tudo pra dar errado. Exatamente o que aconteceu!!! \uD83D\uDE14\uD83D\uDE23','Loading...','Frases de fim de namoro')\n" +
+                ", ('A inveja alheia nos fez chegar ao fim! \uD83D\uDE22','Loading...','Frases de fim de namoro')\n" +
+                ", ('O significado da dor, aprendi quando te perdi…\uD83D\uDC94\uD83D\uDE2D','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não queria que acabasse desse jeito, só queria que acabasse.\uD83D\uDE14','Loading...','Frases de fim de namoro')\n" +
+                ", ('Deus não te tirou de mim, ele me deu livramento! \uD83D\uDE4F\uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Tu acha que se deu bem? tem gente fazendo fila pra ocupar seu lugar meu bem.\uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Foi bom enquanto durou, mais ficou melhor quando acabou…\uD83D\uDE0C\uD83D\uDE18','Loading...','Frases de fim de namoro')\n" +
+                ", ('Encheu de expectativas, transbordou de decepções. \uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Quem sabe um dia a gente volte a se encontrar \uD83D\uDE14','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não deu valor, perdeu pra dor…Segue e evita o rancor…\uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Eu amei por mim, eu amei por você, cansei de me multiplicar para amar. \uD83D\uDC94\uD83D\uDE1E','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não desisto do que eu quero, mais posso desistir de querer \uD83D\uDE18\uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('2 doses de desapego, 1 de indiferença pra rebater esse amor…\uD83C\uDF78\uD83C\uDF7A','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não vou me arrepender do que ficou pra trás… passado encerrado não volta mais \uD83D\uDC4C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Se der saudade o problema é seu, não me liga, não me viu nem me leu \uD83D\uDE18\uD83D\uDE0E','Loading...','Frases de fim de namoro')\n" +
+                ", ('Me desculpe se eu não consegui te dar o mundo…exigiu demais fiz de tudo \uD83D\uDE0C\uD83D\uDE14','Loading...','Frases de fim de namoro')\n" +
+                ", ('Encare de frente as dores, sempre dói morrer de amores… \uD83D\uDC94\uD83D\uDE22','Loading...','Frases de fim de namoro')\n" +
+                ", ('Já doeu o que tinha que doer, já sofri o que tinha que sofrer \uD83D\uDE22','Loading...','Frases de fim de namoro')\n" +
+                ", ('Tu faz falta sim, mas tu não precisa saber disso \uD83D\uDE18','Loading...','Frases de fim de namoro')\n" +
+                ", ('Não diga que não deu certo…Deu certo enquanto durou \uD83D\uDE0A','Loading...','Frases de fim de namoro')\n" +
+                ", ('Você pensa que esqueceu seu ex, até seus olhares se reencontrarem \uD83D\uDE0C\uD83D\uDE0C','Loading...','Frases de fim de namoro')\n" +
+                ", ('Supere isso, e se não puder superar, supere o vício de falar a respeito. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('Manda quem te machucou pra bem longe daqui. Deixa o que te faz feliz chegar e revestir \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de fim de namoro')\n" +
+                ", ('A maior tristeza não se encontra nos olhos de quem chora, mas no coração de quem finge sorrir!','Loading...','Frases de impacto')\n" +
+                ", ('Somos feitos de carne, mas temos de viver como se fôssemos de ferro.','Loading...','Frases de impacto')\n" +
+                ", ('Não julgue os outros só porque os pecados deles são diferentes dos seus…','Loading...','Frases de impacto')\n" +
+                ", ('Não existe amor impossível! Existem apenas pessoas incapazes de amar e lutar pelo seu grande amor.','Loading...','Frases de impacto')\n" +
+                ", ('Mesmo estando no caminho certo, se ficar sentado será atropelado. ','Loading...','Frases de impacto')\n" +
+                ", ('Nem teus piores inimigos podem fazer tanto dano como teus próprios pensamentos. (Buda)','Loading...','Frases de impacto')\n" +
+                ", ('O único lugar onde o sucesso vem antes do trabalho é no dicionário.','Loading...','Frases de impacto')\n" +
+                ", ('Certos momentos só podem ser apreciados quando você tira o pé do acelerador.','Loading...','Frases de impacto')\n" +
+                ", ('Um homem quando está em paz não quer guerra com ninguém.','Loading...','Frases de impacto')\n" +
+                ", ('Do que vale o delírio dos olhos, se eles se fecham quando os lábios se tocam.','Loading...','Frases de impacto')\n" +
+                ", ('As mãos que ajudam são mais sagradas do que os lábios que rezam.','Loading...','Frases de impacto')\n" +
+                ", ('Tudo, vezes zero, é igual a zero. Não coloque seu esforço onde não há nada.','Loading...','Frases de impacto')\n" +
+                ", ('A distância entre o sonho e a realidade chama-se disciplina.','Loading...','Frases de impacto')\n" +
+                ", ('Às vezes o melhor jeito de chamar a atenção de alguém, é parar de dar atenção.','Loading...','Frases de impacto')\n" +
+                ", ('Atitudes! Porque palavras o vento leva.','Loading...','Frases de impacto')\n" +
+                ", ('Se você não tem razão para estar vivo, é o mesmo que estar morto. (Naruto Uzumaki)','Loading...','Frases de impacto')\n" +
+                ", ('O que você tem, todo mundo pode ter, mas o que você é… ninguém pode ser.','Loading...','Frases de impacto')\n" +
+                ", ('Não existe mal que dure para sempre.','Loading...','Frases de impacto')\n" +
+                ", ('Quem conhece um sorriso verdadeiro, sabe que nem todo palhaço é feliz.','Loading...','Frases de impacto')\n" +
+                ", ('Antes de querer ser plural, aprenda a ser singular. ','Loading...','Frases de impacto')\n" +
+                ", ('O fracasso não me amedronta, mas jamais me perdoaria se não tivesse coragem para lutar!','Loading...','Frases de impacto')\n" +
+                ", ('Eu não estou em perigo, eu sou o perigo. (Walt – Breaking Bad)','Loading...','Frases de impacto')\n" +
+                ", ('A vida é uma festa: a gente chega depois que começou, e sai antes que acabe.','Loading...','Frases de impacto')\n" +
+                ", ('Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.','Loading...','Frases de impacto')\n" +
+                ", ('As oportunidades são como o pôr do sol. Se você esperar demais, vai perdê-las.','Loading...','Frases de impacto')\n" +
+                ", ('Imagine uma nova história para sua vida e acredite nela.','Loading...','Frases de impacto')\n" +
+                ", ('Sempre acharemos que o outro está estranho quando não faz o que desejamos.','Loading...','Frases de impacto')\n" +
+                ", ('Prefiro perder a guerra e ganhar a paz.','Loading...','Frases de impacto')\n" +
+                ", ('Para ter sucesso neste mundo não basta ser estúpido, é preciso também ter boas maneiras.','Loading...','Frases de impacto')\n" +
+                ", ('Quer saber o sentido da vida? Para frente!','Loading...','Frases de impacto')\n" +
+                ", ('Passado é lição para refletir, não repetir! \uD83D\uDE19\uD83D\uDE19','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem vive se achando, acaba se perdendo‼️','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem atira pra todos os lados, perde o alvo principal! \uD83D\uDD2B\uD83D\uDC4E','Loading...','Frases de Indiretas')\n" +
+                ", ('Felicidade exposta é vitrine pra inveja! \uD83D\uDE48\uD83D\uDE4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Minha fé vai me levar onde os fracos nunca irão pisar! \uD83D\uDE4F\uD83D\uDC63','Loading...','Frases de Indiretas')\n" +
+                ", ('Diz que eu fui um erro, mas se eu der uma chance quer errar toda hora! \uD83D\uDC81\uD83D\uDC81','Loading...','Frases de Indiretas')\n" +
+                ", ('O problema das mentes fechadas é que elas sempre tem a boca Aberta! \uD83D\uDC4C\uD83D\uDE4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Que culpa a gente tem de ser feliz❓','Loading...','Frases de Indiretas')\n" +
+                ", ('Ontem eu não me importava, hoje eu estou igual ontem! \uD83D\uDE03\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Sorria sempre , principalmente diante aqueles que desejam suas lágrimas!  \uD83D\uDE00\uD83D\uDE04\uD83D\uDE06\uD83D\uDE0A','Loading...','Frases de Indiretas')\n" +
+                ", ('Olha… se for pra me dar gelo, não esquece a bebida!\uD83C\uDF77\uD83C\uDF78','Loading...','Frases de Indiretas')\n" +
+                ", ('Cada um tem de mim exatamente aquilo que merece‼️','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem tanto fogo no rabo que come milho e caga pipoca','Loading...','Frases de Indiretas')\n" +
+                ", ('Não adianta se achar a última bolacha do pacote, aí vai a dica, a última sempre tá quebrada)\uD83D\uDE0E\uD83D\uDC4A\uD83D\uDCAA✌','Loading...','Frases de Indiretas')\n" +
+                ", ('A vida é minha, mas o coração é seu. O sorriso é meu, mas o motivo é VOCÊ ❤\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Ontem eu não me importava, hoje estou tipo ontem!\uD83D\uDE0E\uD83D\uDE0E','Loading...','Frases de Indiretas')\n" +
+                ", ('Sou como vidro, se cair eu quebro mas se pisar eu te corto\uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Fala na cara amor, nas costas faz massagem\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Enquanto eu for uva pode pisar em mim, mas quando eu for vinho vai ter que me engolir','Loading...','Frases de Indiretas')\n" +
+                ", ('Passei pelo fogo e não me queimei, não vai ser agora que vou me queimar','Loading...','Frases de Indiretas')\n" +
+                ", ('Minha vida não é feita de opiniões e sim de atitudes\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Não pisa que eu te esmago, sou pequena mas faço estrago.\uD83D\uDE48\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem coisas que agente não perde, se Livra! ✌️✌️','Loading...','Frases de Indiretas')\n" +
+                ", ('Vamos voltar no dia em que eu te conheci, que é pra eu ficar em casa dormindo! \uD83D\uDE34\uD83D\uDCA4','Loading...','Frases de Indiretas')\n" +
+                ", ('As pessoas te magoam, sem perceber… \uD83D\uDE10\uD83D\uDE15','Loading...','Frases de Indiretas')\n" +
+                ", ('Felicidade contagia, então seja feliz! \uD83D\uDE06\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem diria a alegria é a melhor vingança… \uD83D\uDE04\uD83D\uDE03 (Filipe Ret)','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu não camuflo falsidades! \uD83D\uDC4C\uD83D\uDC4C(HAIKAISS)','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu tô de boa, vai passando de fininho… \uD83D\uDC4D\uD83D\uDC4D(Wesley Safadão)','Loading...','Frases de Indiretas')\n" +
+                ", ('Deus livrai-me da maldade, dos corações ruins e das falsas intenções! \uD83D\uDE4F','Loading...','Frases de Indiretas')\n" +
+                ", ('Nem tudo que você fizer pelos outros, eles farão por você… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('De um sorriso a quem te deu lágrimas! \uD83D\uDE01\uD83D\uDE01','Loading...','Frases de Indiretas')\n" +
+                ", ('Limitados tentarão te limitar… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Desculpa, mas a vida me ensinou a desconfiar de tudo. \uD83D\uDE10\uD83D\uDE10','Loading...','Frases de Indiretas')\n" +
+                ", ('Você fala demais rapaz, e quem fala não faz! \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Quando eu te encontrar, vou deixar o amor falar! ❤️❤️','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem não sabe cuidar não merece ter! \uD83D\uDE3E','Loading...','Frases de Indiretas')\n" +
+                ", ('Dê valor enquanto você tem. A saudade não trás as coisas de volta! \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Grava na mente: Tu só vai ser linda para os outros, quando for linda para você! \uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Ou soma ou some! ➕\uD83D\uDC4E (Jorge e Mateus)','Loading...','Frases de Indiretas')\n" +
+                ", ('Tomara que tu se afogue nesse teu mar de falsidade! \uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Pessoa só faz merda e quer te dá conselhos…. \uD83D\uDE12\uD83D\uDE24','Loading...','Frases de Indiretas')\n" +
+                ", ('Se quer guerra, terá. Se quer paz, quero em dobro! ✌️','Loading...','Frases de Indiretas')\n" +
+                ", ('Os olhos sempre dizem a verdade… \uD83D\uDC40','Loading...','Frases de Indiretas')\n" +
+                ", ('Falo nada, só observo… \uD83D\uDC40','Loading...','Frases de Indiretas')\n" +
+                ", ('Busque ser feliz, sem ocultar a felicidade de ninguém‼️','Loading...','Frases de Indiretas')\n" +
+                ", ('Aprenda a dar sua ausência pra quem não valoriza a sua presença! \uD83D\uDE17\uD83D\uDE19','Loading...','Frases de Indiretas')\n" +
+                ", ('As coisas que amamos nas pessoas se tornam mais claras na ausência delas…. \uD83D\uDE14\uD83D\uDE15','Loading...','Frases de Indiretas')\n" +
+                ", ('Ta na hora de decidir. Ou me da motivos pra ficar ou me deixa ir.. ⏰','Loading...','Frases de Indiretas')\n" +
+                ", ('Agora eu sou de outro nível, só quero viver sorrindo, se você virou a página eu queimei o livro! \uD83D\uDCD5','Loading...','Frases de Indiretas')\n" +
+                ", ('Cresça independente do que aconteça! \uD83D\uDCAA✌️','Loading...','Frases de Indiretas')\n" +
+                ", ('O Roteiro de trouxa você decorou bem rápido! \uD83D\uDE02','Loading...','Frases de Indiretas')\n" +
+                ", ('Se nem a atual do meu ex me esqueceu imagina ele…. \uD83D\uDC81','Loading...','Frases de Indiretas')\n" +
+                ", ('Viver é melhor que sonhar! \uD83D\uDCAD\uD83D\uDCAD  (Elis Regina)','Loading...','Frases de Indiretas')\n" +
+                ", ('Não querer lidar com pessoas É proteção pra você nunca se machucar! \uD83D\uDE10\uD83D\uDE10  (Supercombo)','Loading...','Frases de Indiretas')\n" +
+                ", ('Perdi as contas de quantas vezes segurei o mundo dos outros e deixei o meu cair!  \uD83D\uDE15\uD83D\uDE15 (Legião Urbana)','Loading...','Frases de Indiretas')\n" +
+                ", ('O tédio é o sentimento mais moderno que existe! \uD83D\uDC4C\uD83D\uDC4C  (Cazuza)','Loading...','Frases de Indiretas')\n" +
+                ", ('A vida me ensinou a nunca desistir, nem ganhar nem perder mas procurar evoluir! ✌✌ (Charlie Brown Jr)','Loading...','Frases de Indiretas')\n" +
+                ", ('É fácil de mais viver em paz, é a gente que complica tudo! \uD83D\uDE14\uD83D\uDE2C(Thalles)','Loading...','Frases de Indiretas')\n" +
+                ", ('Não vou me arrepender do que ficou pra trás! \uD83D\uDC4C (Livre Estou, Frozen)','Loading...','Frases de Indiretas')\n" +
+                ", ('Tô aproveitando cada segundo antes que isso aqui vire uma tragédia! ⏰⏰ (Pitty)','Loading...','Frases de Indiretas')\n" +
+                ", ('Esse arrocha é pra você que achou que eu tava aqui sofrendo, Vai vendo! \uD83D\uDC83\uD83D\uDC83 (Lucas LUCCO)','Loading...','Frases de Indiretas')\n" +
+                ", ('Veja tudo como se não houvesse amanhã! \uD83D\uDC40\uD83D\uDC40 (PITTY)','Loading...','Frases de Indiretas')\n" +
+                ", ('Dinheiro no bolso, Deus no coração, família unida e champanhe pros irmãos! ✌✌(Racionais MC’s)','Loading...','Frases de Indiretas')\n" +
+                ", ('Devia ter arriscado mais. E até errado mais. Ter feito o que eu queria fazer! \uD83D\uDC4C\uD83D\uDC4C(TITÃS)','Loading...','Frases de Indiretas')\n" +
+                ", ('Espere o melhor, prepare-se para o pior e aceite o que vier! ✌✌(Cpm 22)','Loading...','Frases de Indiretas')\n" +
+                ", ('Tudo é tão simples que cabe num cartão postal… \uD83C\uDF86(Cazuza)','Loading...','Frases de Indiretas')\n" +
+                ", ('Nada como um dia após o outro… ✌(Racionais MC’s)','Loading...','Frases de Indiretas')\n" +
+                ", ('Me passe o número da sua opinião, quem sabe eu ligue pra ela! \uD83D\uDCDE\uD83D\uDE18 (Wesley Safadão)','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem vive de sonho é padaria! \uD83D\uDCAD\uD83D\uDCAD (João Carreiro)','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu não vim pra me explicar, eu vim pra confundir! \uD83D\uDE16\uD83D\uDE16 (Charlie Brown Jr.)','Loading...','Frases de Indiretas')\n" +
+                ", ('Bora que o mundo é nosso! \uD83D\uDC4C\uD83D\uDC46 (Mc Duduzinho)','Loading...','Frases de Indiretas')\n" +
+                ", ('Pra ter sucesso, amor, tem que fazer direito! \uD83D\uDE18\uD83D\uDE18 (Valesca Popozuda)','Loading...','Frases de Indiretas')\n" +
+                ", ('Não grite sua felicidade, pois o recalque fácil se incomoda! \uD83D\uDE0C\uD83D\uDE12\uD83D\uDE12 (Mc Guimê)','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem saudade sua espalhada por todo lugar! \uD83D\uDE10\uD83D\uDE15 (Lucas Lucco)','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem tá apaixonado chora… Quem tá largado bebe! \uD83C\uDF7B\uD83C\uDF7B (Wesley Safadão)','Loading...','Frases de Indiretas')\n" +
+                ", ('Dava tudo pra ver a tua reação quando alguém pergunta o que aconteceu entre a gente…\uD83D\uDE14','Loading...','Frases de Indiretas')\n" +
+                ", ('Se não puder retribuir, não conquiste!\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('De amor eu não morro…nem mato. Supero!!\uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Indiretas')\n" +
+                ", ('Tá com saudade? Então volta pro passado, era la que eu te queria \uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Se ela quis ficar…Então você é um cara de sorte! \uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Namore alguém que não leve uma vida de solteiro pelas suas costas! \uD83D\uDE0E','Loading...','Frases de Indiretas')\n" +
+                ", ('Se for pra me dar gelo, que seja com a bebida…\uD83C\uDF78','Loading...','Frases de Indiretas')\n" +
+                ", ('Porque amar é arte e nem todo mundo é artista. ❤️\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Você é minha sorte, aquela sorte que eu sempre precisei ter!! \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases de Indiretas')\n" +
+                ", ('Muda essa rota que eu te mostro o caminho…\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu nem sabia que ia acabar assim, mas valia o risco por você…\uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem desvaloriza o seu coração… Não merece ter lugar! \uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Você é frio demais pro meu verão intenso! \uD83D\uDE0E','Loading...','Frases de Indiretas')\n" +
+                ", ('Se o que dói em mim doesse em você…\uD83D\uDE14\\n(Marília Mendona)','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu vivo na espera de poder viver a vida com você.\uD83D\uDC8F\\n(CBJR)','Loading...','Frases de Indiretas')\n" +
+                ", ('Deixa mesmo de ser importante…\uD83D\uDE09\\n(Marília Mendonça)','Loading...','Frases de Indiretas')\n" +
+                ", ('Não corra atrás de quem sabe o caminho até você…\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu gostava mais quando gostava menos de você \uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Desistiu muito rápido…Pra quem dizia muito amar…\uD83D\uDE14❤️','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu sou bom em muitas coisas, esquecer você não é uma delas. \uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Você fala demais rapaz, e quem fala quase nunca faz…\uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Quando você perder o orgulho, eu já vou ter perdido o amor por você! \uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Se tu antes não queria hoje é ela que não te quer.\uD83D\uDC44','Loading...','Frases de Indiretas')\n" +
+                ", ('No fundo, a gente só quer que outro corresponda…\uD83D\uDC8F','Loading...','Frases de Indiretas')\n" +
+                ", ('Não perdi nada, acabei de me livrar… \uD83D\uDE4F\\n(Marília Mendonça)','Loading...','Frases de Indiretas')\n" +
+                ", ('As pessoas te magoam algumas vezes sem nem perceber…\uD83D\uDE14','Loading...','Frases de Indiretas')\n" +
+                ", ('Tá querendo pegar no meu pé, logo você que nunca me deu a mão \uD83D\uDC4C\uD83D\uDC4B','Loading...','Frases de Indiretas')\n" +
+                ", ('Que haja amor!! E que seja reciproco…❤️\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Não é qualquer sorriso…é o seu sorrindo pra mim!!','Loading...','Frases de Indiretas')\n" +
+                ", ('Vida longa, mundo pequeno, a gente ainda vai se encontrar ✌️','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem não sabe o que quer, perde o que tem!','Loading...','Frases de Indiretas')\n" +
+                ", ('Fui colocar minha havaianas e lembrei de você…afinal, todo mundo usa né!?','Loading...','Frases de Indiretas')\n" +
+                ", ('A cada dia que passa me decepciono mais com as pessoas.','Loading...','Frases de Indiretas')\n" +
+                ", ('Pra você que se acha a última bolacha do pacote, ai vai uma dica: ela sempre tá quebrada.','Loading...','Frases de Indiretas')\n" +
+                ", ('As pessoas veem defeito em tudo, menos nelas mesmas.','Loading...','Frases de Indiretas')\n" +
+                ", ('Algumas pessoas surgem em nossas vidas como uma benção, outras como lição.','Loading...','Frases de Indiretas')\n" +
+                ", ('Gente que sabe diferenciar amizade de Facebook e amizade verdadeira, é outro nível.','Loading...','Frases de Indiretas')\n" +
+                ", ('Mulher que se valoriza, mostra mais o sorriso que a bunda.','Loading...','Frases de Indiretas')\n" +
+                ", ('Se você vacila com a pessoa certa, a errada te ensina como dói.','Loading...','Frases de Indiretas')\n" +
+                ", ('Todos gostam de sombra, poucos plantam árvores','Loading...','Frases de Indiretas')\n" +
+                ", ('Me deseja o mal? Sinto muito. Eu te desejo o bem, simples cada um oferece o que tem.','Loading...','Frases de Indiretas')\n" +
+                ", ('Não espere de mim mais do que recebo de você.','Loading...','Frases de Indiretas')\n" +
+                ", ('Fala um monte de coisa bonita no Facebook, mas não faz 1% do que prega.','Loading...','Frases de Indiretas')\n" +
+                ", ('Pode apontar meus defeitos quantas vezes quiser, mas saiba que isso não vai anular sua insatisfação consigo mesmo.','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem gente que gosta tanto de Carnaval, que vive o ano inteiro de máscara.','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem coisas que agente não perde, se Livra!','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem gente que gosta tanto de Carnaval, que vive o ano inteiro de máscara.','Loading...','Frases de Indiretas')\n" +
+                ", ('Agora que eu comecei a fazer falta pra você, você deixou de fazer falta pra mim.','Loading...','Frases de Indiretas')\n" +
+                ", ('Não precisa escrever “Feia” na legenda da foto. Ninguém aqui é cego!','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem muito se ausenta, uma hora deixa de fazer falta.','Loading...','Frases de Indiretas')\n" +
+                ", ('Um dia a gente cansa de bater na porta que não quer abrir e prefere pular uma janela que já estava aberta.','Loading...','Frases de Indiretas')\n" +
+                ", ('Não tenho tempo para lembrar de quem me deixou triste, estou mais preocupado com quem me faz feliz.','Loading...','Frases de Indiretas')\n" +
+                ", ('Fala na cara meu amor, nas costas você faz massagem!','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem gosta da própria vida não tem tempo, nem interesse em cuidar da vida dos outros.','Loading...','Frases de Indiretas')\n" +
+                ", ('Quando chegar aos meus pés, me avise, pois odeio pisar em lixo.','Loading...','Frases de Indiretas')\n" +
+                ", ('Se for falar mal de mim me chame, sei coisas terríveis a meu respeito.','Loading...','Frases de Indiretas')\n" +
+                ", ('Inteligente não é quem sabe para onde ir, mas quem aprendeu para onde não deve voltar.','Loading...','Frases de Indiretas')\n" +
+                ", ('Me faça sentir ciúmes, que te farei sentir saudades.','Loading...','Frases de Indiretas')\n" +
+                ", ('Se eu quisesse agradar todo mundo eu não faria um perfil no Facebook. Faria um churrasco.','Loading...','Frases de Indiretas')\n" +
+                ", ('Às vezes me faço de boba, só pra ver até onde vai a sua falsidade.','Loading...','Frases de Indiretas')\n" +
+                ", ('Se eu fosse bonita corria atrás de você, mas como eu sou maravilhosa, corra você!','Loading...','Frases de Indiretas')\n" +
+                ", ('Algumas pessoas merecem um grande aplauso, pelo teatro que fazem \uD83D\uDE0F','Loading...','Frases de Indiretas')\n" +
+                ", ('Evite confusões! Não suponha, pergunte…\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Enquanto eu brindo, cê chora \uD83C\uDF7B\uD83D\uDE22\\n(Bruno e Marrone)','Loading...','Frases de Indiretas')\n" +
+                ", ('Tem muita mala sem alça se achando bolsa de grife…\uD83D\uDC5C','Loading...','Frases de Indiretas')\n" +
+                ", ('Minha fia tu é falsa assim mesmo ou fez curso no Senai? \uD83D\uDE1C\uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('A alegria é a melhor vingança…\uD83D\uDE0E\uD83D\uDE04','Loading...','Frases de Indiretas')\n" +
+                ", ('Quando for falar de mim exagera, por que eu gosto de causar impacto…\uD83D\uDE0E\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Fale pouco de você e ainda menos dos outros…\uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Um brinde ao que é vivido e não publicado \uD83C\uDF7B','Loading...','Frases de Indiretas')\n" +
+                ", ('Você tem o direito de falar o que pensa, mas não tem o direito de julgar quem não conhece \uD83D\uDC4C\uD83D\uDE09\\n(Chorão)','Loading...','Frases de Indiretas')\n" +
+                ", ('O problema dos erros é que as vezes eles beijam bem…\uD83D\uDC8B\uD83D\uDE18\\n(Henrique e Juliano)','Loading...','Frases de Indiretas')\n" +
+                ", ('Você pode ser então, um pedacinho do meu esquema… \uD83D\uDE0E\uD83D\uDE09\\n(Nego do Borel, Wesley safadão e Anitta)','Loading...','Frases de Indiretas')\n" +
+                ", ('Ninguém me mete medo, eu já conheço a dor… \uD83D\uDC4A\uD83D\uDE0C\\n(Filipe Ret)','Loading...','Frases de Indiretas')\n" +
+                ", ('Nem todo mundo tem o mesmo ❤️ que você','Loading...','Frases de Indiretas')\n" +
+                ", ('Tenho 3 vidas: a minha, as que os outros cuidam, e as que os outros inventam \uD83D\uDE0F\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Fala que não gosta de mim, mas vive sendo minha cópia fiel \uD83D\uDE0E\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Seja feliz! Gente feliz não enche o saco… \uD83D\uDE04\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Conhece o valor da âncora quem passa pela tempestade ⚓\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Minha estratégia é sempre dar mais corda, uns criam laços, outros se enforcam!\uD83D\uDE09\uD83D\uDE02','Loading...','Frases de Indiretas')\n" +
+                ", ('Se eu não guardo nem dinheiro, O que dirá guardar rancor… \uD83D\uDE01\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu queria ver a tua reação quando alguém te pergunta o que aconteceu entre a gente…. ☺️\uD83D\uDE48','Loading...','Frases de Indiretas')\n" +
+                ", ('Algumas coisas na vida não tem preço, mas muitas tem troco… \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Cuidado para não esperar de mim, aquilo que não recebi de você \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Não espere tanto dos outros, nem todo mundo tem o mesmo coração que você!\uD83D\uDE10\uD83D\uDE10','Loading...','Frases de Indiretas')\n" +
+                ", ('Depois? Depois o café esfria, a prioridade muda ☕\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Você tem o direito de falar o que pensa, Mas não tem o direito de julgar quem não conhece!\uD83D\uDE24\uD83D\uDE24','Loading...','Frases de Indiretas')\n" +
+                ", ('Se eu quisesse tantas opiniões sobre o jeito que vivo, a vida seria dos outros, e não minha!\uD83D\uDE20\uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem atira pra todos os lados, perde o alvo principal! \uD83D\uDD2B\uD83D\uDC4E','Loading...','Frases de Indiretas')\n" +
+                ", ('Se tua vontade é me ver cair, então esquece, pois quem me sustenta é Deus! ✌\uD83D\uDE4F','Loading...','Frases de Indiretas')\n" +
+                ", ('Decide, porque o tempo passa, e meio termo cansa! ⏳\uD83D\uDE12','Loading...','Frases de Indiretas')\n" +
+                ", ('Se tá contra mim, eu te desejo sorte!\uD83C\uDF40','Loading...','Frases de Indiretas')\n" +
+                ", ('Você sabe que está no caminho certo quando perde o interesse de olhar pra trás! \uD83D\uDE09\uD83D\uDE42','Loading...','Frases de Indiretas')\n" +
+                ", ('Não meche com meu silêncio se não aguenta meu barulho!\uD83D\uDC4C\uD83D\uDC4C\uD83D\uDE49','Loading...','Frases de Indiretas')\n" +
+                ", ('Vou te esperar sentada, tá bom amor? Só não liga se for sentado em outro!\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('As pessoas mudam ou se revelam. \uD83D\uDE14\uD83D\uDE10','Loading...','Frases de Indiretas')\n" +
+                ", ('Não crie expectativas, crie indiferença. Se nada der certo, tanto faz! ✌️✌️','Loading...','Frases de Indiretas')\n" +
+                ", ('A vida é cheia de escolhas e eu escolhi não ser obrigado a nada!\uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Não faz diferença o que você pensa, sua verdade não é a minha. \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Torço pela felicidade dos outros, gente feliz não enche o saco. \uD83D\uDE1D\uD83D\uDE04','Loading...','Frases de Indiretas')\n" +
+                ", ('Aqui é tudo intenso, desde o amor ao desprezo ❤️\uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Ter amigos é fácil, o difícil é eles serem verdadeiros \uD83D\uDC4C\uD83D\uDC4F','Loading...','Frases de Indiretas')\n" +
+                ", ('Até a vírgula faz diferença, sua opinião não \uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('É fácil criticar, quando não pisamos nas mesmas pedras. \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Livrai-me do mal disfarçado de bem querer. \uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Sou grata pelas pessoas difíceis que eu tenho que lidar na minha vida. Elas me mostram exatamente o tipo de pessoa que eu não quero me tornar! \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Só fale da minha vida quando a sua for um exemplo! \uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Perdoar é divino, mas mandar a merda é sensacional!\uD83D\uDC4C\uD83D\uDE02','Loading...','Frases de Indiretas')\n" +
+                ", ('Que Deus nos livre da hipocrisia diária, de quem só finge que encanta e se disfarça! \uD83D\uDE4F','Loading...','Frases de Indiretas')\n" +
+                ", ('Você tem o direito de falar o que pensa, Mas não tem o direito de julgar quem não conhece!\uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Ontem eu não me importava, hoje eu estou igual ontem!\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('As vezes você está no trilho certo, mas no trem errado… \uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Gente sem conteúdo procura por conteúdo na vida dos outros! \uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem corre atrás nunca chega na frente \uD83C\uDFC3\uD83D\uDE0C','Loading...','Frases de Indiretas')\n" +
+                ", ('Por fora parece que eu estou bem, mas por dentro eu estou sensacional !','Loading...','Frases de Indiretas')\n" +
+                ", ('As pessoas te julgam, como se nunca fossem cometer os mesmo erros. \uD83D\uDE1F','Loading...','Frases de Indiretas')\n" +
+                ", ('O que não me faz bem, não me faz falta! \uD83D\uDE4F','Loading...','Frases de Indiretas')\n" +
+                ", ('Inveja é sinônimo de incompetência ! \uD83D\uDE1A✌','Loading...','Frases de Indiretas')\n" +
+                ", ('Ignorar gente desagradável faz bem pra pele. \uD83D\uDC4C\uD83D\uDE0E','Loading...','Frases de Indiretas')\n" +
+                ", ('A vida sempre se encarrega de levar o que a gente não merece carregar!\uD83D\uDE09\uD83D\uDE42','Loading...','Frases de Indiretas')\n" +
+                ", ('O que é teu, chega com o tempo. E o que não é se vai com ele!\uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Educação eu tenho. Mas tem gente que não merece um pingo dela. \uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem não sabe o que quer, perde o que tem! \uD83D\uDE0E\uD83D\uDC4B','Loading...','Frases de Indiretas')\n" +
+                ", ('Ficar sozinho é necessário as vezes, afasta problemas, pessoas e decepções!✌️\uD83D\uDE10','Loading...','Frases de Indiretas')\n" +
+                ", ('Minha estratégia é sempre dar mais corda, uns criam laços, outros se enforcam. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Miga, cuida menos da minha vida e cuida mais do seu cabelo.\uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('É melhor uns meses de coração partido do que uma vida inteira de decepções diárias!','Loading...','Frases de Indiretas')\n" +
+                ", ('Fala na cara meu amor, nas costas você faz massagem! \uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu só sou responsável pelo que eu falo, não pelo o que você entende. \uD83D\uDC4A','Loading...','Frases de Indiretas')\n" +
+                ", ('E quem perdeu que chore, vou atrás de ser feliz. \uD83D\uDE22\uD83D\uDE04\uD83D\uDE03','Loading...','Frases de Indiretas')\n" +
+                ", ('Antes de falar que o mundo dá voltas, tente ser menos rodada que ele. \uD83D\uDE38\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Drink na mão, inimigas no chão \uD83D\uDE18\uD83C\uDF78','Loading...','Frases de Indiretas')\n" +
+                ", ('Se ele não muda, mude-se dele. \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('As pessoas veem defeito em tudo. Menos nelas mesmas \uD83D\uDC4C\uD83D\uDE0E','Loading...','Frases de Indiretas')\n" +
+                ", ('Quem confia no próprio taco, não se preocupa com jogada do adversário \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Indiretas')\n" +
+                ", ('Se sua vida fosse boa não perderia tempo com a minha. \uD83D\uDC4B\uD83D\uDE0E','Loading...','Frases de Indiretas')\n" +
+                ", ('Se não tiver coragem de morder, não rosne. \uD83D\uDE38','Loading...','Frases de Indiretas')\n" +
+                ", ('Sua mensagem foi recebida, visualizada e ignorada com sucesso. \uD83D\uDC4D\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Gostar de mim não é o seu trabalho. É o meu. \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Indiretas')\n" +
+                ", ('Não tô nem atendendo, imagina ligando. \uD83D\uDE18\uD83D\uDE09','Loading...','Frases de Indiretas')\n" +
+                ", ('Se vacilar, a gente substitui… \uD83D\uDE1A','Loading...','Frases de Indiretas')\n" +
+                ", ('Eu vivo do jeito que eu quero, não pedi a sua opinião! \uD83D\uDE1A\uD83D\uDE18','Loading...','Frases de Indiretas');";
+        return frase;
+    }
+    public static String carregarFrases16() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Got nothing to lose and nothing to prove!\\nNão tenho nada a perder e nada a provar!','Loading...','Frases em ingles')\n" +
+                ", ('Stop overthinking, and go with the flow!\\nPare de pensar demais e vá na vibe!','Loading...','Frases em ingles')\n" +
+                ", ('If you can dream it, you can do it.\\nSe você pode sonhar, pode realizar.','Loading...','Frases em ingles')\n" +
+                ", ('Sometimes you just need to disconnect and enjoy your own company.\\nÀs vezes você só precisa desligar e desfrutar de sua própria companhia ','Loading...','Frases em ingles')\n" +
+                ", ('Sometimes we fall down because there is something down there we´re supposed to find.\\nÀs vezes, caímos porque há algo lá embaixo que precisamos encontrar.','Loading...','Frases em ingles')\n" +
+                ", ('The day you stop caring about what other people think is the day you start living.\\nO dia que você parar de se preocupar com o que os outros pensam é o dia que você começa a viver.','Loading...','Frases em ingles')\n" +
+                ", ('Everything happens for a reason.\\nTudo acontece por uma razão.','Loading...','Frases em ingles')\n" +
+                ", ('I have found that if you love life, life will love you back.\\nEu descobri que, se você ama a vida, a vida te ama de volta.','Loading...','Frases em ingles')\n" +
+                ", ('Friends forever are what we’ll be.\\nAmigos para sempre é o que nós iremos ser.','Loading...','Frases em ingles')\n" +
+                ", ('Better late than never.\\nAntes tarde do que nunca.','Loading...','Frases em ingles')\n" +
+                ", ('Love harder than any pain you’ve ever felt.\\nAmo mais do que qualquer dor que eu já senti.','Loading...','Frases em ingles')\n" +
+                ", ('Deliver me, Lord, from all that is empty of love!\\nLivra-me, Senhor, de tudo aquilo que for vazio de amor.','Loading...','Frases em ingles')\n" +
+                ", ('I want everyone to meet you. You’re my favorite person of all time.\\nEu quero que todo mundo te conheça. Você é minha pessoa favorita de todo o sempre.','Loading...','Frases em ingles')\n" +
+                ", ('Life is too short to spend it at war with yourself.\\nA vida é muito curta para gastá-la em uma guerra com você mesmo.','Loading...','Frases em ingles')\n" +
+                ", ('You never lose by loving. You always lose by holding back.\\nVocê nunca perde por amar. Você sempre perde por guardar o sentimento.','Loading...','Frases em ingles')\n" +
+                ", ('Maybe the thing you are most scared of is exactly what you should do!\\nTalvez aquilo que você tem mais medo, seja o que você deve fazer!','Loading...','Frases em ingles')\n" +
+                ", ('Stay positive and good things will happen!\\nMantenha-se positivo e coisas boas irão lhe acontecer!','Loading...','Frases em ingles')\n" +
+                ", ('A positive attitude changes everything!\\nUma atitude positiva muda tudo!','Loading...','Frases em ingles')\n" +
+                ", ('A real friend is one who walks in when the rest of the world walks out.\\nUm verdadeiro amigo é alguém que se aproxima quando o mundo inteiro se afasta.','Loading...','Frases em ingles')\n" +
+                ", ('Don’t private static String[] life take you. Take control!\\nNão deixe a vida te levar. Assuma o controle!','Loading...','Frases em ingles')\n" +
+                ", ('l wanna go back to the old days. When the phone would ring, and l knew it was you.\\nEu quero voltar aos velhos tempos. Quando o telefone tocava e eu sabia que era você.','Loading...','Frases em ingles')\n" +
+                ", ('This feeling’s all I’ll ever need.\\nEste sentimento é tudo o que eu sempre precisarei','Loading...','Frases em ingles')\n" +
+                ", ('Maturity is in the mind, not the age!\\nMaturidade está na mente, e não na idade!','Loading...','Frases em ingles')\n" +
+                ", ('Sometimes you have to accept the fact that certain things will never go back to how they used to be.\\nÀs vezes, você tem que aceitar o fato de que certas coisas nunca voltam a ser como eram.','Loading...','Frases em ingles')\n" +
+                ", ('It fells so warm when you are near.\\nFica tão quente quando você está perto.','Loading...','Frases em ingles')\n" +
+                ", ('Always be thankful! Life could be worse.\\nSeja sempre grato! A vida poderia ser pior.','Loading...','Frases em ingles')\n" +
+                ", ('The richest man is not who has the most, but who needs the least.\\nO homem mais rico não é aquele que tem mais, mas sim aquele que menos precisa.','Loading...','Frases em ingles')\n" +
+                ", ('Friends are the siblings God never gave us.\\nAmigos são os irmãos que Deus nunca nos deu.','Loading...','Frases em ingles')\n" +
+                ", ('Whatever you decide to do, make sure it makes you happy.\\nTudo o que você decidir fazer, certifique-se que isso te faz feliz.','Loading...','Frases em ingles')\n" +
+                ", ('What is coming is better than what is gone.\\nO que está por vir é melhor do que o que já foi.','Loading...','Frases em ingles')\n" +
+                ", ('There is only one thing to do, three words for you.. I love you.\\nSó existe uma coisa para fazer, três palavras para você.. Eu amo você.','Loading...','Frases em ingles')\n" +
+                ", ('You must be the change you wish to see in the world.\\nVocê deve ser a mudança que deseja ver no mundo.','Loading...','Frases em ingles')\n" +
+                ", ('Cada dia sabemos mais e entendemos menos.','Loading...','Frases Inteligentes')\n" +
+                ", ('Aquele que conhece os outros é sábio, aquele que conhece a si próprio é iluminado.','Loading...','Frases Inteligentes')\n" +
+                ", ('Enquanto o poço não seca, não sabemos dar valor à água.','Loading...','Frases Inteligentes')\n" +
+                ", ('Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida.','Loading...','Frases Inteligentes')\n" +
+                ", ('Tente mover o mundo. O primeiro passo será mover a si mesmo.','Loading...','Frases Inteligentes')\n" +
+                ", ('Conhece-te a ti mesmo e conhecerás o universo e os deuses.','Loading...','Frases Inteligentes')\n" +
+                ", ('A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.','Loading...','Frases Inteligentes')\n" +
+                ", ('Quem não sente a ânsia de ser mais, não chegará a ser nada.','Loading...','Frases Inteligentes')\n" +
+                ", ('Quem não sabe o que busca, não identifica o que acha.','Loading...','Frases Inteligentes')\n" +
+                ", ('Sou responsável pelo que eu falo, não pelo que você entende.','Loading...','Frases Inteligentes')\n" +
+                ", ('Volta teu rosto sempre na direção do sol, e então, as sombras ficarão para trás.','Loading...','Frases Inteligentes')\n" +
+                ", ('É melhor ser odiado pelo que você é, do que amado por aquilo que você não é.','Loading...','Frases Inteligentes')\n" +
+                ", ('Tu te tornas eternamente responsável por aquilo que cativas.','Loading...','Frases Inteligentes')\n" +
+                ", ('É preciso saber… Que tudo tem um tempo certo para acontecer!','Loading...','Frases Inteligentes')\n" +
+                ", ('Quem jamais foi um louco, jamais será um sábio.','Loading...','Frases Inteligentes')\n" +
+                ", ('Sou exigente com a beleza. Ela tem que vir de dentro.','Loading...','Frases Inteligentes')\n" +
+                ", ('Corra o risco. Se der certo, felicidade. Se não, sabedoria.','Loading...','Frases Inteligentes')\n" +
+                ", ('É preciso coragem para crescer e tornar-se o que você realmente é.','Loading...','Frases Inteligentes')\n" +
+                ", ('Nunca encontrei uma pessoa tão ignorante que não pudesse ter aprendido algo com a sua ignorância.','Loading...','Frases Inteligentes')\n" +
+                ", ('Não corrigir nossas falhas é o mesmo que cometer novos erros.','Loading...','Frases Inteligentes')\n" +
+                ", ('A felicidade de sua vida depende da qualidade de seus pensamentos.','Loading...','Frases Inteligentes')\n" +
+                ", ('A maior sabedoria que existe é a de conhecer-se alguém a si próprio.','Loading...','Frases Inteligentes')\n" +
+                ", ('Se você encontrar um caminho sem obstáculos, ele provavelmente não leva a lugar nenhum.','Loading...','Frases Inteligentes')\n" +
+                ", ('Nunca nada grandioso no mundo foi feito sem uma grande dose de paixão.','Loading...','Frases Inteligentes')\n" +
+                ", ('O caminho da sabedoria é não ter medo de errar.','Loading...','Frases Inteligentes')\n" +
+                ", ('O homem não morre quando deixa de viver, mas sim quando deixa de amar.','Loading...','Frases Inteligentes')\n" +
+                ", ('Nada se esquece mais lentamente que uma ofensa e nada mais rápido que um favor.','Loading...','Frases Inteligentes')\n" +
+                ", ('Quando você pensa que sabe todas as respostas, vem a vida e muda todas as perguntas.','Loading...','Frases Inteligentes')\n" +
+                ", ('Se eu vi mais longe, foi por estar de pé sobre ombros de gigantes.','Loading...','Frases Inteligentes')\n" +
+                ", ('A vida se contrai e se expande proporcionalmente à coragem do indivíduo.','Loading...','Frases Inteligentes')\n" +
+                ", ('Jamais o sol vê a sombra.','Loading...','Frases Inteligentes')\n" +
+                ", ('Se você continua vivo é porque ainda não chegou aonde devia.','Loading...','Frases Inteligentes')\n" +
+                ", ('O olhar de quem odeia é mais penetrante do que o olhar de quem ama.','Loading...','Frases Inteligentes')\n" +
+                ", ('O que não provoca minha morte faz com que eu fique mais forte.','Loading...','Frases Inteligentes')\n" +
+                ", ('O homem é do tamanho do seu sonho.','Loading...','Frases Inteligentes')\n" +
+                ", ('Eu não sei o que quero ser, mas sei muito bem o que não quero me tornar.','Loading...','Frases Inteligentes')\n" +
+                ", ('Quanto menos alguém entende, mais quer discordar.','Loading...','Frases Inteligentes')\n" +
+                ", ('A maneira de se iniciar é parar de falar e começar a fazer.','Loading...','Frases Inteligentes')\n" +
+                ", ('A única coisa que não muda é que tudo muda.','Loading...','Frases Inteligentes')\n" +
+                ", ('O dinheiro faz homens ricos, o conhecimento faz homens sábios e a humildade faz grandes homens.','Loading...','Frases Inteligentes')\n" +
+                ", ('Deus nos deu mais um dia, vamos usa-lo com sabedoria.','Loading...','Frases Inteligentes')\n" +
+                ", ('Os que leem sabem muito, mas os que observam sabem muito mais.','Loading...','Frases Inteligentes')\n" +
+                ", ('Há pessoas que choram por saber que as rosas têm espinhos, há outras que sorriem por saber que os espinhos têm rosas.','Loading...','Frases Inteligentes')\n" +
+                ", ('O silêncio responde até mesmo aquilo que não foi perguntado…\uD83D\uDE0C\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Aquele que tentou e não conseguiu, é superior àquele que não tentou. \uD83D\uDC4A\uD83D\uDE0C','Loading...','Frases Inteligentes')\n" +
+                ", ('O conhecimento é o antídoto do medo. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Evoluir é reconhecer nossos erros. Não para concertá-los, mas para não repeti-los. \uD83D\uDC4D✌','Loading...','Frases Inteligentes')\n" +
+                ", ('Uma vez que você aceita seus defeitos, ninguém pode usá-los contra você. \uD83D\uDE09\uD83D\uDC49','Loading...','Frases Inteligentes')\n" +
+                ", ('As pessoas vêem defeito em tudo. Menos nelas mesmas. \uD83D\uDE14 (Miley Cyrus)','Loading...','Frases Inteligentes')\n" +
+                ", ('A dor que me machuca é a mesma que me ensina! \uD83D\uDC4A\uD83D\uDC94','Loading...','Frases Inteligentes')\n" +
+                ", ('Não existe más influências, existem pessoas sem personalidade própria. \uD83D\uDE26\uD83D\uDE33','Loading...','Frases Inteligentes')\n" +
+                ", ('Se você quer algo novo, precisa parar de fazer algo velho. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases Inteligentes')\n" +
+                ", ('É melhor ser odiado pelo que você é, do que amado por aquilo que você não é. ❤\uD83D\uDE0E','Loading...','Frases Inteligentes')\n" +
+                ", ('Ser inteligente é usar o silêncio para não entrar em brigas desnecessárias. \uD83D\uDE0C\uD83D\uDE18','Loading...','Frases Inteligentes')\n" +
+                ", ('Ontem eu era inteligente, queria mudar o mundo. Hoje eu sou sábio, estou mudando a mim mesmo. ✌\uD83D\uDE0A','Loading...','Frases Inteligentes')\n" +
+                ", ('Não subestime o tempo das voltas, nem diminua a leveza nos passos. Todo caminho é começo. \uD83D\uDC63\uD83D\uDC4D','Loading...','Frases Inteligentes')\n" +
+                ", ('As vezes sabedoria é apenas calar e observar… \uD83D\uDE0C\uD83D\uDC40','Loading...','Frases Inteligentes')\n" +
+                ", ('Viva Seu Presente, Aproveitando a experiência de vida do passado!  \uD83D\uDE1A\uD83D\uDE18','Loading...','Frases Inteligentes')\n" +
+                ", ('Sou exigente com a beleza. Ela tem que vir de dentro! ☺\uD83D\uDE0A','Loading...','Frases Inteligentes')\n" +
+                ", ('Sim, eu cometo erros, afinal a vida não vem com manual de instruções…\uD83D\uDE18\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Não jogue espinhos na estrada, na volta você pode estar descalço! \uD83D\uDC63','Loading...','Frases Inteligentes')\n" +
+                ", ('O homem nasce bom, a sociedade que o corrompe. \uD83D\uDE26\uD83D\uDE14','Loading...','Frases Inteligentes')\n" +
+                ", ('Não se engane com um abraço, com um sorriso, pois os falsos também sabem fazer isso. (Demi Lovato)\uD83D\uDE1D\uD83D\uDE0E','Loading...','Frases Inteligentes')\n" +
+                ", ('Acredite no Deus que criou os homens, não no Deus que os homens criaram.\uD83D\uDE4C\uD83D\uDC46','Loading...','Frases Inteligentes')\n" +
+                ", ('Constantemente me surpreendo com as pessoas, é então que gosto mais dos animais. \uD83D\uDE3A\uD83D\uDE3D','Loading...','Frases Inteligentes')\n" +
+                ", ('Escuta e serás sábio. O começo da sabedoria é o silêncio. \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Ame a todos, confie em poucos, mas não seja injusto com ninguém! ❤\uD83D\uDC49\uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Nem sempre a beleza está na aparência. \uD83D\uDE0A\uD83D\uDE1A','Loading...','Frases Inteligentes')\n" +
+                ", ('Prefiro ser tonto por cinco minutos, do que ser pelo resto da vida. \uD83D\uDE0E\uD83D\uDE1C','Loading...','Frases Inteligentes')\n" +
+                ", ('A vida me ensinou que chorar alivia, mas sorrir torna tudo mais bonito…\uD83D\uDE06\uD83D\uDE04','Loading...','Frases Inteligentes')\n" +
+                ", ('O amor nem sempre é uma decisão que você toma. Às vezes, ele escolhe você! ❤\uD83D\uDC49','Loading...','Frases Inteligentes')\n" +
+                ", ('O problema do mundo de hoje é que as pessoas inteligentes estão cheias de dúvidas, e as pessoas idiotas estão cheias de certezas. \uD83D\uDE0E\uD83D\uDC4A','Loading...','Frases Inteligentes')\n" +
+                ", ('No que diz respeito ao desempenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem-feita ou não faz! \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Inteligentes')\n" +
+                ", ('Nenhuma garota precisa de beleza para ser linda, ela só precisa de amor próprio, auto confiança e personalidade\uD83D\uDC78','Loading...','Frases Inteligentes')\n" +
+                ", ('Não existe pessoa perfeita … existem aquelas que vão aceitar seus defeitos , amar suas virtudes e completar sua vida!\uD83D\uDE0D\uD83D\uDE18','Loading...','Frases Inteligentes')\n" +
+                ", ('Não tenho tempo de odiar que me odeia , porque estou muito ocupado amando quem me ama.❤\uD83D\uDC49❤','Loading...','Frases Inteligentes')\n" +
+                ", ('É nossa obrigação seguir em frente, seja qual for a direção.\uD83D\uDC63\uD83D\uDC4C','Loading...','Frases Inteligentes')\n" +
+                ", ('Não tenho garantias nem certeza de nada, sigo tentando.\uD83D\uDE09\uD83D\uDC4A','Loading...','Frases Inteligentes')\n" +
+                ", ('O que sabemos é uma gota. O que ignoramos é um oceano.\uD83D\uDCA7','Loading...','Frases Inteligentes')\n" +
+                ", ('Reescreva-se. Republique-se. Reinvente-se. E transforme-se na melhor edição feita de você. \uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases Inteligentes')\n" +
+                ", ('Perdoa o que tem que ser perdoado, esquece o que não tem perdão.\uD83D\uDE1A\uD83D\uDE0A','Loading...','Frases Inteligentes')\n" +
+                ", ('Se você encontrar um caminho sem obstáculos ele provavelmente leva a lugar nenhum. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Um homem inteligente sai de um buraco, que um homem sábio não cairia.\uD83D\uDC49\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('O conflito não é entre o bem e mal, mas entre o conhecimento e a ignorância. \uD83D\uDC4A\uD83D\uDE12\uD83D\uDE0C','Loading...','Frases Inteligentes')\n" +
+                ", ('Quase sempre a diferença entre um dia bom e um ruim é a nossa atitude. \uD83D\uDC4D\uD83D\uDC4A','Loading...','Frases Inteligentes')\n" +
+                ", ('Cada qual sabe amar a seu modo; O modo pouco importa; O essencial é que saiba amar. \uD83D\uDC4D❤','Loading...','Frases Inteligentes')\n" +
+                ", ('É muito melhor perceber um defeito em si mesmo do que dezenas no outro, pois o seu defeito você pode mudar.\uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Se você deixa de ser você por alguém, quem é você de verdade? \uD83D\uDE14','Loading...','Frases Inteligentes')\n" +
+                ", ('Quando tudo parece dar errado, acontecem coisas boas que não teriam acontecido se tudo tivesse dado certo.✌','Loading...','Frases Inteligentes')\n" +
+                ", ('Confie na vida e siga em frente, o mal só existe quando damos poder a ele.\uD83D\uDE18\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('Não corrigir nossas falhas é o mesmo que cometer novos erros. \uD83D\uDE12\uD83D\uDE2B','Loading...','Frases Inteligentes')\n" +
+                ", ('A primeira e melhor vitória é conquistar a si mesmo.\uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Inteligentes')\n" +
+                ", ('A academia, minha segunda casa…\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('E que todas as dores virem músculos \uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Aquele treino de pernas que você respeita…\uD83C\uDFC3','Loading...','Frases Academia')\n" +
+                ", ('O de hoje ta pago!!  \uD83D\uDE18','Loading...','Frases Academia')\n" +
+                ", ('Peguei meu tênis fui atrás do meu melhor \uD83C\uDFC3\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('A força de vontade deve ser mais forte que sua habilidade \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('A minha diferença é que eu treino \uD83D\uDC4A\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Chega de fotos, Bora treinar!! \uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Simbora!  Ganhar massa muscular! \uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Pare de mimimi e vá treinar! \uD83D\uDE0C\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Chorar na academia pra sorrir na praia \uD83D\uDE18\uD83C\uDF0A','Loading...','Frases Academia')\n" +
+                ", ('A dor é temporária, a glória é eterna \uD83D\uDE22\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('Treinar não se resume em só fazer exercício, treinar é se desafiar \uD83D\uDC4A\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('O peso mais difícil é levantar da cama \uD83D\uDE04\uD83C\uDFC3','Loading...','Frases Academia')\n" +
+                ", ('Desista de desistir \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('O teu empenho e determinação trazem resultados \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('Dá trabalho ficar gostosa, mas vale a pena \uD83D\uDCAA\uD83D\uDC8B','Loading...','Frases Academia')\n" +
+                ", ('Bora treinar, que amar ta difícil… ❤️\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Desistir? Desculpa desconheço essa palavra. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('O que não te desafia não faz você mudar! \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Que toda inveja, vire massa muscular… \uD83D\uDC4A\uD83D\uDE0E','Loading...','Frases Academia')\n" +
+                ", ('O resultado esperado depende somente de você!  \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Quem treina por gosto não cansa! \uD83D\uDCAA\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Dor é o sedentarismo deixando seu corpo! \uD83D\uDE24\uD83D\uDE13','Loading...','Frases Academia')\n" +
+                ", ('Beijinho no ombro, pra gordura passar longe! \uD83D\uDE18\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Treine de verdade ou volte pra casa… \uD83D\uDCAA\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Se fosse fácil todos seriam fortes! \uD83D\uDCAA\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Foco, força e fé! \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Fique orgulhoso, mas nunca satisfeito. \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Você pode ter resultados ou desculpas… \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Treine pra saber que pode conquistar qualquer coisa que sua mente puder. \uD83D\uDCAA\uD83D\uDC4A \uD83D\uDE0C','Loading...','Frases Academia')\n" +
+                ", ('Não existe glória sem sacrifícios. \uD83D\uDC4A\uD83D\uDC46','Loading...','Frases Academia')\n" +
+                ", ('Treinar não é só fazer exércicios. Treinar é se desafiar!!! \uD83D\uDE0E\uD83D\uDE05\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Os únicos limites são aqueles que você acredita ter. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Acredite em você mesmo, para alcançar suas metas. \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Mais importante que a vontade de vencer é a coragem de começar. \uD83D\uDE09\uD83D\uDCAA\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('Desistir? desconheço essa palavra. \uD83D\uDE0C\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Seu sacrifício de hoje, com certeza faz parte da sua vitória de amanhã. \uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Se não existe esforço, não existe progresso. \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Treine pra você, não pros outros.\uD83D\uDCAA\uD83D\uDE0C\uD83D\uDC4D','Loading...','Frases Academia')\n" +
+                ", ('Bora treinar, que amar ta difícil… \uD83D\uDCAA\uD83D\uDC94\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Gym: Melhor terapia! ✊\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('No pain no gain \uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Foca no objetivo! \uD83D\uDC49\uD83D\uDCAA\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Todo objetivo depende do tamanho do seu foco. \uD83D\uDC46\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Mulher sexo frágil? Você que pensa, No Pain No Gain! \uD83D\uDCAA\uD83D\uDE4E\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Partiu, ganhar massa muscular. \uD83C\uDFC3\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Você pode ter resultados ou desculpas… \uD83D\uDE0C\uD83D\uDC4B\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Enquanto você malha para o verão, eu treino para a vida inteira. \uD83D\uDCAA\uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Transforme a motivação em hábito. \uD83D\uDE09☝\uD83D\uDCAA\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Academia: onde meu corpo cansa e minha mente descansa. \uD83D\uDE13\uD83D\uDE0C\uD83D\uDC4D','Loading...','Frases Academia')\n" +
+                ", ('E que toda a dor vire músculos. \uD83D\uDE13\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Chega de mimimi e bora malhar!! \uD83D\uDC4D\uD83D\uDC4C\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Em um relacionamento sério com a academia. ❤\uD83D\uDCAA','Loading...','Frases Academia')\n" +
+                ", ('Se a vida se tornar uma barra, coloque as anilhas, apoie nas costas e agacha. \uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Buscando por um mundo onde as pessoas torrem as minhas calorias e não a minha paciência. \uD83D\uDC4A\uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('Tudo correndo conforme planejado \uD83C\uDFC3\uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Quando deixar suas desculpas, encontrará seus resultados. \uD83D\uDE09\uD83D\uDC4D','Loading...','Frases Academia')\n" +
+                ", ('Não nasci pra competir com os outros, nasci para superar a mim mesmo. \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('O objetivo não é ser perfeito, mas buscar ficar cada vez melhor ✌\uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Academia: minha segunda casa! \uD83D\uDCAA\uD83D\uDE0C\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('A diferença é que eu treino!! \uD83D\uDCAA\uD83D\uDE0C','Loading...','Frases Academia')\n" +
+                ", ('Não importa como, mas mexa-se! \uD83C\uDFC3\uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Nada se consegue sem esforço. \uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Você não é derrotado quando perde. Você é derrotado quando desiste. \uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('O que não te desafia não faz você mudar. \uD83D\uDCAA\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Recuar: nunca! desistir: jamais! Avançar: sempre \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Academia')\n" +
+                ", ('Louco é a palavra que os fracos usam para justificar a disciplina dos fortes. \uD83D\uDC4A\uD83D\uDCAA\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('Não existe treino milagroso. Não existe uma dieta mágica. O que existe é foco e disciplina. \uD83D\uDC4C\uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('Seja mais forte que sua melhor desculpa. \uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Inspiração vem de fora, motivação vem de dentro! \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases Academia')\n" +
+                ", ('Busque em ser a melhor versão de si mesmo. \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases Academia')\n" +
+                ", ('Um corpo cansado hoje, um corpo sarado amanhã… \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Academia')\n" +
+                ", ('A amizade, cuja fonte é Deus, não se esgota nunca!\uD83D\uDC9A\uD83D\uDC9C\uD83D\uDC99','Loading...','Frases para foto com amiga')\n" +
+                ", ('Você é muito mais que amiga, é um anjo que o senhor me enviou!\uD83D\uDC7C\uD83D\uDC99','Loading...','Frases para foto com amiga')\n" +
+                ", ('A amizade duplica as alegrias e divide as tristezas \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('Nada em troca dessa união ✌️','Loading...','Frases para foto com amiga')\n" +
+                ", ('Se o mundo se virar contra você, será eu e você contra o mundo \uD83D\uDE0D','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amiga pra qualquer hora, e pra qualquer momento','Loading...','Frases para foto com amiga')\n" +
+                ", ('Uma amizade baseada em fatos reais \uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('A amizade é séria, nós não somos \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('A melhor amiga que alguém pode ter \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Porque é com você que eu tenho as melhores conversas \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Você é aquela que sempre estará no meu coração ❤️','Loading...','Frases para foto com amiga')\n" +
+                ", ('A metade do meu limão \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('E eu to contigo até depois do fim \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Ta solta na noite, convoca as amigas \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amigas até depois do fim ✌️\uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Me entende só pelo olhar \uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Não só sabe suas loucuras, mas vive elas com você \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('Meus amigos são minha vida \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amiga parceira de fé, me deixa de pé \uD83D\uDC4A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Toda loira tem sua morena \uD83D\uDE09\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('Dou valor só pra quem importa, e pra quem fecha comigo\uD83D\uDE18\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Minha comparsa, não me trapaça, não existe farsa \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('Uma palavra: MELHORES \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('E tudo que nós já passamos, eu guardarei para sempre \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('Momentos com vocês merecem um bis \uD83D\uDE09\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('Aquela em que posso confiar de olhos fechados ✌️\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Não troco por nada nesse mundo!  \uD83D\uDE0C\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Um dia a gente toma juízo, mas esse dia não precisa ser hoje! \uD83D\uDE09\uD83D\uDE04','Loading...','Frases para foto com amiga')\n" +
+                ", ('Deus nós fez amigas, porque nenhuma mae aguentaria nós como irmãs! \uD83D\uDC6F\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amiga parceira, só se for amiga solteira! \uD83D\uDC4D\uD83D\uDC6D','Loading...','Frases para foto com amiga')\n" +
+                ", ('Ela é minha caixinha de segredos. Ela é minha melhor amiga! \uD83D\uDC6D','Loading...','Frases para foto com amiga')\n" +
+                ", ('Por todas as risadas, por todos os segredos, por todos os abraços, por todos os momentos! \uD83D\uDE04\uD83D\uDE00\uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Deus que me livre e guarde de ficar sem você! \uD83D\uDE4F\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('A melhor que eu poderia ter! ❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('São poucas, mas ainda existem pessoas que valem a pena! \uD83D\uDC4D\uD83D\uDC4C','Loading...','Frases para foto com amiga')\n" +
+                ", ('Se eu puder fazer por você o que ninguém nunca fez por mim, eu faço! \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('Que a fé de Deus nos faça eternas amigas! \uD83D\uDC6D\uD83D\uDE4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('Irei te amar até a flor de plástico morrer!! \uD83D\uDE18\uD83C\uDF37','Loading...','Frases para foto com amiga')\n" +
+                ", ('Uma vida pra tirar você da minha… \uD83D\uDC49\uD83D\uDE0D\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('A parceria é forte, a curtição é louca e a amizade é eterna!✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('Me entende, defende! \uD83D\uDE0C\uD83D\uDC4A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amiga pra qualquer hora , pra qualquer momento!⏰☺','Loading...','Frases para foto com amiga')\n" +
+                ", ('Quem disse que pra ser irmã, precisa ser de sangue❓❓','Loading...','Frases para foto com amiga')\n" +
+                ", ('Bons amigos que nasceram pela fé! \uD83D\uDE1D\uD83D\uDE04\uD83D\uDE4F','Loading...','Frases para foto com amiga')\n" +
+                ", ('Insubstituível, inseparável e inconfundível!✌✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('Quem tem amigo não precisa de dinheiro! \uD83D\uDC6D\uD83D\uDC4E\uD83D\uDCB5','Loading...','Frases para foto com amiga')\n" +
+                ", ('Algumas amizades passam rápido, num piscar de olhos, outras são feitas para durar até que você pisque pela última vez \uD83D\uDE18\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('Vim cuidar de você. Te proteger, te fazer sorrir. Te entender, te ouvir…☺☺','Loading...','Frases para foto com amiga')\n" +
+                ", ('Tem coisas na vida que não passam, tem momentos que não são esquecidos e pessoas que não são substituídas‼','Loading...','Frases para foto com amiga')\n" +
+                ", ('É difícil te aturar todos os dias, mas difícil mesmo seria se eu não tivesse você pra aturar… \uD83D\uDE1A☺','Loading...','Frases para foto com amiga')\n" +
+                ", ('Valeu por você existir, é tão bom te ter aqui! ❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('Quando a amizade é verdadeira, ela é sincera, ela é divertida, ela é foda, ela é pra sempre!✌✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('Insubstituível, inseparável e inconfundível! ✌✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('De todos os cupins, baratas, pernilongos, pulgas, ratos, formigas.. vocês foram as pragas mais legais que já conheci!❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('Com a gente quem quiser, contra a gente quem puder! \uD83D\uDC4A','Loading...','Frases para foto com amiga')\n" +
+                ", ('Tenho dó daquele que não tem alguém como eu tenho você…☺','Loading...','Frases para foto com amiga')\n" +
+                ", ('A gente até tem o controle da situação, mas tá sem pilha! \uD83D\uDC4E','Loading...','Frases para foto com amiga')\n" +
+                ", ('Entre tapas e tapas! \uD83D\uDC4B\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Parceria é parceria, em qualquer situação, em qualquer lugar, a qualquer hora!  ✌✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('Não importa quanto tempo passe, tudo que é verdadeiro sempre irá permanecer‼','Loading...','Frases para foto com amiga')\n" +
+                ", ('Desde sempre, para sempre!✌✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('Mato e morro por você! ❤❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('Merece tudo e mais um pouco! \uD83D\uDC4D✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('Eu perguntei se ela tava bem, ela sorriu e disse que sim, ta tudo bem pra ela, então ta tudo bem pra mim! ☺','Loading...','Frases para foto com amiga')\n" +
+                ", ('Sintonia garantida! ✌✌','Loading...','Frases para foto com amiga')\n" +
+                ", ('É tão bom estar perto de quem gosta da gente, dar risadas e esquecer dos problemas… \uD83D\uDE0A\uD83D\uDE04','Loading...','Frases para foto com amiga')\n" +
+                ", ('E foi do nada, mas a amizade teve de tudo! \uD83D\uDE2F\uD83D\uDC6D\uD83D\uDE0A','Loading...','Frases para foto com amiga')\n" +
+                ", ('E se precisar, eu tô aqui, é só chamar que eu vou correndo! \uD83D\uDE0A\uD83D\uDC4D\uD83C\uDFC3','Loading...','Frases para foto com amiga')\n" +
+                ", ('Se o mundo se virar contra você, será eu e você contra o mundo! \uD83C\uDF0D\uD83D\uDC4A','Loading...','Frases para foto com amiga')\n" +
+                ", ('E as minhas lágrimas quem secou foi você! \uD83D\uDE22\uD83D\uDE0D\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Por todas as risadas, por todos os segredos, por todos os abraços, por todos os momentos.. Eu amo você!❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('Essa o tempo não muda, a saudade não mata e a distância não destrói…☺\uD83D\uDE0C','Loading...','Frases para foto com amiga')\n" +
+                ", ('A vida te cerca de anjos, são anjos sem asas, aqueles que estão sempre ali, aqueles que te protegem, aqueles como você que mesmo longe estão perto, e de um significado incrível! \uD83D\uDE07\uD83D\uDE0A\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('Os seus problemas são meus também e isso eu faço por você e mais ninguém. O que eu quero é ver o seu bem!\uD83D\uDC4D\uD83D\uDE04\uD83D\uDE09','Loading...','Frases para foto com amiga')\n" +
+                ", ('A verdadeira família é aquela unida pelo espírito e não pelo sangue…❤❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('Uma amizade não se faz pelo tempo em que ela existe e sim pela sinceridade de sentimento que há nela! ❤\uD83D\uDC6D','Loading...','Frases para foto com amiga')\n" +
+                ", ('Deus criou a amizade porque ele sabia que, quando o amor machucasse, ela seria a cura! \uD83D\uDC94\uD83D\uDC6D❤','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amizade é ter onde abrigar o coração e ao mesmo tempo dar abrigo a outros tantos que escolhem ali morar! ❤\uD83D\uDC4D\uD83D\uDE18','Loading...','Frases para foto com amiga')\n" +
+                ", ('Esse é o segredo das amizades verdadeiras: elas te roubam um sorriso, mas te devolvem dois! ☺\uD83D\uDE04','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amizade de verdade não se cria, simplesmente acontece, não tem explicação, a gente apenas sente‼','Loading...','Frases para foto com amiga')\n" +
+                ", ('Você é aquela que quando to mal, faz de tudo pra me alegrar! ☺\uD83D\uDE06','Loading...','Frases para foto com amiga')\n" +
+                ", ('Amizade é assim, no riso e no choro! \uD83D\uDE04\uD83D\uDE2D','Loading...','Frases para foto com amiga')\n" +
+                ", ('Vai Embrazando…\uD83D\uDD25\uD83D\uDE09\\n(MC Zaac)','Loading...','Frases para Balada')\n" +
+                ", ('Fui flagrada na balada… \uD83D\uDC44\uD83C\uDFB6','Loading...','Frases para Balada')\n" +
+                ", ('Saio da farra mais a farra não me larga ✌️\uD83D\uDC4F','Loading...','Frases para Balada')\n" +
+                ", ('Decreto liberado pra ela…Coitado do cara que largou \uD83D\uDC44\uD83D\uDE0E\\n(Safadão)','Loading...','Frases para Balada')\n" +
+                ", ('Agora aguenta ela e as amigas dela \uD83D\uDC6F\uD83D\uDC44\\n(Safadão)','Loading...','Frases para Balada')\n" +
+                ", ('Sexta do meu agrado!! \uD83D\uDE0D\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Vamos curtir a noite de patroa… \uD83D\uDC4F\uD83D\uDC44\\n(Anitta Simone e Simaria)','Loading...','Frases para Balada')\n" +
+                ", ('Azarar uns boys beijar na boca, aproveitar a noite, ficar loka \uD83D\uDE0E\uD83D\uDE04\\n(Anitta Simone e Simaria)','Loading...','Frases para Balada')\n" +
+                ", ('Então bora beber, já que amar não presta \uD83C\uDF7A\uD83D\uDC94\\n(Solange Almeida)','Loading...','Frases para Balada')\n" +
+                ", ('Se tá travada No meu som ela destrava…\uD83C\uDFB6\uD83D\uDE18\\n(Mc Zaac)','Loading...','Frases para Balada')\n" +
+                ", ('Ninguém vai conseguir frear…\uD83D\uDE0E','Loading...','Frases para Balada')\n" +
+                ", ('Quando ela começa a arrochar  na batida do paredão \uD83C\uDFB6\\n(Safadão)','Loading...','Frases para Balada')\n" +
+                ", ('Hoje é dia do lixo…É hoje que eu bebo e ligo \uD83C\uDF7A\uD83D\uDCDE\\n(Solange Almeida)','Loading...','Frases para Balada')\n" +
+                ", ('Hoje ela tá virada pela madrugada…\uD83D\uDC44','Loading...','Frases para Balada')\n" +
+                ", ('Se não for pra causar eu nem saio… \uD83D\uDC44\uD83D\uDC4F','Loading...','Frases para Balada')\n" +
+                ", ('Com jeito de santa e de santa não tem nada \uD83D\uDC44\uD83D\uDE0E\\n(Solange Almeida)','Loading...','Frases para Balada')\n" +
+                ", ('Bebendo mais, amando menos e ignorando em excesso!  \uD83C\uDF77\uD83D\uDE0C\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Chama o samu porque hoje eu vou tomar glicose! \uD83D\uDE06\uD83D\uDC89','Loading...','Frases para Balada')\n" +
+                ", ('Enche o copo de Whisky agora vire e tome! \uD83C\uDF78\uD83D\uDE09','Loading...','Frases para Balada')\n" +
+                ", ('Se não for pra causar, eu nem saio!  \uD83D\uDE0E\uD83D\uDE09','Loading...','Frases para Balada')\n" +
+                ", ('Se ela sozinha já é um perigo, imagina com as amigas!  \uD83D\uDC6F\uD83D\uDC6F\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('O boato é que nosso bonde é foda! \uD83D\uDE1A\uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('O que acontece na balada, fica na balada!\uD83D\uDE4A\uD83D\uDE48\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Toma uma dose que passa! \uD83C\uDF77\uD83D\uDE1C','Loading...','Frases para Balada')\n" +
+                ", ('Resolvi seguir meu coração, e como ele só fazia “tum, tum, tum, tum”, eu fui pra balada!❤','Loading...','Frases para Balada')\n" +
+                ", ('Ligar o som, aumentar o volume e esquecer os problemas! \uD83C\uDFB6\uD83C\uDFA7','Loading...','Frases para Balada')\n" +
+                ", ('Quebra o meu coração mas não derruba a minha cerveja! \uD83D\uDC94\uD83C\uDF7A','Loading...','Frases para Balada')\n" +
+                ", ('É viver de curtição, isso que a gente quer!  ✌\uD83D\uDE0E\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Eu vou dar virote!! \uD83D\uDE1D\uD83D\uDE0E','Loading...','Frases para Balada')\n" +
+                ", ('Baladeira de ofício, não gosta de compromisso! \uD83C\uDFB6\uD83D\uDC4E\uD83D\uDC8D\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Vish, tô vendo que você é muito gelo e pouco whisky!! \uD83D\uDC4E\uD83C\uDF78','Loading...','Frases para Balada')\n" +
+                ", ('Tentei sair da farra, mas a farra não saiu de mim! \uD83D\uDE38\uD83D\uDE04','Loading...','Frases para Balada')\n" +
+                ", ('Quem tá apaixonado chora… Quem tá largado bebe! ❤\uD83D\uDE2D\uD83D\uDE0D\uD83C\uDF77','Loading...','Frases para Balada')\n" +
+                ", ('Amar eu amo muito, prestar que eu presto pouco!  ❤\uD83D\uDC4D\uD83D\uDE0E\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Só Morre de amor quem é LISO por que quem tem Dinheiro Morre é de RESSACA!  \uD83D\uDC94\uD83D\uDCB5\uD83C\uDF7A\uD83C\uDF77','Loading...','Frases para Balada')\n" +
+                ", ('Só não bebo acetona, pra não tirar o esmalte dos dentes!! \uD83D\uDE01\uD83D\uDC4E\uD83D\uDE04','Loading...','Frases para Balada')\n" +
+                ", ('Tequila com limão é melhor que sua opinião! \uD83C\uDF78\uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('O que importa no momento é só manter o copo cheio! \uD83C\uDF7A\uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('A vida é uma jornada, só quero curtir o passeio…‼','Loading...','Frases para Balada')\n" +
+                ", ('Com as amigas loucas eu vou me jogar, nessa vida louca, aproveitar \uD83D\uDC6F\uD83D\uDE0E\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Eu tô curtindo com a galera e dando vaia a pra você!!! \uD83D\uDC4C\uD83D\uDE1A','Loading...','Frases para Balada')\n" +
+                ", ('A noite ta perfeita, eu saio com as amigas louca, jóias, maquiagem, muito capricho na roupa!!  \uD83D\uDC44\uD83D\uDC4D\uD83D\uDC57\uD83D\uDC60\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Nada melhor do que estar com o coração leve, nem amando e nem sofrendo… ❤\uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('Ela não tem juízo, se já teve, hoje não tem mais! \uD83D\uDE46\uD83D\uDC4E\uD83D\uDE38','Loading...','Frases para Balada')\n" +
+                ", ('Nunca se tem tudo na vida, ou falta boy, ou falta grana, ou falta bebida!! \uD83D\uDC6B\uD83D\uDCB5\uD83C\uDF7A','Loading...','Frases para Balada')\n" +
+                ", ('Esse arrocha é pra você que achou que eu tava aqui sofrendo, vai vendo!!  \uD83D\uDC4A\uD83D\uDC40✌','Loading...','Frases para Balada')\n" +
+                ", ('Vou bater uma selfie pra mostrar que eu tô feliz!!☺☺','Loading...','Frases para Balada')\n" +
+                ", ('O que um otário destrói, um drink e a melhor amiga recuperam! \uD83C\uDF7B\uD83D\uDC6F','Loading...','Frases para Balada')\n" +
+                ", ('um brinde aos nossos defeitos! \uD83C\uDF7A\uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('Hoje a meta é beber, é dançar as melhores musicas, é virar pro Dj e lançar o olhar de quero mais, porque hoje amor, eu serei a ultima a sair da pista! \uD83D\uDE18\uD83C\uDFB6','Loading...','Frases para Balada')\n" +
+                ", ('Eu sou a carinha das noitadas!  \uD83D\uDE0E\uD83D\uDE1D','Loading...','Frases para Balada')\n" +
+                ", ('Com um vestido e um salto alto, eu vou aonde eu quiser, na hora que quiser, enfim, eu faço acontecer!  \uD83D\uDE18\uD83D\uDC57\uD83D\uDC60','Loading...','Frases para Balada')\n" +
+                ", ('Hoje eu só quero uma balada, um copo de vodka e minha melhor roupa! \uD83C\uDFB6\uD83C\uDF78\uD83D\uDC57\uD83D\uDC60','Loading...','Frases para Balada')\n" +
+                ", ('Ela vive a vida pensando em se divertir! \uD83D\uDE04\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Fala mal mas paga pau!\uD83D\uDCAC\uD83D\uDC4D','Loading...','Frases para Balada')\n" +
+                ", ('Hoje eu tô terrível!!! \uD83D\uDE0E\uD83D\uDE17','Loading...','Frases para Balada')\n" +
+                ", ('Quem me viu mentiu!! \uD83D\uDE04','Loading...','Frases para Balada');";
+        return frase;
+    }
+    public static String carregarFrases17() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('A vida é muita curta pra deixar de aproveitar!  \uD83D\uDE0E\uD83D\uDE18\uD83D\uDE09','Loading...','Frases para Balada')\n" +
+                ", ('E que toda lagrima seja substituida por festas!!! \uD83D\uDE22\uD83C\uDFB6\uD83D\uDE04','Loading...','Frases para Balada')\n" +
+                ", ('Toda top, toda linda, leve e solta!  \uD83D\uDC44\uD83D\uDE09\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Com o sorriso de sempre e mais de uma garrafa na mente!  \uD83D\uDE04\uD83C\uDF77','Loading...','Frases para Balada')\n" +
+                ", ('Namoradeira, vai pra balada de segunda a sexta feira!  \uD83D\uDC69\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC69\uD83C\uDFB6','Loading...','Frases para Balada')\n" +
+                ", ('Fazer o que se tá solteira, não leva nada a sério a vida é uma zoeira⁉⁉','Loading...','Frases para Balada')\n" +
+                ", ('De amor é que eu não morro! \uD83D\uDE09❤\uD83D\uDE1E','Loading...','Frases para Balada')\n" +
+                ", ('Não sirvo pra namorar a farra é meu lugar!  \uD83D\uDC4E\uD83D\uDC8D\uD83D\uDE0E','Loading...','Frases para Balada')\n" +
+                ", ('Entre você e open bar com certeza eu fico bêbada… \uD83D\uDE1C\uD83C\uDF77','Loading...','Frases para Balada')\n" +
+                ", ('Eu to curtindo na balada com a galera, você já era‼','Loading...','Frases para Balada')\n" +
+                ", ('Ela é outra vibe, outro clima, outro pique!!  \uD83D\uDE0E\uD83D\uDE1D\uD83D\uDE04','Loading...','Frases para Balada')\n" +
+                ", ('Azar no amor, sorte no álcool! \uD83D\uDC4E❤\uD83D\uDC4D\uD83C\uDF77','Loading...','Frases para Balada')\n" +
+                ", ('É hoje que eu chego amanhã, é hoje que eu encho a cara e viro Dom Juan!  \uD83D\uDE06\uD83D\uDE1A','Loading...','Frases para Balada')\n" +
+                ", ('Desculpa eu tô na balada, toda linda e perfumada! \uD83D\uDC57\uD83D\uDC60\uD83D\uDE3B\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Solteira sim, sozinha nunca. Sai pra curtir não tem desculpa! \uD83D\uDE19\uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('Se tava em casa não ta mais…se tava solteira continua‼','Loading...','Frases para Balada')\n" +
+                ", ('Tô bem, tô zen, desapeguei de você meu bem! ✌\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Pra romance é off, pra balada disponivel!✔✔','Loading...','Frases para Balada')\n" +
+                ", ('Toda produzida jeitinho de santinha ela siau de casa doida pra perder a linha! \uD83D\uDE0C✌\uD83D\uDE18','Loading...','Frases para Balada')\n" +
+                ", ('Amor só de mãe, paixão só de cristo, quem quiser me amar, SOFRA!  \uD83D\uDE0C❤\uD83D\uDE2D','Loading...','Frases para Balada')\n" +
+                ", ('Safadão adverte: Me passe o número da sua opinião, quem sabe eu ligue pra ela! \uD83D\uDCDE','Loading...','Frases para Balada')\n" +
+                ", ('A fila anda e a catraca gira. Se sentiu saudade, vai pro final da fila! \uD83D\uDC4C','Loading...','Frases para Balada')\n" +
+                ", ('Não são as circunstâncias que importam; é Deus dentro das circunstâncias!  \uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Quando nós trabalhamos, apenas trabalhamos. Mas quando nós oramos Deus trabalha!  \uD83D\uDE4F\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Deus obrigado por não permitir que eu perca o equilíbrio, quando sei que inúmeras forças querem que eu caia! \uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Deus é a minha salvação. Terei confiança e não temerei. (Isaías 12:2)  \uD83D\uDE4F\uD83D\uDE4C\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Em cada passo que eu der, cada estrada que eu trilhar, todo caminho que eu escolher, a tua mão me guiará! \uD83D\uDC46\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('O perdão é a primeira e mais importante dádiva que podemos receber do SENHOR, pois é pelo perdão que somos restaurados a DEUS. \uD83D\uDE4F\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('As muitas águas não podem apagar este amor, nem os rios afogá-lo. (Cânticos 8:7)  \uD83C\uDF0A❤','Loading...','Frases de Deus')\n" +
+                ", ('O Senhor teu Deus é misericordioso e não te desamparará. (Deuteronômio 4:31)  \uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Quem se abriga em Deus não necessita da palavra. Basta um suspiro dirigido a Deus, e Deus o ouvirá!  \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('A palavra do Senhor é o alimento que a alma precisa!  \uD83D\uDCAC\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Lâmpada para os meus pés é a tua palavra. E luz para o meu caminho. (Salmos 119:105)  \uD83D\uDCA1\uD83D\uDC63\uD83D\uDCAC\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('O Senhor é a minha luz e a minha salvação. A quem temerei? O Senhor é a força da minha vida. De quem me recearei? (Salmos 27:1)  \uD83D\uDE4C\uD83D\uDCA1\uD83D\uDE23\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Confiarei somente em ti Senhor, não terei medo e vou seguir seus caminhos! \uD83D\uDC46\uD83D\uDC63\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Se preocupe com nada não. Deixa nas mãos de Deus, Ele sabe o que faz!  \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Porque Eu, o Senhor teu Deus, te tomo pela tua mão direita. E te digo: não temas, eu te ajudo. (Isaías 41:13) \uD83D\uDE22\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Amar a Deus sobre todas as coisas. (Mateus 22:37)  ❤\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('A chave para perdoar os outros é deixar de se concentrar no que eles fizeram e começar a concentrar-se no que Deus fez por você!  \uD83D\uDC46\uD83D\uDE18','Loading...','Frases de Deus')\n" +
+                ", ('A preocupação nunca dorme. Os filhos de Deus, sim!  \uD83D\uDC46\uD83D\uDE34\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Deus nunca disse que a jornada seria fácil, mas Ele disse que a chegada valeria a pena!  \uD83D\uDC4D\uD83D\uDC63\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Jesus é especialista em restaurar a esperança da alma! \uD83D\uDC46\uD83D\uDE22\uD83D\uDE4F\uD83D\uDC4D','Loading...','Frases de Deus')\n" +
+                ", ('Eu tenho um Deus que: cura, restaura, transforma, me perdoa, me protege, me faz descansar, me justifica, me ajuda, me ama, me da vida e me chama de filho!!!  \uD83D\uDC46\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Confiai no SENHOR perpetuamente; porque o SENHOR DEUS é uma rocha eterna. Isaías 26:4  \uD83D\uDE4F❤\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('A Fé em Deus faz crer no incrível, ver o invisível e realizar o impossível  \uD83D\uDE4F\uD83D\uDC40\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('A alegria do Senhor é nossa força!  \uD83D\uDE04\uD83D\uDC4A\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('E quando não tenho vontade de continuar, Ele vem, e me faz descansar! \uD83D\uDE4F☺','Loading...','Frases de Deus')\n" +
+                ", ('Por isso posso me deitar tranquilo e dormir, em paz. Quando acordo, me sinto seguro, porque Deus cuida de mim.\uD83D\uDE4F\uD83D\uDE4C\uD83D\uDE0A','Loading...','Frases de Deus')\n" +
+                ", ('E assim, Deus nos dar mais um lindo dia. Trabalha Senhor, me molda. Que sejas feita a Sua vontade! ⛅\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Deus, troco os meus medos pelos segredos do Teu coração… ❤\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Quando Deus quer dar vitória, ninguém pode impedir. Muda o curso da história, quando ele quer agir. Faz o fraco ficar forte, o gigante vir ao chão, Quando o crente está orando, logo vem o anjo com a benção na mão.\uD83D\uDE4F\uD83D\uDC4A\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Não é o tempo que cura. Quem cura é DEUS, pois Ele é o Dono do Tempo! ⏰❤\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Que a maior benção da sua vida, seja um coração segundo a vontade de Deus!  ❤\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Enquanto há vida, há esperança. (Eclesiastes 9:4) ❤\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Obrigado Senhor, pelo Seu maravilhoso amor. (Salmo 107:15)  \uD83D\uDE4F❤','Loading...','Frases de Deus')\n" +
+                ", ('Deus sabe o que é bom para você. (Eclesiastes 6:12) \uD83D\uDE4C\uD83D\uDC4D\uD83D\uDE09','Loading...','Frases de Deus')\n" +
+                ", ('Guarda-me, ó Deus, porque em ti confio!  \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Mil poderão cair ao seu lado, dez mil à sua direita, mas nada o atingirá. (Salmos 91:7) \uD83D\uDE46\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Ensina-me, Senhor, o Teu caminho, e andarei na Tua verdade; une o meu coração ao temor do Teu nome. (Salmo 86:11)  \uD83D\uDC63\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Porque Deus tanto amou o mundo que deu o seu Filho Único, para que todo o que nele crer não pereça, mas tenha a vida eterna. (João 3:16) \uD83D\uDE4C❤\uD83C\uDF0D\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('O mais importante para Deus é o que está no coração. (Samuel 16:7)  ❤\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Se você fizer do Altíssimo o seu abrigo, do Senhor o seu refúgio, nenhum mal o atingirá, desgraça alguma chegará à sua tenda. (Salmo 91:9-10) \uD83D\uDC4E\uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Uma coisa eu sei: Deus está comigo. (Salmo 56:9) \uD83D\uDE4F\uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases de Deus')\n" +
+                ", ('Se confessarmos os nossos pecados, ele é fiel e justo para perdoar os nossos pecados e nos purificar de toda injustiça. (1 João 1:9) \uD83D\uDE4C\uD83D\uDE0C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Tudo posso naquele que me fortalece. (Filipenses 4:13)  \uD83D\uDE4F\uD83D\uDC4A\uD83D\uDC46','Loading...','Frases de Deus')\n" +
+                ", ('Assim, permanecem agora estes três: a fé, a esperança e o amor. O maior deles, porém, é o amor. (1 Coríntios 13:13)\uD83D\uDE4C❤\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Bendito o homem que confia no Senhor e cuja esperança é o Senhor. (Jeremias 17:7) \uD83D\uDE0A❤\uD83D\uDE4C','Loading...','Frases de Deus')\n" +
+                ", ('Senhor, guia-me na tua justiça, por causa dos meus inimigos; endireita diante de mim o teu caminho. (Salmo 5:8)\uD83D\uDC63\uD83D\uDC46\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Deus')\n" +
+                ", ('Quem não ama não conhece a Deus, porque Deus é amor. (1 João 4:8) \uD83D\uDE4C❤\uD83D\uDC4E\uD83D\uDC46❤','Loading...','Frases de Deus')\n" +
+                ", ('Felizes são os que ouvem a palavra de Deus e a guardam! \uD83D\uDE04\uD83D\uDC42\uD83D\uDE4F\uD83D\uDCAC❤','Loading...','Frases de Deus')\n" +
+                ", ('A verdadeira felicidade está na própria casa, entre as alegrias da família \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Família não é uma coisa importante. É tudo \uD83D\uDE18\uD83D\uDE18','Loading...','Frases Familia')\n" +
+                ", ('O amor da família e a admiração dos amigos é muito mais importante do que a riqueza e os privilégios ❤️\uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Uma família feliz é um refúgio que prevalece de pé, mesmo quando as maiores tempestades passam pelas nossas vidas \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases Familia')\n" +
+                ", ('Para se ter alegria não é necessário muita coisa, apenas uma família unida \uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('O início de tudo, os melhores do mundo \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Familia')\n" +
+                ", ('Casa é uma construção de cimento e tijolos. Lar é uma construção de valores e princípios \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('O meu amor por vocês aumenta cada vez mais ❤️\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Esteja eu onde estiver, meu coração estará sempre com minha família onde o amor e o apoio são sinceros e inesgotáveis \uD83D\uDE18\uD83D\uDE09','Loading...','Frases Familia')\n" +
+                ", ('Família reunida, não tem preço \uD83D\uDE0A\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Amo minha família do jeito que é; pode não ser perfeita, mas o que importa é que nela sobram amor e compreensão \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Quando estamos juntos, a corrente é mais forte ❤️','Loading...','Frases Familia')\n" +
+                ", ('No amor e na paz que encontro no seio da minha família eu enxergo com clareza a obra grandiosa de Deus \uD83D\uDE4F❤️❤️','Loading...','Frases Familia')\n" +
+                ", ('Meu porto seguro \uD83D\uDC4A\uD83C\uDF39','Loading...','Frases Familia')\n" +
+                ", ('O amor da minha família é o maior presente que já recebi na vida ❤️\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Vocês são insubstituíveis, incomparáveis \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Cuide da sua família do jeito que cuida de si, porque nada é tão precioso como as suas raízes ❤️\uD83D\uDE0D','Loading...','Frases Familia')\n" +
+                ", ('Família o bem mais precioso \uD83D\uDC4F\uD83D\uDE0D','Loading...','Frases Familia')\n" +
+                ", ('Meu mundo é minha família, pois só junto de todos que fazem parte dela me sinto verdadeiramente feliz \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Posso não ter tudo, mas eu tenho vocês ❤️❤️','Loading...','Frases Familia')\n" +
+                ", ('Mesmo em tempos de dificuldade, não permita que nada destrua a união da sua família \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Familia')\n" +
+                ", ('É de sangue, de coração ❤️\uD83D\uDE0D','Loading...','Frases Familia')\n" +
+                ", ('É como uma base que eu preciso pra sobreviver \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Amor, carinho, atenção, união ❤️\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('A família é a demonstração perfeita do amor incondicional ❤️❤️','Loading...','Frases Familia')\n" +
+                ", ('Eu não imagino meu mundo sem vocês \uD83D\uDC4F❤️','Loading...','Frases Familia')\n" +
+                ", ('Minha família é a âncora que em todos os momentos me prende à felicidade e à esperança \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Essencial na minha vida ❤️\uD83C\uDF39','Loading...','Frases Familia')\n" +
+                ", ('Pode me faltar tudo na vida, mas enquanto tiver o amor da minha família terei motivos para sorrir ❤️\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('Sou muito abençoada pela família que eu tenho ❤️❤️','Loading...','Frases Familia')\n" +
+                ", ('A felicidade de um lar é o resultado da união entre todos os membros da família \uD83D\uDE0E\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Minha família, minha base…\uD83D\uDE18\uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('Aos céus levanto os braços, os olhos e a voz agradecendo pela felicidade que vive na minha família \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Familia')\n" +
+                ", ('Minha família é tudo para mim e jamais trocaria o amor e conforto que sinto no seu seio por nada desse mundo ❤️\uD83D\uDE18','Loading...','Frases Familia')\n" +
+                ", ('Minha vida pela de vocês ❤️❤️','Loading...','Frases Familia')\n" +
+                ", ('Melhor do que todos os presentes por baixo da árvore de natal é a presença de uma família feliz \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('O maior presente que Deus me deu \uD83C\uDF81\uD83D\uDE4F','Loading...','Frases Familia')\n" +
+                ", ('Não preciso de muito para ser feliz, pois enquanto tiver o amor, e o apoio da minha família tenho suficiente \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('Únicos e especiais \uD83D\uDE0D\uD83D\uDC4F','Loading...','Frases Familia')\n" +
+                ", ('Sua família deve ser seu legado, seu maior projeto, sua prioridade na vida \uD83D\uDC4A❤️❤️','Loading...','Frases Familia')\n" +
+                ", ('Minha família, minha vida \uD83D\uDE0D❤️','Loading...','Frases Familia')\n" +
+                ", ('Abençoados são os que possuem a bênção de uma família feliz e todos os dias agradecem por isso \uD83D\uDE4F❤️','Loading...','Frases Familia')\n" +
+                ", ('Amor além da vida ❤️\uD83C\uDF39','Loading...','Frases Familia')\n" +
+                ", ('Eu pertenço onde estiver minha família, pois ela é a minha casa, é onde meu coração é feliz ❤️\uD83D\uDE0A','Loading...','Frases Familia')\n" +
+                ", ('Heart knocking off the chest! ❤️\uD83D\uDC4F\\n(Coração que bate fora do peito)','Loading...','Frases em ingles')\n" +
+                ", ('good vibes only ✌️\\n(apenas boas vibrações)','Loading...','Frases em ingles')\n" +
+                ", ('Long live happiness \uD83D\uDC4F\uD83D\uDE04\\n(Viva a felicidade)','Loading...','Frases em ingles')\n" +
+                ", ('Quiet mind, light soul \uD83C\uDF43\uD83D\uDE07\\n(Mente tranquila, alma leve)','Loading...','Frases em ingles')\n" +
+                ", ('May love prevail ❤️\uD83D\uDE09\\n(Que o amor prevaleça)','Loading...','Frases em ingles')\n" +
+                ", ('focus strength and faith \uD83C\uDFAF\uD83D\uDE4F\\n(foco, força e fé)','Loading...','Frases em ingles')\n" +
+                ", ('Confidence will help you go far. \uD83D\uDC4F\uD83D\uDE09\\n(Confiança vai te ajudar a chegar longe.)','Loading...','Frases em ingles')\n" +
+                ", ('Monte stories do not expect someone to tell  \uD83D\uDE0E\uD83D\uDE0C\\n(Monte suas histórias não espere alguém contar)','Loading...','Frases em ingles')\n" +
+                ", ('I am perfectly imperfect \uD83D\uDC44\uD83D\uDE0C\\n(Estou perfeitamente imperfeita.)','Loading...','Frases em ingles')\n" +
+                ", ('Live your way \uD83D\uDC4A\uD83D\uDE0E\\n(Viva do seu jeito)','Loading...','Frases em ingles')\n" +
+                ", ('Be allowed and be happy \uD83D\uDE04✌️\\n(Se permita e seja feliz)','Loading...','Frases em ingles')\n" +
+                ", ('I never changed. I just learned \uD83D\uDC4F\uD83D\uDE18\\n(Eu nunca mudei. Eu aprendi.)','Loading...','Frases em ingles')\n" +
+                ", ('Be crazy. Be weird. Don’t be afraid of what anybody thinks \uD83D\uDE0E\\n(Ser louco. Ser estranho. Não tenha medo do que os outros pensam)','Loading...','Frases em ingles')\n" +
+                ", ('somewhere between emotional and emotionless ❤️\uD83D\uDE0C\\n(em algum lugar entre o emocional e as emoções)','Loading...','Frases em ingles')\n" +
+                ", ('The older I get, the more I realize what really matters in life \uD83D\uDE0C\uD83D\uDE09\\n(Quanto mais velho fico, mais eu percebo o que realmente importa na vida.)','Loading...','Frases em ingles')\n" +
+                ", ('Blessed by God \uD83D\uDE4F\uD83D\uDC4F\\n(Abençoado por Deus)','Loading...','Frases em ingles')\n" +
+                ", ('Just be happy! ✌\uD83D\uDE04\\n(Apenas ser feliz)','Loading...','Frases em ingles')\n" +
+                ", ('A thousand loves, himself!\uD83D\uDC4C\uD83D\uDC47\\n(De mil amores, o próprio!)','Loading...','Frases em ingles')\n" +
+                ", ('Maturity is in the mind, not the age! \uD83D\uDE09\uD83D\uDE09\\n(Maturidade está na mente, e não na idade!)','Loading...','Frases em ingles')\n" +
+                ", ('Because when we are happy, the life staya more happy. \uD83D\uDE09\uD83D\uDE04\\n(Porque quando nos somos felizes, a vida fica mais feliz)','Loading...','Frases em ingles')\n" +
+                ", ('Believe every day, everything is possible! \uD83D\uDC4A\uD83D\uDC4F\\n(Acredite todo dia, tudo é possível)','Loading...','Frases em ingles')\n" +
+                ", ('Making mistakes is better than faking perfections! \uD83D\uDC4C\\n(Cometer erros é melhor do que falsas perfeições)','Loading...','Frases em ingles')\n" +
+                ", ('Sometimes all we need is a fresh start…\uD83D\uDC4F✌️\\n(Às vezes, tudo que precisamos é de um novo começo)','Loading...','Frases em ingles')\n" +
+                ", ('Recognize the good things in your life \uD83D\uDC4F\uD83D\uDE09\\n(Reconheça as coisas boas em sua vida)','Loading...','Frases em ingles')\n" +
+                ", ('wake up and live \uD83D\uDE0E\\n(acorde e viva)','Loading...','Frases em ingles')\n" +
+                ", ('Don’t stop believin’, hold on to that feelin ❤️\uD83D\uDC4F\\n(Não pare de acreditar, agarre-se nesse sentimento)','Loading...','Frases em ingles')\n" +
+                ", ('Never lose your faith! \uD83D\uDE4F\uD83D\uDE09\\n(Nunca perca sua fé)','Loading...','Frases em ingles')\n" +
+                ", ('Be the reason someone smiles today… \uD83D\uDE01\uD83D\uDE0A\\n(Seja a razão do sorriso de alguém hoje)','Loading...','Frases em ingles')\n" +
+                ", ('If you expect honesty, be honest! \uD83D\uDC4A\uD83D\uDC4C\\n(Se você espera honestidade, seja honesto)','Loading...','Frases em ingles')\n" +
+                ", ('What’s coming is better than what is gone… \uD83D\uDC4F\uD83D\uDE09\\n(O que está por vir é melhor do que se foi)','Loading...','Frases em ingles')\n" +
+                ", ('Being happy is my goal! \uD83D\uDE04\uD83D\uDE03\\n(Ser feliz é o meu objetivo)','Loading...','Frases em ingles')\n" +
+                ", ('You were born to shine \uD83D\uDE09\uD83D\uDE0E\\n(Você nasceu para brilhar)','Loading...','Frases em ingles')\n" +
+                ", ('Follows the flow ✌️\\n(Segue o fluxo)','Loading...','Frases em ingles')\n" +
+                ", ('Don’t forget to smile. \uD83D\uDE04\uD83D\uDE09\\n(Não esqueça de sorrir)','Loading...','Frases em ingles')\n" +
+                ", ('Give up give up \uD83D\uDC4A\\n(Desista de desistir)','Loading...','Frases em ingles')\n" +
+                ", ('Never stop dreaming \uD83D\uDE18\uD83D\uDC4F\\n(Nunca pare de sonhar)','Loading...','Frases em ingles')\n" +
+                ", ('That’s your limit? \uD83D\uDE0E\\n(Esse é seu limite?)','Loading...','Frases em ingles')\n" +
+                ", ('I’m always tired but never of you \uD83D\uDE09\\n(Eu estou sempre cansado, mas nunca de você.)','Loading...','Frases em ingles')\n" +
+                ", ('Feelings fade when people change \uD83D\uDC94\\n(Sentimentos murcham quando as pessoas mudam.)','Loading...','Frases em ingles')\n" +
+                ", ('Fake love is real waste of life \uD83D\uDC94\uD83D\uDE09\\n(Amor falso é um verdadeiro desperdício de vida.)','Loading...','Frases em ingles')\n" +
+                ", ('Love is not what you see in the movies ❤️\uD83D\uDE09\\n(O amor não é o que você vê nos filmes.)','Loading...','Frases em ingles')\n" +
+                ", ('There’s just one life to live \uD83D\uDC4C✌️\\n(Só temos uma vida para viver)','Loading...','Frases em ingles')\n" +
+                ", ('Your words don’t mean a thing \uD83D\uDC4C\\n(Suas palavras não significam nada)','Loading...','Frases em ingles')\n" +
+                ", ('Amor de Irmão é Amor sem fim…\uD83D\uDE0C❤️','Loading...','Frases para Irma')\n" +
+                ", ('Irmãs de sangue e ❤️','Loading...','Frases para Irma')\n" +
+                ", ('Amor, sintonia e cumplicidade \uD83D\uDE18\uD83D\uDC4F','Loading...','Frases para Irma')\n" +
+                ", ('Por ela eu sou capaz de um crime passional \uD83D\uDC4A\uD83D\uDE0C','Loading...','Frases para Irma')\n" +
+                ", ('Sangue do meu sangue \uD83D\uDE0A','Loading...','Frases para Irma')\n" +
+                ", ('Minha irmã, Melhor pessoa ❤️\uD83D\uDC4F','Loading...','Frases para Irma')\n" +
+                ", ('Irmã: a unica pessoa que você briga e faz as pazes sem perceber! \uD83D\uDE1C☺️','Loading...','Frases para Irma')\n" +
+                ", ('Amiga de fé, irmã camarada ✌️\uD83D\uDE18','Loading...','Frases para Irma')\n" +
+                ", ('Tem a ver com sangue. ❤️','Loading...','Frases para Irma')\n" +
+                ", ('Hora você ama em outras quer vende-la. irmã é tudo de bom!\uD83D\uDC69\uD83D\uDC67','Loading...','Frases para Irma')\n" +
+                ", ('Entre brigas, tapas e beijos. \uD83D\uDC4B\uD83D\uDE18','Loading...','Frases para Irma')\n" +
+                ", ('A gente briga mais se ama \uD83D\uDE0C☺️','Loading...','Frases para Irma')\n" +
+                ", ('Nossas brigas só fortalecem nosso Amor irmãs daqui a eternidade  ❤️\uD83D\uDC4F','Loading...','Frases para Irma')\n" +
+                ", ('A minha vida não teria a mesma graça sem você sempre por perto. \uD83D\uDC69\uD83D\uDE18','Loading...','Frases para Irma')\n" +
+                ", ('Irmandade, parceria, uma pela outra sempre ✌️❤️','Loading...','Frases para Irma')\n" +
+                ", ('Somos amigas unidas por laços muito mais profundos.\\nÉ amor, é família é sangue ❤️\uD83D\uDC6A','Loading...','Frases para Irma')\n" +
+                ", ('Pode até brigar, mas no final vai ser sempre nós Duas. \uD83D\uDC69\uD83D\uDC67','Loading...','Frases para Irma')\n" +
+                ", ('Minha parceira de fé, minha maninha! \uD83D\uDE18\uD83D\uDE09','Loading...','Frases para Irma')\n" +
+                ", ('Quero sempre te ver sorrindo, tua felicidade é a minha. \uD83D\uDC49\uD83D\uDE04','Loading...','Frases para Irma')\n" +
+                ", ('Sorte de quem tem uma irmã para a vida toda! ❤','Loading...','Frases para Irma')\n" +
+                ", ('Minha irmã, meu melhor presente! \uD83C\uDF81\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('Enquanto eu existir você nunca estará sozinha!  \uD83D\uDE18\uD83D\uDE09','Loading...','Frases para Irma')\n" +
+                ", ('Pode até brigar, mas no final vai ser sempre nós Duas! \uD83D\uDC6D\uD83D\uDE09','Loading...','Frases para Irma')\n" +
+                ", ('Amor de Irmão é Amor sem fim!  \uD83D\uDC6D❤\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Eu vou estar do seu lado até quando você menos merecer!  \uD83D\uDE18','Loading...','Frases para Irma')\n" +
+                ", ('Nossas brigas só fortalecem nosso Amor irmãs daqui a eternidade! \uD83D\uDC6D\uD83D\uDC4A❤','Loading...','Frases para Irma')\n" +
+                ", ('Amigas partilham segredos, é o que nos mantém unidas! \uD83D\uDC4A\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Irmã Na minha vida você é insubstituível… \uD83D\uDC6D\uD83D\uDE09\uD83D\uDC4A\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Minha irmã Eu tive muita sorte de Deus ter me enviado esse anjo da guarda!  \uD83D\uDE07\uD83D\uDE4F','Loading...','Frases para Irma')\n" +
+                ", ('Irmãs amigas significa : que se uma cair as duas se machucam! \uD83D\uDC6D\uD83D\uDC94\uD83D\uDC4C','Loading...','Frases para Irma')\n" +
+                ", ('Ela é minha caixinha de segredos. Ela é minha melhor amiga! \uD83D\uDC6D\uD83C\uDF81','Loading...','Frases para Irma')\n" +
+                ", ('Amigas até depois do fim!  \uD83D\uDC6D\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('E nessa cumplicidade nos fizemos irmãs! \uD83D\uDC6D\uD83D\uDC4D\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('Amiga, companheira parceira de risos e brigas, eu amo você! minha irmã!  \uD83D\uDC6D\uD83D\uDE0D\uD83D\uDE04\uD83D\uDE0A','Loading...','Frases para Irma')\n" +
+                ", ('Imão é nome sagrado, é ligação para a vida, é dádiva de Deus!  \uD83D\uDE4C\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('Irmã se um dia precisar de mim nem pense me procurar, procure sem pensar!  \uD83D\uDC6D\uD83D\uDCAD\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Irmã é mais que familia, é amigo de sangue pra vida toda!  \uD83D\uDE0D\uD83D\uDE18\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('Ter uma irmã é como ter uma guardiã das suas melhores recordações!  \uD83D\uDE0A\uD83D\uDE45','Loading...','Frases para Irma')\n" +
+                ", ('Irmã Nada separa, ninguém substituí!  \uD83D\uDE0A\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('Imãos são prêmios que Deus não esqueceu de nos da!  \uD83D\uDE0A\uD83D\uDC6D\uD83D\uDE4C','Loading...','Frases para Irma')\n" +
+                ", ('Ter uma irmã que você considera como amiga é muito raro!  \uD83D\uDE18\uD83D\uDE09\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('Mais que amigas, IRMÃS, pro resto da vida!  \uD83D\uDC6D❤','Loading...','Frases para Irma')\n" +
+                ", ('Minha irmã é benção na minha via! \uD83D\uDC6D\uD83D\uDE4F❤','Loading...','Frases para Irma')\n" +
+                ", ('Muita gente tem uma irmã, mais ter uma irmã amiga é felicidade reservada apenas para uns eleitos!  \uD83D\uDE0A❤','Loading...','Frases para Irma')\n" +
+                ", ('Amor de irmã é a maior fortuna que existe! ❤\uD83D\uDC6D☺','Loading...','Frases para Irma')\n" +
+                ", ('Irmã mais velha quem tem conhece o sinônimo de proteção!  \uD83D\uDC69\uD83D\uDC67❤','Loading...','Frases para Irma')\n" +
+                ", ('Grande honra e privilégio ter uma irmã tão especial como você!  \uD83D\uDC6D❤\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Uma irmã é metade de nós sem ela somos pouco!  \uD83D\uDC6D❤☺','Loading...','Frases para Irma')\n" +
+                ", ('Ter uma irmã é ter sempre uma infância lembrada com segurança em outro coração!   ❤','Loading...','Frases para Irma')\n" +
+                ", ('Por que o amor entre irmãs é para sempre!  ❤\uD83D\uDE0A','Loading...','Frases para Irma')\n" +
+                ", ('Somos mais que irmãs pois a sua felicidade significa tanto pra mim que não saberia viver sem ter a certeza do seu bem estar!  \uD83D\uDE04❤\uD83D\uDC6D','Loading...','Frases para Irma')\n" +
+                ", ('A vida diz que você é minha melhor amiga, mais o coração diz que é minha irmã!  ❤\uD83D\uDC6D\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Irmã você é a mais certa nas horas incertas!  \uD83D\uDC4C\uD83D\uDC6D\uD83D\uDC4D','Loading...','Frases para Irma')\n" +
+                ", ('Algumas amizades passam rápido, num piscar de olhos a de uma irmã é feita pra durar até que você pisque pela última vez!   \uD83D\uDE18\uD83D\uDE09','Loading...','Frases para Irma')\n" +
+                ", ('Irmã ela me irrita, me perturba, me faz passar vergonha, mas não consigo viver um dia sem ela!  \uD83D\uDE23\uD83D\uDE1D\uD83D\uDE04❤','Loading...','Frases para Irma')\n" +
+                ", ('Se é ostentação deixa comigo: Em vez de nome de carro eu falo o nome dos amigos. ✌️\uD83D\uDE18','Loading...','Frases Masculinas')\n" +
+                ", ('Alguns acreditam em anjos eu acredito em amizade. \uD83D\uDE07\uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Considere os que te consideram…✌️','Loading...','Frases Masculinas')\n" +
+                ", ('Já tive ódio demais hoje eu só busco amor ❤️','Loading...','Frases Masculinas')\n" +
+                ", ('Jogar pra perder, parceiro? Não é comigo.\uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Às vezes você tem que passar pelo pior para ter o melhor.\uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Meu coração blindado limita as palavras que podem me atingir. ❤️ \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Limite só existe pra quem pensa pequeno…\uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Sonhar, viver, e todo dia agradecer…\uD83D\uDE4F','Loading...','Frases Masculinas')\n" +
+                ", ('Meu melhor amigo é Deus e o segundo melhor sou eu \uD83D\uDC46','Loading...','Frases Masculinas')\n" +
+                ", ('Vem para meu mundo, vou te fazer de dama e serei seu vagabundo. \uD83D\uDE09\uD83D\uDE0E','Loading...','Frases Masculinas')\n" +
+                ", ('Eu sempre fui sonhador, e é isso que me mantém vivo \uD83D\uDC4F','Loading...','Frases Masculinas')\n" +
+                ", ('A fé não vale de nada pra mente preguiçosa. \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Pois uns atiram elogios, outros nos atiram pedras \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Caminhamos pela fé, e não pela visão. \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('To tranquilo, to pelo certo. \uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Eu não vim pra me explicar, eu vim pra confundir.  \uD83D\uDC4D','Loading...','Frases Masculinas')\n" +
+                ", ('Tudo sem Deus é nada; nada com Deus é tudo  \uD83D\uDE4F','Loading...','Frases Masculinas')\n" +
+                ", ('Ninguém é mais que ninguém.  \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Quem me protege nunca dorme. \uD83D\uDE4F','Loading...','Frases Masculinas')\n" +
+                ", ('Se bater saudade, bate lá em casa \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Cuidado com o que você deseja, as coisas acontecem rápido demais \uD83D\uDE18','Loading...','Frases Masculinas')\n" +
+                ", ('São tempos de mudanças \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Mas lembra que saúde é ser feliz \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Errou é game over \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Tanto faz pra mim, enfim, tô bem de boa ✌️','Loading...','Frases Masculinas')\n" +
+                ", ('Se Jesus está comigo, contra mim ninguém será \uD83D\uDE4F','Loading...','Frases Masculinas')\n" +
+                ", ('Escolhas conduzem a vida \uD83D\uDC4F','Loading...','Frases Masculinas')\n" +
+                ", ('Sem neurose e sem estresse \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Errar, superar, aprender e recomeçar \uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Não sou dono do mundo, mas sou filho do dono \uD83D\uDC46','Loading...','Frases Masculinas')\n" +
+                ", ('Muita fé naquele que tá lá em cima \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Masculinas')\n" +
+                ", ('Se tá difícil pra malandro, imagina pra otário \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Nascemos chorando pra morrer sorrindo \uD83D\uDE04','Loading...','Frases Masculinas')\n" +
+                ", ('Chefe é chefe né pai \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Eu vivo no meu tempo, que a morte é inevitável, o barraco é pequeno, mas é bastante agradável \uD83D\uDC4F','Loading...','Frases Masculinas')\n" +
+                ", ('Jogar pra perder parceiro, não é comigo \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Hoje o mundo é dos espertos, posso ser o cara errado seguindo o caminho certo  \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Mas sempre temos que olhar o lado bom das coisas \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Nasci pra ser estilo livre ✌️','Loading...','Frases Masculinas')\n" +
+                ", ('Pra somar é raro, pra afundar tem até fila \uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Me encaixo no padrão errado \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Não somos nada além do que dizemos que somos \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Vivendo a vida sem pensar no fim \uD83D\uDE04','Loading...','Frases Masculinas')\n" +
+                ", ('Calmo como uma bomba \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Se acomode ou se incomode \uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Eu quero pra vida inteira, um destino incerto \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('A alma é grande e a vida é pequena ✌️','Loading...','Frases Masculinas')\n" +
+                ", ('Se não tem malícia, então nem entra no jogo \uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Não cola comigo porque eu sou todo errado \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Pra todo game-over existe um play-again \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('A cada decepção, um novo aprendizado \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases Masculinas')\n" +
+                ", ('Sonhar, viver, e todo dia agradecer \uD83D\uDE4C','Loading...','Frases Masculinas')\n" +
+                ", ('Cair sete vezes. E se levantar oito \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Talarico nunca fui. \uD83D\uDE0E','Loading...','Frases Masculinas')\n" +
+                ", ('Cuidam muito da minha vida, mas nunca me deram nada.  \uD83D\uDE20','Loading...','Frases Masculinas')\n" +
+                ", ('Pedindo pra voltar e eu só vendo  \uD83D\uDC40','Loading...','Frases Masculinas')\n" +
+                ", ('Pra mim fazer ela se apaixonar é fácil.  \uD83D\uDE0E','Loading...','Frases Masculinas')\n" +
+                ", ('To firmão, to na correria.  \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Mina certo muda cara errado \uD83D\uDE0E','Loading...','Frases Masculinas')\n" +
+                ", ('É que o nego aqui, sabe como te fazer sorrir  \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('Só pra deixar bem claro, os verdadeiros eu sei quem são \uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('De compromisso toda hora. \uD83D\uDE1C','Loading...','Frases Masculinas')\n" +
+                ", ('O papo dela é doce pra fazer nego de tonto  ✊','Loading...','Frases Masculinas')\n" +
+                ", ('A dor e a raiva muda as pessoas, acredite, sou a prova viva disso \uD83D\uDC4A\uD83D\uDE20','Loading...','Frases Masculinas')\n" +
+                ", ('Fé em deus que ele é justo \uD83D\uDE4F','Loading...','Frases Masculinas')\n" +
+                ", ('Nossos momentos são tão vivos dentro de mim… ✌','Loading...','Frases Masculinas')\n" +
+                ", ('Cada um escuta a voz de Deus de um jeito. \uD83D\uDE4C','Loading...','Frases Masculinas')\n" +
+                ", ('Eu vagabundo, ela linda, dormindo no meu peito desse jeito, mais ainda.  \uD83D\uDE34\uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Fica tranquila que a missão de te fazer feliz é minha! \uD83D\uDE09','Loading...','Frases Masculinas')\n" +
+                ", ('As outras minas ficam puta, porque você ganhou a luta delas mesmo sem ter entrado na disputa. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases Masculinas')\n" +
+                ", ('Depois que se passa dos 17, você percebe que tá no meio de uma guerra carregando um canivete. ✊','Loading...','Frases Masculinas')\n" +
+                ", ('Meu coração blindado limita as palavras que podem me atingir. ❤✊','Loading...','Frases Masculinas')\n" +
+                ", ('Deixe viver, deixe ficar, deixe estar como está. \uD83D\uDE0E✌','Loading...','Frases Masculinas')\n" +
+                ", ('Logo eu, que sempre achei legal ser tão errado, eu que nem sempre calmo, mas nunca preocupado. \uD83D\uDE0E','Loading...','Frases Masculinas')\n" +
+                ", ('Só quero uma mina firmeza pra trinca comigo, ter uns pivete, e ouvir ela me chamar de marido \uD83D\uDC4A','Loading...','Frases Masculinas')\n" +
+                ", ('Selecionamos frases com músicas para deixar as legendas das suas fotos ainda mais interessantes, confira! As melhores e mais buscadas músicas feitas com carinho para você!','Loading...','Frases de Músicas')\n" +
+                ", ('Esse é só o resultado da minha fé inabalável  \uD83D\uDE4F\uD83D\uDC4F\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Eu vim acabar com essa sua vidinha de balada \uD83C\uDFB6\uD83D\uDE18\\nE dar outro gosto pra essa sua boca de ressaca\uD83D\uDC44\uD83C\uDF7A\\n(Henrique e Juliano)','Loading...','Frases de Músicas')\n" +
+                ", ('Vai Embrazando…\uD83D\uDD25\uD83D\uDC4F\\n(MC Zaac)','Loading...','Frases de Músicas')\n" +
+                ", ('Amiga parceira só se for amiga solteira\uD83D\uDE08\uD83D\uDE0E\uD83D\uDC4A\uD83C\uDF7B (Mc pikeno e menor)','Loading...','Frases de Músicas')\n" +
+                ", ('Decreto liberado pra ela \uD83D\uDC4F\uD83D\uDC44\\n(Safadão)','Loading...','Frases de Músicas')\n" +
+                ", ('Carinha de santa, recata e do lar  \uD83D\uDE07\uD83D\uDC44\\n(Aviões do forró)','Loading...','Frases de Músicas')\n" +
+                ", ('É uma vida num fim de semana…\uD83C\uDFB6❤️\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Não pega fila, cê tem exclusividade! \uD83D\uDE09❤️\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('Deus é meu lar…\uD83D\uDC46❤️\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('E nessas horas que eu nem ligo pra dinheiro\\nPra eu me sentir inteiro, só preciso de você \uD83D\uDE0D\uD83D\uDC49\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('Vai por mim igual nós dois não tem \uD83D\uDC8F Seu ❤️ é meu e o meu é seu também\\n(Henrique e Juliano)','Loading...','Frases de Músicas')\n" +
+                ", ('Alcancei o inalcançável, flutuei, mantive estável \uD83D\uDC4A\uD83D\uDC4F\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Até nossa loucura combina Cola esse sorriso no meu \uD83D\uDE04\uD83D\uDE03\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('De pijama ou maquiada, desbocada ou educada\\nDe vestido pra sair ou de chinelo havaiana \uD83D\uDE0A\uD83D\uDE0C\\n(Henrique e Juliano)','Loading...','Frases de Músicas')\n" +
+                ", ('Quem ama também cansa de correr atrás o meu tanto fiz cansou do seu tanto faz \uD83D\uDE0C\uD83D\uDE18\\n(Safadão)','Loading...','Frases de Músicas')\n" +
+                ", ('Na portaria do meu ❤️ já tem seu nome Pode entrar \uD83D\uDE09\\n(Henrique e Juliano)','Loading...','Frases de Músicas')\n" +
+                ", ('Quem bate também chora \uD83D\uDE22\uD83D\uDC4A\\n(Safadão)','Loading...','Frases de Músicas')\n" +
+                ", ('A nossa praia é amar, beijar Ficar de boa em frente ao mar \uD83C\uDF0A\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('Meu ❤️ não pertence a você, da minha vida você não merece saber \uD83D\uDE0C\\n(Safadão)','Loading...','Frases de Músicas')\n" +
+                ", ('Boca que não merece beijo, cerveja nela \uD83D\uDC8B\uD83C\uDF7A\\n(Solange Almeida)','Loading...','Frases de Músicas')\n" +
+                ", ('Nem tá lembrando que já teve ex tá nem ligando já passou a vez  \uD83D\uDE0C\uD83D\uDE18\\n(Safadão)','Loading...','Frases de Músicas')\n" +
+                ", ('Preciso do seu calor Preciso dessa brasa \uD83D\uDD25\uD83D\uDE0D\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('Se não tiver presente, vai virar passado \uD83D\uDE09\uD83D\uDE18\\n(Solange Almeida)','Loading...','Frases de Músicas')\n" +
+                ", ('Pra quem tem fé a vida nunca tem fim \uD83D\uDE4F\\n(O rappa)','Loading...','Frases de Músicas')\n" +
+                ", ('Linda do jeito que é, da cabeça ao pé, do jeitinho que for. \uD83D\uDE0D\uD83D\uDE18\\n(Tiago Iorc)','Loading...','Frases de Músicas')\n" +
+                ", ('Olha o que ela faz, no baile funk com as amigas. \uD83C\uDFB6\\n(Mc Kevinho)','Loading...','Frases de Músicas')\n" +
+                ", ('Muitos vivem pra deixar bens, eu vivo pra deixar saudades… \uD83D\uDE0C\uD83D\uDE09\\n(Filipe Ret)','Loading...','Frases de Músicas')\n" +
+                ", ('Mirou na cabeça e acertou o ❤️\\n(Hungria e Lucas Lucco)','Loading...','Frases de Músicas')\n" +
+                ", ('Faz parte sentir saudade…\uD83D\uDE22\uD83D\uDE14\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Tenho tido a alegria como um dom, em cada canto vejo um lado bom. \uD83D\uDE04\uD83D\uDC4F\\n(Banda do mar)','Loading...','Frases de Músicas')\n" +
+                ", ('É melhor mexer com o fígado do que com o ❤\\n(Safadão)','Loading...','Frases de Músicas')\n" +
+                ", ('Agora ela tem alma de pipa avoada e ❤ de marguerita gelada! \uD83C\uDF78\\n(Tribo de priferia)','Loading...','Frases de Músicas')\n" +
+                ", ('A parte de você que sobrar, vai me acompanhar… \uD83D\uDE18\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('Quero a liberdade de ser quem eu sou… \uD83D\uDC4A\\n(Filipe Ret)','Loading...','Frases de Músicas')\n" +
+                ", ('Só não desiste, ta? Deus vai honrar a tua fé. \uD83D\uDE4F\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Aparência é de frágil, pra enganar o comando. \uD83D\uDE0A\uD83D\uDE18\\n(Hungria)','Loading...','Frases de Músicas')\n" +
+                ", ('Cresci tanto que já não caibo em mim. \uD83D\uDE0C\\n(Blackbird)','Loading...','Frases de Músicas')\n" +
+                ", ('É como se sentir infinito, num universo tão vasto e bonito, é saber sonhar… \uD83D\uDC4F\\n(Ana Vilela)','Loading...','Frases de Músicas')\n" +
+                ", ('A vida é um labirinto e cada um precisa achar sua direção. \uD83D\uDC4A\uD83D\uDE09\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('São energias diferentes, mas a direção é a mesma. ✌️\\n(Oriente)','Loading...','Frases de Músicas')\n" +
+                ", ('O que tenho de torta, eu tenho de feliz… \uD83D\uDE0E\uD83D\uDE04\\n(Banda do mar)','Loading...','Frases de Músicas')\n" +
+                ", ('Essa novinha é terrorista, é especialista…\uD83D\uDC4F\uD83D\uDC44\\n(Mc Kevinho)','Loading...','Frases de Músicas')\n" +
+                ", ('É mulher de postura, a verdadeira dama \uD83D\uDC44\\n(Hungria)','Loading...','Frases de Músicas')\n" +
+                ", ('Ninguém nasce sabendo , então me deixe tentar! \uD83D\uDC4F\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Malandramente…\uD83D\uDE0E\\n(Dennis e Mc’s Nandinho & Nego Bam)','Loading...','Frases de Músicas')\n" +
+                ", ('Se acomode ou se incomode \uD83D\uDC4A\\n(Filipe Ret)','Loading...','Frases de Músicas')\n" +
+                ", ('Trocou sua certeza por qualquer talvez \uD83D\uDC4C\\n(Marília Mendonça)','Loading...','Frases de Músicas')\n" +
+                ", ('Corpo de Patrícia, mente da quebrada \uD83D\uDC44\uD83D\uDE0E\\n(Tribo de periferia)','Loading...','Frases de Músicas')\n" +
+                ", ('De repente você aparece, e o ❤️ não obedece!\\n(Jorge e Mateus)','Loading...','Frases de Músicas')\n" +
+                ", ('Quando é pra acontecer Tem dia, lugar e tem ⏰\\n(Luan Santana)','Loading...','Frases de Músicas')\n" +
+                ", ('É saber se sentir infinito…Num universo tão vasto e bonito. É saber sonhar \uD83D\uDC4F✌️\\n(Ana Vilela)','Loading...','Frases de Músicas')\n" +
+                ", ('Nós só precisamos de Nós \uD83D\uDC4A\\n(Filipe Ret)','Loading...','Frases de Músicas')\n" +
+                ", ('Meu melhor amigo é \uD83D\uDE4F \uD83D\uDD95e o segundo melhor sou eu!\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Se ela cola linda varias minas se incomoda \uD83D\uDC44\\n(Costa Gold)','Loading...','Frases de Músicas')\n" +
+                ", ('Ser feliz pra mim não custa caro…\uD83D\uDE04\uD83D\uDE09\\n(Mateus e Kauan)','Loading...','Frases de Músicas')\n" +
+                ", ('Vamos curtir a noite de patroa…\uD83D\uDE0E\\n(Simone e Simaria)','Loading...','Frases de Músicas')\n" +
+                ", ('Fazer valer a pena cada verso daquele poema sobre acreditar \uD83D\uDC4A\uD83D\uDC4F\\n(Ana Vilela)','Loading...','Frases de Músicas')\n" +
+                ", ('Jeito de quem aprontou na madrugada \uD83D\uDE0C\uD83D\uDE0A\\n(Tribo de periferia)','Loading...','Frases de Músicas')\n" +
+                ", ('Ela é um disco do Nirvana de uns 20 anos atrás…\uD83D\uDE18\uD83D\uDE09\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Eu sou romance de verão, sou brisa leve passageira ✌️❤️\\n(Oriente)','Loading...','Frases de Músicas')\n" +
+                ", ('De giro com as amigas mil consciência insana \uD83D\uDE1D\\n(Tribo de periferia)','Loading...','Frases de Músicas')\n" +
+                ", ('Transpirava alegria, era dona dos seus passos \uD83D\uDC4A\\n(Maneva)','Loading...','Frases de Músicas')\n" +
+                ", ('A vida é trem-bala parceiro,..\\nE a gente é só passageiro prestes a partir.\uD83D\uDE09\\n(Ana Vilela)','Loading...','Frases de Músicas')\n" +
+                ", ('Um louco de consciência tranquila…\uD83D\uDE1C✌️\\n(Filipe Ret)','Loading...','Frases de Músicas')\n" +
+                ", ('Ela é doce, sal, bala.\uD83D\uDC44\\n(Oriente)','Loading...','Frases de Músicas')\n" +
+                ", ('Esquece da vida mas não esquece a vaidade \uD83D\uDC44\uD83D\uDC8B\\n(Tribo de periferia)','Loading...','Frases de Músicas')\n" +
+                ", ('Sem noção nenhuma do que pensa ou faz \uD83D\uDE18\uD83D\uDE0E\\n(Projota)','Loading...','Frases de Músicas')\n" +
+                ", ('Por fora é meiga, mas por dentro é traiçoeira \uD83D\uDE09\uD83D\uDE0E\\n(Tribo de periferia)','Loading...','Frases de Músicas')\n" +
+                ", ('O vento que te traz, é o mesmo vento que te leva embora… \uD83D\uDC4C\\n(Haikass)','Loading...','Frases de Músicas')\n" +
+                ", ('Eu sei que no final fica tudo bem! ✌✌\\n(Banda Eva)','Loading...','Frases de Músicas')\n" +
+                ", ('Quando pessoas viram coisas, cabeças viram degraus! \uD83D\uDE10\uD83D\uDE10\\n(Emicida)','Loading...','Frases de Músicas')\n" +
+                ", ('Deus tem um plano pra mim bem maior que eu sonhei! \uD83D\uDE4F\uD83D\uDE4F\\n(NX ZERO)','Loading...','Frases de Músicas')\n" +
+                ", ('Foca mas não sufoca \uD83D\uDC4A\\n(Mc Bin laden)','Loading...','Frases de Músicas')\n" +
+                ", ('A melhor maquiagem é o sorriso no rosto \uD83D\uDE0A\\n(Tribo de periferia)','Loading...','Frases de Músicas')\n" +
+                ", ('Vai Batalhar, tenta a sorte, Seja forte \uD83D\uDC4A\uD83D\uDE18\\n(Sabotage)','Loading...','Frases de Músicas')\n" +
+                ", ('Porque raiz sem alma é triste \uD83D\uDE09\\n(Marcelo d2)','Loading...','Frases de Músicas')\n" +
+                ", ('Firme na ação, pontual na disciplina \uD83D\uDC4A\uD83D\uDC4F\\n(Cacife clandestino)','Loading...','Frases de Músicas')\n" +
+                ", ('Peço ao Pai sabedoria para usar o dom que ele me da \uD83D\uDE4F\uD83D\uDE09\\n(Mc Sapão)','Loading...','Frases de Músicas')\n" +
+                ", ('Hoje ninguém vai estragar meu dia… \uD83D\uDE18\uD83D\uDE18\\n(Charlie Brown Jr.)','Loading...','Frases de Músicas')\n" +
+                ", ('Se não fossem os danos, não seria eu \uD83D\uDE18\uD83D\uDC4F\\n(Clarice Falcão)','Loading...','Frases de Músicas')\n" +
+                ", ('Quer saber o sentido da vida? Pra frente \uD83D\uDC4C\\n(Emicida)','Loading...','Frases de Músicas')\n" +
+                ", ('E todo dia vai ser pra sempre um recomeço..\uD83D\uDC4F\uD83D\uDC4F\\n(Fresno)','Loading...','Frases de Músicas')\n" +
+                ", ('Não importa onde estamos, nossa mente é nosso lar \uD83D\uDE09\\n(oriente)','Loading...','Frases de Músicas')\n" +
+                ", ('Não perdi nada, acabei de me livrar \uD83D\uDE18\uD83D\uDE18\\n(Marília Mendonça)','Loading...','Frases de Músicas')\n" +
+                ", ('Quem não bate, apanha \uD83D\uDC4A\\n(Flora Matos)','Loading...','Frases de Músicas')\n" +
+                ", ('Sintonize sua vibração não há tempo pra viver em vão ✌️\uD83D\uDE18\\n(Natiruts)','Loading...','Frases de Músicas')\n" +
+                ", ('Relaxa a mente, se não estressa ✌️✌️\\n(Rcionais)','Loading...','Frases de Músicas')\n" +
+                ", ('Felicidade, paz e harmonia \uD83D\uDE09\uD83D\uDC4F\\n(hori)','Loading...','Frases de Músicas')\n" +
+                ", ('Cê ama meu sorriso, eu amo seu olhar \uD83D\uDE18\uD83D\uDE18\\n(Bond da estronda)','Loading...','Frases de Músicas')\n" +
+                ", ('Às vezes nós precisamos esquecer nossa fachada e ser apenas quem somos… \uD83D\uDE09\uD83D\uDE09\\n(Alessia Cara)','Loading...','Frases de Músicas')\n" +
+                ", ('Porque até um gato preto tem mais sorte do que eu!\uD83D\uDE29\uD83D\uDE11\\n(Gato Preto)','Loading...','Frases de Músicas')\n" +
+                ", ('Se preciso for, em cada dor outra melodia! \uD83D\uDE15\uD83D\uDE15\\n(Tiago Iorc)','Loading...','Frases de Músicas')\n" +
+                ", ('Faça alguém feliz. E alguém também fará por você! \uD83D\uDE0A\uD83D\uDE09\\n(Raiz Coral)','Loading...','Frases de Músicas')\n" +
+                ", ('Nada melhor para a saúde do que um amor correspondido! \uD83D\uDC98\\n(Tom Jobim)','Loading...','Frases de Músicas')\n" +
+                ", ('Entre palavras não ditas, tantas palavras de amor… \uD83D\uDC9A\uD83D\uDC9C\\n(Tiê)','Loading...','Frases de Músicas')\n" +
+                ", ('We don’t have forever! \uD83D\uDC4C\\n(Não temos a eternidade -John Mayer)','Loading...','Frases de Músicas')\n" +
+                ", ('Não vou gritar a felicidade, a inveja tem um sono leve, não quero para perto de mim! \uD83D\uDC81\\n(Ponto de Equilíbrio)','Loading...','Frases de Músicas');";
+        return frase;
+    }
+    public static String carregarFrases18() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Porque meus dias mais bonitos, são com você\uD83D\uDC4F☺️','Loading...','Status para Namorado')\n" +
+                ", ('Eu enfrentaria o mundo todo com uma só mão, se você me prometesse que estaria segurando a outra\uD83D\uDC6B\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('E que o tempo seja eterno quando se tratar de nós dois \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Eu só sei que a vida, é mais colorida com você \uD83D\uDE1A\uD83D\uDE0D (Jorge e Mateus)','Loading...','Status para Namorado')\n" +
+                ", ('Eu não preciso de mil motivos para sorrir, você já é o suficiente\uD83D\uDE0A\uD83D\uDE04','Loading...','Status para Namorado')\n" +
+                ", ('Tudo simplesmente melhora quando estamos perto das pessoas certas \uD83D\uDC91❤️','Loading...','Status para Namorado')\n" +
+                ", ('A felicidade do seu coração será sempre minha primeira preocupação. Te amo \uD83D\uDE0A❤️','Loading...','Status para Namorado')\n" +
+                ", ('Agora eu sei o que é o amor e todas as maravilhas que ele proporciona. Te adoro, meu bem \uD83D\uDE0D\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Algumas pessoas a gente conhece, outras Deus nos apresenta\uD83D\uDE4F❤️','Loading...','Status para Namorado')\n" +
+                ", ('É com você que quero passar a acreditar em felizes para sempre\uD83D\uDC8F\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Dizem que depois da tempestade vem a calmaria… No meu caso, veio você \uD83D\uDC6B❤️','Loading...','Status para Namorado')\n" +
+                ", ('E se eu falar que você é tudo que eu sempre quis pra ser feliz? \uD83D\uDE03\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('A sua loucura parece um pouco com a minha\uD83D\uDE1C\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('É que você tem aquele olhar dos sonhos \uD83D\uDE0D\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Você é aquela pessoa que todo alguém queria ter do lado \uD83D\uDC91\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('E a vida sorriu quando você chegou \uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Feitos um pro outro, feitos pra durar \uD83D\uDC8F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Ela o chamava de anjo. Ele a protegia como um\uD83D\uDE0D\uD83D\uDE07','Loading...','Status para Namorado')\n" +
+                ", ('Roubar você pra mim é um crime que compensa\uD83D\uDE09\uD83D\uDE1A','Loading...','Status para Namorado')\n" +
+                ", ('E que vire rotina, acordar todos os dias com você do meu lado \uD83D\uDC91❤️','Loading...','Status para Namorado')\n" +
+                ", ('Entre todas as histórias, a nossa. Entre todos os casais, nós dois. Entre todos os sorrisos, o seu\uD83D\uDE03\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Faz do meu sorriso seu sorriso, do meu abraço seu abrigo\uD83D\uDE18❤️','Loading...','Status para Namorado')\n" +
+                ", ('Se tiver nós dois, pra mim já é o suficiente\uD83D\uDC6B\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Se for pra ser feliz, que seja com você \uD83D\uDC8F\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Ter escolhido você foi a minha melhor escolha ❤️\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Deus sabia exatamente o que estava fazendo, quando me fez encontrar você \uD83D\uDE4C❤️','Loading...','Status para Namorado')\n" +
+                ", ('Eu fiz de você meu mundo, quando percebi, não me imaginava vivendo sem você \uD83D\uDE0D☺️','Loading...','Status para Namorado')\n" +
+                ", ('Você coloca minha felicidade em dia \uD83D\uDE06\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Toda noite eu peço pra Deus cuidar da gente \uD83D\uDE4F\uD83D\uDC91','Loading...','Status para Namorado')\n" +
+                ", ('Querido Deus, a única coisa que peço a você é que cuide dele enquanto eu não estiver por perto \uD83D\uDE4F❤️','Loading...','Status para Namorado')\n" +
+                ", ('Antes era eu, agora somos nós \uD83D\uDC8F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('E no meio de tanta bagunça, você é minha tranquilidade \uD83D\uDE18☺️','Loading...','Status para Namorado')\n" +
+                ", ('Frases para Dia dos Namorados\\nTodos precisam de amor. Eu, preciso do teu amor \uD83D\uDE0D❤️','Loading...','Status para Namorado')\n" +
+                ", ('Agradeço todos os dias por Deus ter cruzado nossos caminhos \uD83D\uDE4F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Porque eu te amo todos os dias, cada vez mais ❤️','Loading...','Status para Namorado')\n" +
+                ", ('E nada me faz tão feliz do que ver ele sorrindo para mim.\uD83D\uDE00\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Você é o capítulo mais lindo que o destino escreveu no meu livro \uD83D\uDE0D\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('É que você é importante na minha vida e deixa os meus dias melhores! ☺','Loading...','Status para Namorado')\n" +
+                ", ('Eu cuido de você, você cuida de mim e Deus cuidará de nós… \uD83D\uDE4F❤','Loading...','Status para Namorado')\n" +
+                ", ('Você me faz lembrar como eu tenho sorte! ✌\uD83D\uDE19','Loading...','Status para Namorado')\n" +
+                ", ('Felicidade é saber que eu tenho o seu amor \uD83D\uDC4F❤️','Loading...','Status para Namorado')\n" +
+                ", ('E foi com você que os meus sonhos em oração vieram a se transformar em futuro próximo \uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Porque o meu coração é mais seu do que meu ❤️\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Não há alguém que me faça tão bem como você me faz \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Fazer do seu sorriso um abrigo \uD83D\uDE04\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('E mais nada, nem ninguém a não ser você… \uD83D\uDE18\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Deixa eu ser pra você tudo aquilo que você é pra mim \uD83D\uDE09\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Não há um dia sequer que eu não deseje estar ao seu lado \uD83D\uDE18\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Você é o que faltava em minha vida \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Se eu não tivesse te encontrado eu juro que te procurava… \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Meu sorriso tem seu nome \uD83D\uDE04\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Que Deus cuide sempre do nosso amor\uD83D\uDC46❤️','Loading...','Status para Namorado')\n" +
+                ", ('Seu sorriso vale mais que um diamante \uD83D\uDE04\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Do nosso amor a gente é que sabe \uD83D\uDC8F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Meu presente, meu futuro… Quero viver com você \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Tô correndo um risco sério de viver pra sempre com você \uD83D\uDE09\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('O que a gente sente, ninguém tem nada a ver ❤️\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Cada dia o amor ganha mais vida ❤️\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Precioso é seu sorriso, então te faço sorrir \uD83D\uDE04\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Eu escolhi você; e continuo escolhendo você todos os dias \uD83D\uDE0A\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('O que Deus uniu, ninguém vai separar \uD83D\uDC46\uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Aquele seu abraço apertado tem som de eu te amo ❤️❤️','Loading...','Status para Namorado')\n" +
+                ", ('Escolha muito bem com quem dividir energias, Tem gente que soma e tem gente que suga \uD83D\uDC4C\uD83D\uDE20','Loading...','Frases Pensativas')\n" +
+                ", ('A vida não é só feita de vitórias, temos que aprender a aguentar a tempestade ☁️','Loading...','Frases Pensativas')\n" +
+                ", ('As vezes, coisas boas dão errado pra que coisas melhores possam dar certo…✌️','Loading...','Frases Pensativas')\n" +
+                ", ('Ela já foi muito magoada, por isso magoa sem dó \uD83D\uDE20','Loading...','Frases Pensativas')\n" +
+                ", ('Ficar sozinho é necessário às vezes. Afasta problemas, pessoas e decepções \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Nunca olhe para trás, siga sempre em frente','Loading...','Frases Pensativas')\n" +
+                ", ('Ela esqueceu todo mundo, agora vive por ela, e quem quiser que acompanhe o novo jeito dela \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases Pensativas')\n" +
+                ", ('Mas o mundo é tão pequeno, para as vontades que eu venho tendo…\uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('O que você me deseja, eu desejo em dobro! \uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Se escolheu a chuva, terá que enfrentar a lama também ☁️','Loading...','Frases Pensativas')\n" +
+                ", ('A vida é totalmente imprevisível, você cria vários sonhos mas ela te arrasta pra onde quer \uD83D\uDE0C','Loading...','Frases Pensativas')\n" +
+                ", ('Eu mudei tanto, de uns tempos pra cá…\uD83D\uDE0C','Loading...','Frases Pensativas')\n" +
+                ", ('Tão inteligente para escrever sobre o amor, e tão burra para amar \uD83D\uDC94','Loading...','Frases Pensativas')\n" +
+                ", ('A maldade do mundo te fez ser durona…\uD83D\uDC4A\uD83D\uDE20','Loading...','Frases Pensativas')\n" +
+                ", ('Ela gosta de ser protegida, mas não gosta de ser mandada \uD83D\uDE20\uD83D\uDE18','Loading...','Frases Pensativas')\n" +
+                ", ('O \uD83D\uDC84dela mata mais que uma pistola…','Loading...','Frases Pensativas')\n" +
+                ", ('Essa mina é bagaceira…❤️ puro mais a mente é maloqueira','Loading...','Frases Pensativas')\n" +
+                ", ('Faço melhor papel de vilã, do que de otária \uD83D\uDC4A\uD83D\uDE20','Loading...','Frases Pensativas')\n" +
+                ", ('Ela é tipo nicotina, pra quem fuma…\uD83D\uDEAC','Loading...','Frases Pensativas')\n" +
+                ", ('Sonhos determinam o que você quer. Ações determinam o que você conquista \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Pensativas')\n" +
+                ", ('Se for pra se sentir sozinha no meio de um monte de gente, eu prefiro ficar sozinha, literalmente \uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Mas o mundo da voltas e nas voltas que o mundo dá, você teve que me aceitar \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases Pensativas')\n" +
+                ", ('Se eu quisesse tantas opiniões sobre o jeito que vivo, a vida seria dos outros, e não minha \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases Pensativas')\n" +
+                ", ('De gente falsa do meu lado eu não preciso…\uD83D\uDE20','Loading...','Frases Pensativas')\n" +
+                ", ('Sou as minhas atitudes, os meus sentimentos e as minhas idéias…\uD83D\uDE0C\uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Histórias fáceis, não costumam virar lenda…\uD83D\uDE09','Loading...','Frases Pensativas')\n" +
+                ", ('Pra ter sua companhia, só se ela simpatizar…\uD83D\uDC44','Loading...','Frases Pensativas')\n" +
+                ", ('Se não quiser ficar só, cuide dela bem melhor \uD83D\uDC4A','Loading...','Frases Pensativas')\n" +
+                ", ('Ela é simples. Marrenta, difícil de lidar, de conviver, de amar \uD83D\uDC4C\uD83D\uDE0C','Loading...','Frases Pensativas')\n" +
+                ", ('Nem todos os sentimentos demostrados valem a pena \uD83D\uDC4A\uD83D\uDC94','Loading...','Frases Pensativas')\n" +
+                ", ('Me julgar pelo o que você vê e pensa não vai te fazer melhor do que eu! \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Pensativas')\n" +
+                ", ('Perfeita na medida, para acabar com sua vida…\uD83D\uDE20','Loading...','Frases Pensativas')\n" +
+                ", ('Eu faço do meu jeito, se te incomoda é porque funciona \uD83D\uDC4A','Loading...','Frases Pensativas')\n" +
+                ", ('Ela é um abismo, poucos se arriscam \uD83D\uDC44\uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Faz bom uso da razão, de tanto sofrer cansou de dar condição \uD83D\uDE20\uD83D\uDC94','Loading...','Frases Pensativas')\n" +
+                ", ('Ela é assim toda na dela, na hora certa, ela se entrega \uD83D\uDE18\uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Cada um vai colher o que plantou, porque raiz sem alma é triste \uD83D\uDC4A','Loading...','Frases Pensativas')\n" +
+                ", ('Menina tipo classe A, fechada na doutrina, firme na ação, pontual na disciplina \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases Pensativas')\n" +
+                ", ('Dentro dela faz inverno o tempo inteiro \uD83D\uDE0C','Loading...','Frases Pensativas')\n" +
+                ", ('Mudei o padrão, blindei meu ❤️','Loading...','Frases Pensativas')\n" +
+                ", ('Ela tem esse jeito de ser brisa, mas só quem à conhece sabe que ela é um temporal \uD83C\uDF43','Loading...','Frases Pensativas')\n" +
+                ", ('O mal não me atinge, o nada não me abala…\uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases Pensativas')\n" +
+                ", ('Minha conduta é pura, e meus valores eu não coloco em disputa…\uD83D\uDC4A','Loading...','Frases Pensativas')\n" +
+                ", ('Existem dois tipos de pessoas: as que falam pra você ficar bem e as que fazem você se sentir bem. Você faz parte do segundo tipo! ❤','Loading...','Frases para Primas')\n" +
+                ", ('Nível de cumplicidade  Falar com um olhar! \uD83D\uDE09\uD83D\uDE06','Loading...','Frases para Primas')\n" +
+                ", ('Prima: irmã, amiga, companheira e mais mil e uma utilidades! \uD83D\uDE18\uD83D\uDC6D','Loading...','Frases para Primas')\n" +
+                ", ('Sim você é muito mais que uma prima pra mim, você é minha prima-amiga-irmã-confidente-em fim tudo! \uD83D\uDE1C\uD83D\uDE06','Loading...','Frases para Primas')\n" +
+                ", ('Ela não é linda? tem a quem puxar \uD83D\uDE06','Loading...','Frases para Primas')\n" +
+                ", ('Brigam por qualquer razão, mas acabam pedindo perdão! \uD83D\uDE0A','Loading...','Frases para Primas')\n" +
+                ", ('Amor que não se mede \uD83D\uDC95','Loading...','Frases para Primas')\n" +
+                ", ('Niguém merece, só eu! \uD83D\uDE1C','Loading...','Frases para Primas')\n" +
+                ", ('Amiga e prima, combinação perfeita. \uD83D\uDE09\uD83D\uDC6D','Loading...','Frases para Primas')\n" +
+                ", ('Agente briga, quase se mata , mas o amor nunca acaba ❤\uD83D\uDE06\uD83D\uDE16','Loading...','Frases para Primas')\n" +
+                ", ('Mais que uma prima, minha amiga, minha irmã ❤\uD83D\uDC4A','Loading...','Frases para Primas')\n" +
+                ", ('Primas por destino, amigas por opção \uD83D\uDC4A\uD83D\uDC6D','Loading...','Frases para Primas')\n" +
+                ", ('Prima: Tá no sangue, a gente se entende! \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases para Primas')\n" +
+                ", ('Melhor amiga, melhor prima! \uD83D\uDC6D\uD83D\uDE18','Loading...','Frases para Primas')\n" +
+                ", ('Aquela prima, incomparável \uD83D\uDC69❤','Loading...','Frases para Primas')\n" +
+                ", ('A MELHOR prima do mundo, sou eu que tenho! \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases para Primas')\n" +
+                ", ('Prima: Minha cúmplice \uD83D\uDC6D','Loading...','Frases para Primas')\n" +
+                ", ('Shops com ela, é tudo de bom! \uD83D\uDE0E\uD83D\uDC4D\uD83D\uDC6D','Loading...','Frases para Primas')\n" +
+                ", ('Os únicos que me suportam \uD83D\uDE1D','Loading...','Frases para Primas')\n" +
+                ", ('Nossas caras&bocas \uD83D\uDE1D\uD83D\uDE1C\uD83D\uDE06','Loading...','Frases para Primas')\n" +
+                ", ('Eu não existo longe de vocês ❤\uD83D\uDE0A','Loading...','Frases para Primas')\n" +
+                ", ('Arroz do meu feijão \uD83D\uDE04\uD83D\uDE0A','Loading...','Frases para Primas')\n" +
+                ", ('Tudo farinha do mesmo saco \uD83D\uDE1C\uD83D\uDE1D','Loading...','Frases para Primas')\n" +
+                ", ('Os mais loucos, porém, são os melhores \uD83D\uDE1C\uD83D\uDE18','Loading...','Frases para Primas')\n" +
+                ", ('Mais que especial,, você é ESSENCIAL! \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases para Primas')\n" +
+                ", ('Nascemos primas, mas fomos além…❤\uD83D\uDC6D','Loading...','Frases para Primas')\n" +
+                ", ('Com ela a diversão é garantida \uD83D\uDE1D','Loading...','Frases para Primas')\n" +
+                ", ('Ela faz parte da minha história \uD83D\uDE06','Loading...','Frases para Primas')\n" +
+                ", ('Sangue do meu sangue \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases para Primas')\n" +
+                ", ('Te amo mais qe xocolâte quente ❤☕','Loading...','Frases para Primas')\n" +
+                ", ('Sorrir contagia, sorrir te deixa leve. Sorria mesmo, até quando não deve…\uD83D\uDE04\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('O sorriso dela é único, sincero é de outro mundo \uD83D\uDC44\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Pra que sofrer? Tem que tacar logo um sorriso no rosto e viver \uD83D\uDE04\uD83D\uDE0E','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Olhando no meu rosto só vê sorriso  e dentro do meu peito só tem amor \uD83D\uDE04❤️','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('A melhor maquiagem é o sorriso no rosto…\uD83D\uDC44','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ficar sorrindo a toa. Sorrir pra qualquer pessoa \uD83D\uDE03\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Basta um sorriso dela pra você ficar feliz… \uD83D\uDE04\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Então vamos sorrir e celebrar tudo que há de bom \uD83D\uDC4F\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Apesar de tudo vou viver sorrindo… \uD83D\uDC4F\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('De riso em riso a gente chega ao paraíso \uD83D\uDE04\uD83D\uDE03','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Brilhando em vida, sorrindo à toa ✌️\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Que o verão no seu sorriso nunca acabe ☀️\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Descreve ser feliz mais com outro gosto \uD83D\uDE0E\uD83D\uDC44','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Eu ando sorrindo pra vida e ela sorrindo pra mim \uD83D\uDE0E\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Nós só precisamos de nós \uD83D\uDE18\uD83D\uDE03','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Não temer, só sorrir \uD83D\uDE09\uD83D\uDE03','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Nunca reclamar, só agradecer \uD83D\uDE4F\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Se te faz sorrir, é porque te faz bem. \uD83D\uDC4F✌️','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorria! Isso confunde quem não quer lhe ver bem… \uD83D\uDE0A\uD83D\uDE04\uD83D\uDC4C','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('E se a felicidade bater, apanhe! \uD83D\uDC4A\uD83D\uDE02','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Felicidade é quando a boca é pequena demais pro tamanho do sorriso que sua alma quer dar!\uD83D\uDE04\uD83D\uDE00\uD83D\uDE06','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorria, pois amanhã é um novo dia \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Menina risonha, que ri e que sonha \uD83D\uDE04\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Vista seu melhor sorriso e se jogue no mundo \uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorria mesmo sem motivo \uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Seu sorriso vale mais que um diamante \uD83D\uDE04\uD83D\uDC8D','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Feliz por nada … ou por tudo \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ria, que sorrir é bem melhor do que se pensa… Quanto mais a gente ri, mais a vida recompensa \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Não há alegria maior do que sentir a presença de Deus no coração ❤️\uD83D\uDC46','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Não viva em vão, viva pra ser feliz\uD83D\uDE04\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sem metas, quero apenas felicidade \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Felicidade tem sorriso largo, coração tranquilo e alma serena \uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Felicidade é quando a sua liberdade te preenche \uD83D\uDE09\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Felicidade não se expõe, se vive \uD83D\uDE18\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Que minha única mania seja sorrir, e meu único vício a felicidade \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Felicidade contagia, então seja feliz \uD83D\uDE04\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Você vai rir sem perceber, felicidade é só questão de ser \uD83D\uDE04\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Você não sabe, mas é capaz de vencer o mundo sorrindo \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('E quem é feliz, faz feliz os outros \uD83D\uDE04\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Só escolhi ser feliz \uD83D\uDC4F✌️','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('ser feliz me consome \uD83D\uDE04\uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Próxima parada é a felicidade \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Morena linda, do sorriso mais lindo ainda \uD83D\uDE04\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorrir torna a vida mais bonita \uD83D\uDE0A\uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('A vida me ensinou que chorar alivia, mas sorrir torna tudo mais bonito \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('E que os motivos pra sorrir, sejam maiores do que os pra chorar \uD83D\uDE04\uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('O sorriso dela é único, atraente, sincero é de outro mundo \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Tem que tacar logo um sorriso no rosto e viver \uD83D\uDE04\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('A curva mais linda de uma mulher é o sorriso \uD83D\uDE04\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ela é do sorriso fácil, marrenta, sem destino \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('O sorriso custa menos que a eletricidade e dá muito mais luz… \uD83D\uDE04\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ser feliz é de graça, fica triste quem quer!\uD83D\uDC4C\uD83D\uDE43\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Se é pra ser feliz, não tenha calma. Sorria até com a alma!☺\uD83D\uDE1C','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Enfeite-se de alegrias!\uD83D\uDC85\uD83D\uDE03\uD83D\uDE01','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('A felicidade me guia!✌✌','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ela é de sorriso fácil!\uD83D\uDE0A☺☺','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Vá ser feliz, não dê atenções exageradas para as dores, não perca tempo revirando o baú do passado, o caminho bonito é o da ida!\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Apague com um sorriso toda a tristeza que lhe invade a alma!\uD83D\uDE04\uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Fui ser feliz e não volto!\uD83D\uDE18\uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Momentos felizes merecem hora extra!⏰⌚\uD83D\uDE1D','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Aprendi a ser feliz quando percebi que ficar triste é perda de tempo!\uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Só é feliz quem sabe o que quer!\uD83D\uDC4C\uD83D\uDE1B','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('A vida é feita de escolhas, a minha foi ser feliz todos os dias‼','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ser feliz, sorrir e acreditar!✌\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Não viva em vão, viva pra ser feliz!\uD83D\uDC4C\uD83D\uDE06\uD83D\uDE0B','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('E quem é feliz, faz feliz os outros!\uD83D\uDE09\uD83D\uDE19','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Felicidade não se expõe, se vive!\uD83D\uDC4C\uD83D\uDE1A\uD83D\uDE0E','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorrir contagia, sorrir te deixa leve. Sorria mesmo, até quando não deve… \uD83D\uDE04\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorriso fácil, despreocupado… \uD83D\uDE0E\uD83D\uDE00','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Quero longe de mim tudo que me impede de sorrir! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Transpirava alegria, era dona dos seus passos! \uD83D\uDE1A\uD83D\uDE18','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorria! É só um mal dia, não uma vida má! \uD83D\uDC4D\uD83D\uDC4D','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Feliz por nada… ou por tudo! ☺\uD83D\uDE02','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Não choro mais, agora sorrio, só rio, sou rio, mergulha em mim… \uD83D\uDE0E\uD83D\uDE0F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('No fundo é simples ser feliz, difícil é ser simples! \uD83D\uDC4C','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Moça de alma colorida, pintou as suas dores com tintas e plantou flores em suas feridas… \uD83C\uDF37\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Se benze, porque a sua felicidade vai ofender muita gente! \uD83D\uDE4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Make your own happiness your priority!✌✌ (Faça da sua própria felicidade a sua prioridade).>','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Apaixonada pela vida! ❤','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Que sorriso, a paz e o amor te acompanhe onde você esteja! \uD83D\uDC98\uD83D\uDE0A\uD83D\uDC4F','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ser feliz até onde der, Até onde puder, Sem adiar… Ser feliz o tanto que durar! ✌✌\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Mas agora ela é livre pra rir do que é ruim, e chorar só se for de feliz! \uD83D\uDE0E','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Fui buscar amor e já tinha, fui tentar ser feliz e já era! \uD83D\uDE18\uD83D\uDE1A\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorriso sincero é aquele que você não consegue controlar! \uD83D\uDE06\uD83D\uDE06\uD83D\uDE06','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Coloque ser feliz no topo da sua lista de prioridades! \uD83D\uDC46✌\uD83D\uDE03','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Meu sorriso tem seu nome! \uD83D\uDE0A\uD83D\uDE0D','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Agarre o que te faz feliz e não solte! \uD83D\uDC4F\uD83D\uDE0B','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Cada sorriso, cada lágrima me fez crescer… \uD83D\uDC4D\uD83D\uDE09','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Marrenta, difícil de lidar, mais com um sorriso que é impossível não se apaixonar… \uD83D\uDC81\uD83D\uDE04\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('E como de costume, ela achou melhor sorrir… \uD83D\uDE04','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('O sorriso mais bonito é aquele que vem do nada, solto, livre e sincero! \uD83D\uDE06\uD83D\uDE0B\uD83D\uDE0A','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Sorriso doce que faz apaixonar…. ☺\uD83D\uDE0D','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('I feel so good today. ( Me sinto tão bem hoje..) ✌\uD83D\uDE03','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Quem me ver, vai me ver sorrindo e vai ser sempre assim! \uD83D\uDE06','Loading...','Frases para fotos sorrindo')\n" +
+                ", ('Ela resolveu viver como flor, se colorir sozinha !\uD83C\uDF3B\uD83D\uDE0A','Loading...','Frases  Sozinha')\n" +
+                ", ('Velhas rotas não traçam novos caminhos!\uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases  Sozinha')\n" +
+                ", ('Menina risonha, que ri e que sonha! \uD83D\uDC81\uD83D\uDC81','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela é de sorriso fácil, marrenta sem destino…\uD83D\uDC4A','Loading...','Frases  Sozinha')\n" +
+                ", ('Nada é errado se te faz feliz \uD83D\uDE09\uD83D\uDE18','Loading...','Frases  Sozinha')\n" +
+                ", ('\uD83D\uDE0C\uD83C\uDF42\uD83D\uDC4F\uD83C\uDFFB \uD83C\uDF43\uD83D\uDC9E Eu Posso Ter O Defeito Que For, Mas Sei Da Valor a Quem Merece','Loading...','Frases  Sozinha')\n" +
+                ", ('Idade não define Maturidade, Assim como Beleza não define Conteúdo','Loading...','Frases  Sozinha')\n" +
+                ", ('\uD83C\uDF43\uD83D\uDC9E Quem muito escolhe um dia vira opção...\uD83D\uDE34\uD83D\uDE0C\uD83C\uDF40\uD83D\uDC98✌\uD83C\uDFFB\uD83C\uDF43.','Loading...','Frases  Sozinha')\n" +
+                ", ('Sorrir faz bem, amar também!❤','Loading...','Frases  Sozinha')\n" +
+                ", ('Quem tem mais ego do que personalidade, também tem mais imagem do que essência\uD83C\uDF3C\uD83C\uDF38','Loading...','Frases  Sozinha')\n" +
+                ", ('Se não for pedir muito, não seja tão pouco… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases  Sozinha')\n" +
+                ", ('Tão forte por fora. Tantas confusões por dentro… \uD83D\uDE15\uD83D\uDE15','Loading...','Frases  Sozinha')\n" +
+                ", ('Se afogue num mar de amor, e morra de felicidade \uD83C\uDF0A❤️','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela não é fogo, ela é um incêndio todo \uD83D\uDE18\uD83D\uDE18','Loading...','Frases  Sozinha')\n" +
+                ", ('Tinha dia que não era de sorrir, mas eu sorria. Só pra não dar chance à tristeza. Só por teimosia! \uD83D\uDE0A\uD83D\uDE06','Loading...','Frases  Sozinha')\n" +
+                ", ('A vida é um eco, você recebe o que emite! \uD83D\uDE09','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela era esperta demais para ficar infeliz por muito tempo! \uD83D\uDC81','Loading...','Frases  Sozinha')\n" +
+                ", ('A lei do retorno não falha..\uD83D\uDC4C','Loading...','Frases  Sozinha')\n" +
+                ", ('Ocupe-se, mente vazia atrai lembranças! ✌\uD83D\uDE09','Loading...','Frases  Sozinha')\n" +
+                ", ('Seja como as flores, a cada primavera renove-se \uD83D\uDC4F ','Loading...','Frases  Sozinha')\n" +
+                ", ('Sorria, faz bem pra alma e contagia \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases  Sozinha')\n" +
+                ", ('O mundo não dá voltas em vão \uD83D\uDC4F','Loading...','Frases  Sozinha')\n" +
+                ", ('Que seus sonhos sejam maiores que seus medos! \uD83D\uDC4F\uD83D\uDCAA','Loading...','Frases  Sozinha')\n" +
+                ", ('Chorar litros, sorrir mares!\uD83D\uDE2D\uD83D\uDE06\uD83D\uDE06','Loading...','Frases  Sozinha')\n" +
+                ", ('E que o tempo leve de mim somente aquilo que me faz mal… \uD83D\uDC4A\uD83D\uDC49','Loading...','Frases  Sozinha')\n" +
+                ", ('Tudo depende da importância que você dá… \uD83D\uDC4C\uD83D\uDE01','Loading...','Frases  Sozinha')\n" +
+                ", ('A vida é pra todos , mas poucos vivem ela! \uD83D\uDE0E\uD83D\uDE0E','Loading...','Frases  Sozinha')\n" +
+                ", ('Livra-me, Senhor, de tudo aquilo que for vazio de amor! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela é um diamante em meio a esse monte de bijuteria!! \uD83D\uDC8E\uD83D\uDC8E','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela tipo cafeína pura, uma mistura de rotina com um pouco de adrenalina e aventura! \uD83D\uDE3C\uD83D\uDE3C','Loading...','Frases  Sozinha')\n" +
+                ", ('Desencana que a vida engana! \uD83D\uDE0B','Loading...','Frases  Sozinha')\n" +
+                ", ('O universo conspira a favor de quem não conspira conta ninguém… \uD83D\uDE18','Loading...','Frases  Sozinha')\n" +
+                ", ('Difícil eu ser romântica, meu ego é do tamanho do oceano atlântico! \uD83D\uDC81\uD83D\uDE18','Loading...','Frases  Sozinha')\n" +
+                ", ('Capaz de se jogar no mundão sem noção nenhuma do que pensa ou faz… \uD83D\uDE0E\uD83D\uDE0B','Loading...','Frases  Sozinha')\n" +
+                ", ('O medo de arriscar é o que te impede de evoluir. \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases  Sozinha')\n" +
+                ", ('Nenhuma verdade me machuca, nenhum motivo me corrói… ✌✌','Loading...','Frases  Sozinha')\n" +
+                ", ('Quem não sabe o que quer, perde o que tem! \uD83D\uDC4A','Loading...','Frases  Sozinha')\n" +
+                ", ('A mina é direita, só ta meio perdida… Culpa de uns otários que passaram na tua vida… \uD83D\uDE10','Loading...','Frases  Sozinha')\n" +
+                ", ('Cresça independente do que aconteça! ✌✌\uD83D\uDC4C','Loading...','Frases  Sozinha')\n" +
+                ", ('E ela se tornou mais fria que o inverno… \uD83D\uDE14\uD83D\uDE22','Loading...','Frases  Sozinha')\n" +
+                ", ('Que ironia.. Acontecia uma guerra dentro dela e ela sorria! \uD83D\uDE1D\uD83D\uDE1D','Loading...','Frases  Sozinha')\n" +
+                ", ('Uma hora a gente cansa e, por fim, desencanta… \uD83D\uDC4A','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela nem sabe a inveja que faz, ela é tão ela e as outras todas iguais… \uD83D\uDE18\uD83D\uDE1A','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela é o mistério da noite, mas também a luz dia. É capaz de ser poeta e ao mesmo tempo ser poesia‼','Loading...','Frases  Sozinha')\n" +
+                ", ('Quase sempre é muito cedo pra ser tarde demais… ⏰⏰⏳','Loading...','Frases  Sozinha')\n" +
+                ", ('Quero paz, tranquilidade, tudo aquilo que me faça bem de verdade! ✌✌\uD83D\uDE0E','Loading...','Frases  Sozinha')\n" +
+                ", ('Nem sempre o desejado, é tudo que todos querem, nem todos que tudo querem, vivem do jeito que querem… ‼','Loading...','Frases  Sozinha')\n" +
+                ", ('Mas hoje é tipo assim, tanto faz pra você e tanto faz pra mim! \uD83D\uDE09\uD83D\uDEAB','Loading...','Frases  Sozinha')\n" +
+                ", ('Não chora se der conta da minha ausência, ainda tô viva dentro da sua consciência! \uD83D\uDE1A\uD83D\uDE1A','Loading...','Frases  Sozinha')\n" +
+                ", ('O problema é que a gente mergulha fundo em amores rasos… \uD83D\uDC94\uD83D\uDC94','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela é tipo cocaína, te alucina, te instiga e faz você sempre querer mais.! \uD83D\uDE0D','Loading...','Frases  Sozinha')\n" +
+                ", ('A vida é como uma rosa, cada pétala um sonho, cada espinho uma realidade! \uD83C\uDF39','Loading...','Frases  Sozinha')\n" +
+                ", ('Essa mina é casca dura, não é qualquer um que atura… \uD83D\uDE19\uD83D\uDE0E','Loading...','Frases  Sozinha')\n" +
+                ", ('Estou deixando pra lá. O que quiser ficar, que fique. O que quiser ir, que suma logo!! \uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases  Sozinha')\n" +
+                ", ('Desanima agora não, ainda tem muita coisa pra acontecer, o mundo vai girar e tudo vai se acertar! \uD83D\uDC4D\uD83D\uDC4D','Loading...','Frases  Sozinha')\n" +
+                ", ('Meiga pra cacete, grossa na mesma intensidade! \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases  Sozinha')\n" +
+                ", ('Apenas seguir em frente… Primeiro, porque nenhum amor deve ser mendigado. Segundo, porque todo amor deve ser recíproco! \uD83D\uDC4D\uD83D\uDC97','Loading...','Frases  Sozinha')\n" +
+                ", ('Deixe que o beijo dure, deixe que o tempo cure… \uD83D\uDC8B\uD83D\uDC8B','Loading...','Frases  Sozinha')\n" +
+                ", ('Nem sempre aquilo que agrada seus olhos, vai agradar seu coração… \uD83D\uDE2C','Loading...','Frases  Sozinha')\n" +
+                ", ('Tento todo dia me convencer de que certos afastamentos, por mais dolorosos que sejam, servem para evitar dores maiores. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela engana de menina moça, mas tem o seu lado devassa… \uD83D\uDE07\uD83D\uDE08','Loading...','Frases  Sozinha')\n" +
+                ", ('Releva, porque o que não faz bem pra mente o tempo leva! \uD83D\uDC4C','Loading...','Frases  Sozinha')\n" +
+                ", ('Já foi muito magoada, por isso mágoa sem dó. \uD83D\uDC4A\uD83D\uDC4A','Loading...','Frases  Sozinha')\n" +
+                ", ('Essa mina é diferente, outra vibe, outro clima, outro pique! \uD83D\uDC83\uD83D\uDC83','Loading...','Frases  Sozinha')\n" +
+                ", ('Corpo de mulher, rostinho de menina, linda arrumada e cheirosa faz qualquer vagabundo entrar na linha‼','Loading...','Frases  Sozinha')\n" +
+                ", ('Ela sorri e parece alegre, ela parece confiante, mas por dentro é tudo uma confusão… \uD83D\uDE06\uD83D\uDE16','Loading...','Frases  Sozinha')\n" +
+                ", ('Chora agora, ri depois! \uD83D\uDE09\uD83D\uDE18','Loading...','Frases  Sozinha');";
+        return frase;
+    }
+    public static String carregarFrases19() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Não se preocupe. As melhores pessoas sempre carregam alguma cicatriz. (A escolha)','Loading...','Frases de Livros')\n" +
+                ", ('Só é possível fugir do passado quando se encontra algo melhor. (O melhor de mim)','Loading...','Frases de Livros')\n" +
+                ", ('O amor gera curas milagrosas. (Pensamento poderosos)','Loading...','Frases de Livros')\n" +
+                ", ('Entenda os seus medos, mas jamais deixe que eles sufoquem os seus sonhos. - Alice no País das Maravilhas','Loading...','Frases de Livros')\n" +
+                ", ('Esqueça essa história de querer entender tudo. Em vez disso, viva. (Faça seu coração vibrar)','Loading...','Frases de Livros')\n" +
+                ", ('Prefiro correr atrás do sol a esperar que ele venha incidir sobre mim. (Eu Sou o Mensageiro) ','Loading...','Frases de Livros')\n" +
+                ", ('O mundo gira. Nenhuma tristeza é tão eterna que não deixa um espacinho para a felicidade. (Não se apega não)','Loading...','Frases de Livros')\n" +
+                ", ('Ser feliz é uma responsabilidade muito grande. Pouca gente tem coragem. (Um sopro de vida)','Loading...','Frases de Livros')\n" +
+                ", ('Não adianta se entregar aos sonhos se você se esquece de viver. (Harry Potter)','Loading...','Frases de Livros')\n" +
+                ", ('Passei a vida tentando corrigir os erros que cometi na minha ânsia de acertar. (Clarice Lispector)','Loading...','Frases de Livros')\n" +
+                ", ('Bom, às vezes a vida é dura, mas eu tenho muita coisa para agradecer. (A Cabana)','Loading...','Frases de Livros')\n" +
+                ", ('É claro que os sentimentos mudam. As pessoas fazem com que isso aconteça. (Querido John)','Loading...','Frases de Livros')\n" +
+                ", ('A maioria das pessoas perdeu a habilidade de ver o lado bom das coisas. (O lado bom da vida)','Loading...','Frases de Livros')\n" +
+                ", ('Quem interfere no destino dos outros, nunca descobrirá o seu. (O Alquimista)','Loading...','Frases de Livros')\n" +
+                ", ('Quem controla o tempero, controla o mundo. (Duna – Frank Herbert)','Loading...','Frases de Livros')\n" +
+                ", ('Só porque você acredita firmemente numa coisa não significa que ela seja verdadeira. (A Cabana)','Loading...','Frases de Livros')\n" +
+                ", ('Qualquer pessoa pode se transformar em algo belo. (A linguagem das flores)','Loading...','Frases de Livros')\n" +
+                ", ('Minha religião é você. Você é tudo quanto tenho no mundo. (Adeus às Armas) ','Loading...','Frases de Livros')\n" +
+                ", ('Ouse, questione-se, busque seus objetivos e surpreenda-se! (O que realmente importa?)','Loading...','Frases de Livros')\n" +
+                ", ('Sorte sua eu gostar de você. (A Menina Que Roubava Livros)','Loading...','Frases de Livros')\n" +
+                ", ('Mais vale um asno que me carregue do que um cavalo que me derrube.(Samanta Lemos Öz)','Loading...','Frases de Livros')\n" +
+                ", ('Se Deus encheu tua vida de obstáculos, é porque ele acredita na tua capacidade de passar por cada um! \uD83D\uDE4F\uD83D\uDE4C\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('O que nos parece uma provação amarga, pode ser uma bênção disfarçada! Confie! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Aquele que não luta pelo futuro que quer, tem que aceitar o futuro que vier. \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Se não podemos mover a terra com nossas palavras, podemos mover o céu com nossa oração.\uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Não existe crescimento sem o árduo aprendizado. \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Motivacao')\n" +
+                ", ('Oportunidades não surgem. você as cria. \uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('A vida é uma estrada e é você que decidir como vai ser a caminhada \uD83D\uDE0C\uD83C\uDF43\uD83D\uDC96','Loading...','Frases de Motivacao')\n" +
+                ", ('Não tenha medo de desistir do bom, para perseguir o melhor. \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Mude, mas comece devagar, a direção é mais importante que a velocidade. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Persista! Se tudo fosse fácil, qualquer um conseguiria! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Já experimentou acreditar em você? Tente …Você não faz ideia do que é capaz. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Faça! Das barreiras degraus para chegar cada vez mais alto…\uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Tá na hora de transformar dificuldade em MOTIVAÇÃO! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Todos caem, mas, apenas os fracos continuam no chão. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Riscos devem ser corridos, porque o maior perigo é não arriscar nada! \uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Nunca desista daquilo que você pede a Deus todas as noites! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Um longo caminho começa com o primeiro passo…\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Aquele que tentou e não conseguiu, é superior àquele que não tentou.\uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Quanto maior for a dificuldade, mais forte será minha determinação! \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Encare seus sacrifícios como passos dados rumo ao sucesso! \uD83D\uDE18\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Se você desistir nunca vai conhecer sua verdadeira força! \uD83D\uDE09\uD83D\uDCAA','Loading...','Frases de Motivacao')\n" +
+                ", ('Dispense qualquer fraqueza, entregue-se à coragem e corra atrás dos seus sonhos. \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Imagine uma nova história para a sua vida e confie nela. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Perdemos a luta, perdemos a guerra, mas não perdemos a chance de tentar de novo. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Não peça pesos mais leves e sim braços mais fortes…\uD83D\uDCAA\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Seja seu foco, faça as coisas por você. \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Às vezes você ganha, às vezes você aprende…\uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Quando pensar em desistir, lembre-se de todos os motivos que fizeram você aguentar firme por tanto tempo. \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Talvez o hoje, seja o amanhã que você tanto procura…\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Deus nunca desampara seus filhos, pois são nas horas de tempestade que ele nos tira da enxurrada. \uD83D\uDE4F','Loading...','Frases de Motivacao')\n" +
+                ", ('O sucesso sempre vem para quem está ocupado demais para procurar por ele. \uD83D\uDE09\uD83D\uDE0E','Loading...','Frases de Motivacao')\n" +
+                ", ('Os seus sonhos podem se tornar realidade, se você tem coragem para correr atrás deles \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Não desista, vá em frente, sempre há uma chance de você tropeçar em algo maravilhoso.\uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('E que os motivos para sorrir, sejam maiores do que os pra chorar \uD83D\uDE04','Loading...','Frases de Motivacao')\n" +
+                ", ('Pra quem tem fé o céu não é o limite…\uD83D\uDC46\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Olhe no espelho e diga: Tudo vai passar. Você é maior que os problemas! \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Algum dia eu direi: Não foi fácil, mas consegui! \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Tem gente que acredita em sorte,eu acredito em Deus. \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Motivacao')\n" +
+                ", ('A vida é um constante recomeço. Não se dê por derrotado e siga adiante.\uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Será perdedor ao menos se não tentar! \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('O Espírito que me motiva.Não dorme, não morre.\uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('A vida vai te derrubar o tempo todo, mas, você só não pode é deixar de se levantar \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Não pode desistir, sua vida vale mais do que imagina. \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Qualquer pessoa que te motiva a ser melhor, é alguém que vale a pena manter por perto. \uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Dentro de você está o poder para transformar a sua vida e o mundo ao seu redor. \uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Motive a si mesmo a prosseguir, pois você é o único que entende suas dificuldades. \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('O medo é apenas o início da coragem…\uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Permita-se ir além, mas permita-se voltar. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Outro dia, outra oportunidade…\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Se alguém duvidar de você, faça tudo duas vezes melhor. \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Se preocupe mais em se preparar, do que em vencer…Vencer é consequência de uma boa preparação… \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Não deixe que seus sonhos percam a força de voar! \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('O importante na luta não é vencer e sim lutar. \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Toda ação humana, quer se torne positiva ou negativa, precisa depender de motivação. \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('A altura das suas realizações será igual à profundidade das suas convicções. \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('A motivação certa..Trás o sucesso inesperado \uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Porque nada é mais forte que a sua vontade, levante a cabeça e acredite que é possível. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Se o sonho ainda está vivo não há motivo para desistir! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Aprenda a escutar seu coração, é ele quem lhe dá força para continuar lutando! ❤️\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Acredite mais em você e tente sem parar, pois o sucesso começa no tentar! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('A dor é passageira. Desistir dura pra sempre.','Loading...','Frases de Motivacao')\n" +
+                ", ('Se não fosse pelo ultimo minuto, muita coisa ficaria por se fazer.','Loading...','Frases de Motivacao')\n" +
+                ", ('Algum dia direi: Não foi fácil, mas consegui!','Loading...','Frases de Motivacao')\n" +
+                ", ('Determinação para mim é chegar a um ponto onde nem eu mesmo poderia acreditar.','Loading...','Frases de Motivacao')\n" +
+                ", ('Um vencedor nunca desiste e um desistente nunca ganha.','Loading...','Frases de Motivacao')\n" +
+                ", ('Vive como se fosses morrer amanhã. Aprende como se fosses viver para sempre.','Loading...','Frases de Motivacao')\n" +
+                ", ('Errar ontem, aprender hoje e superar amanhã.','Loading...','Frases de Motivacao')\n" +
+                ", ('Qualquer pessoa que não esteja a cometer erros é porque não está a tentar o suficiente.','Loading...','Frases de Motivacao')\n" +
+                ", ('Eu não falhei, encontrei 10 mil soluções que não davam certo!','Loading...','Frases de Motivacao')\n" +
+                ", ('Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.','Loading...','Frases de Motivacao')\n" +
+                ", ('Eu não vou desistir: Missão dada, parceiro, é missão cumprida!','Loading...','Frases de Motivacao')\n" +
+                ", ('Vai. E se der medo, vai com medo mesmo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Nenhum obstáculo será grande, se a sua vontade de vencer for maior.','Loading...','Frases de Motivacao')\n" +
+                ", ('Quer você acredite que consegue fazer uma coisa ou não, você estará sempre certo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Mostre-me um homem 100% satisfeito e eu lhe mostrarei um fracassado.','Loading...','Frases de Motivacao')\n" +
+                ", ('A alegria está na luta, na tentativa, no sofrimento envolvido e não na vitória propriamente dita.','Loading...','Frases de Motivacao')\n" +
+                ", ('Tudo parece impossível até que seja feito.','Loading...','Frases de Motivacao')\n" +
+                ", ('Pare de olhar para trás, você já sabe onde esteve, agora precisa saber onde vai.','Loading...','Frases de Motivacao')\n" +
+                ", ('De nada serve ao homem conquistar a Lua se acaba por perder a Terra.','Loading...','Frases de Motivacao')\n" +
+                ", ('Fiz da vida um campo de batalha e não desperdiço um só segundo para pensar em derrotas.','Loading...','Frases de Motivacao')\n" +
+                ", ('O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Pra todo game-over existe um play again.','Loading...','Frases de Motivacao')\n" +
+                ", ('Ninguém pode prever o quanto você pode voar, nem mesmo você, até abrir as asas!','Loading...','Frases de Motivacao')\n" +
+                ", ('A vida me ensinou a nunca desistir. Nem ganhar, nem perder mas procurar evoluir.','Loading...','Frases de Motivacao')\n" +
+                ", ('Só é lutador quem sabe lutar consigo mesmo. ','Loading...','Frases de Motivacao')\n" +
+                ", ('Eu ainda não cheguei lá, mas estou mais perto do que ontem.','Loading...','Frases de Motivacao')\n" +
+                ", ('Metas são como flechas. Quanto mais alto você mira, mais longe você alcança.','Loading...','Frases de Motivacao')\n" +
+                ", ('Acredite que você pode, assim você já está no meio do caminho.','Loading...','Frases de Motivacao')\n" +
+                ", ('Vencedor não é aquele que sempre vence, mas sim aquele que nunca pára de lutar!','Loading...','Frases de Motivacao')\n" +
+                ", ('O segredo do sucesso é a constância de propósito.','Loading...','Frases de Motivacao')\n" +
+                ", ('O sucesso geralmente vem para aqueles que estão muito ocupados para estarem procurando por ele.','Loading...','Frases de Motivacao')\n" +
+                ", ('Hoje são dias de guerra. Amanhã serão de glória!','Loading...','Frases de Motivacao')\n" +
+                ", ('Ao crescermos interiormente descobrimos o quanto ainda falta para conquistar a nós mesmos!','Loading...','Frases de Motivacao')\n" +
+                ", ('Lutar sempre, vencer às vezes, desistir nunca!','Loading...','Frases de Motivacao')\n" +
+                ", ('Quanto maior for a crença em seus objetivos, mais depressa você os conquistará.','Loading...','Frases de Motivacao')\n" +
+                ", ('O segredo do sucesso não é fazer o que se gosta, mas sim gostar do que se faz.','Loading...','Frases de Motivacao')\n" +
+                ", ('Não existe conquista sem trabalho. O que vem fácil, vai fácil.','Loading...','Frases de Motivacao')\n" +
+                ", ('Sonhe, Lute, Conquiste, Tudo é possível, Você nasceu para Vencer.','Loading...','Frases de Motivacao')\n" +
+                ", ('O primeiro passo para você atingir uma meta é convencer-se de que é capaz disso.','Loading...','Frases de Motivacao')\n" +
+                ", ('Nossas conquistas são do tamanho de nossos sonhos!','Loading...','Frases de Motivacao')\n" +
+                ", ('Pense grande a respeito de si mesmo, e o mundo achará que você é aquilo que pensa.','Loading...','Frases de Motivacao')\n" +
+                ", ('Quando um homem tem força de vontade, os deuses dão uma ajuda.','Loading...','Frases de Motivacao')\n" +
+                ", ('Dificuldades preparam pessoas comuns para destinos extraordinários.','Loading...','Frases de Motivacao')\n" +
+                ", ('O primeiro passo para conseguir algo é desejá-lo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Acredite, corra atrás, a única coisa que existe entre você e o seu sonho é o seu medo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Se quisermos alcançar resultados nunca antes alcançados, devemos empregar métodos nunca antes testados.','Loading...','Frases de Motivacao')\n" +
+                ", ('Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.','Loading...','Frases de Motivacao')\n" +
+                ", ('Uma longa viagem começa com um único passo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer.','Loading...','Frases de Motivacao')\n" +
+                ", ('Se queres ser feliz amanhã, tenta hoje mesmo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Inspiração vem dos outros. Motivação vem de dentro de nós.','Loading...','Frases de Motivacao')\n" +
+                ", ('A vida é como andar de bicicleta. Para conseguir o equilíbrio, você precisa se manter em movimento.','Loading...','Frases de Motivacao')\n" +
+                ", ('Nunca é tarde demais para ser aquilo que sempre se desejou ser.','Loading...','Frases de Motivacao')\n" +
+                ", ('Se a caminhada está difícil, é porque você está no caminho certo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Antes de entrar numa batalha é preciso acreditar naquilo pelo qual está lutando!','Loading...','Frases de Motivacao')\n" +
+                ", ('Faça tudo o que puder. Lute! Seja humilde. Conquiste o mundo.','Loading...','Frases de Motivacao')\n" +
+                ", ('O rio atinge seus objetivos, porque aprendeu a contornar os obstáculos.','Loading...','Frases de Motivacao')\n" +
+                ", ('Obstáculo é aquilo que se vê quando se tira os olhos do objetivo que se quer alcançar.','Loading...','Frases de Motivacao')\n" +
+                ", ('Eu nasci predestinado para não conseguir, mas eu consegui.','Loading...','Frases de Motivacao')\n" +
+                ", ('Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.','Loading...','Frases de Motivacao')\n" +
+                ", ('Quem abandona a luta não poderá nunca saborear o gosto de uma vitória.','Loading...','Frases de Motivacao')\n" +
+                ", ('O ridículo não existe; os que ousaram desafiá-lo de frente conquistaram o mundo.','Loading...','Frases de Motivacao')\n" +
+                ", ('Não diga que a vitória está perdida se é de batalhas que se vive a vida.','Loading...','Frases de Motivacao')\n" +
+                ", ('É preciso, antes de mais nada, querer.','Loading...','Frases de Motivacao')\n" +
+                ", ('Trabalhe duro em silêncio, deixe o sucesso ser seu ruído.','Loading...','Frases de Motivacao')\n" +
+                ", ('Qualquer pessoa pode começar, mas apenas os ousados terminarão.','Loading...','Frases de Motivacao')\n" +
+                ", ('Falta de coragem causa perda de momentos incríveis. Arrisque sempre!','Loading...','Frases de Motivacao')\n" +
+                ", ('A grande conquista é o resultado de pequenas vitórias que passam despercebidas.','Loading...','Frases de Motivacao')\n" +
+                ", ('Vá até onde sua vista alcançar e, ao chegar lá, você sempre conseguirá enxergar mais longe.','Loading...','Frases de Motivacao')\n" +
+                ", ('E mesmo sozinho, o Sol nunca deixou de brilhar.','Loading...','Frases de Motivacao')\n" +
+                ", ('Durante minha vida nada me caiu do céu, e por isso é um grande orgulho ter mérito em tudo que conquistei.','Loading...','Frases de Motivacao')\n" +
+                ", ('Se não puder fazer tudo, faça tudo que puder.','Loading...','Frases de Motivacao')\n" +
+                ", ('O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível.','Loading...','Frases de Motivacao')\n" +
+                ", ('Todos caem mas, apenas os fracos continuam no chão.','Loading...','Frases de Motivacao')\n" +
+                ", ('O futuro pertence àqueles que acreditam na beleza de seus sonhos.','Loading...','Frases de Motivacao')\n" +
+                ", ('Em tempos de crise, tire o “s” e crie!','Loading...','Frases de Motivacao')\n" +
+                ", ('Diga mais vezes: “Eu me amo”, não tenha medo desse poderoso sentimento.','Loading...','Frases de Motivacao')\n" +
+                ", ('Tudo é considerado impossível até acontecer.','Loading...','Frases de Motivacao')\n" +
+                ", ('Não peça a Deus para guiar seus passos se você não está disposto a mover seus pés.','Loading...','Frases de Motivacao')\n" +
+                ", ('Pode não dar certo, mas você só vai saber se arriscar!','Loading...','Frases de Motivacao')\n" +
+                ", ('Dificuldades preparam pessoas comuns para destinos extraordinários. \uD83D\uDE09\uD83D\uDE42','Loading...','Frases de Motivacao')\n" +
+                ", ('Se quiser viver uma vida feliz, amarre-se a uma meta, não às pessoas nem às coisas ✌️\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Deus não te dá sonhos que você não possa alcançar \uD83D\uDC4A\uD83D\uDC46','Loading...','Frases de Motivacao')\n" +
+                ", ('O único passo entre o sonho e a realidade é a atitude \uD83D\uDE0E','Loading...','Frases de Motivacao')\n" +
+                ", ('Rompa suas barreiras mentais \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Desanima agora não! Ainda tem muita coisa pra acontecer  \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Acredite que você pode, assim você já está no meio do caminho \uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Não desista, o início é sempre o mais difícil \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Tudo que um sonho precisa para se realizar é alguém que acredite nele \uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('O sucesso é uma questão de vontade, ação e dedicação \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Motive-se! Nenhuma mudança verdadeira acontece de fora para dentro, mas de dentro para fora \uD83D\uDE0E','Loading...','Frases de Motivacao')\n" +
+                ", ('A vitória pertence ao mais perseverante \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Você não precisa que os outros acreditem, basta você acreditar. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Se a vida não ficar mais fácil, trate de ficar mais forte. \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Motive a si mesmo a prosseguir, pois você é o único que entende suas dificuldades. \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Motivacao')\n" +
+                ", ('A persistência é o caminho do êxito. \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Outro dia, outra oportunidade \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('O maior fracasso é não tentar \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Persista! Se tudo fosse fácil, qualquer um conseguiria \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Você nasceu para da certo e nada pode mudar isso \uD83D\uDE0E\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('É no fogo que o ouro é moldado \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Feio é desistir sem nem tentar, fugir com medo de falhar \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Tá na hora de transformar dificuldade em motivação \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Não pode desistir, sua vida vale mais do que imagina \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Sair da zona de conforto é essencial para quem quer vencer \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('O que separa a pessoa talentosa da bem-sucedida é muito trabalho duro \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('O dia não vai ser diferente, se você não fizer diferente \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Pessoas de sucesso fazem o que pessoas mal sucedidas não querem fazer \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Chegou a hora de ser maior do que as batalhas \uD83D\uDE0E\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Habilidade é o que você é capaz de fazer. Motivação determina o que você faz. \uD83D\uDE18\uD83D\uDC4D','Loading...','Frases de Motivacao')\n" +
+                ", ('Não estou dizendo que será fácil, estou dizendo que valerá a pena. \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Você não é derrotado quando perde. Você é derrotado quando desiste.\uD83D\uDC4D','Loading...','Frases de Motivacao')\n" +
+                ", ('E quando você pensar em desistir lembre-se dos motivos que te fizeram aguentar até agora. \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('O sol nasce pra todos. E é por isso que você deve tentar todos os dias. ✌️\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('O sonho pode te dar, o que a realidade te nega. \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Todo campeão foi um dia um competidor que se recusou a desistir. \uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Sorte é o que acontece quando a preparação encontra a oportunidade! \uD83D\uDC4D\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Se queres ser feliz amanhã, tenta hoje mesmo…\uD83D\uDE42','Loading...','Frases de Motivacao')\n" +
+                ", ('Acordar com a motivação certa é o primeiro passo para um dia inesquecível. ✌️','Loading...','Frases de Motivacao')\n" +
+                ", ('Desistir é para os fracos, os fortes lutam e quebram a cara, erguem a cabeça e continuam. \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Não tenha medo, arrisque. As quedas serão necessárias para você aprender a ficar de pé. \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Você sempre pode mudar a sua história ✌️\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('A chave do sucesso na vida é o conhecimento do valor das coisas \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Você é responsável pelas suas experiências de vida \uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Por mais longa que seja à noite, o sol volta sempre a brilhar ☀️','Loading...','Frases de Motivacao')\n" +
+                ", ('A atitude é uma pequena forma de fazer uma grande diferença \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Nada é difícil se for dividido em pequenas partes \uD83D\uDE18\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Você precisa fazer aquilo que pensa que não é capaz de fazer \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Que seus sonhos sejam maiores que seus medos \uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('O futuro pertence àqueles que acreditam na beleza de seus sonhos ✌️\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Acredite em você \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Se você é capaz de sonhá-los, também pode realizá-los…\uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Nunca é tarde demais para ser aquilo que sempre se desejou ser \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('É perigoso desistir dos nossos sonhos \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Não tenha medo da vida, tenha medo de não vivê-la \uD83D\uDE18✌️','Loading...','Frases de Motivacao')\n" +
+                ", ('Riscos devem ser corridos, porque o maior perigo é não arriscar nada \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Tem gente que acredita em sorte, eu acredito em Deus…\uD83D\uDE4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Enquanto houver vida haverá esperança…✌️✌️','Loading...','Frases de Motivacao')\n" +
+                ", ('Vai em frente e enfrente…\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Quem realiza seus sonhos é você mesmo \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('O Espírito que me motiva Não dorme, não morre \uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Não ouse desistir de tudo que você sonhou…\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Ou você segue em frente ou a vida segue sem você…\uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Motivação é a chave para quem quer conquistar algo \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Quem quiser chegar à nascente,tem que nadar contra a correnteza \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('As pessoas não carecem de força, carecem de motivação \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Seu objetivo, só você é capaz de realizar \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Vai a pé vai na fé vai no jeito que de \uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Seja mais forte do que a sua melhor desculpa…\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Acreditar que vai dar certo é a metade do sucesso \uD83D\uDE0E','Loading...','Frases de Motivacao')\n" +
+                ", ('Se você não acreditar naquilo que você é capaz de fazer; quem vai acreditar? ✌️\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Apenas saiba, que você nunca está sozinho \uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Você não chegou aonde queria, mas já saiu de onde estava \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('Vencer será conseqüência da boa preparação \uD83D\uDE0E\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Eu sou forte o bastante pra ser meu próprio herói \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Todo esforço tem a sua recompensa.\uD83D\uDE18','Loading...','Frases de Motivacao')\n" +
+                ", ('Toda conquista começa com a decisão de tentar. \uD83D\uDC4D','Loading...','Frases de Motivacao')\n" +
+                ", ('Oportunidades não surgem. É você que as cria. ✌️','Loading...','Frases de Motivacao')\n" +
+                ", ('Posso ainda não ter chegado aonde eu queria mais estou mais perto que ontem. \uD83D\uDC4F','Loading...','Frases de Motivacao')\n" +
+                ", ('vai com fé, que a fé não costuma falhar. \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('O corpo alcança o que a mente acredita. \uD83D\uDCAA','Loading...','Frases de Motivacao')\n" +
+                ", ('O que você quer só depende do seu esforço! \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Uma meta sem um plano é somente um desejo. \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Só guerreiros seguem em frente! \uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Vá atrás do que quer, porque nada nessa vida é de graça. \uD83D\uDE42\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Enfrento o que eu tiver que enfrentar, mas não vou ficar como estou. \uD83D\uDE0C\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('A vontade de querer deve ter a mesma intensidade da vontade de lutar. \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases de Motivacao')\n" +
+                ", ('Se você não gosta de onde está, mova-se! Você não é uma árvore! \uD83C\uDF33','Loading...','Frases de Motivacao')\n" +
+                ", ('A regra é errar aprender e acertar. \uD83D\uDE15\uD83D\uDE42\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Não diga que a vitória está perdida se é de batalhas que se vive a vida \uD83C\uDFB6','Loading...','Frases de Motivacao')\n" +
+                ", ('Fale menos, faça mais. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Imagine uma nova história para a sua vida e acredite nela. \uD83D\uDE18✌️','Loading...','Frases de Motivacao')\n" +
+                ", ('A gente perde a luta, perde a guerra, mas não perde a chance de tentar de novo. \uD83D\uDE09','Loading...','Frases de Motivacao')\n" +
+                ", ('Pra quem tem fé o céu não é o limite. \uD83D\uDC46\uD83D\uDE0C','Loading...','Frases de Motivacao')\n" +
+                ", ('Nasce mas um dia para que você possa dar o seu melhor. \uD83D\uDC4F\uD83D\uDE0A','Loading...','Frases de Motivacao')\n" +
+                ", ('Os sonhos não tem pernas, mas você sim. Então corra atrás! \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Motivacao')\n" +
+                ", ('Não peça pesos mais leves e sim braços mais fortes. \uD83D\uDCAA','Loading...','Frases de Motivacao')\n" +
+                ", ('Não é quem você é que te impede de ir para frente. É quem você pensa que você não é. \uD83D\uDE18\uD83D\uDE42','Loading...','Frases de Motivacao')\n" +
+                ", ('Estou feliz assim, amor próprio, coração tranquilo e alma leve ❤️\uD83C\uDF43\\n(Isah soares)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ter a melhor chuteira não te faz o melhor jogador \uD83D\uDE09\\n(Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ser melhor do que fui ontem é o plano que a minha alma escreveu. \uD83D\uDC4F\uD83D\uDE18\\n(Projota)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não há razões para não ser feliz…\uD83D\uDE03\uD83D\uDE09\\n(Marília Mendonça e Luan Santana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu sou problema meu \uD83D\uDC4A\\n(Clarice Falcão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Em algum lugar pra relaxar eu vou pedir pros anjos cantarem por mim pra quem tem fé a vida nunca tem fim! \uD83D\uDE1C(O rappa)','Loading...','Frases de Músicas ')\n" +
+                ", ('E eu vou jogar bem na sua cara...\uD83D\uDE18 (Pablo vittar part. Anitta) ','Loading...','Frases de Músicas ')\n" +
+                ", ('Seu amor me pegou, vc bateu tão forte com o seu amor...(Pablo Vittar)','Loading...','Frases de Músicas ')\n" +
+                ", ('Amiga parceira só se for amiga solteira\uD83D\uDE08\uD83D\uDE0E\uD83D\uDC4A\uD83C\uDF7B (Mc pikeno e menor)','Loading...','Frases de Músicas ')\n" +
+                ", ('Volte a sonhar. Deus ainda realiza sonhos.\uD83D\uDE3B\uD83D\uDE2D ( Elaine Martins)','Loading...','Frases de Músicas ')\n" +
+                ", ('O coração dispara, tropeça, quase para, me encaixo no teu cheiro e ali me vejo inteiro \uD83D\uDC4F\uD83D\uDE3B (Thiago Iorc)','Loading...','Frases de Músicas ')\n" +
+                ", ('É saudade misturada com bebida \uD83C\uDF79\uD83D\uDE14\\n(Jorge e Xandy)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem tem fé sabe que não está sozinho.\\n(CBJR)','Loading...','Frases de Músicas ')\n" +
+                ", ('Por dentro eu tô sensacional…\uD83D\uDC4C\uD83D\uDE0E\\n(Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Sua presença me deu \uD83C\uDF0A\\n(MC G15)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu você o \uD83C\uDF0A e ela…\\n(Luan Sanatana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ser feliz pra mim não custa caro…\uD83D\uDE03\uD83D\uDE04\\n(Mateus e Kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('Meu melhor amigo é Deus, e o segundo melhor sou eu. \uD83D\uDC46\\n(Projota)','Loading...','Frases de Músicas ')\n" +
+                ", ('O horizonte não é o limite…A vida é pra gente viver! \uD83D\uDE09\\n(Tribo de periferia)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu não me importo com que você pensa…\uD83D\uDC4C\uD83D\uDE0E\\n(projota)','Loading...','Frases de Músicas ')\n" +
+                ", ('Só o impossível me interessa… \uD83D\uDC4A\\n(Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Descreve ser feliz, mais com outro gosto. \uD83D\uDE18\\n(Tribo de periferia)','Loading...','Frases de Músicas ')\n" +
+                ", ('Crianças sempre levam tudo pro lado pessoal \uD83D\uDC4C\\n(Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Coisas simples pra ela, são as coisas principais \uD83D\uDC4F\\n(Projota)','Loading...','Frases de Músicas ')\n" +
+                ", ('Adeus, vida social…\uD83D\uDE18\\n(Mateus e Kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('Escute o que diz a sua alma…\uD83D\uDC42\uD83D\uDE09\\n(CBJR)','Loading...','Frases de Músicas ')\n" +
+                ", ('Por fora, calmaria. Por dentro, puro caos. \uD83C\uDF43\\n(Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Foi mais forte que eu e \uD83D\uDC49\\n(Luan Santana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Vamos curtir a noite de patroa…\uD83D\uDC4F\uD83D\uDC44\\n(Simone e Simaria)','Loading...','Frases de Músicas ')\n" +
+                ", ('Boa sorte sem mim…\uD83D\uDE18\uD83D\uDE09\\n(Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Aproveitar a noite… Ficar loka \uD83D\uDE1C\uD83D\uDE0E\\n(Simone e Simaria)','Loading...','Frases de Músicas ')\n" +
+                ", ('O que na vida ninguém fez…Você fez em menos de um mês \uD83D\uDC4F\uD83D\uDE0D\\n(Mateus e Kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('Bora \uD83C\uDF7A que eu to solteiro de novo…\\n(Safadão e Ronaldinho)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ela tem cores, curvas, sabores, coisas que seduz \uD83D\uDC44\uD83D\uDE18\\n(Rael da rima)','Loading...','Frases de Músicas ')\n" +
+                ", ('Pode demorar, mas ainda deixo de te amar \uD83D\uDC4A❤️\\n(Mateus e Kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('Descansarei pois sei que é Deus \uD83D\uDE4F\uD83D\uDE4F\\n(Jotta A)','Loading...','Frases de Músicas ')\n" +
+                ", ('O meu ❤️ deu PT…\\n(Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('E a gente vai viver a vida como Deus quiser \uD83D\uDC46\uD83D\uDE09\\n(Simone e Simaria)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quanto menos me \uD83D\uDC42 mais e melhor eu vou dizer \uD83D\uDC4A\\n(Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('❤️ puro, mais a mente é maloqueira\\n(Hungria)','Loading...','Frases de Músicas ')\n" +
+                ", ('Meu fechamento é você…Mozão!! \uD83D\uDE18❤️\\n(MC G15)','Loading...','Frases de Músicas ')\n" +
+                ", ('Duvido você não tomar uma…\uD83C\uDF7A\\n(Simone e Simaria)','Loading...','Frases de Músicas ')\n" +
+                ", ('O que tenho de torta, eu tenho de feliz. \uD83D\uDE06\uD83D\uDE0A\\n(Mallu Magalhães)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quando olhar pra trás, já fui embora \uD83D\uDE18\uD83D\uDE18\\n(Marilia Mendonça)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem não bate, apanha \uD83D\uDC4A\\n(Flora Matos)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tudo de novo, vida que segue \uD83D\uDC4C\\n(Tá na mente)','Loading...','Frases de Músicas ')\n" +
+                ", ('Querer voar mesmo sem asa é sabedoria \uD83D\uDE09\uD83D\uDE09\\n(Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Os bares estão cheios de almas tão vazias \uD83D\uDE0C\\n(Criolo)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem tem fé em um ideal, não se entrega até o final \uD83D\uDC4A\uD83D\uDE4F\\n(Treze )','Loading...','Frases de Músicas ')\n" +
+                ", ('Na farmácia não vende \uD83D\uDC8A pra saudade \uD83D\uDE22\\n(Mateus e Kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('A maldade do \uD83C\uDF0F te fez ser durona \uD83D\uDC4A\\n(Projota)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu sempre dei valor ao que eu tinha…Quando você era minha \uD83D\uDE09\uD83D\uDC8F\\n(Safadão e Luan Santana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Se não mudar sua postura,eu vou embora correndo \uD83C\uDFC3\uD83D\uDC4A\\n(Mateus e Kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('Mas quando toca o Safadão, essa gatinha pira…\uD83D\uDC44\uD83D\uDE1C\\n(Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Se olhar pra trás vai perceber Vai ver que hoje eu tô melhor do que você \uD83D\uDE18\uD83D\uDE1A\\n(Wesley safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Os olhos observam mas o coração que sente ❤️\\n(Hungria)','Loading...','Frases de Músicas ')\n" +
+                ", ('Hoje eu fico até mais tarde pra fazer vale a pena \uD83D\uDC4C\uD83D\uDE09\\n(Ari)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu falo de várias mudanças, mas no final nada muda \uD83D\uDE14\\n(Oriente)','Loading...','Frases de Músicas ')\n" +
+                ", ('Teu medo te cerca, te pega e te joga pra longe de mim…\uD83D\uDE1E\\n(Marília Mendonça)','Loading...','Frases de Músicas ')\n" +
+                ", ('Com sorriso na cara e chorando por dentro \uD83D\uDE25\\n(Carreiro e capataz)','Loading...','Frases de Músicas ')\n" +
+                ", ('Cansei de chorar feridas que não se fecham não se curam  \uD83D\uDE2D\\n(Pitty)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ontem eu era o amor da sua vida e hoje eu sou o quê? ❤️\uD83D\uDE14\\n(Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Teve a chance e transformou meu romance num lance \uD83D\uDC4C\\n(Tati zac)','Loading...','Frases de Músicas ')\n" +
+                ", ('Aprendi a lidar com a ilusão e também a lidar com a dor \uD83D\uDC94\uD83D\uDE25\\n(Tati zac)','Loading...','Frases de Músicas ')\n" +
+                ", ('Sou o seu princípio, meio e fim \uD83D\uDE09\\n(Luan Santana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não perdi nada, acabei de me livrar \uD83D\uDC4C\\n(Marília Mendonça)','Loading...','Frases de Músicas ')\n" +
+                ", ('Pra mim felicidade é ter você \uD83D\uDE06\uD83D\uDE0A\\n(Jorge e Mateus)','Loading...','Frases de Músicas ')\n" +
+                ", ('As pessoas te magoam, sem perceber \uD83D\uDE25\\n(Justin Bieber)','Loading...','Frases de Músicas ')\n" +
+                ", ('Refletiu nos meus olhos, adeus, solidão \uD83D\uDE14\\n(Maneva)','Loading...','Frases de Músicas ')\n" +
+                ", ('Duas histórias que se cruzam sem intenção \uD83D\uDE09\uD83D\uDE09\\n(Maneva)','Loading...','Frases de Músicas ')\n" +
+                ", ('E se eu quiser dizer que o universo inteiro, mora em você \uD83D\uDC4F\uD83D\uDC4F\\n(Tiago Iorc)','Loading...','Frases de Músicas ')\n" +
+                ", ('Bendito seja o homem que possa conquistá-la \uD83D\uDE18\\n(Oriente)','Loading...','Frases de Músicas ')\n" +
+                ", ('Se eu sou feliz, devo isso a você \uD83D\uDE09\uD83D\uDE18\\n(Nossa história)','Loading...','Frases de Músicas ')\n" +
+                ", ('Só quer viver que a vida é única, é única \uD83D\uDC4F\uD83D\uDE09\\n(Hungria)','Loading...','Frases de Músicas ')\n" +
+                ", ('You laugh through your tears. (Você ri através de suas lágrimas) \uD83D\uDE25\uD83D\uDE09\\n(Melanie Martinez )','Loading...','Frases de Músicas ')\n" +
+                ", ('Não vou voltar tão cedo, mas vou voltar porque eu amei te ver \uD83D\uDE18❤️\\n(Tiago Iorc)','Loading...','Frases de Músicas ')\n" +
+                ", ('Me escutas quando clamo e acalma o meu pensar. \uD83D\uDE4F\uD83D\uDE4F\\n(Gabriela Rocha)','Loading...','Frases de Músicas ')\n" +
+                ", ('Viver é melhor que sonhar! \uD83D\uDCAD\uD83D\uDCAD  (Elis Regina) \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Músicas ')\n" +
+                ", ('Deus! Perto de ti eu quero estar, se tenho a ti os medos se vão!  \uD83D\uDE4F\uD83D\uDE4F (Davi Sacer)','Loading...','Frases de Músicas ')\n" +
+                ", ('A felicidade está em coisas simples!  \uD83D\uDC4C\uD83D\uDC4C (Ponto de Equilíbrio)','Loading...','Frases de Músicas ')\n" +
+                ", ('E como quem não quer nada, você vem…  \uD83D\uDC49\uD83D\uDE0D (Jeito Moleque)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não querer lidar com pessoas É proteção pra você nunca se machucar! \uD83D\uDE10\uD83D\uDE10  (Supercombo)','Loading...','Frases de Músicas ')\n" +
+                ", ('Perdi as contas de quantas vezes segurei o mundo dos outros e deixei o meu cair!  \uD83D\uDE15\uD83D\uDE15 (Legião Urbana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu tenho fé em Deus pra resolver qualquer parada! \uD83D\uDC46\uD83D\uDE4F  ( CBJR.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ei dor eu não te escuto mais, você não me leva a nada! \uD83D\uDE4A\uD83D\uDC4A  (Jota quest)','Loading...','Frases de Músicas ')\n" +
+                ", ('Reza a lenda que a gente nasceu pra ser feliz! \uD83D\uDE04\uD83D\uDE00  (Engenheiros do Hawaii)','Loading...','Frases de Músicas ')\n" +
+                ", ('O tédio é o sentimento mais moderno que existe! \uD83D\uDC4C\uD83D\uDC4C  (Cazuza)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eleve ao mais alto o seu pensamento. É preciso ter fé, é preciso saber dar tempo ao tempo! \uD83D\uDE4F⏳  (Tribo de Jah)','Loading...','Frases de Músicas ')\n" +
+                ", ('A nossa vida é uma coleção de saudades! \uD83D\uDE10\uD83D\uDE15\uD83D\uDE11 (Projota)','Loading...','Frases de Músicas ')\n" +
+                ", ('A vida me ensinou a nunca desistir, nem ganhar nem perder mas procurar evoluir! ✌✌ (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('É preciso força pra sonhar e perceber que a estrada vai além do que se vê! \uD83D\uDE43\uD83D\uDE43 (Los Hermanos)','Loading...','Frases de Músicas ')\n" +
+                ", ('Bobeira é não viver a realidade!\uD83D\uDC4C\uD83D\uDC4C (Cássia Eller)','Loading...','Frases de Músicas ')\n" +
+                ", ('Seja fiel a Deus no pouco e muito ele te dará! \uD83D\uDE09\uD83D\uDE4F (Canção Nova)','Loading...','Frases de Músicas ')\n" +
+                ", ('É fácil de mais viver em paz, é a gente que complica tudo! \uD83D\uDE14\uD83D\uDE2C(Thalles)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não vou me arrepender do que ficou pra trás! \uD83D\uDC4C (Livre Estou, Frozen)','Loading...','Frases de Músicas ')\n" +
+                ", ('Buscando um novo rumo que faça sentido nesse mundo louco! \uD83D\uDE1C\uD83D\uDE1D\uD83D\uDE1B (CBJR)','Loading...','Frases de Músicas ')\n" +
+                ", ('O mundo gira e bota sempre tudo no lugar!  ✌✌ (Strike)','Loading...','Frases de Músicas ')\n" +
+                ", ('Cada um escuta a voz de Deus de um jeito! \uD83D\uDC42(Projota)','Loading...','Frases de Músicas ');";
+        return frase;
+    }
+    public static String carregarFrases20() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Hoje eu só quero que o dia termine bem! ✌✌ (Luciana Melo)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não diga que a vitória está perdida, tenha fé em DEUS, tenha fé na vida.. \uD83D\uDE4F✌(Raul Seixas)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ei dor… eu não te escuto mais. Você não me leva a nada! \uD83D\uDE49\uD83D\uDE49\uD83D\uDC4A(O Sol, Jota Quest)','Loading...','Frases de Músicas ')\n" +
+                ", ('O que importa é nossa alegria! \uD83D\uDE04\uD83D\uDE03\uD83D\uDE00 (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu que já não quero mais ser um vencedor, levo a vida devagar pra não faltar amor! \uD83D\uDE09\uD83D\uDE09 (Los Hermanos)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tô aproveitando cada segundo antes que isso aqui vire uma tragédia! ⏰⏰ (Pitty)','Loading...','Frases de Músicas ')\n" +
+                ", ('Se você tem um sonho a vida tem sentido, uma razão, um alvo a ser atingido.. \uD83D\uDCAD\uD83D\uDCAD (Shaman King)','Loading...','Frases de Músicas ')\n" +
+                ", ('Com o tempo a vida faz crescer e aceitar.. Que de repente tudo muda e troca de lugar ‼ (nX ZERO)','Loading...','Frases de Músicas ')\n" +
+                ", ('O medo cega os nossos sonhos! \uD83D\uDE48\uD83D\uDE48 (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Vou buscando acertar que às vezes eu errei, mas quem pode acusar sem tentar compreender! \uD83D\uDE10\uD83D\uDE10(Rosa de Saron)','Loading...','Frases de Músicas ')\n" +
+                ", ('Esse arrocha é pra você que achou que eu tava aqui sofrendo, Vai vendo! \uD83D\uDC83\uD83D\uDC83 (Lucas LUCCO)','Loading...','Frases de Músicas ')\n" +
+                ", ('Veja tudo como se não houvesse amanhã! \uD83D\uDC40\uD83D\uDC40 (PITTY)','Loading...','Frases de Músicas ')\n" +
+                ", ('Dinheiro no bolso, Deus no coração, família unida e champanhe pros irmãos! ✌✌(Racionais MC’s)','Loading...','Frases de Músicas ')\n" +
+                ", ('Devia ter arriscado mais. E até errado mais. Ter feito o que eu queria fazer! \uD83D\uDC4C\uD83D\uDC4C(TITÃS)','Loading...','Frases de Músicas ')\n" +
+                ", ('Espere o melhor, prepare-se para o pior e aceite o que vier! ✌✌(Cpm 22)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tudo é tão simples que cabe num cartão postal… \uD83C\uDF86(Cazuza)','Loading...','Frases de Músicas ')\n" +
+                ", ('Nada como um dia após o outro… ✌(Racionais MC’s)','Loading...','Frases de Músicas ')\n" +
+                ", ('Hard work forever pays ! \uD83D\uDCAA\uD83D\uDCAA (Trabalho duro é eternamente compensado – Wiz Khalifa)','Loading...','Frases de Músicas ')\n" +
+                ", ('Me passe o número da sua opinião, quem sabe eu ligue pra ela! \uD83D\uDCDE\uD83D\uDE18 (Wesley Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem vive de sonho é padaria! \uD83D\uDCAD\uD83D\uDCAD (João Carreiro)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ditar é o primeiro passo de vários… ‼‼(Edson Gomes)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu não vim pra me explicar, eu vim pra confundir! \uD83D\uDE16\uD83D\uDE16 (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Bora que o mundo é nosso! \uD83D\uDC4C\uD83D\uDC46 (Mc Duduzinho)','Loading...','Frases de Músicas ')\n" +
+                ", ('Pra ter sucesso, amor, tem que fazer direito! \uD83D\uDE18\uD83D\uDE18 (Valesca Popozuda)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não grite sua felicidade, pois o recalque fácil se incomoda! \uD83D\uDE0C\uD83D\uDE12\uD83D\uDE12 (Mc Guimê)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu tou de boa, vai passando de fininho… \uD83D\uDC4D\uD83D\uDC4D(Wesley Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Há mil formas para sorrir, só uma para ser feliz… \uD83D\uDE0A☺☺ (Natiruts)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tantos sorrisos por aí, você querendo o meu…  \uD83D\uDE33\uD83D\uDE33(Matheus & kauan)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ontem eu aprendi que amanhã é outro dia! \uD83D\uDC4C\uD83D\uDC4C (Lu e Robertinho)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tem saudade sua espalhada por todo lugar! \uD83D\uDE10\uD83D\uDE15 (Lucas Lucco)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem diria a alegria é a melhor vingança… \uD83D\uDE04\uD83D\uDE03 (Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu não camuflo falsidades! \uD83D\uDC4C\uD83D\uDC4C(HAIKAISS)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tenho certeza, Que a fé nunca morre, E a vida real não parece novela…  \uD83D\uDE4F\uD83D\uDE4F (Mc Gui)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem tá apaixonado chora… Quem tá largado bebe! \uD83C\uDF7B\uD83C\uDF7B (Wesley Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('E as coisas lindas, são mais lindas quando você está!\uD83D\uDC49\uD83D\uDE0D (Nando Reis)','Loading...','Frases de Músicas ')\n" +
+                ", ('Deus está contigo no deserto e não vai te abandonar! \uD83D\uDE4F\uD83D\uDE4F (Danielle Cristina)','Loading...','Frases de Músicas ')\n" +
+                ", ('Faço da dificuldade a minha motivação!  \uD83D\uDCAA✌ (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quando eu chorar, vou me lembrar que até aqui tua mão me sustentou! \uD83D\uDC46\uD83D\uDE4F (Bruna Karla)','Loading...','Frases de Músicas ')\n" +
+                ", ('Cuide de quem corre do seu lado e quem te quer bem. Essa é a coisa mais pura! \uD83D\uDE09\uD83D\uDE09 (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Olha aí, o mundo girando e a gente se esbarrando outra vez. Olha aí, o meu coração indo contra a razão…\uD83D\uDE23\uD83D\uDE23\uD83D\uDE23 (Jorge e Mateus)','Loading...','Frases de Músicas ')\n" +
+                ", ('Pra quem tem fé a vida nunca tem fim… \uD83D\uDE4F (O Rappa)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quando eu penso ser meu fim, tu tens um recomeço… \uD83D\uDC46\uD83D\uDE09(Davi Sacer)','Loading...','Frases de Músicas ')\n" +
+                ", ('Nem sempre é tão fácil acertar… \uD83D\uDE10\uD83D\uDE15 (Aline Barros)','Loading...','Frases de Músicas ')\n" +
+                ", ('“Os erros são seus, as consequências também.” \uD83D\uDE24\uD83D\uDE24 (Catra)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem me dera ao menos uma vez, explicar o que ninguém consegue entender… \uD83D\uDE15\uD83D\uDE15 (Legião Urbana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Seu sorriso contagia. Tem amor dentro do coração! \uD83D\uDE0D❤ (Felipe Smu)','Loading...','Frases de Músicas ')\n" +
+                ", ('O melhor ainda está por vir! \uD83D\uDC4C\uD83D\uDC4C (Scorpions)','Loading...','Frases de Músicas ')\n" +
+                ", ('O amor é a paz de DEUS que nunca acaba! \uD83D\uDE4F\uD83D\uDE4F (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Você saiu, falou que nunca mais ia voltar… Que iria ser feliz sem mim, tá bom. Eu duvido! \uD83D\uDE0F\uD83D\uDE0F (Thaeme e Thiago)','Loading...','Frases de Músicas ')\n" +
+                ", ('Me deixa que hoje eu tô de bobeira! \uD83D\uDC4C\uD83D\uDE1B\uD83D\uDE1B (O Rappa)','Loading...','Frases de Músicas ')\n" +
+                ", ('Meu destino não é de ninguém… \uD83D\uDE24\uD83D\uDE24 (Capital Inicial)','Loading...','Frases de Músicas ')\n" +
+                ", ('Você sempre quis alguém que pudesse te fazer feliz… E esse alguém sou eu! ☝\uD83D\uDE01 (Turma do Pagode)','Loading...','Frases de Músicas ')\n" +
+                ", ('Deixa eu te mostrar o melhor que eu posso ser… \uD83D\uDE0A\uD83D\uDE09 (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não vou me arrepender do que ficou pra trás. (Livre Estou, Frozen)','Loading...','Frases de Músicas ')\n" +
+                ", ('Cresça, independente do que aconteça!  ✌✌(Natiruts)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quem é de verdade, sabe quem é de mentira! \uD83D\uDC4C\uD83D\uDC4C (CBJR)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não tome cuidado comigo, que eu não sou perigoso, viver é que é o grande perigo!  (Belchior)','Loading...','Frases de Músicas ')\n" +
+                ", ('Você me vira a cabeça, me tira do sério… \uD83D\uDE32\uD83D\uDE21(Alcione)','Loading...','Frases de Músicas ')\n" +
+                ", ('Deus me acompanhe Deus me ampare Deus me levante Deus me dê força.. \uD83D\uDE4F\uD83D\uDE4F (Rita Lee)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tudo tem o seu lugar, tudo tem a sua hora! ⏰⏳⏳ (Capital Inicial)','Loading...','Frases de Músicas ')\n" +
+                ", ('Tamo aí na luta, sem perder a esperança! ✌✌ (Charlie Brown Jr.)','Loading...','Frases de Músicas ')\n" +
+                ", ('O difícil é se conformar que um dia tudo acaba. (Guns N`Roses)','Loading...','Frases de Músicas ')\n" +
+                ", ('Se tudo passa, talvez você passe por aqui. (Engenheiros do Hawaii)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu já aguentei demais o mundo e os jogos irracionais das pessoas. (Incubus)','Loading...','Frases de Músicas ')\n" +
+                ", ('Agora todos me perguntam porque estou sorrindo de orelha a orelha… (Beyonce)','Loading...','Frases de Músicas ')\n" +
+                ", ('Se fosse mulher feia tava tudo certo, mulher bonita mexe com meu coração.. (Seu Jorge)','Loading...','Frases de Músicas ')\n" +
+                ", ('Só porque eu estou perdendo não significa que estou perdido. (Coldplay)','Loading...','Frases de Músicas ')\n" +
+                ", ('De hoje em diante todo dia vai ser o dia mais importante! (Legião Urbana)','Loading...','Frases de Músicas ')\n" +
+                ", ('Quero que você me faça sentir. Como se eu fosse a única garota no mundo. (Rihanna)','Loading...','Frases de Músicas ')\n" +
+                ", ('Buscando um novo rumo que faça sentido nesse mundo louco.. (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('Ah querida, você deveria simplesmente amar a si mesma! (Justin Bieber)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu só vejo os meus objetivos, eu não acredito em fracasso! (Lukas Graham)','Loading...','Frases de Músicas ')\n" +
+                ", ('Com você tudo é tão bom, não tenho medo de dizer que é amor! (João Bosco e Vinicuis)','Loading...','Frases de Músicas ')\n" +
+                ", ('Vamos fazer assim, eu cuido de você, você cuida de mim. (Lucas Lucco)','Loading...','Frases de Músicas ')\n" +
+                ", ('Na minha vida tudo acontece, mas quanto mais a gente rala, mais a gente cresce. (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não diga que a vitória está perdida, tenha fé em DEUS, tenha fé na vida.. (Tente Outra Vez)','Loading...','Frases de Músicas ')\n" +
+                ", ('É engraçado como um pouco de distância Faz tudo parecer pequeno! (Demi Lovato)','Loading...','Frases de Músicas ')\n" +
+                ", ('Meu riso é tão feliz contigo. O meu melhor amigo é o meu amor. (Tribalistas)','Loading...','Frases de Músicas ')\n" +
+                ", ('Procurei me manter afastado, mas você me conhece eu faço tudo errado. (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não adianta pedir desculpas, se não for mudar suas atitudes. (Linkin Park)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não existem regras e limites quando se trata de amor. (Lady Gaga)','Loading...','Frases de Músicas ')\n" +
+                ", ('Sextou, sextou… Hoje ninguém me acha, o celular descarregou. (Pedrinho Pegação)','Loading...','Frases de Músicas ')\n" +
+                ", ('Dica do Dia: Prefira os defeitos sinceros do que a falsa perfeição! (Wesley Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Nos teus olhos a verdade, faltou foi sinceridade, mim entreguei por inteiro, e você pela metade… (Wesley Safadão)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu juro que nunca vou te deixar. Você é o único que eu quero! (Adele)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu choro quando estou com raiva, e isso me irrita pra caralho. (Miley Cyrus)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não deixe ninguém destruir seus sonhos, mas não os realize pisando nas pessoas. (Katy Perry)','Loading...','Frases de Músicas ')\n" +
+                ", ('Existe sempre um outro jeito de se poder chegar… (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('Poucos vivem, a maioria existem pra falar dos que vivem! (Filipe Ret)','Loading...','Frases de Músicas ')\n" +
+                ", ('Chegou a hora de tratar as pessoas com o mesmo grau de importância que elas te tratam! (Renato Russo)','Loading...','Frases de Músicas ')\n" +
+                ", ('Eu nasci pobre, mas não nasci otário! (Charlie Brown Jr)','Loading...','Frases de Músicas ')\n" +
+                ", ('Não há um dia sequer que eu não deseje estar ao seu lado \uD83D\uDC8F pois eu não preciso de muito para me sentir feliz, Você já é o suficiente \uD83D\uDC49\uD83D\uDE0D  Amo você!','Loading...','Status para Namorado')\n" +
+                ", ('Você sabe quantos sorrisos já dei, só de pensar em você?\uD83D\uDE04\\nHá quem diga que quando o assunto é você, até meus olhos sorriem. \uD83D\uDE0D❤️','Loading...','Status para Namorado')\n" +
+                ", ('O mais engraçado foi não ter precisado de um primeiro beijo pra eu gostar tanto de você \uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('seu sorriso me transmite o que não é normal \uD83D\uDE0A quero você sempre do lado e ter seu amor \uD83D\uDC49❤️','Loading...','Status para Namorado')\n" +
+                ", ('Te amo tanto que não caberia em uma só vida ❤️❤️ Eu queria ter 10 vidas pra 10 vezes eu te amar ❤️\uD83D\uDC8F\\n(Projota)','Loading...','Status para Namorado')\n" +
+                ", ('Que eu possa caminhar contigo o mesmo caminho, que meus passos estejam sempre ao lado dos teus \uD83D\uDC8F\\nque sua mão jamais solte a minha… Meu amor é sempre seu ❤️\uD83D\uDE18 Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Meu riso é tão feliz contigo \uD83D\uDE04\uD83D\uDC8F Meu melhor amigo é o meu amor!\\nMeu ponto fraco é você \uD83D\uDE0D\uD83D\uDC49 Te amo!!','Loading...','Status para Namorado')\n" +
+                ", ('Toda história de amor é assim tem idas e voltas, o amor que torna as coisas possíveis e contorna qualquer obstáculo, se nós dois chegarmos juntos no fim, nada mais importa \uD83D\uDC8F Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Não da pra negar é você tem sido você e vai continuar sendo você…\uD83D\uDC98\uD83D\uDC49\\nMinha escolha, minha certeza, meu amo ❤️\uD83D\uDC4FTe amo!!','Loading...','Status para Namorado')\n" +
+                ", ('O melhor sorriso é aquele que vem sem querer toda vez que penso em você \uD83D\uDE0D\uD83D\uDE04\\nVocê é página mais linda que o destino escreveu na minha vida. Você é meu melhor lugar!\uD83D\uDE0D\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Sentimento verdadeiro, tão puro e especial, meu amor por você é assim ❤️\uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Obrigada por me fazer dormir sorrindo…\uD83D\uDE04\\nTe amo por isso e pelas mil outras coisas que ainda não te disse ❤️\uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Ser feliz pra mim não custa caro, se você ta do lado me sinto tão bem…\\nPor que eu te amo eu não sei, mas quero te amar cada vez mais \uD83D\uDE0D❤️\\n(Mateus e Kauan)','Loading...','Status para Namorado')\n" +
+                ", ('O que a gente sente está a cima de qualquer suspeita \uD83D\uDC4F❤️\\nNosso amor não precisa de platéia \uD83D\uDC8F\uD83D\uDE09 do nosso jeito torto, fica tudo certo \uD83D\uDE18\\n(Wesley Safadão)','Loading...','Status para Namorado')\n" +
+                ", ('Eu agradeço a Deus \uD83D\uDE4F por ter você aqui e ser o teu amor…❤️\\n(Henrique e Juliano)','Loading...','Status para Namorado')\n" +
+                ", ('Porque o meu ❤️ é mais seu \uD83D\uDC49 do que meu!','Loading...','Status para Namorado')\n" +
+                ", ('No significado da palavra “amor”, tá o seu nome ❤️\uD83D\uDC49 Te amo!!','Loading...','Status para Namorado')\n" +
+                ", ('Eu cuido de você, você de mim… A gente se cuida \uD83D\uDC8F❤️','Loading...','Status para Namorado')\n" +
+                ", ('Até o infinito fica pequeno quando se trata do sentimento que tenho por você ❤️\uD83D\uDE0D Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Você pra mim mostrou que eu não sou sozinha nesse mundo \uD83D\uDC8F\uD83D\uDC4F Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Amor que cresce mais a cada dia ❤️\uD83D\uDC4FTe amo muito!!','Loading...','Status para Namorado')\n" +
+                ", ('As vezes te odeio por quase um segundo, depois te amo mais…\uD83D\uDE09❤️','Loading...','Status para Namorado')\n" +
+                ", ('Você é o maior presente que Deus poderia me dar \uD83D\uDE0D\uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Não há alguém que me faça tão bem como você me faz \uD83D\uDC8F☺️','Loading...','Status para Namorado')\n" +
+                ", ('Nos meios dos meus erros, meu acerto foi você \uD83D\uDC8F\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Tenho comigo uma única certeza: Deus te fez pra mim \uD83D\uDC46\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Sorte do meu sorriso, ter você como motivo \uD83D\uDE03\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Não me canso de planejar uma vida com você \uD83D\uDC8F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Você não tem a menor noção do seu efeito sobre mim \uD83D\uDE0D\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('É tão lindo quando você sente que encontrou a pessoa certa. Quando você percebe que todas as suas orações à Deus foram atendidas! \uD83D\uDE4F\uD83D\uDE4F\uD83D\uDC96','Loading...','Status para Namorado')\n" +
+                ", ('Obrigada por me fazer feliz todos os dias \uD83D\uDE04\uD83D\uDE03','Loading...','Status para Namorado')\n" +
+                ", ('Só quero dizer que você é minha coisa mais favorita do mundo \uD83D\uDE1A\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Você é aquela coisa boa no meio da minha bagunça \uD83D\uDE18\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Seu beijo seria o refrão mais fácil de lembrar \uD83D\uDE18☺️\\n(projota)','Loading...','Status para Namorado')\n" +
+                ", ('Por que te amo, eu não sei…Mas quero te amar cada vez mais!\\n(Mateus e Kauan)','Loading...','Status para Namorado')\n" +
+                ", ('A sua loucura parece um pouco com a minha \uD83D\uDE1A\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Peço a Deus para nunca te perder \uD83D\uDE4F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Encontrei abrigo dentro do teu abraço ☺️\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Tem tanta coisa que eu quero viver com você…\uD83D\uDC8F\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Se tiver nós dois, pra mim já é o suficiente \uD83D\uDC4F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Que floresça amor em cada detalhe ❤️','Loading...','Status para Namorado')\n" +
+                ", ('Faz do meu sorriso, seu sorriso! Do meu abraço seu abrigo \uD83D\uDE04\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Ele é meu anjo. Só que sem asas \uD83D\uDE07\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('A gente não combina, a gente se completa \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Com você, o meu mundo é melhor \uD83D\uDC6B❤️','Loading...','Status para Namorado')\n" +
+                ", ('O tempo passa e o meu amor por você só aumenta a cada dia ❤️\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Quando eu notei já era amor, eu não imaginava ❤️❤️','Loading...','Status para Namorado')\n" +
+                ", ('Sei que o acaso fez de nós um caso de amor…❤️\uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Fica do meu lado que não falta amor…❤️','Loading...','Status para Namorado')\n" +
+                ", ('Cê sabe que eu sempre te quis \uD83D\uDC8F\\n(Projota)','Loading...','Status para Namorado')\n" +
+                ", ('Nem todos os anjos tem asas, as vezes eles tem apenas o dom de te fazer sorrir \uD83D\uDE03\uD83D\uDE07','Loading...','Status para Namorado')\n" +
+                ", ('Eu, você e um cantinho só nosso \uD83D\uDE18\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Vou pedir ao céus, você aqui comigo \uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Quando Deus quer, nada impede \uD83D\uDE4F❤️','Loading...','Status para Namorado')\n" +
+                ", ('Que o universo inteiro, conspire ao nosso favor \uD83D\uDC4F\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Só tenho que agradecer por você já existir\uD83D\uDC4F☺️','Loading...','Status para Namorado')\n" +
+                ", ('Que o tempo pare quando nós estivermos juntos \uD83D\uDC6B\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Se o amor bateu na nossa porta, que sorte a nossa \uD83D\uDE0D\uD83D\uDC6B\\n(Mateus e Kauan)','Loading...','Status para Namorado')\n" +
+                ", ('Quando é pra ser, até os ventos sopram a favor \uD83D\uDE04','Loading...','Status para Namorado')\n" +
+                ", ('Fazer do seu sorriso um abrigo! \uD83D\uDE0A☺','Loading...','Status para Namorado')\n" +
+                ", ('Porque eu te amo todos os dias, cada vez mais!\uD83D\uDC9B\uD83D\uDC99\uD83D\uDC9C','Loading...','Status para Namorado')\n" +
+                ", ('E mais nada, nem ninguém a não ser você… \uD83D\uDC49\uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Perto de você, é aonde eu quero estar.. \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Te querer por uma noite é pouco, te quero pra vida inteira \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Eu te amo de todas as maneiras que posso \uD83D\uDE09\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('De onde estou posso ver, o caminho que me leva a você \uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Eu descobri o que é amar pelo toque dos seus beijos \uD83D\uDE18\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Cada sorriso seu, sinto como se fosse meu \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('O lado bom da vida é todo dia acordar do teu lado \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Minha vida sem você não tem sentido \uD83D\uDE0A\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Nós ficamos lindos juntos \uD83D\uDE0A\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Eu faço tudo que quiser pra te fazer feliz \uD83D\uDE09\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('O meu amor é seu ❤️❤️','Loading...','Status para Namorado')\n" +
+                ", ('Ele é tudo o que ela quer. E ela é tudo o que ele precisa \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Você estará em cada pensamento meu \uD83D\uDE0A\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Você é a melhor parte dessa vida tão confusa \uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Algo me diz que nossa vibe combina \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('E eu cuidarei de você todos os dias \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Estarei ao seu lado, não importa o que aconteça \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Ela era diferente das outras. E ele sabia disso \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Você é assim, um sonho pra mim, quero te encher de beijos \uD83D\uDE18\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('E se não der certo, a gente fica junto errado mesmo \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Minha felicidade não tem preço, tem o seu nome \uD83D\uDE18\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Estranho seria se eu não me apaixonasse por você! \uD83C\uDFB6 (Cassia eller)','Loading...','Status para Namorado')\n" +
+                ", ('Deixa eu ser pra você tudo aquilo que você é pra mim! \uD83D\uDC43','Loading...','Status para Namorado')\n" +
+                ", ('Depois de você os outros são só os outros\uD83C\uDFB6 (Paula Toller)','Loading...','Status para Namorado')\n" +
+                ", ('E a cada novo sorriso teu, serei feliz por amar você! \uD83D\uDE0A\uD83D\uDE0D\uD83D\uDE04 (Paula Fernandes)','Loading...','Status para Namorado')\n" +
+                ", ('E a vida sorriu quando você chegou! \uD83D\uDE04\uD83D\uDE04\uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('Você mora mais no meu pensamento do que na sua própria casa… \uD83D\uDCAD\uD83D\uDCAD','Loading...','Status para Namorado')\n" +
+                ", ('Cuide de quem corre do seu lado e de quem te quer bem, essa é a coisa mais pura! \uD83D\uDC4C\uD83D\uDC4C (CBJR)','Loading...','Status para Namorado')\n" +
+                ", ('Eu por você, você por mim, e Deus por nós! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Me faz um favor? Cuida bem do meu coração ❤, pois ele pertence a você! \uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('E cada vez mais eu tenho certeza que a pessoa certa é você! \uD83D\uDE0D\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Nada em troca dessa união! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Status para Namorado')\n" +
+                ", ('Nossa conexão nunca vai ter fim‼','Loading...','Status para Namorado')\n" +
+                ", ('Tem gente que chega e muda os planos da gente! \uD83D\uDC98 (Cuã e mateus)','Loading...','Status para Namorado')\n" +
+                ", ('Só hoje pude entender que o meu ciúmes é menor que o amor por você! \uD83D\uDE10\uD83D\uDE10','Loading...','Status para Namorado')\n" +
+                ", ('Orar por quem você ama é uma das mais lindas provas de amor! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('É aquela vontade danada de andar de mãos dadas durante o dia e de pés dados durante a noite…\uD83D\uDE01\uD83D\uDE01','Loading...','Status para Namorado')\n" +
+                ", ('Se cuida.. Ou deixa eu te cuidar‼','Loading...','Status para Namorado')\n" +
+                ", ('Hoje eu preciso ouvir qualquer palavra tua, qualquer frase exagerada que me faça sentir alegria em estar vivo…‼ (jota quest)','Loading...','Status para Namorado')\n" +
+                ", ('Minha felicidade não tem preço, tem o seu nome! \uD83D\uDC49\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Ao seu lado não importa o que aconteça conseguirei achar motivos para me sentir feliz! \uD83D\uDE04\uD83D\uDE04\uD83D\uDE03\uD83D\uDE0A\uD83D\uDE00','Loading...','Status para Namorado')\n" +
+                ", ('Que as declarações sejam diárias e o amor seja constante ‼‼','Loading...','Status para Namorado')\n" +
+                ", ('Que vontade de te dar um beijo. Tomara que você já tenha aprendido a ler pensamentos!\uD83D\uDCAD\uD83D\uDCAD','Loading...','Status para Namorado')\n" +
+                ", ('Por trás de grandes namorados existem dois grandes amigos! \uD83D\uDC66\uD83D\uDC95\uD83D\uDC67','Loading...','Status para Namorado')\n" +
+                ", ('Eu gosto do labirinto dos seus braços. No pior dos casos: eu me perco em você! \uD83D\uDE0D\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('A maior felicidade é a certeza de sermos amados apesar de ser como somos! \uD83D\uDC4C','Loading...','Status para Namorado')\n" +
+                ", ('Nunca deixe de ter um sorriso em seu rosto, pois eu preciso dele! \uD83D\uDE04\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('O amor se renova e fortalece no namoro do dia-a-dia.. ‼','Loading...','Status para Namorado')\n" +
+                ", ('Porque eu te amo todos os dias, cada vez mais‼','Loading...','Status para Namorado')\n" +
+                ", ('Que o meu pra sempre seja com você… \uD83D\uDC49\uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Foi no seu abraço que eu me confortei, e é nele que eu quero permanecer, o resto da minha vida!\uD83D\uDC9E','Loading...','Status para Namorado')\n" +
+                ", ('E se você topar, os nossos defeitos vão se completar!! \uD83D\uDE01','Loading...','Status para Namorado')\n" +
+                ", ('Me sinto a mulher mais sortuda do mundo por ter você ao meu lado, Agradeço a Deus por te enviar para mim! \uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Juro que eu não quero mais ninguém, você me faz tão bem! ❤ (Anitta)','Loading...','Status para Namorado')\n" +
+                ", ('O teu abraço tem cheiro de lar! \uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Quando Deus abençoa, nada separa! \uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('E no meio de tanta gente eu encontrei você… \uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Você transformou minha vida e meu coração! \uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('Encontrei você na minha vida e tudo mudou para melhor! \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Minha Felicidade está em suas mãos, minha paz, meu mundo, minha vida ‼','Loading...','Status para Namorado')\n" +
+                ", ('Vem, me traz aquela paz! \uD83D\uDCAD\uD83D\uDCAD','Loading...','Status para Namorado')\n" +
+                ", ('Estar ao seu lado é ter a certeza de que vou sorrir ao menos uma vez ao dia! \uD83D\uDE04','Loading...','Status para Namorado')\n" +
+                ", ('Te conhecer foi a melhor coisa que me aconteceu, eu tenho sorte de ter você! \uD83D\uDE0D\uD83D\uDE3B','Loading...','Status para Namorado')\n" +
+                ", ('O melhor lugar do mundo é sempre ao lado de quem te faz feliz! \uD83D\uDE09\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Eu me apaixonei por suas qualidades e defeitos, não teve jeito ‼','Loading...','Status para Namorado')\n" +
+                ", ('Eu, você, nós, por toda a vida‼','Loading...','Status para Namorado')\n" +
+                ", ('Mesmo com todos os seus defeitos, eu continuo a te achar perfeito! \uD83D\uDE01\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Se for pra ser feliz, que seja com você… \uD83D\uDC4C\uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('Quebrou minha rotina, deu luz ao que não tinha! ☀','Loading...','Status para Namorado')\n" +
+                ", ('Meu sorriso não é o mais bonito e muito menos o mais perfeito. Mas ele é o mais sincero quando você é o motivo dele! ☺\uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Amor, paixão, carinho, amizade, cumplicidade, afeto, lealdade, fidelidade, respeito… Encontrei tudo isso em uma só pessoa, você!','Loading...','Status para Namorado')\n" +
+                ", ('Me faz um favor? Cuida bem do meu coração, pois ele pertence a você.','Loading...','Status para Namorado')\n" +
+                ", ('Ter você do meu lado é ter a certeza que não há melhor forma de começar o meu dia.','Loading...','Status para Namorado')\n" +
+                ", ('Eu não preciso de mil motivos para sorrir, você já é o suficiente.','Loading...','Status para Namorado')\n" +
+                ", ('Amar não é sofrer, amar é sonhar, viver e lutar junto com você.','Loading...','Status para Namorado')\n" +
+                ", ('Gostoso mesmo é encontrar o amor da sua vida, todos os dias, na mesma pessoa.','Loading...','Status para Namorado')\n" +
+                ", ('Às vezes me pego a pensar sobre todas as escolhas que fiz na vida, e com certeza, você foi a melhor delas.','Loading...','Status para Namorado')\n" +
+                ", ('Um momento não é tudo… Mas você é tudo em um só momento.','Loading...','Status para Namorado')\n" +
+                ", ('E a emoção do nosso amor, não dá pra ser contida. A força desse amor, não dá pra ser medida. Amar como eu te amo, só uma vez na vida.','Loading...','Status para Namorado')\n" +
+                ", ('E se disserem que o amor enfraquece com o tempo, diga a eles que o tempo não existe.','Loading...','Status para Namorado')\n" +
+                ", ('Os pequenos instantes que passo ao seu lado são os mais grandes e belos momentos em minha vida!','Loading...','Status para Namorado')\n" +
+                ", ('O melhor sentimento do mundo é ver alguém sorrir e saber que você é o motivo.','Loading...','Status para Namorado')\n" +
+                ", ('Posso passar muitos dias sem te ver, muitos dias sem te abraçar, mas isso nunca me fará parar de te amar.','Loading...','Status para Namorado')\n" +
+                ", ('Tenho comigo uma única certeza: Deus te fez pra mim! ','Loading...','Status para Namorado')\n" +
+                ", ('Eu te amo porque eu sei que ao teu lado, viverei os melhores momentos da minha vida.','Loading...','Status para Namorado')\n" +
+                ", ('Você é o maior presente que Deus poderia me dar. Te amo hoje e sempre!','Loading...','Status para Namorado')\n" +
+                ", ('A vida é minha. Mas o coração, é seu. O sorriso é meu. Mas o motivo, é você.','Loading...','Status para Namorado')\n" +
+                ", ('Eu posso desistir de tudo, menos de você.','Loading...','Status para Namorado')\n" +
+                ", ('Feliz é a mulher que tem o melhor amigo e o namorado no mesmo homem!','Loading...','Status para Namorado')\n" +
+                ", ('Amor é uma palavra que significa muito, mas nem metade do que eu sinto por você.','Loading...','Status para Namorado')\n" +
+                ", ('Você pode estar fora da minha vista… mas nunca fora da minha mente.','Loading...','Status para Namorado')\n" +
+                ", ('Se eu não puder estar com você, então eu prefiro não estar com mais ninguém.','Loading...','Status para Namorado')\n" +
+                ", ('A gente briga, a gente se ama, a gente vai e a gente volta. A gente é da gente e da gente ninguém tira.','Loading...','Status para Namorado')\n" +
+                ", ('Eu quero, junto com você, cumprir a seguinte promessa: ‘até que a morte os separe’.','Loading...','Status para Namorado')\n" +
+                ", ('Minha felicidade não tem preço, tem o seu nome.','Loading...','Status para Namorado')\n" +
+                ", ('Por trás de grandes namorados existem dois grandes amigos.','Loading...','Status para Namorado')\n" +
+                ", ('Posso estar no pior dia da minha vida, mesmo assim vou fazer de tudo para ver você sorrir.','Loading...','Status para Namorado')\n" +
+                ", ('Então, naquele dia que você me olhou. Me balançou por dentro, me virou o mundo! Percebi, tinha que ser você!','Loading...','Status para Namorado')\n" +
+                ", ('Dormir é bom, mas poderia ser melhor se fosse agarradinho com você.','Loading...','Status para Namorado')\n" +
+                ", ('Nem tudo na vida é para sempre, mas o meu amor por você é eterno.','Loading...','Status para Namorado')\n" +
+                ", ('Não há um dia sequer que eu não deseje estar ao seu lado \uD83D\uDC8F pois eu não preciso de muito para me sentir feliz, Você já é o suficiente \uD83D\uDC49\uD83D\uDE0D  Amo você!','Loading...','Status para Namorado')\n" +
+                ", ('Você sabe quantos sorrisos já dei, só de pensar em você?\uD83D\uDE04\\nHá quem diga que quando o assunto é você, até meus olhos sorriem. \uD83D\uDE0D❤️','Loading...','Status para Namorado')\n" +
+                ", ('O mais engraçado foi não ter precisado de um primeiro beijo pra eu gostar tanto de você \uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('seu sorriso me transmite o que não é normal \uD83D\uDE0A quero você sempre do lado e ter seu amor \uD83D\uDC49❤️','Loading...','Status para Namorado')\n" +
+                ", ('Te amo tanto que não caberia em uma só vida ❤️❤️ Eu queria ter 10 vidas pra 10 vezes eu te amar ❤️\uD83D\uDC8F\\n(Projota)','Loading...','Status para Namorado')\n" +
+                ", ('Que eu possa caminhar contigo o mesmo caminho, que meus passos estejam sempre ao lado dos teus \uD83D\uDC8F\\nque sua mão jamais solte a minha… Meu amor é sempre seu ❤️\uD83D\uDE18 Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Meu riso é tão feliz contigo \uD83D\uDE04\uD83D\uDC8F Meu melhor amigo é o meu amor!','Loading...','Status para Namorado')\n" +
+                ", ('Meu ponto fraco é você \uD83D\uDE0D\uD83D\uDC49 Te amo!!','Loading...','Status para Namorado')\n" +
+                ", ('Toda história de amor é assim tem idas e voltas, o amor que torna as coisas possíveis e contorna qualquer obstáculo, se nós dois chegarmos juntos no fim, nada mais importa \uD83D\uDC8F Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Não da pra negar é você tem sido você e vai continuar sendo você…\uD83D\uDC98\uD83D\uDC49\\nMinha escolha, minha certeza, meu amo ❤️\uD83D\uDC4FTe amo!!','Loading...','Status para Namorado')\n" +
+                ", ('O melhor sorriso é aquele que vem sem querer toda vez que penso em você \uD83D\uDE0D\uD83D\uDE04\\nVocê é página mais linda que o destino escreveu na minha vida. Você é meu melhor lugar!\uD83D\uDE0D\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Sentimento verdadeiro, tão puro e especial, meu amor por você é assim ❤️\uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Obrigada por me fazer dormir sorrindo…\uD83D\uDE04','Loading...','Status para Namorado')\n" +
+                ", ('Te amo por isso e pelas mil outras coisas que ainda não te disse ❤️\uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Ser feliz pra mim não custa caro, se você ta do lado me sinto tão bem…\\nPor que eu te amo eu não sei, mas quero te amar cada vez mais \uD83D\uDE0D❤️\\n(Mateus e Kauan)','Loading...','Status para Namorado')\n" +
+                ", ('O que a gente sente está a cima de qualquer suspeita \uD83D\uDC4F❤️\\nNosso amor não precisa de platéia \uD83D\uDC8F\uD83D\uDE09 do nosso jeito torto, fica tudo certo \uD83D\uDE18\\n(Wesley Safadão)','Loading...','Status para Namorado')\n" +
+                ", ('Eu agradeço a Deus \uD83D\uDE4F por ter você aqui e ser o teu amor…❤️\\n(Henrique e Juliano)','Loading...','Status para Namorado')\n" +
+                ", ('Porque o meu ❤️ é mais seu \uD83D\uDC49 do que meu!','Loading...','Status para Namorado')\n" +
+                ", ('No significado da palavra “amor”, tá o seu nome ❤️\uD83D\uDC49 Te amo!!','Loading...','Status para Namorado')\n" +
+                ", ('Eu cuido de você, você de mim… A gente se cuida \uD83D\uDC8F❤️','Loading...','Status para Namorado')\n" +
+                ", ('Até o infinito fica pequeno quando se trata do sentimento que tenho por você ❤️\uD83D\uDE0D Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Você pra mim mostrou que eu não sou sozinha nesse mundo \uD83D\uDC8F\uD83D\uDC4F Te amo!','Loading...','Status para Namorado')\n" +
+                ", ('Amor que cresce mais a cada dia ❤️\uD83D\uDC4FTe amo muito!!','Loading...','Status para Namorado')\n" +
+                ", ('As vezes te odeio por quase um segundo, depois te amo mais…\uD83D\uDE09❤️','Loading...','Status para Namorado')\n" +
+                ", ('Você é o maior presente que Deus poderia me dar \uD83D\uDE0D\uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Não há alguém que me faça tão bem como você me faz \uD83D\uDC8F☺️','Loading...','Status para Namorado')\n" +
+                ", ('Nos meios dos meus erros, meu acerto foi você \uD83D\uDC8F\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Tenho comigo uma única certeza: Deus te fez pra mim \uD83D\uDC46\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Sorte do meu sorriso, ter você como motivo \uD83D\uDE03\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Não me canso de planejar uma vida com você \uD83D\uDC8F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Você não tem a menor noção do seu efeito sobre mim \uD83D\uDE0D\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('É tão lindo quando você sente que encontrou a pessoa certa. Quando você percebe que todas as suas orações à Deus foram atendidas! \uD83D\uDE4F\uD83D\uDE4F\uD83D\uDC96','Loading...','Status para Namorado')\n" +
+                ", ('Obrigada por me fazer feliz todos os dias \uD83D\uDE04\uD83D\uDE03','Loading...','Status para Namorado')\n" +
+                ", ('Só quero dizer que você é minha coisa mais favorita do mundo \uD83D\uDE1A\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Você é aquela coisa boa no meio da minha bagunça \uD83D\uDE18\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Seu beijo seria o refrão mais fácil de lembrar \uD83D\uDE18☺️\\n(projota)','Loading...','Status para Namorado')\n" +
+                ", ('Por que te amo, eu não sei…Mas quero te amar cada vez mais!\\n(Mateus e Kauan)','Loading...','Status para Namorado')\n" +
+                ", ('A sua loucura parece um pouco com a minha \uD83D\uDE1A\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Peço a Deus para nunca te perder \uD83D\uDE4F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Encontrei abrigo dentro do teu abraço ☺️\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Tem tanta coisa que eu quero viver com você…\uD83D\uDC8F\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Se tiver nós dois, pra mim já é o suficiente \uD83D\uDC4F\uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Que floresça amor em cada detalhe ❤️','Loading...','Status para Namorado')\n" +
+                ", ('Faz do meu sorriso, seu sorriso! Do meu abraço seu abrigo \uD83D\uDE04\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Ele é meu anjo. Só que sem asas \uD83D\uDE07\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('A gente não combina, a gente se completa \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Com você, o meu mundo é melhor \uD83D\uDC6B❤️','Loading...','Status para Namorado')\n" +
+                ", ('O tempo passa e o meu amor por você só aumenta a cada dia ❤️\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Quando eu notei já era amor, eu não imaginava ❤️❤️','Loading...','Status para Namorado')\n" +
+                ", ('Sei que o acaso fez de nós um caso de amor…❤️\uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Fica do meu lado que não falta amor…❤️','Loading...','Status para Namorado')\n" +
+                ", ('Cê sabe que eu sempre te quis \uD83D\uDC8F\\n(Projota)','Loading...','Status para Namorado')\n" +
+                ", ('Nem todos os anjos tem asas, as vezes eles tem apenas o dom de te fazer sorrir \uD83D\uDE03\uD83D\uDE07','Loading...','Status para Namorado')\n" +
+                ", ('Eu, você e um cantinho só nosso \uD83D\uDE18\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Vou pedir ao céus, você aqui comigo \uD83D\uDC6B','Loading...','Status para Namorado')\n" +
+                ", ('Quando Deus quer, nada impede \uD83D\uDE4F❤️','Loading...','Status para Namorado')\n" +
+                ", ('Que o universo inteiro, conspire ao nosso favor \uD83D\uDC4F\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Só tenho que agradecer por você já existir\uD83D\uDC4F☺️','Loading...','Status para Namorado')\n" +
+                ", ('Que o tempo pare quando nós estivermos juntos \uD83D\uDC6B\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Se o amor bateu na nossa porta, que sorte a nossa \uD83D\uDE0D\uD83D\uDC6B\\n(Mateus e Kauan)','Loading...','Status para Namorado')\n" +
+                ", ('Quando é pra ser, até os ventos sopram a favor \uD83D\uDE04','Loading...','Status para Namorado')\n" +
+                ", ('Fazer do seu sorriso um abrigo! \uD83D\uDE0A☺','Loading...','Status para Namorado')\n" +
+                ", ('Porque eu te amo todos os dias, cada vez mais!\uD83D\uDC9B\uD83D\uDC99\uD83D\uDC9C','Loading...','Status para Namorado')\n" +
+                ", ('E mais nada, nem ninguém a não ser você… \uD83D\uDC49\uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Perto de você, é aonde eu quero estar.. \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Te querer por uma noite é pouco, te quero pra vida inteira \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Eu te amo de todas as maneiras que posso \uD83D\uDE09\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('De onde estou posso ver, o caminho que me leva a você \uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Eu descobri o que é amar pelo toque dos seus beijos \uD83D\uDE18\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Cada sorriso seu, sinto como se fosse meu \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('O lado bom da vida é todo dia acordar do teu lado \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Minha vida sem você não tem sentido \uD83D\uDE0A\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Nós ficamos lindos juntos \uD83D\uDE0A\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Eu faço tudo que quiser pra te fazer feliz \uD83D\uDE09\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('O meu amor é seu ❤️❤️','Loading...','Status para Namorado')\n" +
+                ", ('Ele é tudo o que ela quer. E ela é tudo o que ele precisa \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Você estará em cada pensamento meu \uD83D\uDE0A\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Você é a melhor parte dessa vida tão confusa \uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('Algo me diz que nossa vibe combina \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('E eu cuidarei de você todos os dias \uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Estarei ao seu lado, não importa o que aconteça \uD83D\uDC4F\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Ela era diferente das outras. E ele sabia disso \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Você é assim, um sonho pra mim, quero te encher de beijos \uD83D\uDE18\uD83D\uDE18','Loading...','Status para Namorado')\n" +
+                ", ('E se não der certo, a gente fica junto errado mesmo \uD83D\uDC8F','Loading...','Status para Namorado')\n" +
+                ", ('Minha felicidade não tem preço, tem o seu nome \uD83D\uDE18\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Estranho seria se eu não me apaixonasse por você! \uD83C\uDFB6 (Cassia eller)','Loading...','Status para Namorado')\n" +
+                ", ('Deixa eu ser pra você tudo aquilo que você é pra mim! \uD83D\uDC43','Loading...','Status para Namorado')\n" +
+                ", ('Depois de você os outros são só os outros\uD83C\uDFB6 (Paula Toller)','Loading...','Status para Namorado')\n" +
+                ", ('E a cada novo sorriso teu, serei feliz por amar você! \uD83D\uDE0A\uD83D\uDE0D\uD83D\uDE04 (Paula Fernandes)','Loading...','Status para Namorado')\n" +
+                ", ('E a vida sorriu quando você chegou! \uD83D\uDE04\uD83D\uDE04\uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('Você mora mais no meu pensamento do que na sua própria casa… \uD83D\uDCAD\uD83D\uDCAD','Loading...','Status para Namorado')\n" +
+                ", ('Cuide de quem corre do seu lado e de quem te quer bem, essa é a coisa mais pura! \uD83D\uDC4C\uD83D\uDC4C (CBJR)','Loading...','Status para Namorado')\n" +
+                ", ('Eu por você, você por mim, e Deus por nós! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Me faz um favor? Cuida bem do meu coração ❤, pois ele pertence a você! \uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('E cada vez mais eu tenho certeza que a pessoa certa é você! \uD83D\uDE0D\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Nada em troca dessa união! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Status para Namorado')\n" +
+                ", ('Nossa conexão nunca vai ter fim‼','Loading...','Status para Namorado')\n" +
+                ", ('Tem gente que chega e muda os planos da gente! \uD83D\uDC98 (Cuã e mateus)','Loading...','Status para Namorado')\n" +
+                ", ('Só hoje pude entender que o meu ciúmes é menor que o amor por você! \uD83D\uDE10\uD83D\uDE10','Loading...','Status para Namorado')\n" +
+                ", ('Orar por quem você ama é uma das mais lindas provas de amor! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('É aquela vontade danada de andar de mãos dadas durante o dia e de pés dados durante a noite…\uD83D\uDE01\uD83D\uDE01','Loading...','Status para Namorado')\n" +
+                ", ('Se cuida.. Ou deixa eu te cuidar‼','Loading...','Status para Namorado')\n" +
+                ", ('Hoje eu preciso ouvir qualquer palavra tua, qualquer frase exagerada que me faça sentir alegria em estar vivo…‼ (jota quest)','Loading...','Status para Namorado')\n" +
+                ", ('Minha felicidade não tem preço, tem o seu nome! \uD83D\uDC49\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('Ao seu lado não importa o que aconteça conseguirei achar motivos para me sentir feliz! \uD83D\uDE04\uD83D\uDE04\uD83D\uDE03\uD83D\uDE0A\uD83D\uDE00','Loading...','Status para Namorado')\n" +
+                ", ('Que as declarações sejam diárias e o amor seja constante ‼‼','Loading...','Status para Namorado')\n" +
+                ", ('Que vontade de te dar um beijo. Tomara que você já tenha aprendido a ler pensamentos!\uD83D\uDCAD\uD83D\uDCAD','Loading...','Status para Namorado')\n" +
+                ", ('Por trás de grandes namorados existem dois grandes amigos! \uD83D\uDC66\uD83D\uDC95\uD83D\uDC67','Loading...','Status para Namorado')\n" +
+                ", ('Eu gosto do labirinto dos seus braços. No pior dos casos: eu me perco em você! \uD83D\uDE0D\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('A maior felicidade é a certeza de sermos amados apesar de ser como somos! \uD83D\uDC4C','Loading...','Status para Namorado')\n" +
+                ", ('Nunca deixe de ter um sorriso em seu rosto, pois eu preciso dele! \uD83D\uDE04\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('O amor se renova e fortalece no namoro do dia-a-dia.. ‼','Loading...','Status para Namorado')\n" +
+                ", ('Porque eu te amo todos os dias, cada vez mais‼','Loading...','Status para Namorado')\n" +
+                ", ('Que o meu pra sempre seja com você… \uD83D\uDC49\uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Foi no seu abraço que eu me confortei, e é nele que eu quero permanecer, o resto da minha vida!\uD83D\uDC9E','Loading...','Status para Namorado')\n" +
+                ", ('E se você topar, os nossos defeitos vão se completar!! \uD83D\uDE01','Loading...','Status para Namorado')\n" +
+                ", ('Me sinto a mulher mais sortuda do mundo por ter você ao meu lado, Agradeço a Deus por te enviar para mim! \uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('Juro que eu não quero mais ninguém, você me faz tão bem! ❤ (Anitta)','Loading...','Status para Namorado')\n" +
+                ", ('O teu abraço tem cheiro de lar! \uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Quando Deus abençoa, nada separa! \uD83D\uDE4F','Loading...','Status para Namorado')\n" +
+                ", ('E no meio de tanta gente eu encontrei você… \uD83D\uDC49','Loading...','Status para Namorado')\n" +
+                ", ('Você transformou minha vida e meu coração! \uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('Encontrei você na minha vida e tudo mudou para melhor! \uD83D\uDC4F\uD83D\uDC4F','Loading...','Status para Namorado')\n" +
+                ", ('Minha Felicidade está em suas mãos, minha paz, meu mundo, minha vida ‼','Loading...','Status para Namorado')\n" +
+                ", ('Vem, me traz aquela paz! \uD83D\uDCAD\uD83D\uDCAD','Loading...','Status para Namorado')\n" +
+                ", ('Estar ao seu lado é ter a certeza de que vou sorrir ao menos uma vez ao dia! \uD83D\uDE04','Loading...','Status para Namorado')\n" +
+                ", ('Te conhecer foi a melhor coisa que me aconteceu, eu tenho sorte de ter você! \uD83D\uDE0D\uD83D\uDE3B','Loading...','Status para Namorado')\n" +
+                ", ('O melhor lugar do mundo é sempre ao lado de quem te faz feliz! \uD83D\uDE09\uD83D\uDE09','Loading...','Status para Namorado')\n" +
+                ", ('Eu me apaixonei por suas qualidades e defeitos, não teve jeito ‼','Loading...','Status para Namorado')\n" +
+                ", ('Eu, você, nós, por toda a vida‼','Loading...','Status para Namorado')\n" +
+                ", ('Mesmo com todos os seus defeitos, eu continuo a te achar perfeito! \uD83D\uDE01\uD83D\uDE0D','Loading...','Status para Namorado')\n" +
+                ", ('Se for pra ser feliz, que seja com você… \uD83D\uDC4C\uD83D\uDC98','Loading...','Status para Namorado')\n" +
+                ", ('Quebrou minha rotina, deu luz ao que não tinha! ☀','Loading...','Status para Namorado')\n" +
+                ", ('Meu sorriso não é o mais bonito e muito menos o mais perfeito. Mas ele é o mais sincero quando você é o motivo dele! ☺\uD83D\uDE0A\uD83D\uDE0A','Loading...','Status para Namorado')\n" +
+                ", ('O universo conspira a favor de quem não conspira contra ninguém \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Algumas tempestades chegam apenas para testar a força de nossas raízes. \uD83D\uDCAA\uD83D\uDE0C','Loading...','Frases de Otimismo')\n" +
+                ", ('A maneira como você encara a vida é que faz toda diferença. \uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('Relaxa, dias ruins são necessários para os bons valerem a pena! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Nem tudo na vida são flores. Ás vezes é um jardim inteiro. \uD83C\uDF3A','Loading...','Frases de Otimismo')\n" +
+                ", ('Sua mente pode ser seu amigo ou inimigo, você é quem escolhe. Ter otimismo é uma opção de vida.\uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Quando a gente quer muito, o universo se dobra às nossas vontades.\uD83D\uDE18\uD83D\uDC4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Acorde toda manhã com o pensamento de que algo maravilhoso está para acontecer. ☀️\uD83D\uDE0E','Loading...','Frases de Otimismo')\n" +
+                ", ('Se a gente colocar a nossa fé em ação, vai dar tudo certo! \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Mantenha o foco no objetivo, centralize a força para lutar e utilize a fé para vencer. \uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Que sejamos capazes de enxergar algo de bom em cada coisa ruim que nos acontecer. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('O melhor está por vir. Acredite! \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('O pessimismo é humor; o otimismo é vontade. \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('O segredo é um só: acreditar que tudo vai dar certo, porque vai! \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Otimismo')\n" +
+                ", ('O futuro pertence àqueles que acreditam na beleza dos seus sonhos. \uD83D\uDE18\uD83D\uDC4F','Loading...','Frases de Otimismo')\n" +
+                ", ('O destino é moldado pela força do pensamento, pense sempre positivo. ✌️\uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('A alegria está na luta, na tentativa, no sofrimento envolvido, não na vitória propriamente dita. \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('Se não posso estar onde quero, faço valer a pena onde estou.\uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Não são os grandes planos que dão certo. São os pequenos detalhes.\uD83D\uDE09✌️','Loading...','Frases de Otimismo')\n" +
+                ", ('Defeitos não fazem mal, quando há vontade e poder de os corrigir. \uD83D\uDE0E','Loading...','Frases de Otimismo')\n" +
+                ", ('Não espere pela coragem, ela nos encontra caminhando \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Ter otimismo é ter a certeza de que as coisas vão melhorar. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Quanto maior são as dificuldades a vencer, maior será a satisfação. \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('Pensamento positivo só leva a gente pra frente! ✌️\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Pense sempre consigo que não há sofrimento e sim lições de vida.\uD83D\uDE09✌️','Loading...','Frases de Otimismo')\n" +
+                ", ('O otimista acredita que vivemos no melhor dos mundos. O pessimista teme que isto seja verdade. ✌️\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Traçar objetivos diários é primordial no bom relacionamento e conclusão das metas. \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('Ame o que faz e não terás de trabalhar um dia em tua vida. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('O otimismo é como a saúde da alma.\uD83D\uDE07','Loading...','Frases de Otimismo')\n" +
+                ", ('O homem deve criar as oportunidades e não somente encontrá-las. ✌️','Loading...','Frases de Otimismo')\n" +
+                ", ('Acreditar é a única forma de alcançar… \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Tenha otimismo, só não fuja da realidade. \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Eu não tenho muitas respostas. O que eu tenho é fé e otimismo. \uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Há urgente necessidade de que a fé, a esperança e o otimismo renasçam nos ❤️❤️','Loading...','Frases de Otimismo')\n" +
+                ", ('Há pessoas que choram por saber que as rosas têm espinho, Há outras que sorriem por saber que os espinhos têm rosas. \uD83C\uDF39','Loading...','Frases de Otimismo')\n" +
+                ", ('O pessimista é um otimista com experiência… \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Otimismo é esperar pelo melhor. Confiança é saber lidar com o pior. \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Não é só porque o céu está nublado, que as estrelas morreram.⭐️','Loading...','Frases de Otimismo')\n" +
+                ", ('O otimismo é a fé em ação. Nada se pode levar a efeito sem otimismo. \uD83D\uDE4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Há urgente necessidade de que a fé, a esperança e o otimismo renasçam nos ❤️❤️','Loading...','Frases de Otimismo')\n" +
+                ", ('Você pode fazer tudo que quiser, se você for otimista. \uD83D\uDE0E\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('É sempre melhor ser otimista do que pessimista. Até que tudo dê errado, o otimista sofreu menos. \uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('Otimismo é a louca paixão de sustentar que tudo está bem quando está mal. \uD83D\uDE18\uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('O otimista pode até errar, mas o pessimista já começa errando. \uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('O lugar onde o otimismo floresce melhor é o asilo de loucos. \uD83D\uDE1C\uD83D\uDE0E','Loading...','Frases de Otimismo')\n" +
+                ", ('Diante da dificuldade você se transforma num grande guerreiro!  \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Insista! Muitas vezes só a última chave abre a porta para seu sucesso. \uD83D\uDC4A\uD83D\uDD11','Loading...','Frases de Otimismo')\n" +
+                ", ('Deus é forte, Ele é grande, e quando Ele quer não tem quem não queira.  \uD83D\uDE4C\uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Tudo é possível àquele que crê. \uD83D\uDE4F','Loading...','Frases de Otimismo')\n" +
+                ", ('Se nada der certo hoje, amanhã eu acordo mais cedo e tento novamente.  \uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('A gente tem é que sonhar, senão as coisas não acontecem. \uD83D\uDE09','Loading...','Frases de Otimismo')\n" +
+                ", ('Ter esperança é ter a certeza de que as coisas vão melhorar.  \uD83D\uDE09\uD83D\uDC4C\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('Continue seguindo em frente. \uD83D\uDC4D\uD83D\uDEB6','Loading...','Frases de Otimismo')\n" +
+                ", ('Vencedor não é aquele que sempre vence, mas sim aquele que nunca para de lutar.  \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Objetivo do dia: ser uma pessoa melhor. Não perfeito, apenas melhor que ontem! \uD83D\uDC4F\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('A tua mente revela os sonhos que os dias penduram nos pregos da realidade para a tua vontade torná-los nítidos.\uD83D\uDE18\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('Tudo vai dar certo, e se não der, vai valer a pena porque você tentou.  \uD83D\uDC4D\uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Quem pensa pequeno constrói castelos de areia, quem pensa grande faz da vida uma imensa fortaleza. \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Vou reunir todos os meus desejos e fazer deles a chama para conquistar as coisas que sempre sonhei. \uD83D\uDC4C','Loading...','Frases de Otimismo')\n" +
+                ", ('Já que você existe, faça da sua existência a razão para encontrar um norte que valha a sua passagem por esta terra. \uD83C\uDF0D\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('Ser otimista é poder contar com o poder da mais perfeita oração. \uD83D\uDE4F\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('Jamais desista de qualquer coisa nesta vida, a não ser que pretenda ser um retrato do fracasso. \uD83D\uDE29','Loading...','Frases de Otimismo')\n" +
+                ", ('Decida pelo caminho certo, mantenha o otimismo que a luz vai brilhar em teu caminho.  ✌\uD83D\uDE0C','Loading...','Frases de Otimismo')\n" +
+                ", ('Acenda a vontade de vencer com o otimismo de acreditar em si próprio! \uD83D\uDE0C\uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Otimismo')\n" +
+                ", ('Nada nesta vida se consegue sem uma boa dose de otimismo…  \uD83D\uDC4A✌','Loading...','Frases de Otimismo')\n" +
+                ", ('O otimismo é o antídoto contra o desânimo e fraqueza!  \uD83D\uDC4A\uD83D\uDE12','Loading...','Frases de Otimismo')\n" +
+                ", ('Vou conseguir tudo o que quero, pois tenho comigo o segredo da persistência. \uD83D\uDC4A\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('Você tem todo o poder de mudar o curso de tua vida, mesmo que ele lhe sido dado como sina!  \uD83D\uDC4C','Loading...','Frases de Otimismo')\n" +
+                ", ('Tenho tanto otimismo que vou construir um castelo com as pedradas que levei…\uD83D\uDE01\uD83D\uDC4C','Loading...','Frases de Otimismo')\n" +
+                ", ('Ser otimista é acreditar que mesmo um barco com casco furado é capaz de navegar sobre ondas furiosas… \uD83D\uDC4D\uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Todos os nossos sonhos podem vir a ser verdadeiros – se tivermos a coragem de segui-los. ✌\uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('O otimista erra tanto quanto o pessimista, mas não sofre por antecipação. \uD83D\uDE14\uD83D\uDE14','Loading...','Frases de Otimismo')\n" +
+                ", ('Quando você quer alguma coisa, todo o Universo conspira para que você realize o seu desejo. \uD83D\uDC4D','Loading...','Frases de Otimismo')\n" +
+                ", ('O pessimista vê dificuldade em cada oportunidade. O otimista vê oportunidade em cada dificuldade. \uD83D\uDC4A','Loading...','Frases de Otimismo')\n" +
+                ", ('Nada nessa vida é impossível pra mim, eu nasci pra conquistar.  \uD83D\uDC4C\uD83D\uDC4A','Loading...','Frases de Otimismo');";
+        return frase;
+    }
+    public static String carregarFrases21() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Você faz suas escolhas, e suas escolhas fazem você \uD83D\uDE0E\\n(Steve Beckman)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe \uD83D\uDC4C\\n(Oscar Wide)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A paz, se possível, mas a verdade a qualquer preço ✌️\uD83D\uDE18\\n(Lutero)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A gente é o que a gente escolhe ser. O destino pouco tem a ver com isso \uD83D\uDE18\uD83D\uDE09\\n(Pedro Bial)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Tenho em mim todos os sonhos do mundo \uD83D\uDE18\\n(Fernando Pessoa)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Ser feliz sem motivo é a mais autêntica forma de felicidade \uD83D\uDE03\uD83D\uDE03\\n(Carlos Drummond de Andrade)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Ninguém cruza nosso caminho por acaso e nós não entramos na vida de alguém sem nenhuma razão \uD83D\uDE18\uD83D\uDE0E\\n(Chico Xavier)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Não há fatos eternos, como não há verdades absolutas ✌️\\n(Friedrich Nietzsche)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Nossas dúvidas são traidoras e nos fazem perder o que, com frequência, poderíamos ganhar, por simples medo de arriscar ✌️\uD83D\uDE18\\n(William Shakespeare)','Loading...','Frases de Pensamentos')\n" +
+                ", ('É melhor calar-se e deixar que as pessoas pensem que você é um idiota do quer falar e acabar com a dúvida \uD83D\uDC4C\\n(Abraham Lincoln)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Tão bom morrer de amor! E continuar vivendo…❤️\\n(Mario Quintana)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A imaginação é mais importante que o conhecimento \uD83D\uDE09\uD83D\uDE09\\n(Albert Einstein)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Para um mau entendedor, todas palavras não bastam \uD83D\uDE18\uD83D\uDE0E\\n(Elan klever)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A ação nem sempre traz felicidade, mas não há felicidade sem ação ✌️\uD83D\uDE09\\n(Benjamin Disraeli)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Lutar pelo amor é bom, mas alcançá-lo sem luta é melhor ❤️\uD83D\uDE09\\n(William Shakespeare)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Cada um pensa em mudar a humanidade, mas ninguém pensa em mudar a si mesmo \uD83D\uDE18\uD83D\uDE18\\n(Leon Tolstoi)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A vida é maravilhosa se não se tem medo dela \uD83D\uDE09\uD83D\uDE0E\\n(Charles Chaplin)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Difícil não é ser alguém. Difícil é ser quem a gente é \uD83D\uDE09\\n(Pedro Bial)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A liberdade, quando começa a criar raízes, é uma planta de crescimento rápido ✌️\\n(George Washington)','Loading...','Frases de Pensamentos')\n" +
+                ", ('A longo prazo, todos estaremos mortos \uD83D\uDE23\\n(John Maynard Keynes)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Às vezes ouço passar o vento; e só de ouvir o vento passar, vale a pena ter nascido \uD83D\uDE18\uD83D\uDE09\\n(Fernando Pessoa)','Loading...','Frases de Pensamentos')\n" +
+                ", ('Que as escolhas sejam elegantes, que os momentos sejam marcantes\\ne a vida seja ainda mais interessante \uD83D\uDE0E❤️\uD83D\uDC4F','Loading...','Frases para Perfil')\n" +
+                ", ('Mente vingativa, tanta rebeldia deixa ela ainda mais linda! \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Coração frio, mente blindada! ❤️\uD83D\uDE0E','Loading...','Frases para Perfil')\n" +
+                ", ('Proibido estacionar na vida…\uD83D\uDEAB','Loading...','Frases para Perfil')\n" +
+                ", ('Eu não aceito críticas mas sim amor','Loading...','Frases para Perfil')\n" +
+                ", ('Essa coisa de ser uma pessoa fria não funciona comigo\\nSuspeito que meu ❤️  seja um ☀️','Loading...','Frases para Perfil')\n" +
+                ", ('Não se despedace para manter os outros inteiros \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Recomeçar faz parte do viver…\uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases para Perfil')\n" +
+                ", ('Por muito tempo fui tudo que pude, agora sou tudo que quero \uD83D\uDE0E','Loading...','Frases para Perfil')\n" +
+                ", ('Seja Gentil mantenha-se humilde, sorria com frequência, nunca pare de aprender, valorize cada dia \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases para Perfil')\n" +
+                ", ('Agradecer mais, pedir menos…\uD83D\uDE4F\uD83D\uDC4F','Loading...','Frases para Perfil')\n" +
+                ", ('Ela é doce, sal, bala \uD83D\uDC44','Loading...','Frases para Perfil')\n" +
+                ", ('Você não pode simplesmente pular para o final o caminho é a melhor parte \uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('A beleza começa quando você decide ser você mesmo \uD83D\uDE09\uD83D\uDE0E','Loading...','Frases para Perfil')\n" +
+                ", ('Para bom sonhador, meia realidade basta…\uD83D\uDE0D','Loading...','Frases para Perfil')\n" +
+                ", ('A confiança é um ato de fé e essa dispensa raciocínio \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Será que eu já posso enlouquecer ou devo apenas sorrir? \uD83D\uDE04\uD83D\uDE1C','Loading...','Frases para Perfil')\n" +
+                ", ('É difícil aprisionar os que tem asas \uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('E todos os dias ficarei tão alegre que incomodarei os outros \uD83D\uDE04\uD83D\uDE0E','Loading...','Frases para Perfil')\n" +
+                ", ('As pessoas não são maravilhosas, nós é quem fazemos elas parecerem, ser \uD83D\uDE0C\uD83D\uDE0D','Loading...','Frases para Perfil')\n" +
+                ", ('All the best people are crazy (As melhores pessoas são loucas) \uD83D\uDE1C\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('O que você tem de diferente é o que você tem de mais bonito \uD83D\uDE0D\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Se tudo que é demais transborda. Então ame demais e transborde amor. ❤️❤️','Loading...','Frases para Perfil')\n" +
+                ", ('Lembranças más vem, pensamentos bons vai…\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Não me pergunte quem sou e não me diga para permanecer o mesmo. \uD83D\uDE09\uD83D\uDE14','Loading...','Frases para Perfil')\n" +
+                ", ('Só é lutador quem sabe lutar consigo mesmo. \uD83D\uDE14\uD83D\uDC4A','Loading...','Frases para Perfil')\n" +
+                ", ('A vida é mesmo uma festa ou você se diverte ou você dança \uD83D\uDE18','Loading...','Frases para Perfil')\n" +
+                ", ('Quando somos bons para os outros somos ainda melhores para nós. \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases para Perfil')\n" +
+                ", ('Eu passei a vê o mundo de outra maneira, não foi ele que mudou fui eu. \uD83C\uDF0D\uD83D\uDC4D','Loading...','Frases para Perfil')\n" +
+                ", ('Um dia você ainda vai olhar pra trás e vê que os problemas eram só degraus que te levaram a vitória \uD83D\uDC4A','Loading...','Frases para Perfil')\n" +
+                ", ('Seja de verdade em tudo que você faz. \uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('ACIMA DE TUDO E ABAIXO DE DEUS! \uD83D\uDE09\uD83D\uDE4F','Loading...','Frases para Perfil')\n" +
+                ", ('Tente mover o mundo, o primeiro passo será mover a si mesmo. \uD83C\uDF0D✌','Loading...','Frases para Perfil')\n" +
+                ", ('Quando eu me pergunto quem sou eu, sou o que pergunta ou o que não sabe a resposta? \uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Em toda a parte só se aprende com quem se gosta. ❤\uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Muitas vezes erra não apenas quem faz, mas também quem deixa de fazer alguma coisa. \uD83D\uDE0C\uD83D\uDE14','Loading...','Frases para Perfil')\n" +
+                ", ('Ninguém tem o direito de me julgar a não ser eu mesmo. Eu me pertenço e de mim faço o que bem entender. \uD83D\uDE0C\uD83D\uDE0C\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Morre lentamente quem não viaja, quem não lê, quem não ouve música e quem não acha graça de si mesmo \uD83D\uDE11\uD83D\uDC4E.','Loading...','Frases para Perfil')\n" +
+                ", ('Mesmo tendo juízo não faço tudo certo.Todo paraíso precisa um pouco de inferno \uD83D\uDE08','Loading...','Frases para Perfil')\n" +
+                ", ('Eu não me importo com o que os outros pensam sobre o que eu faço, mas eu me importo muito com o que eu penso sobre o que eu faço. Isso é caráter. \uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Eu acredito demais na sorte. E tenho constatado que, quanto mais duro eu trabalho, mais sorte eu tenho. \uD83D\uDC4A\uD83D\uDC4D','Loading...','Frases para Perfil')\n" +
+                ", ('Porque eu sou do tamanho daquilo que sinto, que vejo e que faço, não do tamanho que as pessoas me enxergam. \uD83D\uDC46\uD83D\uDC4A','Loading...','Frases para Perfil')\n" +
+                ", ('A única verdade é que vivo.Sinceramente, eu vivo. Quem sou? Bem, isso já é demais \uD83D\uDE18\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('É curioso não saber dizer quem sou. Quer dizer, sei-o bem, mas não posso dizer. Sobretudo tenho medo de dizer porque no momento em que tento falar não só não exprimo o que sinto como o que sinto se transforma lentamente no que eu digo \uD83D\uDE04','Loading...','Frases para Perfil')\n" +
+                ", ('Sempre precisei De um pouco de atenção Acho que não sei quem sou Só sei do que não gosto.. \uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('E que fique muito mal explicado.Não faço força para ser entendido.Quem faz sentido é soldado… \uD83D\uDE0A\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Entende quando eu digo, que sou uma mulher madura que brinca de balanço e ao mesmo tempo uma criança insegura que anda de salto alto \uD83D\uDE0A\uD83D\uDC60\uD83D\uDE18','Loading...','Frases para Perfil')\n" +
+                ", ('Sou como o vidro ,se cair eu quebro ,mas se pisar eu te corto \uD83D\uDC4A','Loading...','Frases para Perfil')\n" +
+                ", ('Perfeita da medida para acabar com a sua vida! ✌\uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Elogios não me elevam,critícas não me rebaixam,sou o q sou,não o q acham… \uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Não me iludo om elogios nem vou abaixo com críticas. Tenho consciência de quem sou e isso basta para mim. \uD83D\uDC4C\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Não se importe com o que vão pensar de você, faça o que você quizer e se preocupe com sua felicidade \uD83D\uDE09\uD83D\uDE03','Loading...','Frases para Perfil')\n" +
+                ", ('Não me julgue pelo meu sucesso, me julgue por quantas vezes eu cair e conseguir me levantar. \uD83D\uDC46\uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Pela fé eu verei meus sonhos realizado por Deus. \uD83D\uDE4F\uD83D\uDC46','Loading...','Frases para Perfil')\n" +
+                ", ('Das habilidades que o mundo sabe, essa ainda, sem sombras de dúvidas é a melhor: Dar voltas. \uD83C\uDF0D\uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Prefiro ser odiada pelo que sou, do que amada pelo que eu não sou. \uD83D\uDE0C\uD83D\uDE14','Loading...','Frases para Perfil')\n" +
+                ", ('Mude, mas comece devagar, porque a direção é mais importante que a velocidade \uD83D\uDE09✌','Loading...','Frases para Perfil')\n" +
+                ", ('Depois que aprendi pensar por mim mesmo, nunca mais pensei igual aos outros. \uD83D\uDC49\uD83D\uDC48\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Eu peço a Deus tudo o que eu quero e preciso. É o que me cabe. Eu não tenho o poder. Tenho a prece. \uD83D\uDE09\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases para Perfil')\n" +
+                ", ('Tenho meus limites. O primeiro deles é meu amor-próprio. ❤\uD83D\uDE18\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('E todos os dias ficarei tão alegre que incomodarei os outros. \uD83D\uDE04','Loading...','Frases para Perfil')\n" +
+                ", ('Palavras até me conquistam temporariamente, mas atitudes me ganham sempre. \uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Sou abraços, sorrisos, ânimo, bom humor, sarcasmo, preguiça e agora sono. \uD83D\uDE09\uD83D\uDE04☺\uD83D\uDE34\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Naturalmente sou irritável, naturalmente meu humor não é brilhante, mas de um modo geral eu sou alegre. \uD83D\uDE09\uD83D\uDE04','Loading...','Frases para Perfil')\n" +
+                ", ('Você nasce sem pedir e morre sem querer, Aproveite o intervalo. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Aproveite cada minuto por que o tempo não volta o que volta é a vontade de voltar no tempo.\uD83D\uDE09⏰\uD83D\uDC4D','Loading...','Frases para Perfil')\n" +
+                ", ('Torço pela felicidade dos outros gente feliz não enche o saco. \uD83D\uDC4D\uD83D\uDE06\uD83D\uDE04','Loading...','Frases para Perfil')\n" +
+                ", ('Felicidade não se expõe se vive \uD83D\uDE04\uD83D\uDC4D','Loading...','Frases para Perfil')\n" +
+                ", ('Felicidade é a combinação de sorte com escolhas bem feitas. \uD83D\uDC4C\uD83D\uDE03','Loading...','Frases para Perfil')\n" +
+                ", ('Quando faltar sorte faça sobrar atitude o azar morre de medo de pessoas determinadas. \uD83D\uDC4A','Loading...','Frases para Perfil')\n" +
+                ", ('Que a minha felicidade não dependa da má vontade alheia ✌\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Você nunca será bom o suficiente para todos \uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Para ser feliz: Perdoe como você gostaria de ser perdoado, ame como você gostaria de ser amado, faça somente o que você gostaria que fizessem com você. \uD83D\uDE04\uD83D\uDE09\uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Que a felicidade vire rotina. \uD83D\uDE06\uD83D\uDE03\uD83D\uDE04','Loading...','Frases para Perfil')\n" +
+                ", ('Corpo bonito é aquele que tem uma pessoa feliz dentro dele. \uD83D\uDC4C\uD83D\uDE04','Loading...','Frases para Perfil')\n" +
+                ", ('O mundo fica mais bonito quando a gente carrega coisas boas no peito. \uD83D\uDC4D❤\uD83D\uDE18','Loading...','Frases para Perfil')\n" +
+                ", ('Durma com idéias acorde com atitudes. \uD83D\uDE34\uD83D\uDE1D\uD83D\uDC4D','Loading...','Frases para Perfil')\n" +
+                ", ('Molduras boas não salvam quadros ruins \uD83D\uDE18','Loading...','Frases para Perfil')\n" +
+                ", ('As coisas boas vem com o tempo as melhores de repente. \uD83D\uDE0D\uD83D\uDC4D\uD83D\uDE18','Loading...','Frases para Perfil')\n" +
+                ", ('Se você não acredita no seu sucesso ninguém pode acreditar por você. \uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('Como são admiravéis as pessoas que nós não conhecemos bem. \uD83D\uDE0C','Loading...','Frases para Perfil')\n" +
+                ", ('Quando a biblía diz para vigiar não é a vida dos outros é a sua.. \uD83D\uDE0C\uD83D\uDE33\uD83D\uDE09','Loading...','Frases para Perfil')\n" +
+                ", ('Defeitos não fazem mal quando a vontade e desejo de corrigi-los. \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases para Perfil')\n" +
+                ", ('A mudança não é dolorosa a resistência a mudança é. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases para Perfil')\n" +
+                ", ('Posso até cair mil vezes, mas nada vai me impedir de levantar mil vezes de novo!','Loading...','Frases de Positividade')\n" +
+                ", ('Não sabendo que era impossível, ele foi lá e fez.','Loading...','Frases de Positividade')\n" +
+                ", ('Agora é deixar pra trás as coisas ruins e bola pra frente. Positividade sempre.','Loading...','Frases de Positividade')\n" +
+                ", ('Já perdi as contas de quantas vezes eu disse “desisto” e continuei insistindo.','Loading...','Frases de Positividade')\n" +
+                ", ('Dias melhores virão , positividade sempre no coração!','Loading...','Frases de Positividade')\n" +
+                ", ('Se for pra ser, será. Se tá demorando, é porque o melhor ainda está por vir.','Loading...','Frases de Positividade')\n" +
+                ", ('O melhor está por vir. Acredite!','Loading...','Frases de Positividade')\n" +
+                ", ('Querido passado, obrigado por tudo que me ensinou… Querido futuro, pode vir!','Loading...','Frases de Positividade')\n" +
+                ", ('Enquanto houver alguém que acredite em uma ideia, a ideia viverá!','Loading...','Frases de Positividade')\n" +
+                ", ('É necessário sempre acreditar que o sonho é possível, que o céu é o limite e você é imbatível.','Loading...','Frases de Positividade')\n" +
+                ", ('Não existem impossíveis quando o sonho comanda a vida. Acredite e lute!','Loading...','Frases de Positividade')\n" +
+                ", ('Esquece, levanta a cabeça. Segue em frente. Amanhã é um novo dia.','Loading...','Frases de Positividade')\n" +
+                ", ('O limite é uma fronteira criada somente pela mente.','Loading...','Frases de Positividade')\n" +
+                ", ('O segredo do sucesso é positividade, paciência, persistência e fé em DEUS!','Loading...','Frases de Positividade')\n" +
+                ", ('O mundo está nas mãos daqueles que têm a coragem de sonhar e de correr o risco de viver seus sonhos.','Loading...','Frases de Positividade')\n" +
+                ", ('Persista! Se tudo fosse fácil, qualquer um conseguiria.','Loading...','Frases de Positividade')\n" +
+                ", ('Eu nasci para ser feliz, não para ser normal!','Loading...','Frases de Positividade')\n" +
+                ", ('Em cada queda há uma oportunidade para levantar mais forte.','Loading...','Frases de Positividade')\n" +
+                ", ('Acredite: tudo tem seu tempo.','Loading...','Frases de Positividade')\n" +
+                ", ('Não desista. Geralmente é a última chave no chaveiro que abre a porta.','Loading...','Frases de Positividade')\n" +
+                ", ('As soluções não caem do céu. Mas a sua força deve vir de lá!','Loading...','Frases de Positividade')\n" +
+                ", ('Aqueles que podem é porque pensam que podem.','Loading...','Frases de Positividade')\n" +
+                ", ('Perguntas-me qual foi o segredo do meu progresso? Comecei a ser amigo de mim mesmo!','Loading...','Frases de Positividade')\n" +
+                ", ('O essencial é estar bem consigo mesmo.','Loading...','Frases de Positividade')\n" +
+                ", ('O destino não é uma questão de sorte. É uma questão de escolha.','Loading...','Frases de Positividade')\n" +
+                ", ('O caminho é longo, mas a vitória é certa. Desistir nunca!','Loading...','Frases de Positividade')\n" +
+                ", ('Não há mal que dure para sempre.','Loading...','Frases de Positividade')\n" +
+                ", ('Impossível é o caralho. Eu tenho fé, eu acredito, eu posso, eu quero, eu consigo.','Loading...','Frases de Positividade')\n" +
+                ", ('O melhor acontece quando você menos espera.','Loading...','Frases de Positividade')\n" +
+                ", ('Adoro café quente. Principalmente se for pra jogar na sua cara!','Loading...','Frases sobre Raiva')\n" +
+                ", ('Ninguém viveu minha vida, ninguém chorou minhas lágrimas. Então não me julgue.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Nada contra, só queria que você desaparecesse por um curto período de 50 anos.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Eu observo, porque dar tiro ainda é crime!','Loading...','Frases sobre Raiva')\n" +
+                ", ('Adoro aquele som que você faz quando cala a boca. ','Loading...','Frases sobre Raiva')\n" +
+                ", ('E se eu pudesse voltar no passado mudaria tudo, inclusive o dia que eu disse que te amava.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Sabe o que é desnecessário? Você respirar…','Loading...','Frases sobre Raiva')\n" +
+                ", ('Com palavras você me critica? Com atitudes eu calo sua boca.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Odeio lições de moral especialmente de quem não tem moral!','Loading...','Frases sobre Raiva')\n" +
+                ", ('Às vezes 1 minuto é capaz de destruir 23 horas e 59 minutos.','Loading...','Frases sobre Raiva')\n" +
+                ", ('E o prêmio de maior decepção do ano vai para… MIM. Parabéns por ter sido tão cega!','Loading...','Frases sobre Raiva')\n" +
+                ", ('Se eu pudesse eu pegava a dor. Colocava dentro de um envelope e devolvia ao remetente!','Loading...','Frases sobre Raiva')\n" +
+                ", ('Só não bato em umas cachorras, porque maltratar animais é crime.','Loading...','Frases sobre Raiva')\n" +
+                ", ('A maior decepção é aquela que vem de quem nunca esperamos.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Tudo na vida tem um começo, um meio, e um foda-se.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Se eu pudesse escolher, eu morreria um dia antes de te ter conhecido.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Honestidade é um presente caro. Não espere isso de pessoas baratas.','Loading...','Frases sobre Raiva')\n" +
+                ", ('“Não gosto das suas postagens”. Véi, eu não gosto da sua cara e não tô reclamando','Loading...','Frases sobre Raiva')\n" +
+                ", ('Não posso escolher como me sinto, mas posso escolher o que fazer a respeito.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Decepções são apenas uma forma de Deus dizer: Eu tenho algo melhor para você.','Loading...','Frases sobre Raiva')\n" +
+                ", ('4:20 é a hora que sua mãe levanta pra te sustentar, vagabundo!','Loading...','Frases sobre Raiva')\n" +
+                ", ('Daí você escreve um texto enorme, e a pessoa responde “Humm”.','Loading...','Frases sobre Raiva')\n" +
+                ", ('“Amiga, ele quebrou meu coração, o que eu faço?” “Pega os cacos e corta a cara dele”.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Quando uma pessoa te decepciona, ainda que você a perdoe, nada volta a ser como antes.','Loading...','Frases sobre Raiva')\n" +
+                ", ('Não vamos tentar consertar a culpa do passado vamos aceitar nossa responsabilidade pelo futuro! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Sempre há outra chance, uma outra amizade, um outro amor. Para todo fim, um recomeço! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Cada dia é uma nova chance para recomeçar! ☀️','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Errar, superar, aprender e recomeçar. É assim que devemos viver a vida! \uD83D\uDE01\uD83D\uDE09','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Recomeçar é mais difícil que começar, pois requer a coragem do início e a superação do fracasso! \uD83D\uDE10\uD83D\uDE10','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Por fora, já desistiu. Por dentro, sempre descobre alguma desculpa para recomeçar… \uD83D\uDCAA','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Embora ninguém possa voltar atrás e fazer um novo começo, qualquer um pode começar agora e fazer um novo fim! \uD83D\uDE42\uD83D\uDE43','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Neste mundo que parece virado pelo avesso, precisamos fazer do fim um recomeço, precisamos fazer o bem brotar também do mal‼️','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Não tenha vergonha de começar de novo! comece e recomece… ☺️\uD83D\uDE19\uD83D\uDE19','Loading...','Frases sobre Recomeco')\n" +
+                ", ('A vida é um constante recomeço. Não se dê por derrotado… \uD83D\uDCAA','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Seja como as ondas do mar, que mesmo quebrando contra os obstáculos, encontram força para recomeçar! \uD83C\uDF0A','Loading...','Frases sobre Recomeco')\n" +
+                ", ('O fim significa também um novo recomeço. Uma história termina, para outra começar… \uD83D\uDE09\uD83D\uDE09','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Nada de desgosto, nem de desânimo; se acabas de fracassar, recomeça! \uD83D\uDC4C\uD83D\uDE01','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Recomeçar é dar uma nova chance a si mesmo, é renovar as esperanças na vida e o mais importante: acreditar em você de novo! \uD83D\uDC46\uD83D\uDE01\uD83D\uDE01','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Assim é a vida. Um recomeçar contínuo mesmo quando tudo parece perdido… \uD83D\uDC4C','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Trazendo de volta, a emoção de viver, amar, recomeçar! \uD83D\uDC97','Loading...','Frases sobre Recomeco')\n" +
+                ", ('É por isso que o amor acontece a toda hora, até mesmo em um recomeço! \uD83D\uDC98','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Recomece, sempre. Você pode. Você nasceu para recomeçar‼️','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Esses são os momentos em que devemos repensar nossos objetivos e talvez optar por um recomeço… \uD83D\uDE15\uD83D\uDE10','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Quando não conseguir mais seguir em frente, recomece a caminhada! \uD83C\uDFC3\uD83D\uDEB6','Loading...','Frases sobre Recomeco')\n" +
+                ", ('A parte mais difícil do final é o recomeço!\uD83D\uDC4C','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Novas folhas, novas flores, na infinita benção do recomeço! \uD83C\uDF43\uD83C\uDF3B','Loading...','Frases sobre Recomeco')\n" +
+                ", ('O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência‼️','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Talvez seja a hora de recomeçar, de abrir novos sorrisos para novas pessoas! ⏰\uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Sempre há um recomeço para quem quer recomeçar… \uD83D\uDE01\uD83D\uDE01','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Desconsidera o que passou. Põe teu olhar no que será! \uD83D\uDC4C','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Um brinde ao inesperado! E às diversas dormas de seguir em frente.. \uD83C\uDF78\uD83C\uDF78','Loading...','Frases sobre Recomeco')\n" +
+                ", ('A vida sempre da a chance de recomeçar‼️','Loading...','Frases sobre Recomeco')\n" +
+                ", ('É tempo de fazer acontecer, Recomece! \uD83D\uDCAA\uD83D\uDE09','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Querido passado, obrigado por tudo que me ensinou… Querido futuro, pode vir! \uD83D\uDC43\uD83D\uDE3D\uD83D\uDE38','Loading...','Frases sobre Recomeco')\n" +
+                ", ('Estamos tão preocupados com o que queremos ter, que as vezes nos esquecemos de agradecer o que já temos! \uD83D\uDE0C','Loading...','Frases de Reflexão')\n" +
+                ", ('Um vencedor caminha sem pisar em ninguém \uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Se fosse perfeito não seria tão euu...\uD83D\uDE0F❤\uD83C\uDF43','Loading...','Frases de Reflexão')\n" +
+                ", ('O tudo que falamos pode ser o nada que temos\uD83D\uDDE3\uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Atualmente sua mente atua ou mente? \uD83C\uDF43\uD83C\uDF43','Loading...','Frases de Reflexão')\n" +
+                ", ('A prepotência te faz forte por um dia. A humildade, para sempre! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não existe castigo e nem recompensa, o que existe é consequência! \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não adianta tentar esquecer seus problemas se você não sabe lembrar de suas vitórias! \uD83D\uDC4C\uD83D\uDC4E','Loading...','Frases de Reflexão')\n" +
+                ", ('Errar ontem, aprender hoje e superar amanhã! \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Não tenha medo de cometer erros, Tenha medo de não aprender com eles! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('O Mundo? Te espera! As Pessoas? Mudam! O Tempo? passa! Deus? Continua do teu lado e jamais te abandonará! \uD83D\uDE4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Bendito aquele que aprender a admirar, mas não invejar, seguir e não imitar, elogiar mais não bajular, liderar mais não manipular! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('A simplicidade é a maior sofisticação! \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Enquanto você for o que os outros querem que você seja, você não será ninguém! \uD83D\uDE0C\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Você sabe que está no caminho certo, quando perde o interesse de olhar para trás! \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Antes de falar qualquer coisa, se ponha no lugar de quem vai ouvir! \uD83D\uDC42','Loading...','Frases de Reflexão')\n" +
+                ", ('Antes de você falar, ouça! Antes de você agir, pense! Antes de criticar, conheça! E antes de desistir, tente! \uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez! \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Por que Deus é bom nos deixa plantar o que quisermos . E por que Deus é justo nós colhemos o que plantamos. \uD83D\uDE4F\uD83D\uDC46','Loading...','Frases de Reflexão')\n" +
+                ", ('Uma vez que você abandone as expectativas, você aprendeu a viver!  \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Quem anda sempre de cabeça em pé, é o primeiro a pisar na merda! \uD83D\uDCA9\uD83D\uDCA9','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando Deus apaga algo da tua vida, virão coisas melhores! \uD83D\uDE10\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Caráter é aquilo que você é quando ninguém está te olhando. \uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Reflita sobre seus atos e procure nos erros a solução para acertar da próxima vez, tudo depende de você, basta se dar uma chance! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Quem insiste em julgar os outros, sempre tem alguma coisa para esconder! \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não perca tempo ouvindo o que os outros falam sobre você e nem espere conselhos de ninguém, siga seu coração e faça de sua imaginação a receita para suas vitória \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Podemos ter tudo nesta vida, mas se não tivermos caráter, não temos nada! \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando Faltar Sorte, faça sobrar atitude! O Azar morre de medo das pessoas determinadas \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Chega de ser coitado… Muda essa postura! O primeiro passo para a vitória é se portar com um vitorioso! \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Em um mundo feito de aparências, feliz é aquele que é feito de verdades! \uD83D\uDE04\uD83D\uDE03\uD83D\uDE00','Loading...','Frases de Reflexão')\n" +
+                ", ('O poder só sobe a cabeça quando encontra o local vazio! \uD83D\uDE24\uD83D\uDE24','Loading...','Frases de Reflexão')\n" +
+                ", ('Ocupados em descobrir os defeitos alheios, esquecemo-nos de investigar os próprios! \uD83D\uDE23\uD83D\uDE1E\uD83D\uDE12','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando você julga os outros, não os define, define a si mesmo \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Acreditar é essencial, mas ter atitude é o que faz a diferença \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Nada na vida fará você ser feliz até que você escolha ser feliz \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Não se pode acreditar que é possível ser feliz, procurando a infelicidade alheia! \uD83D\uDE12\uD83D\uDE1E','Loading...','Frases de Reflexão')\n" +
+                ", ('Pare de competir com os outros e comece a competir com si mesmo! \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Eu não procuro saber as respostas, procuro compreender as perguntas \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('O fraco jamais perdoa: o perdão é uma das características do forte!  \uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Prefiro caminhar sozinho pro lugar certo do que caminhar com vários pro lugar errado! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Nunca se arrependa do bem que você fez, mesmo que se depare com a ingratidão! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não há melhor espelho para refletir a imagem de um homem do que suas palavras! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('As vezes uma coisa acaba para que outra melhor comece \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando alguém julgar seu caminho, empreste-a seus sapatos! \uD83D\uDC5F\uD83D\uDC61','Loading...','Frases de Reflexão')\n" +
+                ", ('Mente quieta, espinha ereta, coração tranquilo!','Loading...','Frases de Reflexão')\n" +
+                ", ('Viver é isto. Ficar se equilibrando o tempo todo entre as escolhas e as consequências… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Ás vezes você comete um erro e tem duas escolhas: viver com ele, ou consertá-lo \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Acreditar que você pode, já é meio caminho andado \uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('São as nossas escolhas, mais do que as nossas capacidades, que mostram quem realmente somos \uD83D\uDE18\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Deixe que seus sonhos sejam maiores que seus medos \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Calma. É aos poucos que a vida vai dando certo. Lágrimas não são argumentos \uD83D\uDE22\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Tente ser feliz ao invés de ser perfeito \uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('A gente só conhece bem as coisas que cativou \uD83D\uDE0A','Loading...','Frases de Reflexão')\n" +
+                ", ('Seus sonhos só serão realizados se você lutar por eles \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não olhe pra trás. Afinal, não há nada que possa ser feito ontem \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Se todos soubessem o peso das palavras, dariam mais valor ao silêncio… \uD83D\uDE4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Fé não é religião, nem sentimento. É o Espírito de Deus agindo dentro de você! \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Somos feitos de carne e de osso mais temos que agir como ferro \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Só entende a nossa dor, quem já experimentou uma boa dose dela \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Nem tudo são perdas, algumas coisas são livramento \uD83D\uDE4F','Loading...','Frases de Reflexão')\n" +
+                ", ('O que você diz pode salvar ou destruir uma vida \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não existe um caminho para a felicidade. A felicidade é o caminho \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases de Reflexão')\n" +
+                ", ('Sou do tamanho daquilo que sinto, que vejo e que faço, não do tamanho que as pessoas me enxergam \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Nada é impossível para um coração cheio de vontade ❤️\uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('E quem é feliz, faz feliz os outros \uD83D\uDE03\uD83D\uDE03\\nAmores reais, amizades leais. \uD83D\uDE09\uD83D\uDE09\\n(Projota)','Loading...','Frases de Reflexão')\n" +
+                ", ('As vezes você está no trilho certo, mas no trem errado \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Cuide bem da sua loucura, ela garante sua criatividade \uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Nem sempre quem está do seu lado, está com você \uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Se todos soubessem o peso das palavras daria mais valor ao silêncio \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Pois quem tem medo de sofrer não merece o melhor da vida \uD83D\uDE18\uD83D\uDE18\\n(Projota)','Loading...','Frases de Reflexão')\n" +
+                ", ('Os olhos são inúteis quando a mente é cega \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Os homens fariam maiores coisas, se não julgassem tantas coisas impossíveis \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('A amizade multiplica as coisas boas e divide as más \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('A gente tem que descobrir maneira, sejam quais forem, de ficarmos fortes! \uD83D\uDCAA\uD83D\uDCAA','Loading...','Frases de Reflexão')\n" +
+                ", ('Porque as pessoas loucas o bastante para acreditar que podem mudar o mundo, são as que o mudam! \uD83D\uDE1D\uD83D\uDE1B','Loading...','Frases de Reflexão')\n" +
+                ", ('Acreditar em Deus é mas importante que ir a igreja… \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases de Reflexão')\n" +
+                ", ('O ignorante afirma, o sábio duvida, o sensato reflete!','Loading...','Frases de Reflexão')\n" +
+                ", ('Se soubéssemos quantas e quantas vezes as nossas palavras são mal interpretadas, haveria muito mais silêncio neste mundo… \uD83D\uDE4A\uD83D\uDE4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Pensar sem aprender torna-nos caprichosos, e aprender sem pensar é um desastre… \uD83D\uDE16','Loading...','Frases de Reflexão')\n" +
+                ", ('É preciso ser um realista para descobrir a realidade. É preciso ser um romântico para criá-la‼','Loading...','Frases de Reflexão')\n" +
+                ", ('Somos o nosso próprio universo, nele seus males e virtudes…','Loading...','Frases de Reflexão')\n" +
+                ", ('Velhos caminhos não abrem novas portas! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('É possível duas pessoas andarem juntas em caminhos diferentes, desde que ambas queiram chegar no mesmo destino! \uD83D\uDC49\uD83D\uDC48','Loading...','Frases de Reflexão')\n" +
+                ", ('Os grandes não seriam grandes, se os pequenos não existissem… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Talvez o que você despreza hoje possa te fazer falta amanhã, são as noites mais frias que te lembram dos agasalhos esquecidos! \uD83D\uDE09✔','Loading...','Frases de Reflexão')\n" +
+                ", ('A única coisa que temos o controle é a ilusão de achar que controlamos tudo! \uD83D\uDE12','Loading...','Frases de Reflexão')\n" +
+                ", ('Descubra os outros em você e melhore a si mesmo nos outros… ‼','Loading...','Frases de Reflexão')\n" +
+                ", ('Deixamos de temer aquilo que aprendemos a entender…','Loading...','Frases de Reflexão')\n" +
+                ", ('Por que será que resolver os problemas do outro é sempre mais fácil ❓❓','Loading...','Frases de Reflexão')\n" +
+                ", ('Às vezes ouço passar o vento; e só de ouvir o vento passar, vale a pena ter nascido.','Loading...','Frases de Reflexão')\n" +
+                ", ('Tartarugas conhecem as estradas melhor do que os coelhos.','Loading...','Frases de Reflexão')\n" +
+                ", ('Não viva para que sua presença seja notada, mas para que sua falta seja sentida.','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando mudamos a forma de ver as coisas, as coisas mudam de forma.','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida é um eco. Se você não está gostando do que está recebendo, observe o que está emitindo.','Loading...','Frases de Reflexão')\n" +
+                ", ('O sonho de um careta é a realidade de um maluco.','Loading...','Frases de Reflexão')\n" +
+                ", ('Algumas coisas não precisam fazer sentido, basta valer a pena.','Loading...','Frases de Reflexão')\n" +
+                ", ('Ninguém faz cadeados, sem chaves. Do mesmo modo, Deus não te dá problemas, sem soluções.','Loading...','Frases de Reflexão')\n" +
+                ", ('Às vezes, Deus te leva pelo caminho mais longo, não para te punir, mas sim para te preparar.','Loading...','Frases de Reflexão')\n" +
+                ", ('Duvide do que vem fácil. E não desista do que é difícil.','Loading...','Frases de Reflexão')\n" +
+                ", ('Seja humilde, pois, até o sol com toda sua grandeza se põe e deixa a lua brilhar.','Loading...','Frases de Reflexão')\n" +
+                ", ('Deus não lhe dá mais do que você pode carregar.','Loading...','Frases de Reflexão')\n" +
+                ", ('Não importa o tamanho da montanha…ela nunca poderá tapar o sol!','Loading...','Frases de Reflexão')\n" +
+                ", ('Plantar é opcional, mas colher é obrigatório. A sua vida depende de suas escolhas.','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida é aquilo que acontece enquanto você está planejando o futuro.','Loading...','Frases de Reflexão')\n" +
+                ", ('Quase sempre, quem menos tem, é quem mais compartilha.','Loading...','Frases de Reflexão')\n" +
+                ", ('As pessoas mais difíceis de amar, são as que mais precisam de amor.','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida é um enígma, não tente compreender, nada é concreto, nem o nosso próprio pensamento.','Loading...','Frases de Reflexão')\n" +
+                ", ('É uma ilusão pensar que a vida é para sempre.','Loading...','Frases de Reflexão')\n" +
+                ", ('Viva o hoje, pois o ontem já se foi, e o amanhã talvez não venha.','Loading...','Frases de Reflexão')\n" +
+                ", ('Só saberá subir na vida quem tiver a humildade de descer quantas vezes forem necessárias.','Loading...','Frases de Reflexão')\n" +
+                ", ('Liberdade é pouco. O que eu desejo ainda não tem nome.','Loading...','Frases de Reflexão')\n" +
+                ", ('O mundo tem muitas coisas boas a oferecer para quem tem a ousadia de buscar!','Loading...','Frases de Reflexão')\n" +
+                ", ('Nunca desista de alguém que você não consegue passar um dia sem pensar.','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida nada mais é do que uma preparação para a morte.','Loading...','Frases de Reflexão')\n" +
+                ", ('Acreditar é o primeiro passo para transformar qualquer pensamento em realidade.','Loading...','Frases de Reflexão')\n" +
+                ", ('Nada na sua vida vai dar certo enquanto você pensar que tudo vai dar errado.','Loading...','Frases de Reflexão')\n" +
+                ", ('Um dia alguém vai te abraçar tão apertado que todas suas peças quebradas irão se juntar novamente.','Loading...','Frases de Reflexão')\n" +
+                ", ('E de repente a vida te vira do avesso, e você descobre que o avesso é o seu lado certo.','Loading...','Frases de Reflexão')\n" +
+                ", ('O que é pior: chegar ao fundo do poço ou continuar caindo?','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida é para quem topa qualquer parada, e não para quem pára em qualquer topada.','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida é maravilhosa se não se tiver medo dela.','Loading...','Frases de Reflexão')\n" +
+                ", ('Quer saber quantos amigos você tem? Dá uma festa. Quer saber a qualidade deles? Fica doente.','Loading...','Frases de Reflexão')\n" +
+                ", ('Tudo vem com um propósito e vai por uma razão.','Loading...','Frases de Reflexão')\n" +
+                ", ('Cuidado com as voltas que o mundo dá. Hoje você lança as palavras, amanhã sente o efeito delas.','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando todos pensam igual é porque ninguém está pensando.','Loading...','Frases de Reflexão')\n" +
+                ", ('Só saberá subir na vida quem tiver humildade de descer quantas vezes forem necessárias… \uD83D\uDE18\uD83D\uDE0C','Loading...','Frases de Reflexão')\n" +
+                ", ('Levanta a cabeça! Dias ruins são necessários para que os bons valham a pena! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Uma pessoa imatura pensa que todas as suas escolhas geram ganhos.\\nUma pessoa madura sabe que todas as escolhas tem perdas. \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Cada sonho que você deixa pra trás é um pedaço do seu futuro que deixa de existir. \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Confiar completamente em uma pessoa pode gerar dois resultados:\\nUm amigo pra sempre ou uma lição para a vida.  \uD83D\uDE18✌️','Loading...','Frases de Reflexão')\n" +
+                ", ('O mal de quase todos nós é que preferimos ser arruinados pelo elogio a ser salvos pela crítica. \uD83D\uDC4F\uD83D\uDE0C','Loading...','Frases de Reflexão')\n" +
+                ", ('A melhor resposta que damos a alguém soberbo e arrogante é o silêncio.\uD83D\uDE0C','Loading...','Frases de Reflexão')\n" +
+                ", ('Quer saber o sentido da vida? Para frente! \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Toda conquista começa com a decisão de tentar. ✌','Loading...','Frases de Reflexão')\n" +
+                ", ('É preciso ser grande para admitir seus erros, esperto para lucrar com eles e forte para corrigi-los. \uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('Seja superior, quem dá o troco é comerciante! \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Repita comigo: Desafio a gente enfrenta, caminho a gente traça, sonho a gente realiza, vida a gente vive! \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Não há tempo para o passado, quando o futuro tem melhores oportunidades. \uD83D\uDC4F\uD83D\uDC4C ','Loading...','Frases de Reflexão')\n" +
+                ", ('Quando faltar sorte, faça sobrar atitude… o azar morre de medo de pessoas determinadas. \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases de Reflexão')\n" +
+                ", ('O que não te desafia, te transforma! \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Eu admiro aquele que sabe que entre o plantar e o colher, existe o regar e o esperar. \uD83C\uDF3A','Loading...','Frases de Reflexão')\n" +
+                ", ('Aconteça o que acontecer hoje, lembre-se Deus está no controle de todas as coisas. \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases de Reflexão')\n" +
+                ", ('Quem fica por razões erradas, não fica por muito tempo \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Se o espelho da sua casa mostrasse sua alma, você se reconheceria? \uD83D\uDE07','Loading...','Frases de Reflexão')\n" +
+                ", ('Caráter é aquilo que você é quando ninguém está te olhando. \uD83D\uDC4A\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Não tenha vergonha do que tem…Vergonha é fingir ser alguém que você não é \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Você lembra quem você era antes do mundo te dizer como você deveria ser? \uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Corra o risco. Se der certo, felicidade. Se não, sabedoria. \uD83D\uDE04\uD83D\uDE0C\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Seja o tipo de pessoa que você adoraria conhecer! \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases de Reflexão')\n" +
+                ", ('Os únicos limites de sua mente, são aqueles que você acredita ter. \uD83D\uDC4A\uD83D\uDC4D','Loading...','Frases de Reflexão')\n" +
+                ", ('Humildade não é pensar menos de si mais menos em si. \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Reflexão')\n" +
+                ", ('Seja um Incentivador de Pessoas. O mundo já tem críticos demais. \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('Corresponder às próprias expectativas é mais importante do que exigir correspondências dos outros \uD83D\uDC4C','Loading...','Frases de Reflexão')\n" +
+                ", ('Sorria sem câmera, converse sem celular, ajude sem plateia, ame sem condições. ❤\uD83D\uDE18','Loading...','Frases de Reflexão')\n" +
+                ", ('O passado é a lição que devemos refletir, e nunca mais repetir \uD83D\uDE18\uD83D\uDE14','Loading...','Frases de Reflexão')\n" +
+                ", ('O mundo precisa de loucos…loucos uns pelos outros. \uD83D\uDE1C','Loading...','Frases de Reflexão')\n" +
+                ", ('Pessoas gostam de pessoas que gostam de si mesmas. ❤\uD83D\uDE0E','Loading...','Frases de Reflexão')\n" +
+                ", ('Para toda malícia, tem um inocência. Para toda chuva, tem um sol. Para toda lágrima, tem um sorriso. \uD83D\uDE22\uD83D\uDE03','Loading...','Frases de Reflexão')\n" +
+                ", ('A vida não oferece promessas e garantias, apenas possibilidades e oportunidades. \uD83D\uDC4C✌','Loading...','Frases de Reflexão');";
+        return frase;
+    }
+    public static String carregarFrases22() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Eu encontro no teu sorriso, mil motivos para o meu \uD83D\uDE09\uD83D\uDE04','Loading...','Frases Romanticas')\n" +
+                ", ('E eu me apaixonei por cada detalhe seu \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('E se eu falar que você é tudo que eu precisava pra ser feliz? \uD83D\uDC49\uD83D\uDE04','Loading...','Frases Romanticas')\n" +
+                ", ('Você me faz lembrar como eu tenho sorte \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases Romanticas')\n" +
+                ", ('Ela orava por ele, ele orava por ela; Deus abençoou! \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases Romanticas')\n" +
+                ", ('Dizem que depois da tempestade vem a calmaria… No meu caso, veio você \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('Enfrentaremos de mãos dadas as barreiras \uD83D\uDC6B\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Eu agradeço a Deus por ter você aqui e ser o teu amor…\uD83D\uDE4F❤️\\n(Henrique e Juliano)','Loading...','Frases Romanticas')\n" +
+                ", ('E foram muitas as vezes que eu já me imaginei acordando ao seu lado \uD83D\uDC8F','Loading...','Frases Romanticas')\n" +
+                ", ('E na hora que eu te beijei, foi melhor do que eu imaginei… \uD83D\uDE18\uD83D\uDE09\\n(Maiara e Maraisa)','Loading...','Frases Romanticas')\n" +
+                ", ('Te pedi pra Deus de presente. Pra me ver contente ele te inventou \uD83D\uDC46\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Foi seu sorriso, que tirou a graça de todos os outros \uD83D\uDC49\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Tô feliz!! E essa felicidade tem cara, tem cheiro e tem nome…\uD83D\uDE18\uD83D\uDE0A\\n(Safadão)','Loading...','Frases Romanticas')\n" +
+                ", ('Que o nosso bem, faça bem ao outro também \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases Romanticas')\n" +
+                ", ('Aprendi a sorrir, quando te vi sorrindo \uD83D\uDE04','Loading...','Frases Romanticas')\n" +
+                ", ('Bom mesmo é encontrar o amor da sua vida todos os dias na mesma pessoa ❤️\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('De repente, sem avisar, mas de tamanho sentimento ❤️','Loading...','Frases Romanticas')\n" +
+                ", ('Eu você e os planos de Deus…❤️\uD83D\uDE4F','Loading...','Frases Romanticas')\n" +
+                ", ('Porque te amo eu não sei…Mas quero te amar cada vez mais ❤️\uD83D\uDE0D\\n(Mateus e Kauan)','Loading...','Frases Romanticas')\n" +
+                ", ('Quando o assunto é você, meus olhos até sorriem! \uD83D\uDC49\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('A distância separa dois olhares, mas nunca dois corações ❤️\uD83D\uDE18','Loading...','Frases Romanticas')\n" +
+                ", ('Dois corações que, unidos na fé e no amor, celebram uma união abençoada \uD83D\uDC4F\uD83D\uDC6B\uD83D\uDC6B\uD83D\uDE4F','Loading...','Frases Romanticas')\n" +
+                ", ('Vim cuidar de você, te proteger, te fazer feliz \uD83D\uDE04\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('A sua loucura parece um pouco com a minha \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Só sei que amo aquela música porque ela me faz lembrar você \uD83D\uDE0A\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Todos os dias eu me apaixono. E sempre pela mesma pessoa…\uD83D\uDE0D\uD83D\uDE18','Loading...','Frases Romanticas')\n" +
+                ", ('Te dei meu coração, você cuidou tão bem! ❤\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('Não importa se serão momentos bons ou ruins, mas se forem ao seu lado, cada segundo valerá a pena!⏳\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('As palavras podem te fazer sorrir, mas só o amor pode te fazer mudar! \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Basta um verdadeiro amor para unir o que antes foi quebrado… \uD83D\uDC94\uD83D\uDC93','Loading...','Frases Romanticas')\n" +
+                ", ('Compartilhar Amor não é aquilo que queremos sentir; e sim, aquilo que sentimos sem querer… \uD83D\uDE10','Loading...','Frases Romanticas')\n" +
+                ", ('Me reconheço em teu olhar…\uD83D\uDE0D\uD83D\uDE0A\\n(Sandy e Tiago Iorc)','Loading...','Frases Romanticas')\n" +
+                ", ('Ser feliz pra mim não custa caro… Se você tá do lado, eu me sinto tão bem \uD83D\uDE0D\uD83D\uDE09\\n(Mateus e Kauan)','Loading...','Frases Romanticas')\n" +
+                ", ('A distância separa dois olhares, mas nunca dois corações ❤️\uD83D\uDE18','Loading...','Frases Romanticas')\n" +
+                ", ('Dois corações que, unidos na fé e no amor, celebram uma união abençoada \uD83D\uDC4F\uD83D\uDC6B\uD83D\uDC6B\uD83D\uDE4F','Loading...','Frases Romanticas')\n" +
+                ", ('A sua loucura parece um pouco com a minha \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Só sei que amo aquela música porque ela me faz lembrar você \uD83D\uDE0A\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Todos os dias eu me apaixono. E sempre pela mesma pessoa…\uD83D\uDE0D\uD83D\uDE18','Loading...','Frases Romanticas')\n" +
+                ", ('Te dei meu coração, você cuidou tão bem! ❤\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('Não importa se serão momentos bons ou ruins, mas se forem ao seu lado, cada segundo valerá a pena!⏳\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('As palavras podem te fazer sorrir, mas só o amor pode te fazer mudar! \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Basta um verdadeiro amor para unir o que antes foi quebrado… \uD83D\uDC94\uD83D\uDC93','Loading...','Frases Romanticas')\n" +
+                ", ('Compartilhar Amor não é aquilo que queremos sentir; e sim, aquilo que sentimos sem querer… \uD83D\uDE10','Loading...','Frases Romanticas')\n" +
+                ", ('Cê chegou do nada e hoje é meu tudo \uD83D\uDE0A❤️','Loading...','Frases Romanticas')\n" +
+                ", ('O céu explica tudo pros nossos ❤️❤️\\n(Henrique e Juliano)','Loading...','Frases Romanticas')\n" +
+                ", ('Sei que o acaso, fez de nós um caso de amor \uD83D\uDE0D❤️','Loading...','Frases Romanticas')\n" +
+                ", ('Quando é pra acontecer…Tem dia, lugar e tem hora! \uD83D\uDE09⏰\\n(Luan Santana)','Loading...','Frases Romanticas')\n" +
+                ", ('E era amor. Desde o jeito de olhar, até as palavras não ditas \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Antes era eu, agora é nós…❤️\uD83D\uDE09\\n(Projota)','Loading...','Frases Romanticas')\n" +
+                ", ('Entre todas as histórias, a nossa. Entre todos os casais, nós dois. Entre todos os sorrisos, o seu. \uD83D\uDC49\uD83D\uDE0A\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Eu nunca torci tanto pra dar certo, quanto eu torço pra dar certo com você! \uD83D\uDC49\uD83D\uDC4F','Loading...','Frases Romanticas')\n" +
+                ", ('A vida a dois é um dom… \uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('A gente não combina, a gente se completa ‼','Loading...','Frases Romanticas')\n" +
+                ", ('Eu vou ficar feliz quando cê me chamar de amor… \uD83D\uDE0A☺','Loading...','Frases Romanticas')\n" +
+                ", ('Do amor, conheço os sintomas e os hematomas‼','Loading...','Frases Romanticas')\n" +
+                ", ('É amor quando nem o tempo consegue curar.. \uD83D\uDE10\uD83D\uDE2C','Loading...','Frases Romanticas')\n" +
+                ", ('Feitos um para o outro, feitos pra durar! ❤❤','Loading...','Frases Romanticas')\n" +
+                ", ('Minha maior ficção de amor, eu te recriei só pro meu prazer… \uD83D\uDC98','Loading...','Frases Romanticas')\n" +
+                ", ('Talvez não seja nessa vida, mas você ainda vai ser a minha vida! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Quando se está apaixonado é fácil perder a razão! \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Foi seu sorriso que tirou a graça de todos os outros… \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Todos os dias eu me apaixono. E sempre pela mesma pessoa! \uD83D\uDC98','Loading...','Frases Romanticas')\n" +
+                ", ('Quem ama, cuida. E quem ama de verdade, sabe como cuidar… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Não sei se o mundo é bom, mas ele ficou muito melhor quando você chegou! \uD83D\uDE0D (Nando reis)','Loading...','Frases Romanticas')\n" +
+                ", ('É uma sensação tão boa, fazer sorrir quem a gente ama… \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Que as declarações sejam constantes! e o amor seja nossa frequência ❤️\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Eu passei a vida inteira procurando alguém como você…Achei!! \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases Romanticas')\n" +
+                ", ('Já era amor…Antes de ser. ❤️\uD83D\uDE09\\n(Henrique e Juliano)','Loading...','Frases Romanticas')\n" +
+                ", ('Your love was handmade for somebody like me (Seu amor foi feito a mão para alguém como eu) ❤️\uD83D\uDE0C\\n(Ed Sheeran)','Loading...','Frases Romanticas')\n" +
+                ", ('Simplesmente o meu amor é seu! ❤️\uD83D\uDC49','Loading...','Frases Romanticas')\n" +
+                ", ('Te querer por um dia é pouco, quero pra vida toda! \uD83D\uDC4F\uD83D\uDE09\\nEu não preciso de mil motivos para sorrir, você é o motivo suficiente \uD83D\uDC49\uD83D\uDC4F','Loading...','Frases Romanticas')\n" +
+                ", ('O que eu tava procurando, eu achei em você…\uD83D\uDE09\uD83D\uDC49','Loading...','Frases Romanticas')\n" +
+                ", ('Te ganhei, me ganhou,Veio pra ficar e ficou \uD83D\uDE0A\uD83D\uDE0D\\n(Jorge e Mateus)','Loading...','Frases Romanticas')\n" +
+                ", ('Há quanto tempo eu esperava encontrar alguém assim, que se encaixasse bem nos planos que um dia fiz pra mim…\uD83D\uDC4F\uD83D\uDC4F\\n(Vitor e Léo)','Loading...','Frases Romanticas')\n" +
+                ", ('Quando diz que me ama, vejo brilho no seu olhar \uD83D\uDE0D\uD83D\uDE09\\n(Oriente)','Loading...','Frases Romanticas')\n" +
+                ", ('Tudo o que é bom me lembra você! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('Você é a felicidade de todos os meus minutos! \uD83D\uDE04⏰','Loading...','Frases Romanticas')\n" +
+                ", ('Perto de você, é aonde eu quero estar…‼','Loading...','Frases Romanticas')\n" +
+                ", ('Dos perfumes mais raros, eu prefiro o seu cheiro‼','Loading...','Frases Romanticas')\n" +
+                ", ('Se tiver nós dois, pra mim já basta! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('Metades por inteiro \uD83C\uDFB6','Loading...','Frases Romanticas')\n" +
+                ", ('Porque se eu sou a rima, você é a tal batida perfeita! \uD83C\uDFB6','Loading...','Frases Romanticas')\n" +
+                ", ('Nada importa no mundo, quando você me beija! \uD83D\uDE18\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Eu ainda escolheria você, mesmo tendo todas as opções do mundo! \uD83D\uDC49\uD83D\uDC49','Loading...','Frases Romanticas')\n" +
+                ", ('O teu abraço tem cheiro de lar! \uD83D\uDE0A\uD83D\uDE00','Loading...','Frases Romanticas')\n" +
+                ", ('Todos nós precisamos de amor. E eu preciso do seu amor! \uD83D\uDC49\uD83D\uDC98','Loading...','Frases Romanticas')\n" +
+                ", ('Você já sabe que em qualquer lugar eu to pensando em você! \uD83D\uDCAD\uD83D\uDC49','Loading...','Frases Romanticas')\n" +
+                ", ('É normal te querer a toda hora❓❓','Loading...','Frases Romanticas')\n" +
+                ", ('Agente se completa, se ajuda e se entende! Você é que pode me fazer feliz‼','Loading...','Frases Romanticas')\n" +
+                ", ('Eu só sei que a vida é mais colorida com você! \uD83C\uDF08','Loading...','Frases Romanticas')\n" +
+                ", ('Tem coisas que palavras não dizem, somente o olhar expressa, e o carinho confirma.','Loading...','Frases Romanticas')\n" +
+                ", ('Simples assim: você me completa!','Loading...','Frases Romanticas')\n" +
+                ", ('Se existe felicidade perfeita, eu não sei, mas perto de você me sinto perfeitamente feliz!','Loading...','Frases Romanticas')\n" +
+                ", ('Você é um sonho pra mim, é do jeitinho que eu sempre sonhei!','Loading...','Frases Romanticas')\n" +
+                ", ('Se nada nos salva da morte, pelo menos que o amor nos salve da vida. ','Loading...','Frases Romanticas')\n" +
+                ", ('Quando eu notei, já era amor.','Loading...','Frases Romanticas')\n" +
+                ", ('Quando você estiver no pior do seu caminho, vou me deitar nos espinhos para você passar.','Loading...','Frases Romanticas')\n" +
+                ", ('O meu amor agora está perigoso. Mas não faz mal, eu morro mas eu morro amando.','Loading...','Frases Romanticas')\n" +
+                ", ('Você me faz lembrar como eu tenho sorte!','Loading...','Frases Romanticas')\n" +
+                ", ('Uma mensagem de bom dia não quer dizer apenas bom dia, quer dizer eu penso em você quando acordo.','Loading...','Frases Romanticas')\n" +
+                ", ('Não há nada melhor que estar perto de quem agente ama…','Loading...','Frases Romanticas')\n" +
+                ", ('A alegria de saber que você existe faz-me forte para suportar a tristeza de sua ausência. Eu amo você!','Loading...','Frases Romanticas')\n" +
+                ", ('Melhor do que andar sozinho, é estar acompanhado, principalmente se essa companhia for você.','Loading...','Frases Romanticas')\n" +
+                ", ('Você só me fascina, te desejo muito além do prazer.','Loading...','Frases Romanticas')\n" +
+                ", ('1 universo, 9 planetas, 204 países, 809 ilhas, 7 mares e eu tive o privilégio de te encontrar.','Loading...','Frases Romanticas')\n" +
+                ", ('Bom mesmo é encontrar o amor da sua vida todos os dias na mesma pessoa.','Loading...','Frases Romanticas')\n" +
+                ", ('Nunca é tarde, nunca é demais; Onde estou, onde estás; Meu amor vem me buscar.','Loading...','Frases Romanticas')\n" +
+                ", ('Eu te amo por milhões de pequeninas coisas que você nem sequer imagina que faz.','Loading...','Frases Romanticas')\n" +
+                ", ('Onde quer que eu vá, o que quer que eu faça… Sem você, não tem graça.','Loading...','Frases Romanticas')\n" +
+                ", ('Uma grande pessoa é aquela que faz nascer dentro da gente um grande sentimento.','Loading...','Frases Romanticas')\n" +
+                ", ('Amo até os seus defeitos, imagine os beijos… ','Loading...','Frases Romanticas')\n" +
+                ", ('Eu preciso do seu carinho, do seu amor, da sua atenção. Eu preciso que você cuide de mim, só isso.','Loading...','Frases Romanticas')\n" +
+                ", ('Os pequenos instantes que passo ao seu lado são os mais grandes e belos momentos em minha vida!','Loading...','Frases Romanticas')\n" +
+                ", ('Eu amo estar com você, eu amo ficar com você, seu cheirinho me faz viajar, sua voz me faz suspirar.','Loading...','Frases Romanticas')\n" +
+                ", ('Quando você ama alguém, você não se importa com a opinião dos outros e não mede esforço para estar com ela.','Loading...','Frases Romanticas')\n" +
+                ", ('Chegou do nada, pra virar meu tudo!\uD83D\uDE0D\uD83D\uDE0D☺','Loading...','Frases Romanticas')\n" +
+                ", ('Você é a melhor parte de mim…\uD83D\uDC49❤','Loading...','Frases Romanticas')\n" +
+                ", ('Me leve ao teus braços e junto deles me traga segurança…\uD83C\uDF40\uD83C\uDF40','Loading...','Frases Romanticas')\n" +
+                ", ('Soltei o mundo, para segurar sua mão!\uD83D\uDC50\uD83D\uDC9C','Loading...','Frases Romanticas')\n" +
+                ", ('Nunca duvide, nem por um minuto que eu não vou estar lá, pois sempre estarei com você!❤\uD83D\uDC9A\uD83D\uDC9C','Loading...','Frases Romanticas')\n" +
+                ", ('Te abraço e sinto coisas que eu não sei dizer, só sinto com você!\uD83D\uDE0D\uD83D\uDE0D  (Fabio Jr.)','Loading...','Frases Romanticas')\n" +
+                ", ('O amor é cheio de regras, e se você seguir todas, perde a graça…\uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Lindo é quando dois olhares se cruzam e dois sorrisos aparecem!\uD83D\uDE0D☺','Loading...','Frases Romanticas')\n" +
+                ", ('Se nada é pra sempre, então seja meu nada‼','Loading...','Frases Romanticas')\n" +
+                ", ('Meu coração é mais seu do que meu. \uD83D\uDC98','Loading...','Frases Romanticas')\n" +
+                ", ('Eu torço, secretamente, para a gente dar certo… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Fica do meu lado, que não falta amor… \uD83D\uDC95','Loading...','Frases Romanticas')\n" +
+                ", ('Não há alguém que me faça tão bem como você me faz! \uD83D\uDC49\uD83D\uDC98','Loading...','Frases Romanticas')\n" +
+                ", ('E quando eu vi, sua felicidade já tinha dado as mãos pra minha e seu coração já morava dentro do meu. \uD83D\uDC98\uD83D\uDC98','Loading...','Frases Romanticas')\n" +
+                ", ('Seu sorriso contagia. Tem amor dentro do coração!\uD83D\uDE0A☺☺','Loading...','Frases Romanticas')\n" +
+                ", ('O caminho é longo, mas tendo você comigo a gente chega lá!!\uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Abro mão da minha felicidade pela nossa!! \uD83D\uDC4C\uD83D\uDC97','Loading...','Frases Romanticas')\n" +
+                ", ('Foi na escuridão que reconheci como você me ilumina!⛅⛅','Loading...','Frases Romanticas')\n" +
+                ", ('Eu não escolhi você, meu coração escolheu…. \uD83D\uDC97\uD83D\uDC93','Loading...','Frases Romanticas')\n" +
+                ", ('O som da sua risada é música para os meus ouvidos! \uD83D\uDE04\uD83D\uDE00\uD83D\uDE0A\uD83C\uDFB6','Loading...','Frases Romanticas')\n" +
+                ", ('Leve-me contigo ou perca-se comigo‼','Loading...','Frases Romanticas')\n" +
+                ", ('Ela nunca vai deixar claro, então entenda sinais… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('Me promete que se eu cuidar de você, você cuida de mim❓❓','Loading...','Frases Romanticas')\n" +
+                ", ('Dê valor a quem te dá amor! \uD83D\uDC4C❤','Loading...','Frases Romanticas')\n" +
+                ", ('Meu nome fica lindo com seu sobrenome… \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Você é a poesia mais linda que eu já quis escrever! ✏☺','Loading...','Frases Romanticas')\n" +
+                ", ('Vamos andar de mãos dadas, e ser o casal mais feliz da quebrada!! \uD83D\uDC68\u200D❤️\u200D\uD83D\uDC8B\u200D\uD83D\uDC68','Loading...','Frases Romanticas')\n" +
+                ", ('Quando não conseguimos ser o primeiro amor, podemos ter a grande oportunidade de ser o melhor! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('Enquanto eu te quiser, não te preocupes com quem me quer… \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Romanticas')\n" +
+                ", ('O amor é a única loucura de um sábio e a única sabedoria de um tolo… \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases Romanticas')\n" +
+                ", ('Eu acredito que o sentido da vida seja fazer sentido nas outras vidas‼','Loading...','Frases Romanticas')\n" +
+                ", ('Hoje, eu só quero me perder um pouco em você… \uD83D\uDC9F\uD83D\uDC9F','Loading...','Frases Romanticas')\n" +
+                ", ('Me perguntaram o que você viu nele? O que faltava em mim‼','Loading...','Frases Romanticas')\n" +
+                ", ('A vida é minha. Mas o coração, é seu. O sorriso é meu. Mas o motivo, é você. \uD83D\uDC49\uD83D\uDC49','Loading...','Frases Romanticas')\n" +
+                ", ('Ouvir que se é amado é gostoso, mas sentir-se amado é indescritível… ❤','Loading...','Frases Romanticas')\n" +
+                ", ('Se eu pudesse estar com alguém, esse alguém ainda seria você! \uD83D\uDC49\uD83D\uDC95','Loading...','Frases Romanticas')\n" +
+                ", ('Mostre-me onde você perdeu o seu coração e eu vou encontrá-lo para você! \uD83D\uDE09\uD83D\uDE09','Loading...','Frases Romanticas')\n" +
+                ", ('A vontade de te ter aqui nunca acaba… ❤\uD83D\uDC97','Loading...','Frases Romanticas')\n" +
+                ", ('Quando amamos uma pessoa, a amamos por inteiro, não somente as partes boas ‼','Loading...','Frases Romanticas')\n" +
+                ", ('Assim que você confiar em si mesmo, você saberá como viver. (Johann Goethe)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O homem é do tamanho do seu sonho (Fernando Pessoa)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Um homem que não se alimenta de seus sonhos, envelhece cedo. (William Shakespeare)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Não é digno de saborear o mel, aquele que se afasta da colmeia com medo das picadas das abelhas (William Shakespeare)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Algo só é impossível até que alguém duvide e resolva provar o contrário. (Albert Einstein)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Só nos conhecemos quando encontramos nossos próprios limites. (Paulo Coelho)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir. (Steve Jobs)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Todo mundo é capaz de dominar uma dor, exceto quem a sente. (William Shakespeare)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Fiquei magoado, não por me teres mentido, mas por não poder voltar a acreditar-te. (Friedrich Nietzsche)','Loading...','Frases de Sabedoria')\n" +
+                ", ('A sabedoria da vida não está em fazer aquilo que se gosta, mas em gostar daquilo que se faz.','Loading...','Frases de Sabedoria')\n" +
+                ", ('O que é verdadeiramente imoral é ter desistido de si mesmo. (Clarice Lispector)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Prefira morrer de pé, que viver de joelhos. (Che Guevara)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Só sei que nada sei! No entanto supero a maioria dos Homens que nem isso sabem! (Sócrates)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Quem confessa os seus erros é mais sábio hoje do que ontem.','Loading...','Frases de Sabedoria')\n" +
+                ", ('Porque não pude tornar os homens sensatos, preferi ser feliz longe deles. (Voltaire)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O tempo dura bastante para aqueles que sabem aproveitá-lo. (Leonardo da Vinci)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Há mais pessoas que desistem do que pessoas que fracassam. (Henry Ford)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O nosso caráter é o resultado da nossa conduta. (Aristóteles)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Se você encontrar um caminho sem obstáculos, ele provavelmente não leva a lugar nenhum. (Frank Clark)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O último degrau da sabedoria é a humildade.','Loading...','Frases de Sabedoria')\n" +
+                ", ('O tempo é o melhor autor; sempre encontra um final perfeito. (Charles Chaplin)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Tente mover o mundo. O primeiro passo será mover a si mesmo. (Platão)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Não cruze os braços diante de uma dificuldade, pois o maior homem do mundo morreu de braços abertos. (Bob Marley)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Escuta e serás sábio. O começo da sabedoria é o silêncio. (Pitágoras)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O fraco desce ao nível, o ignorante se vinga e o sábio ignora.','Loading...','Frases de Sabedoria')\n" +
+                ", ('Não há doente mais incurável do que aquele que não reconhece a sua doença. (Santo Agostinho)','Loading...','Frases de Sabedoria')\n" +
+                ", ('A felicidade de sua vida depende da qualidade de seus pensamentos. (Marcus Aurelius)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Não deixe que o ruído da opinião alheia impeça que você escute a sua voz interior. (Steve Jobs)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Sucesso é apenas sorte. Pergunte a qualquer fracassado.','Loading...','Frases de Sabedoria')\n" +
+                ", ('Quem nunca está só já não conhece mais a si mesmo. E quem não conhece a si mesmo passa a temer o vazio. (Paulo Coelho)','Loading...','Frases de Sabedoria')\n" +
+                ", ('A gratidão não é só a maior das virtudes, mas o pai de todos as outras. (Cícero)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O medo corta mais profundamente do que as espadas. (George R. R. Martin)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Não sabendo que era impossível, ele foi lá e fez. (Jean Cocteau)','Loading...','Frases de Sabedoria')\n" +
+                ", ('Quando você deseja uma coisa, todo o universo conspira para que possa realizá-la. (Paulo Coelho)','Loading...','Frases de Sabedoria')\n" +
+                ", ('O caminho da sabedoria é fácil para quem não é cego pelo ego.','Loading...','Frases de Sabedoria')\n" +
+                ", ('Saudade é te ver em cada canto, sem você estar \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Se sentir a saudade apertar, engole o orgulho! \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('Eu ainda sinto sua falta, não que você se importe \uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Sensação boa é quando a saudade se desfaz em um abraço \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade dá, sempre dá, mas a gente disfarça \uD83D\uDE0C\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Pequenos momentos, enormes saudades \uD83D\uDE0C\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Algumas saudades, a gente finge que esquece \uD83D\uDE22\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade é nunca mais querer saber de quem se ama, e ainda assim, doer \uD83D\uDE14❤️','Loading...','Frases de Saudade')\n" +
+                ", ('Só não mato essa saudade, por que ela mora em outra cidade \uD83D\uDE0C\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade é a maior prova de que o passado valeu a pena \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('Ruim mesmo é ver aquilo que era rotina, virando saudade \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Dizem que se a saudade não vai embora, é por que o amor decidiu ficar ❤️\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('Você é a minha saudade mais bonita…\uD83D\uDE0D\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('Minha saudade tem nome, cheiro e um abraço bom \uD83D\uDE14\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('É uma saudade diferente de todas as outras…\uD83D\uDE22☹️','Loading...','Frases de Saudade')\n" +
+                ", ('Dentro dela, transborda saudade…\uD83D\uDE22\uD83D\uDE2D','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade é um vazio, cheio de tudo \uD83D\uDE14\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade é aquilo que fica, daquilo que não ficou \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Saudades ? A gente sente, mas as vezes se afastar é a melhor coisa a fazer \uD83D\uDE14\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade é o preço que se paga, por viver momentos inesquecíveis \uD83D\uDE22\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('É mais que saudades, é necessidade…\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Eu queria, que você estivesse aqui agora. \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('E mesmo que eu esteja feliz, eu sempre vou sentir saudade \uD83D\uDE0A\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('E é por você, a verdadeira dor da saudade! \uD83D\uDE22☹️','Loading...','Frases de Saudade')\n" +
+                ", ('É muita saudade, pra pouco eu…\uD83D\uDE14\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Não é o adeus que me assusta, é a saudade \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Não existe despedida sem tristeza, nem distância sem saudade \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade nos lembra, que o amor também dói! ❤️\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Olhar pro passado não dói, mas da uma saudade ☹️','Loading...','Frases de Saudade')\n" +
+                ", ('Saudades de quando eu não sentia saudades \uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade vão te convencer, que a ausência não compensa \uD83D\uDE14\uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('Não é o adeus que me assusta, é a saudade \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Se não deixou saudade é por que não foi importante \uD83D\uDE14\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('O sentimento mais cruel é a saudade, por que além de doer deixa marca \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Menos distância e mais você, por favor \uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('Por você, eu sei que vale a pena esperar \uD83D\uDE1A\uD83D\uDE0A','Loading...','Frases de Saudade')\n" +
+                ", ('Trocaria tudo por um abraço seu \uD83D\uDE1A\uD83D\uDE0A','Loading...','Frases de Saudade')\n" +
+                ", ('Até de longe você me faz bem \uD83D\uDE1A\uD83D\uDE0A','Loading...','Frases de Saudade')\n" +
+                ", ('É que eu sinto sua falta, todo santo dia \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('O tempo passa, as horas voam, e meu amor por você permanece \uD83D\uDE0D\uD83D\uDE0D','Loading...','Frases de Saudade')\n" +
+                ", ('Na verdade, eu só queria que você estivesse aqui \uD83D\uDE18\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Que cada ano sem você me traga mais dez anos ao seu lado ✌️\uD83D\uDE0A','Loading...','Frases de Saudade')\n" +
+                ", ('Mas a saudade mais dolorida é a saudade de quem se ama ❤️\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('De longe também se ama ❤️\uD83D\uDC4F','Loading...','Frases de Saudade')\n" +
+                ", ('Só um amor verdadeiro resiste a distância \uD83D\uDC4A❤️','Loading...','Frases de Saudade')\n" +
+                ", ('Cada pequena ausência é uma eternidade \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Na minha cidade tem tudo, menos você \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Não quero que você desista de nós \uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Todos os dias eu imagino nosso primeiro encontro  \uD83D\uDC8F','Loading...','Frases de Saudade')\n" +
+                ", ('A tua presença, constante, mesmo distante, faz a diferença \uD83D\uDE0D\uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('E a despedida sempre será a pior parte \uD83D\uDE22\uD83D\uDE0C','Loading...','Frases de Saudade')\n" +
+                ", ('Nunca pensei que ia desejar tanto um abraço como eu desejo o seu \uD83D\uDE0A','Loading...','Frases de Saudade')\n" +
+                ", ('Enquanto não acontece, eu fico imaginando \uD83D\uDE14\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Eu te amo e não vejo a hora de poder dizer isso olhando nos teus olhos \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Amor a distância é a segunda maior prova de amor por alguém ❤️❤️','Loading...','Frases de Saudade')\n" +
+                ", ('A ausência apaga as pequenas paixões e fortalece as grandes \uD83D\uDC4A❤️','Loading...','Frases de Saudade')\n" +
+                ", ('Não importa a distância que nos separa, se há um céu que nos une.. \uD83D\uDC4F\uD83D\uDC4F','Loading...','Frases de Saudade')\n" +
+                ", ('Ai que saudade de te abraçar .. De ouvir você cantar \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Saudade')\n" +
+                ", ('Mesmo que passe toda minha vida eu te esperarei \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('A distância não diminui a importância \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Se tudo fosse fácil, mandaria a saudade embora \uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Por que o melhor abraço tem que está tão longe \uD83D\uDE0C\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('E é por você a verdadeira dor da saudade \uD83D\uDE2D\uD83D\uDE25','Loading...','Frases de Saudade')\n" +
+                ", ('A distância pode causar saudades, mas nunca o esquecimento \uD83D\uDE22\uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('Mas a distância não impede que eu te ame ❤️\uD83D\uDE1A','Loading...','Frases de Saudade')\n" +
+                ", ('Sinto saudades de pessoas que nem imaginam o tamanho da falta de me fazem.','Loading...','Frases de Saudade')\n" +
+                ", ('Falta tua voz, falta teu cheiro, falta tua presença, falta teu sorriso, falta você.','Loading...','Frases de Saudade')\n" +
+                ", ('Sentada hoje aqui, comecei a pensar em você, quando dei conta que nunca consegui te esquecer.','Loading...','Frases de Saudade')\n" +
+                ", ('Não posso negar, eu sinto muito a sua falta!','Loading...','Frases de Saudade')\n" +
+                ", ('Sinto saudades de velhos amigos, e os bons momentos que vivemos. Mas guardarei todos em meu coração.','Loading...','Frases de Saudade')\n" +
+                ", ('Às vezes a saudade é tão grande que a gente não sente mais. A gente é.','Loading...','Frases de Saudade')\n" +
+                ", ('Promete que nos veremos logo, promete que isso não vai ficar assim e que toda essa distância não vai roubar você de mim.','Loading...','Frases de Saudade')\n" +
+                ", ('O que eu mais quero, eu não tenho aqui comigo.','Loading...','Frases de Saudade')\n" +
+                ", ('A distância, a saudade e a sua falta me fizeram amar você ainda mais.','Loading...','Frases de Saudade')\n" +
+                ", ('Ruim mesmo é ver aquilo que era rotina virando saudade.','Loading...','Frases de Saudade')\n" +
+                ", ('Se você não se atrasar demais, posso te esperar por toda a minha vida.','Loading...','Frases de Saudade')\n" +
+                ", ('Será que você sente, ou pelo menos imagina a saudade que tenho de você!?','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade é o preço que se paga por viver momentos inesquecíveis.','Loading...','Frases de Saudade')\n" +
+                ", ('Ontem éramos três: eu, você e a felicidade. Hoje somos dois: eu e a saudade.','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade é a nossa alma dizendo para onde ela quer voltar.','Loading...','Frases de Saudade')\n" +
+                ", ('Quando é verdadeiro, a distância não separa, o tempo não enfraquece e ninguém substitui.','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade nada mais é do que a certeza que o passado valeu a pena.','Loading...','Frases de Saudade')\n" +
+                ", ('Haverá sempre 1 palavra, 1 olhar, 1 filme, 1 música, 1 ponto, 1 sorriso, 1 motivo que me fará lembrar de você.','Loading...','Frases de Saudade')\n" +
+                ", ('A distância impede que eu te veja, mas não impede que eu te ame.','Loading...','Frases de Saudade')\n" +
+                ", ('Preciso de um antídoto para diminuir a saudade e só você o possui.','Loading...','Frases de Saudade')\n" +
+                ", ('Quando a saudade é demais, não cabe no peito: escorre pelos olhos.','Loading...','Frases de Saudade')\n" +
+                ", ('A juventude é uma idade horrível que apreciamos apenas no momento em que sentimos saudade dela.','Loading...','Frases de Saudade')\n" +
+                ", ('Porque metade de mim é partida, mas a outra metade é saudade…','Loading...','Frases de Saudade')\n" +
+                ", ('Se sentir minha falta, e a saudade apertar, engole o orgulho, você sabe onde me encontrar','Loading...','Frases de Saudade')\n" +
+                ", ('E as vezes me pego pensando, onde você esta neste momento?','Loading...','Frases de Saudade')\n" +
+                ", ('Se você optar pelo orgulho, aprenda a lidar com a saudade…','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade e dor, as únicas coisas que estou sentindo nesse momento.','Loading...','Frases de Saudade')\n" +
+                ", ('Apesar da distância e do tempo, não consigo esquecer o amor que eu sempre senti por você.','Loading...','Frases de Saudade')\n" +
+                ", ('Senti saudades, mas não fiz questão de demonstrar isso, pois eu já havia percebido que eu não fazia falta.','Loading...','Frases de Saudade')\n" +
+                ", ('A Distância não significa nada quando Você me significa tudo.','Loading...','Frases de Saudade')\n" +
+                ", ('Falando em saudade, de novo eu acordei pensando em você! \uD83D\uDCAD❤','Loading...','Frases de Saudade')\n" +
+                ", ('Um suspiro, sorriso, um passado… uma enorme saudade. \uD83D\uDE0A\uD83D\uDE01\uD83D\uDC95','Loading...','Frases de Saudade')\n" +
+                ", ('Porque metade de mim é partida, mas a outra metade é saudade. \uD83C\uDFC3❤','Loading...','Frases de Saudade')\n" +
+                ", ('Valorize, porque a saudade não traz ninguém de volta. \uD83D\uDE18\uD83D\uDE1A','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade não tem braços, mas quando ela aperta, dói demais! \uD83D\uDE45\uD83D\uDC94','Loading...','Frases de Saudade')\n" +
+                ", ('Diga pro seu orgulho que a minha saudade tomou vergonha na cara e virou felicidade. \uD83D\uDC94\uD83D\uDE0E\uD83D\uDE04','Loading...','Frases de Saudade')\n" +
+                ", ('A pior saudade é aquela que você sente, mas sabe que não pode ir atrás. \uD83D\uDE0C❤','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade não traz ninguém de volta, mas atitudes sim. \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Ela é toda detalhista e faz tudo direito, mais é que eu sinto saudade até dos seus defeitos. ☺\uD83D\uDC94','Loading...','Frases de Saudade')\n" +
+                ", ('Só deixará saudade quem já fez algo por você! \uD83D\uDC4D\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Eu não estou aqui pra sofrer, vou sentir saudade pra quê? \uD83D\uDE0E❤','Loading...','Frases de Saudade')\n" +
+                ", ('Quem se afasta para deixar saudades, corre o risco de deixar de fazer falta. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('Quem pensa que a distância faz esquecer, esquece que a saudade faz lembrar. \uD83D\uDCAD\uD83D\uDC94','Loading...','Frases de Saudade')\n" +
+                ", ('Quando a saudade é demais, não cabe no peito. Escorre pelos olhos. \uD83D\uDE2D','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade dos nossos bons momentos. \uD83D\uDE0A\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Vai saudade, traz ela de volta, leva a solidão e troca por felicidade. \uD83D\uDE0A\uD83D\uDE22\uD83D\uDE04','Loading...','Frases de Saudade')\n" +
+                ", ('A verdadeira afeição na longa ausência se prova.\uD83D\uDC4C❤\uD83D\uDE26','Loading...','Frases de Saudade')\n" +
+                ", ('Saudade é melhor do que caminhar vazio.\uD83D\uDE0A\uD83D\uDC4E','Loading...','Frases de Saudade')\n" +
+                ", ('Aos olhos da saudade, como o mundo é pequeno. \uD83D\uDC40\uD83D\uDC94','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade diminuiu ou fomos nós que envelhecemos? \uD83D\uDE26\uD83D\uDE01','Loading...','Frases de Saudade')\n" +
+                ", ('Não existe partida para aqueles que permanecerão eternamente em nossos corações. ❤\uD83D\uDE1A','Loading...','Frases de Saudade')\n" +
+                ", ('Hoje eu tentei fugir da saudade, mas ela me pegou de jeito. \uD83D\uDE12\uD83D\uDE22','Loading...','Frases de Saudade')\n" +
+                ", ('Aí quando você finalmente esquece a pessoa, ela vem do inferno e diz que está com saudades. \uD83D\uDD25\uD83D\uDE2E','Loading...','Frases de Saudade')\n" +
+                ", ('O pior de sentir saudade da pessoa é que você nunca sabe se ela está sentindo o mesmo por você\uD83D\uDE10 ','Loading...','Frases de Saudade')\n" +
+                ", ('Que a sua companhia não seja somente o orgulho e a saudade. \uD83D\uDE0C\uD83D\uDE1A','Loading...','Frases de Saudade')\n" +
+                ", ('A saudade fica menos dolorosa quando você olha para trás e tem a certeza que os bons momentos foram bem vividos. \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases de Saudade')\n" +
+                ", ('Cheguei pra causar saudade da minha ausência! \uD83D\uDE0E\uD83D\uDE09','Loading...','Frases de Saudade')\n" +
+                ", ('A tristeza de um homem é ter uma vida plantando amor e um futuro colhendo saudades.❤\uD83D\uDC94','Loading...','Frases de Saudade')\n" +
+                ", ('Você visita meu pensamento, rouba meu sono, acelera meu coração e me enche de saudade. \uD83D\uDC95\uD83D\uDE1A','Loading...','Frases de Saudade')\n" +
+                ", ('Morro de saudades dos teus abraços, dos teus carinhos. \uD83D\uDC94\uD83D\uDE0A','Loading...','Frases de Saudade')\n" +
+                ", ('Encontramos a felicidade, em lugares inesperados \uD83D\uDC4F\uD83D\uDE09\\n(Grey’s Anatomy)','Loading...','Frases de Felicidade')\n" +
+                ", ('Sua promessa não vale nada, até que você a cumpra \uD83D\uDC4C\\n(The Vampire Diaries)','Loading...','Frases de Felicidade')\n" +
+                ", ('Tenho uma política: não aceito conselhos a menos que os peça \uD83D\uDE0C\\n(CSI New York)','Loading...','Frases de Felicidade')\n" +
+                ", ('Uma mulher que pode ser comprada não vale a pena ter \uD83D\uDE0C\\n(Daredevil)','Loading...','Frases de Felicidade')\n" +
+                ", ('A vida não tem que ser perfeita. Só tem que ser vivida \uD83D\uDE09\uD83D\uDC4F\\n(Dexter)','Loading...','Frases de Felicidade')\n" +
+                ", ('Não dependa de alguém que vai te decepcionar \uD83D\uDE0C\uD83D\uDC4C\\n(Dr. House)','Loading...','Frases de Felicidade')\n" +
+                ", ('Fazer parte de algo especial, nos torna especial \uD83D\uDE0A\\n(Glee)','Loading...','Frases de Felicidade')\n" +
+                ", ('Eu escolho ter fé, porque sem ela não tenho nada \uD83D\uDE4F\\n(Prison Break)','Loading...','Frases de Felicidade')\n" +
+                ", ('Acho que a única razão de sermos tão apegados em memórias,\\né que elas não mudam, mesmo que as pessoas tenham mudado \uD83D\uDE09\uD83D\uDE0C\\n(Pretty Little Liars)','Loading...','Frases de Felicidade')\n" +
+                ", ('Morro de medo de amar você, mas eu te amo de uma forma ou de outra ❤️\\n(grey’s anatomy)','Loading...','Frases de Felicidade')\n" +
+                ", ('Você não pode interromper o futuro, nem modificar o passado ✋\\n(Jay Asher)','Loading...','Frases de Felicidade')\n" +
+                ", ('Será que namorar um anjo te faz querer ter asas? \uD83D\uDE07\\n(Gossip Girl)','Loading...','Frases de Felicidade')\n" +
+                ", ('A cada dia que você espera, é um outro dia que você nunca vai poder recuperar \uD83D\uDE0C\uD83D\uDC4C\\n(One Tree Hill)','Loading...','Frases de Felicidade')\n" +
+                ", ('Se é para ter fé, não se pode tê-la apenas quando ocorrem milagres. Devemos tê-la quando não ocorrem \uD83D\uDE4F\\n(Supernatural)','Loading...','Frases de Felicidade')\n" +
+                ", ('Não deixe o medo te afastar de algo que você queira \uD83D\uDC4A\uD83D\uDE09\\n(Chase)','Loading...','Frases de Felicidade')\n" +
+                ", ('Sempre faço isso. Desaponto as pessoas de quem mais gosto \uD83D\uDE14\\n(Supernatural)','Loading...','Frases de Felicidade')\n" +
+                ", ('Nunca deixei de te amar. Nem por uma noite. Nem por um momento ❤️\\n(One Tree Hill)','Loading...','Frases de Felicidade')\n" +
+                ", ('Às vezes, até um herói precisa de um anjo da guarda \uD83D\uDE07\uD83D\uDE09\\n(Smallville)','Loading...','Frases de Felicidade')\n" +
+                ", ('Eu disse que você era especial, não única \uD83D\uDC4C\uD83D\uDE09\\n(Two and a Half Men)','Loading...','Frases de Felicidade')\n" +
+                ", ('O que te mata não é o que faz o seu coração parar de bater. É o que te impede de viver \uD83D\uDE0C\uD83D\uDE14\\n(Forever)','Loading...','Frases de Felicidade')\n" +
+                ", ('Deus perdoa todos aqueles que o procuram \uD83D\uDE4F\\n(American Horror Story)','Loading...','Frases de Felicidade')\n" +
+                ", ('Quando você se importa com as pessoas, se machucar vem no pacote \uD83D\uDE22\uD83D\uDE14\\n(The Walking Dead)','Loading...','Frases de Felicidade')\n" +
+                ", ('Querer acreditar no melhor das pessoas, não torna isso verdade \uD83D\uDE09\\n(House)','Loading...','Frases de Felicidade')\n" +
+                ", ('Ás vezes o dom de alguém é cuidar de outra pessoa \uD83D\uDE0A\\n(Supernatural)','Loading...','Frases de Felicidade')\n" +
+                ", ('Verdade ou felicidade. Nunca os dois \uD83D\uDC4C\uD83D\uDE04\\n(Lie to Me)','Loading...','Frases de Felicidade')\n" +
+                ", ('Amigos não manipulam amigos. Eles ajudam uns aos outros \uD83D\uDC4F\uD83D\uDE09\\n(The Vampire Diaries)','Loading...','Frases de Felicidade')\n" +
+                ", ('Você se surpreende ao perceber, o quanto pode suportar \uD83D\uDC4A\\n(House)','Loading...','Frases de Felicidade')\n" +
+                ", ('As pessoas mudam. E muitas vezes se tornam as pessoas que elas disseram que nunca iriam se tornar. \uD83D\uDC4C\uD83D\uDE14\\n(Greys Anatomy)','Loading...','Frases de Felicidade')\n" +
+                ", ('Não existem pessoas frias, existem pessoas que aprenderam a bloquear seus sentimentos \uD83D\uDEAB\\n(House)','Loading...','Frases de Felicidade')\n" +
+                ", ('E o que fazer, quando seu melhor não é bom o bastante? \uD83D\uDE0C\\n(Glee)','Loading...','Frases de Felicidade')\n" +
+                ", ('Você tem um bom ❤️. Entregue-o para alguém que se importe \uD83D\uDC4F\\n(Gossip Girl)','Loading...','Frases de Felicidade')\n" +
+                ", ('Não sou um completo inútil, posso servir de mau exemplo \uD83D\uDC4C\uD83D\uDE09\\n(Two And A Half Men)','Loading...','Frases de Felicidade')\n" +
+                ", ('Assim como existem dois lados de cada história, existem dois lados de toda pessoa \uD83D\uDE09\uD83D\uDE0C\\n(Emily Thorne)','Loading...','Frases de Felicidade')\n" +
+                ", ('Ninguém pode fugir da dor \uD83D\uDE22\\n(The Flash)','Loading...','Frases de Felicidade')\n" +
+                ", ('Apesar de cruel, duvidoso e infeliz, ás vezes, o destino não erra \uD83D\uDC4C\\n(Gossip Girl)','Loading...','Frases de Felicidade')\n" +
+                ", ('Existir é sobreviver a escolhas injustas \uD83D\uDC4F\uD83D\uDE09\\n(The OA)','Loading...','Frases de Felicidade')\n" +
+                ", ('Acho que prefiro observar as pessoas do que… falar com elas \uD83D\uDE0C\\n(Stranger Things)','Loading...','Frases de Felicidade')\n" +
+                ", ('Um dos desafios de Deus para nós, é ver além da superfície \uD83D\uDC46\uD83D\uDE09\\n(Bones)','Loading...','Frases de Felicidade')\n" +
+                ", ('Eu nunca quis um futuro com alguém, antes de conhecer você \uD83D\uDE0D\\n(Beauty and the best)','Loading...','Frases de Felicidade')\n" +
+                ", ('Mas nunca esqueça do que aconteceu porque, você precisa do passado pra saber quem é \uD83D\uDE09\uD83D\uDE0C\\n(The Originals)','Loading...','Frases de Felicidade')\n" +
+                ", ('Infelizmente as coisas que me fazem te odiar, me fazem te amar ❤️\uD83D\uDE0C\\n(Grey’s Anatomy)','Loading...','Frases de Felicidade')\n" +
+                ", ('A vida nem sempre é romântica. Às vezes, é realista \uD83D\uDC4A\\n(Pretty Little Liars)','Loading...','Frases de Felicidade')\n" +
+                ", ('Só vemos o que queremos ver, e acreditamos no que queremos acreditar \uD83D\uDE0C\\n(Dexter)','Loading...','Frases de Felicidade')\n" +
+                ", ('Eu me importo demais, esse é o problema \uD83D\uDE14\\n(The Vampire Diaries)','Loading...','Frases de Felicidade')\n" +
+                ", ('Não são os sonhos não alcançados que nos destroem, são os que não ousamos sonhar \uD83D\uDE14\\n(Glee)','Loading...','Frases de Felicidade')\n" +
+                ", ('É a coisa mais difícil do mundo… Desapegar-se de alguém que você ama ❤️\\n(Bates Motel)','Loading...','Frases de Felicidade')\n" +
+                ", ('Sempre há pessoas, que querem que você desista! Não facilite o trabalho delas \uD83D\uDC4C\\n(Once upon a time)','Loading...','Frases de Felicidade')\n" +
+                ", ('No fundo, a única pessoa em que realmente podemos confiar é em nós mesmos \uD83D\uDE0C\\n(Revenge)','Loading...','Frases de Felicidade')\n" +
+                ", ('Cada perda que eu tive foi uma lição que eu aprendi \uD83D\uDC4F\uD83D\uDC4C\\n(American Horror Story)','Loading...','Frases de Felicidade')\n" +
+                ", ('Somos todos feitos do mesmo molde \uD83D\uDE09\\n(Bones)','Loading...','Frases de Felicidade')\n" +
+                ", ('Suas palavras são armas. Cuidado com que fazem com elas \uD83D\uDE09\\n(CSI: Cyber)','Loading...','Frases de Felicidade')\n" +
+                ", ('A maior crueldade, é a falsa esperança \uD83D\uDE0C\uD83D\uDE14\\n(American Horror Story)','Loading...','Frases de Felicidade')\n" +
+                ", ('Decisões são fáceis. Viver com as consequências é a parte difícil \uD83D\uDE0C\\n(The Whispers)','Loading...','Frases de Felicidade')\n" +
+                ", ('Não se desculpe por quem você é, e pelo o que você quer \uD83D\uDC4C\\n(Pretty Little Liar)','Loading...','Frases de Felicidade')\n" +
+                ", ('Tudo é possível. O impossível apenas demora mais…\uD83D\uDE0C\uD83D\uDC4A\\n(Fringe)','Loading...','Frases de Felicidade')\n" +
+                ", ('Você sabe o que quer, mas foge do que precisa \uD83D\uDE14\\n(House)','Loading...','Frases de Felicidade')\n" +
+                ", ('Na vingança, como na vida, toda ação tem uma reação oposta igual. No final, a culpa sempre cai. \uD83D\uDC4A\\n(Revenge)','Loading...','Frases de Felicidade')\n" +
+                ", ('Confiança é um luxo que não me permito ter \uD83D\uDC4C\\n(Revenge)','Loading...','Frases de Felicidade')\n" +
+                ", ('Mas há consequências em continuar, quando o mundo diz que não deve \uD83D\uDE09\uD83D\uDC4A\\n(Mrs. Blanchard)','Loading...','Frases de Felicidade')\n" +
+                ", ('Se procura a paz, prepare-se para a guerra \uD83D\uDC4A\uD83D\uDC4C\\n(Grimm)','Loading...','Frases de Felicidade')\n" +
+                ", ('A Natureza de alguém é refletida em seus olhos \uD83D\uDC4F\\n(Teen Wolf)','Loading...','Frases de Felicidade');";
+        return frase;
+    }
+    public static String carregarFrases23() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Se namorar fosse bom, isso aqui tava vazio \uD83D\uDE0E','Loading...','Frases para Solteira')\n" +
+                ", ('Solteira sim, porque quem gosta de compromisso é agenda \uD83D\uDCD2','Loading...','Frases para Solteira')\n" +
+                ", ('Ser solteira é melhor, do que estar no relacionamento errado. \uD83D\uDC4C','Loading...','Frases para Solteira')\n" +
+                ", ('Tô precisando mais disso, viver sem compromisso! \uD83D\uDE0E','Loading...','Frases para Solteira')\n" +
+                ", ('Chama a costureira por que ontem perdi a linha \uD83D\uDE06','Loading...','Frases para Solteira')\n" +
+                ", ('Se orienta ❤️ É melhor viver na farra do que viver de ilusão!!  \uD83D\uDE09','Loading...','Frases para Solteira')\n" +
+                ", ('Mulher só é sua se você assume, caso contrário ela é solteira. \uD83D\uDC44\uD83D\uDC4C','Loading...','Frases para Solteira')\n" +
+                ", ('Não me procura por que hoje quero me perder. \uD83D\uDE0E','Loading...','Frases para Solteira')\n" +
+                ", ('O amor esta no bar…\uD83C\uDF7A','Loading...','Frases para Solteira')\n" +
+                ", ('A vida é passageira, então viva sua vida hoje \uD83D\uDE0D\uD83D\uDE03','Loading...','Frases para Solteira')\n" +
+                ", ('Poderosa, maravilhosa, por onde passa incomoda… \uD83D\uDC44\uD83D\uDC84','Loading...','Frases para Solteira')\n" +
+                ", ('Solteira não! Seguindo carreira solo… \uD83D\uDC4C\uD83D\uDE06','Loading...','Frases para Solteira')\n" +
+                ", ('Eu tô ausente pra romance…\uD83D\uDE0C❤️','Loading...','Frases para Solteira')\n" +
+                ", ('Se não for feliz solteira, também não vai ser namorando. \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases para Solteira')\n" +
+                ", ('Se fosse bom se chamaria open bar, não relacionamento \uD83D\uDE06\uD83D\uDE0E','Loading...','Frases para Solteira')\n" +
+                ", ('Acho que eu não sou “namorável”. \uD83D\uDE1C','Loading...','Frases para Solteira')\n" +
+                ", ('Nada de flor, nada de amor…Ela gosta é de cerveja \uD83C\uDF3A\uD83C\uDF7A','Loading...','Frases para Solteira')\n" +
+                ", ('Seu ❤️ não precisa urgentemente de alguém, ele precisa de paz  ✌️','Loading...','Frases para Solteira')\n" +
+                ", ('Convoca as amigas porque hoje tá pro crime \uD83D\uDC44\uD83D\uDC6F','Loading...','Frases para Solteira')\n" +
+                ", ('Quanto mais conheço os homens, mais admiro minha vida de solteira. \uD83D\uDE0E\uD83D\uDC4C','Loading...','Frases para Solteira')\n" +
+                ", ('E a partir desse momento a cena é toda dela… \uD83D\uDC44','Loading...','Frases para Solteira')\n" +
+                ", ('Em um relacionamento sério com: minha auto estima…\uD83D\uDC4C\uD83D\uDC44','Loading...','Frases para Solteira')\n" +
+                ", ('Mulher inteligente é mulher solteira \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases para Solteira')\n" +
+                ", ('Ser solteira é o esquema… \uD83D\uDC4C\uD83D\uDE0E','Loading...','Frases para Solteira')\n" +
+                ", ('Não to valendo nada \uD83D\uDE0E\uD83D\uDE1C','Loading...','Frases para Solteira')\n" +
+                ", ('Proibi meu ❤️ de se apegar…','Loading...','Frases para Solteira')\n" +
+                ", ('Se ela sozinha já é um perigo ,Imagina com as amigas \uD83D\uDC6F\uD83D\uDC6F','Loading...','Frases para Solteira')\n" +
+                ", ('To curtindo meu melhor momento, eu to 100% \uD83D\uDC4C','Loading...','Frases para Solteira')\n" +
+                ", ('Solteira, porque a vida com S é mais gostosa. \uD83D\uDE1C\uD83D\uDE06','Loading...','Frases para Solteira')\n" +
+                ", ('Não economize amor, mais evite o desperdício ❤️❤️','Loading...','Frases para Status')\n" +
+                ", ('Decisões têm consequências, indecisões mais ainda \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('Onde há calma observo, onde há alma absorvo  \uD83D\uDE07\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Uns chamam de sorte, eu chamo de Deus ❤\uD83D\uDC4F\uD83D\uDCAB','Loading...','Frases para Status')\n" +
+                ", ('Para cada flor há um espinho\uD83C\uDF3C','Loading...','Frases para Status')\n" +
+                ", ('Voar mesmo sem asa é sabedoria, é arrancar sorriso de onde não tem alegria!','Loading...','Frases para Status')\n" +
+                ", ('O Sol É Para As Flores, Assim Como Os Sorrisos São Para A Humanidade \uD83D\uDC9B\uD83C\uDF38','Loading...','Frases para Status')\n" +
+                ", ('Quem sabe o que quer, não perde o que tem. \uD83D\uDE1A\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Menos Pedra Mais Valor, Menos Guerra Mais Amor❤\uD83D\uDC63✉\uD83D\uDC8E','Loading...','Frases para Status')\n" +
+                ", ('Em um oceano de mistérios, saiba navegar…\uD83C\uDF0A\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Perdemos mais por medo, do que por tentativas \uD83D\uDE0C\uD83D\uDC4A','Loading...','Frases para Status')\n" +
+                ", ('O ❤️ não segue a melodia do cérebro','Loading...','Frases para Status')\n" +
+                ", ('Ou você arrisca ou se conforma \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Deus: Ele sabe qual é o plano \uD83D\uDC46\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Ninguém apaga a luz que vem de dentro \uD83D\uDCA1❤️','Loading...','Frases para Status')\n" +
+                ", ('Os olhos nunca precisam de legenda…\uD83D\uDE0D','Loading...','Frases para Status')\n" +
+                ", ('Ore, espere confie! \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Faça! E continue fazendo até da certo \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases para Status')\n" +
+                ", ('Não se prive por medo \uD83D\uDE0C\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Se acomode ou se incomode \uD83D\uDC4A','Loading...','Frases para Status')\n" +
+                ", ('Ser forte ainda que esteja fraco… \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases para Status')\n" +
+                ", ('A vida é trem-bala parceiro…\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('O amor é delicado e eu sou desastrado ❤️\uD83D\uDE0E','Loading...','Frases para Status')\n" +
+                ", ('Nasci pra vencer! \uD83D\uDC4A\uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('Não pare de sonhar!!\uD83D\uDE0C','Loading...','Frases para Status')\n" +
+                ", ('O limite do amor é o infinito…❤️\uD83D\uDC4F','Loading...','Frases para Status')\n" +
+                ", ('Coloca o mundo no mudo. Escuta o ❤️','Loading...','Frases para Status')\n" +
+                ", ('Não sou \uD83C\uDF3C que se cheire sou jardim que se regue.\uD83C\uDF39\uD83C\uDF3B','Loading...','Frases para Status')\n" +
+                ", ('Seja uma boa pessoa mais não perca seu tempo provando isso \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('Não me interrompa , enquanto eu te ignoro…\uD83D\uDE0C\uD83D\uDE0E','Loading...','Frases para Status')\n" +
+                ", ('Amei de verdade, alguém de mentira…❤️\uD83D\uDE0F','Loading...','Frases para Status')\n" +
+                ", ('Amor é mar, não se contente apenas em molhar os pés \uD83C\uDF0A❤️','Loading...','Frases para Status')\n" +
+                ", ('Confie em Deus e no seu eterno amor…\uD83D\uDC46\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Primeiro a palavra de Deus. Depois a sua opinião \uD83D\uDE09\uD83D\uDC46','Loading...','Frases para Status')\n" +
+                ", ('O que é pra ser, flui…✌️\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Se até as palavras tem força, imagina uma oração…\uD83D\uDE4F\uD83D\uDC4A','Loading...','Frases para Status')\n" +
+                ", ('Nunca reclamar, só agradecer…\uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Viver do passado só atrasa o futuro \uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Engane menos, encante mais \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Só fique preso á aquilo que te liberta ✌️\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Não sei sentir pouco, sinto muito…❤️\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Alma de flor, transbordada de amor \uD83C\uDF39❤️','Loading...','Frases para Status')\n" +
+                ", ('Vivendo os planos de Deus…\uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Faça o que ama, o resto acontece ❤️\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Eu ando sorrindo pra vida e ela sorrindo pra mim \uD83D\uDE0E','Loading...','Frases para Status')\n" +
+                ", ('Sou exigente com a beleza. Ela tem que vir de dentro \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Se for pra desistir, desista de ser fraco…\uD83D\uDC4A','Loading...','Frases para Status')\n" +
+                ", ('Ore. Espere. Confie…\uD83D\uDE4F\uD83D\uDE4C','Loading...','Frases para Status')\n" +
+                ", ('A gratidão muda tudo \uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Se o pensamento é positivo, a maré é sempre boa ✌️✌️','Loading...','Frases para Status')\n" +
+                ", ('Por um instante, se deixe em paz \uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Coisas boas vem com o tempo, as melhores, de repente \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Ela não é tua, ela só atua bem \uD83D\uDE09\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Ela é tipo cafeína pura, uma mistura de rotina e aventura \uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('Só é feliz quem sabe o que quer \uD83D\uDE09\uD83D\uDE0E','Loading...','Frases para Status')\n" +
+                ", ('Ela resolveu viver como flor, se colorir sozinha \uD83C\uDF39','Loading...','Frases para Status')\n" +
+                ", ('Dançando com o caos, namorando com a paz ✌️\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Se o amor me rejeita, a farra me aceita \uD83D\uDE0E✌️','Loading...','Frases para Status')\n" +
+                ", ('Sorrir já é um recomeço \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Faça o certo, não o fácil \uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Ela era esperta demais para ficar infeliz por muito tempo \uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('O mundo não dá voltas em vão \uD83D\uDE09\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('É preciso paz pra poder sorrir ✌️','Loading...','Frases para Status')\n" +
+                ", ('Então viva uma vida que vai se lembrar \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Que tudo aquilo que vivemos esteja para sempre com a gente \uD83D\uDE0A\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Nada é errado se te faz feliz \uD83D\uDE0A✌️','Loading...','Frases para Status')\n" +
+                ", ('Tem gente que só te atrasa na vida \uD83D\uDC4E','Loading...','Frases para Status')\n" +
+                ", ('Livre, leve e desapegada \uD83D\uDE09\uD83D\uDE0E','Loading...','Frases para Status')\n" +
+                ", ('Mulher é um livro sem final \uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Ela é um poço de qualidade e defeito, e cada jeito dela é uma emoção ❤️\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Se ame um pouco mais a cada dia ❤️\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('O amor de Deus é o conforto para a alma \uD83D\uDC46❤️','Loading...','Frases para Status')\n" +
+                ", ('Não adianta só pedir pra Deus, tem que agradecer também…\uD83D\uDE4F\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Ela quer alguém pra amar da maneira certa…❤️\uD83D\uDC8F','Loading...','Frases para Status')\n" +
+                ", ('Sei que eu não sou normal mas eu prefiro assim \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('O que nos sustenta nas adversidades do mundo é o amor de Deus ❤️\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Eu tenho uma paixão louca pelo seu sorriso…\uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Deus te deu um sorriso lindo, use-o \uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('E a vida sorriu quando você chegou \uD83D\uDE0D\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('As pessoas veem defeito em tudo, menos nelas mesmas \uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('Ninguém explica Deus…\uD83D\uDC46','Loading...','Frases para Status')\n" +
+                ", ('Uma oração e o coração se acalma \uD83D\uDE4F❤️','Loading...','Frases para Status')\n" +
+                ", ('Calma, logo passa, sempre passa, tudo passa \uD83D\uDE09\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Juntos brigam, longe é só saudade \uD83D\uDC8F\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Antes era eu, agora é nós ❤️\uD83D\uDC8F','Loading...','Frases para Status')\n" +
+                ", ('Minha saudade tem nome, cheiro e um abraço bom \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Não se iluda, o pior veneno é aquele que te agrada \uD83D\uDE0E\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Quando é pra ser, o destino dá um jeito ✌️','Loading...','Frases para Status')\n" +
+                ", ('Difícil eu ser romântico, meu ego é do tamanho do oceano atlântico \uD83D\uDE0E','Loading...','Frases para Status')\n" +
+                ", ('Todo ser que vive louve o nome do Senhor \uD83D\uDE4C','Loading...','Frases para Status')\n" +
+                ", ('Deus é bom o tempo todo \uD83D\uDE4F\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Guarda-me, ó Deus, pois em ti me refugiei \uD83D\uDE4F\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Querendo mais de Deus e menos do mundo \uD83D\uDC46','Loading...','Frases para Status')\n" +
+                ", ('Tem pessoas que nos machucam e nem percebem \uD83D\uDE22','Loading...','Frases para Status')\n" +
+                ", ('Ela é um abismo, poucos se arriscam \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Se encha de Deus e jamais se sentirá vazio \uD83D\uDE4C✌️','Loading...','Frases para Status')\n" +
+                ", ('Amar a Deus e encontrar reciprocidade ❤️\uD83D\uDC46','Loading...','Frases para Status')\n" +
+                ", ('Os planos de Deus são maiores que os meus \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Se for da vontade de Deus, vai acontecer \uD83D\uDC46\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Confie seu coração a Deus e não às pessoas \uD83D\uDC46❤️','Loading...','Frases para Status')\n" +
+                ", ('Ver quem é quem é o que dói mais \uD83D\uDE22','Loading...','Frases para Status')\n" +
+                ", ('Fortaleço quem nunca me abandonou \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('É a lei do retorno, o mundo da voltas e em uma dessas você cai \uD83D\uDC4C\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Deus não olha o seu estilo , olha o seu coração ❤️','Loading...','Frases para Status')\n" +
+                ", ('Te sugiro uma boa dose de maturidade \uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Mantenho a fé que esse jogo vai virar \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Esse medo de colocar sentimentos onde não existe nada ❤️','Loading...','Frases para Status')\n" +
+                ", ('Que Deus seja nossa prioridade \uD83D\uDE4C\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Um amor cujo a fonte é Deus nunca se esgota \uD83D\uDE4C❤️','Loading...','Frases para Status')\n" +
+                ", ('Cada pensamento meu, tem um pouco de você \uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Eu já sabia que ia acabar assim, mas você valia o risco \uD83D\uDE09\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Antes embriagado do que iludido \uD83D\uDE0E\\n(Safadão)','Loading...','Frases para Status')\n" +
+                ", ('Encheu de expectativas, transbordou de decepções \uD83D\uDC4E','Loading...','Frases para Status')\n" +
+                ", ('Não perdi nada, acabei de livrar \uD83D\uDC4C','Loading...','Frases para Status')\n" +
+                ", ('Cresci, não acredito mais em conto de fadas \uD83D\uDE18\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Meu olho brilhava em cada palavra que você falava \uD83D\uDE0A\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Se ele não muda, mude-se dele \uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Quero você ao meu lado pra sempre \uD83D\uDC8F','Loading...','Frases para Status')\n" +
+                ", ('E mais nada, nem ninguém a não ser você ✌️\uD83D\uDE09','Loading...','Frases para Status')\n" +
+                ", ('Se você virou a página, eu queimei o livro \uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Antes era eu, agora é nós ✌️','Loading...','Frases para Status')\n" +
+                ", ('Hoje ninguém vai estragar meu dia \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases para Status')\n" +
+                ", ('Sei que eu não sou normal mas eu prefiro assim \uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Reforce sua fé, e insista…\uD83D\uDC4A\uD83D\uDE4F','Loading...','Frases para Status')\n" +
+                ", ('Que todo mal vire amor, que toda dor vire flor ❤️\uD83D\uDE18','Loading...','Frases para Status')\n" +
+                ", ('Amor virou coisa de gente corajosa ❤️\uD83D\uDC4A','Loading...','Frases para Status')\n" +
+                ", ('Nunca saberemos o quão forte somos até que ser forte seja a única escolha\uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Querido passado, obrigado por tudo que me ensinou… Querido futuro, pode vir\uD83D\uDC4F\uD83D\uDE18','Loading...','Frases de Superação')\n" +
+                ", ('Eu ainda não cheguei lá, mas estou mais perto do que ontem\uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Superar não é escolha, é necessidade \uD83D\uDC4A','Loading...','Frases de Superação')\n" +
+                ", ('Esqueça os piores momentos da sua vida e faça os melhores se tornarem inesquecíveis \uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Por maior que seja, não há obstáculo que não possa ser superado \uD83D\uDC4A','Loading...','Frases de Superação')\n" +
+                ", ('Grandes batalhas só são dadas a grandes guerreiros \uD83D\uDC4A✌️','Loading...','Frases de Superação')\n" +
+                ", ('Seja seu foco. Faça as coisas por você, não pelos outros \uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Com Deus na minha vida todos os problemas, ansiedades e dificuldades podem ser superados \uD83D\uDE4F','Loading...','Frases de Superação')\n" +
+                ", ('O sofrimento precisa ser superado e o único meio de superá-lo é suportando-o \uD83D\uDC4A','Loading...','Frases de Superação')\n" +
+                ", ('Deixe que seus sonhos sejam maiores que seus medos \uD83D\uDE09\uD83D\uDE18','Loading...','Frases de Superação')\n" +
+                ", ('A maior força vem da superação da maior fraqueza \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Superação')\n" +
+                ", ('Você é mais forte do que imagina. Acredite \uD83D\uDC4A','Loading...','Frases de Superação')\n" +
+                ", ('É com os tropeços que aprendemos a sair do chão \uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Independente das circunstâncias, não pare de sorrir \uD83D\uDE03','Loading...','Frases de Superação')\n" +
+                ", ('Grandes vitórias exigem grande dedicação \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases de Superação')\n" +
+                ", ('Quem supera, vence \uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Esqueça. Sorria. Deixe ir \uD83D\uDE18','Loading...','Frases de Superação')\n" +
+                ", ('Não importa o problema, se a solução depender do meu empenho eu vou dar a volta por cima\uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Mais um dia, mais uma oportunidade de se superar e melhorar o mundo \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases de Superação')\n" +
+                ", ('Posso não ser a melhor pessoa do mundo, mas todos os dias luto para me superar \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Vencer outras pessoas não é sinal de vitória, mas superar-se a si mesmo é digno de glória \uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases de Superação')\n" +
+                ", ('Supere os desafios, bata recordes, O céu é o limite dos guerreiros \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Quando temos fé e força de vontade, os resultados daquilo que fazemos superam nossas expectativas\uD83D\uDC4A','Loading...','Frases de Superação')\n" +
+                ", ('A vida pode não ser tão fácil, mas a cada obstáculo superado você ganha força pra seguir em frente \uD83D\uDC4A\uD83D\uDE09','Loading...','Frases de Superação')\n" +
+                ", ('Traição não é um erro, é uma escolha! \uD83D\uDC4C\uD83D\uDE20','Loading...','Frases de Traição')\n" +
+                ", ('Porque quando se ama de verdade, ser fiel é um prazer e não um sacrifício. \uD83D\uDE09❤️','Loading...','Frases de Traição')\n" +
+                ", ('O teu arrependimento é mais valioso do que qualquer vingança e mais dolorido do que qualquer castigo…\uD83D\uDC4C\uD83D\uDE14','Loading...','Frases de Traição')\n" +
+                ", ('Se alguém trai você uma vez, a culpa é dele. Se trai duas vezes, a culpa é sua. \uD83D\uDE14\uD83D\uDE09','Loading...','Frases de Traição')\n" +
+                ", ('A traição é uma saída para quem não sabe se entregar por inteiro \uD83D\uDE14','Loading...','Frases de Traição')\n" +
+                ", ('A única razão para a traição ser tão dolorosa, é que ela nunca vem de quem esperamos, mas de quem confiamos. \uD83D\uDE22☹️','Loading...','Frases de Traição')\n" +
+                ", ('Se você engana, trai e mente. Bom, com o veneno você envenena, mas com o próprio veneno você acaba sendo envenenado. \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases de Traição')\n" +
+                ", ('As pessoas que mais amamos são as que mais nos decepcionam, pois achamos que são perfeitas e esquecemos que são humanas. \uD83D\uDC94\uD83D\uDE22','Loading...','Frases de Traição')\n" +
+                ", ('Valorize seu relacionamento, não viva com reservas! Você não corre riscos, caso haja traição você não estará perdendo nada! \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Traição')\n" +
+                ", ('Traição não tem justificativas. Todos temos escolha. \uD83D\uDE09','Loading...','Frases de Traição')\n" +
+                ", ('Toda traição tem a sua sentença, se não é da vida é da própria consciência. \uD83D\uDE22\uD83D\uDE14','Loading...','Frases de Traição')\n" +
+                ", ('Antes de ferir um coração, certifique-se se você não está dentro dele. \uD83D\uDC94','Loading...','Frases de Traição')\n" +
+                ", ('Quem ama de verdade é porque nunca pensou em trair, agora, quem já traiu é porque nunca amou de verdade.\uD83D\uDC4C','Loading...','Frases de Traição')\n" +
+                ", ('Já reparou que a ingratidão sempre vem acompanhada com uma dose de traição. \uD83D\uDE14','Loading...','Frases de Traição')\n" +
+                ", ('Admiro muito quem, depois de uma decepção, segue em frente, sem levar consigo o peso do que ficou para trás. \uD83D\uDE09\uD83D\uDC4F','Loading...','Frases de Traição')\n" +
+                ", ('De todo amor que te dei, só desilusões recebi de tudo que sonhei, só tristeza vivi…\uD83D\uDC94\uD83D\uDE22','Loading...','Frases de Traição')\n" +
+                ", ('Nenhum homem merece uma confiança ilimitada – na melhor das hipóteses, a sua traição espera uma tentação suficiente. \uD83D\uDC4C','Loading...','Frases de Traição')\n" +
+                ", ('Fiquei magoado, não por me teres traído, mas por não poder voltar a acreditar-te. \uD83D\uDE22','Loading...','Frases de Traição')\n" +
+                ", ('A pior parte da traição é que ela vem justamente quando nós não a esperamos e através de quem nós nunca desconfiamos. ☹️\uD83D\uDE14','Loading...','Frases de Traição')\n" +
+                ", ('As flores mais belas e perfumadas, escondem o doce veneno da traição. \uD83C\uDF39\uD83D\uDC94','Loading...','Frases de Traição')\n" +
+                ", ('O ❤️ é um lugar sagrado, é onde guardamos o que temos de mais precioso, a nossa capacidade de amar. ❤️\uD83D\uDC4F','Loading...','Frases de Traição')\n" +
+                ", ('Nunca confie em ninguém, especialmente em relação às pessoas que você admira. Serão essas que irão desfechar os piores golpes. \uD83D\uDC4C','Loading...','Frases de Traição')\n" +
+                ", ('Eu pensei que tinha amigos, mas no fim morremos sozinhos. \uD83D\uDE0C\uD83D\uDE23','Loading...','Frases de Traição')\n" +
+                ", ('Mantenham-se alertas, pois a traição pode ocorrer em momentos de desconcerto. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases de Traição')\n" +
+                ", ('O amor nasce de um olhar, surge como uma ilusão, se mantem com ciúmes e morre pela traição \uD83D\uDC94','Loading...','Frases de Traição')\n" +
+                ", ('O que sobra desse ato, é que nenhum traidor é confiável. \uD83D\uDC4C','Loading...','Frases de Traição')\n" +
+                ", ('Deus, me dá teu colo. São dias difíceis! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Não se esconda atrás de um falso sorriso. Você Tem o direito de não estar bem. \uD83D\uDE14☹️','Loading...','Frases Tristes')\n" +
+                ", ('As coisas passam, e o melhor que fazemos é deixar elas irem. \uD83D\uDC4C\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Somos colecionadores de decepções! \uD83D\uDC4C\uD83D\uDC4C (Projota)','Loading...','Frases Tristes')\n" +
+                ", ('Não se preocupe, Deus vai honrar cada lágrima que você deixou cair! \uD83D\uDE2A\uD83D\uDE2A','Loading...','Frases Tristes')\n" +
+                ", ('Um dia sem você é triste, uma semana é maldade, um mês não existe. (Projota)','Loading...','Frases Tristes')\n" +
+                ", ('Ore na tristeza, agradeça na alegria! \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Como num filme triste, chorei, lendo as cartas que deu para mim… \uD83D\uDE22 (Safadão)','Loading...','Frases Tristes')\n" +
+                ", ('Tristezas e alegrias sempre serão fases da vida! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Tristes')\n" +
+                ", ('Queria amor, mas a decepção estava em promoção! \uD83D\uDE12\uD83D\uDE12','Loading...','Frases Tristes')\n" +
+                ", ('Essa competição por amor só serviu pra me machucar! \uD83D\uDC94\uD83D\uDC94 (Marília Mendonça)','Loading...','Frases Tristes')\n" +
+                ", ('O problema não é desculpar, e sim desculpar quem a gente sabe que vai nos magoar de novo! \uD83D\uDE13\uD83D\uDE13','Loading...','Frases Tristes')\n" +
+                ", ('Então ficar sozinho é tudo que nos resta! \uD83D\uDE23 (Projota)','Loading...','Frases Tristes')\n" +
+                ", ('Desculpa em ser assim tão inocente ao pensar que iria, sempre ter você pra mim.  (Erreap)','Loading...','Frases Tristes')\n" +
+                ", ('Cada um sabe a falta que o outro faz! \uD83D\uDC4C\uD83D\uDC4C','Loading...','Frases Tristes')\n" +
+                ", ('Arrependimento não mata, só mostra o quanto você foi idiota! \uD83D\uDE21\uD83D\uDE21','Loading...','Frases Tristes')\n" +
+                ", ('Cuidado com o destino ele brinca com as pessoas… (Charlie brow jr.)','Loading...','Frases Tristes')\n" +
+                ", ('Se eu tivesse feito tudo diferente, estaria tudo bem com a gente… \uD83D\uDC94☹️ (Mateus e Kauan)','Loading...','Frases Tristes')\n" +
+                ", ('Não sei se choro se sumo ou finjo que estou bem… \uD83D\uDE22\uD83D\uDE14 (Renato Russo).','Loading...','Frases Tristes')\n" +
+                ", ('Tem gente que machuca os outros, tem gente que não sabe amar. \uD83D\uDC94 (Legião urbana)','Loading...','Frases Tristes')\n" +
+                ", ('Meu sorriso são lágrimas disfarçadas; apenas tristeza vestida de alegria \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Nem tudo que você fizer pelos outros eles farão por você. Aceite! ☹️\uD83D\uDC4C','Loading...','Frases Tristes')\n" +
+                ", ('Nem todas as pessoas vão gostar de você, algumas não gostam nem delas mesmas. \uD83D\uDE09\uD83D\uDE0C','Loading...','Frases Tristes')\n" +
+                ", ('Antes de ferir um ❤️, certifique-se que você não está dentro dele.','Loading...','Frases Tristes')\n" +
+                ", ('Você já morou só? – Sim. – Onde? – Em algumas histórias de amor. \uD83D\uDE22\uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('É muito triste quando você descobre quem realmente as pessoas são \uD83D\uDE25\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Ninguém nunca vai saber se você esta sorrindo por felicidade ou para esconder sua tristeza \uD83D\uDE22\uD83D\uDE01','Loading...','Frases Tristes')\n" +
+                ", ('O insucesso de não alcançar a felicidade é tristeza dobrada \uD83D\uDE22\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Dor, tristeza e alegria… esses sentimentos permitem que você entenda os outros \uD83D\uDE14\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Quantas tristezas cabem em uma lágrima? \uD83D\uDE25\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Aquele que nunca viu a tristeza, nunca reconhecerá a alegria \uD83D\uDC4A\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Maior que a tristeza de não haver vencido é a vergonha de não ter lutado \uD83D\uDC4A','Loading...','Frases Tristes')\n" +
+                ", ('Há um vazio dentro de mim que não consigo expressar em palavras \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Choro para aliviar, sorrio para desfaçar \uD83D\uDE22\uD83D\uDE01','Loading...','Frases Tristes')\n" +
+                ", ('Ninguém além de mim sabe o preço de deixar certas coisas pra lá \uD83D\uDE14\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Como a maioria dos sofrimentos, esse começou com uma aparente felicidade','Loading...','Frases Tristes')\n" +
+                ", ('A vida não pergunta se você está preparado ou não \uD83D\uDC4A','Loading...','Frases Tristes')\n" +
+                ", ('Para evitar decepções, reduza as expectativas \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('É melhor estar triste com amor, do que alegre sem ele ❤️\uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('Se não soubermos esquecer, nunca estaremos livres de tristeza \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('O mal que fazemos é sempre mais triste do que o mal que nos fazem \uD83D\uDC4A','Loading...','Frases Tristes')\n" +
+                ", ('Triste é o homem que só ama as coisas quando as perde \uD83D\uDE25\uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('Fico triste quando alguém me ofende, mas, com certeza, eu ficaria mais triste se fosse eu o ofensor…\uD83D\uDE22\uD83D\uDE0C','Loading...','Frases Tristes')\n" +
+                ", ('Mais esperança nos meus passos do que tristeza nos meus ombros \uD83D\uDE09\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('A paciência torna mais leve o que a tristeza não cura \uD83D\uDE25☹️','Loading...','Frases Tristes')\n" +
+                ", ('Talvez a loucura, seja o único remédio contra a tristeza \uD83D\uDE1C\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Me apeguei a algo que nunca me pertenceu \uD83D\uDE14☹️','Loading...','Frases Tristes')\n" +
+                ", ('A tristeza só manda até onde eu quiser, pois nunca permito que ela comande minha vida \uD83D\uDE09\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('A tristeza perde a força quando nasce a esperança \uD83D\uDE09\uD83D\uDC4A','Loading...','Frases Tristes')\n" +
+                ", ('Em alguns momentos a tristeza é a voz que fala mais alto no nosso coração \uD83D\uDE22❤️','Loading...','Frases Tristes')\n" +
+                ", ('Use essa tristeza para crescer, em vez de cair aos pés dela \uD83D\uDE09☹️','Loading...','Frases Tristes')\n" +
+                ", ('Nada é mais triste do que ter que esconder um sentimento de tristeza \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Você não pode impedir que a tristeza bata na sua porta, mas pode impedir que ela entre e seja um hóspede \uD83D\uDE09\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('A pior tristeza é aquela que se esconde por trás de uma máscara de felicidade \uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('A única tristeza que não tem consolo na vida é a tristeza que se mereceu \uD83D\uDE22\uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('A tristeza é a agonia de um momento. Cultivar a tristeza, um erro de toda vida \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('A tristeza não mata, mas machuca e maltrata… \uD83D\uDE22\uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('Decepção é o único sentimento que faz a pessoa mudar de repente… ☹️\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Feliz ou triste, agradeça a Deus todos os dias. \uD83D\uDE22\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Chorar por dentro é um dos piores choros. \uD83D\uDE22☹️','Loading...','Frases Tristes')\n" +
+                ", ('As lágrimas também são orações. \uD83D\uDE22\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Amor só existe a dois. Amor sozinho chama-se tristeza ❤️\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('As lágrimas são as últimas palavras, quando o ❤️ perde a voz','Loading...','Frases Tristes')\n" +
+                ", ('Decepções mudam sentimentos…\uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('É triste ver um amigo se afastando \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Presta atenção, porque geralmente, geral mente.\uD83D\uDC4C','Loading...','Frases Tristes')\n" +
+                ", ('Muitos foram os momentos que precisei chorar, poucos eram os colos que pude contar. \uD83D\uDE22\uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('Substitua pessoas que já te substituíram. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Sem expectativa, sem decepção. \uD83D\uDE0C\uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('Faz da tristeza confete, joga pro ar e deixa o vento levar. \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Eu sinto você mais distante á cada dia. \uD83D\uDE14☹️','Loading...','Frases Tristes')\n" +
+                ", ('Eu me torturo com meus próprios pensamentos. \uD83D\uDE14\uD83D\uDE23','Loading...','Frases Tristes')\n" +
+                ", ('Eu me afastei. Porque percebi que tanto faz eu estar por perto ou não. \uD83D\uDE0C','Loading...','Frases Tristes')\n" +
+                ", ('Cadê o tal do “para sempre”, cadê? ☹️\uD83D\uDE23','Loading...','Frases Tristes')\n" +
+                ", ('A pior decepção com alguém é a que representa o ponto final de uma história. \uD83D\uDC94\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Nem feliz, nem triste. Apenas suportando. \uD83D\uDC4C\uD83D\uDE0C','Loading...','Frases Tristes')\n" +
+                ", ('Não se lamente, o que se perde retorna de outra forma  \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Lágrimas não doem, o que dói é o motivo que as fazem cair. \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Todo mundo erra. Nem todo o mundo perdoa. \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Se você deixa de ser você por alguém, quem é você de verdade? ☹️','Loading...','Frases Tristes')\n" +
+                ", ('O começo de algo quase sempre significa o final de outro. \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Chorar… ajuda a diminuir a profundidade da dor. \uD83D\uDE22\uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('Você bagunçou até o que havia de mais organizado em mim. \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Mesmo sabendo que um dia a vida acaba, a gente nunca está preparado para perder alguém! \uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('A saudade eterniza a presença de quem se foi. Com o tempo esta dor se aquieta, se transforma em silêncio… \uD83D\uDE36','Loading...','Frases Tristes')\n" +
+                ", ('E fortalecidos seguiremos nossa jornada, conscientes de que Jesus prossegue a nos guiar e a nos mostrar que a morte significa chegar ao fim e descobrir que o fim, em verdade, é apenas um novo recomeço❗️','Loading...','Frases Tristes')\n" +
+                ", ('Seus dias de luta terminaram, seus dias de glória chegaram, e agora o céu azul é todo seu! \uD83C\uDF1F','Loading...','Frases Tristes')\n" +
+                ", ('Na memória de quem ama não há lugar para o esquecimento, só para a saudade daqueles que durante a vida nos trouxeram tanta alegria. Sentirei sua falta! \uD83D\uDE14 Aqueles que amamos nunca morrem, apenas partem antes de nós…','Loading...','Frases Tristes')\n" +
+                ", ('Disse-lhe Jesus: Eu sou a ressurreição e a vida. Aquele que crê em mim ainda que morto viverá. E todo aquele que vive e crê em mim, jamais morrerá! \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Quando o amor é forte nenhum adeus é eterno! \uD83D\uDE41\uD83D\uDE41','Loading...','Frases Tristes')\n" +
+                ", ('Saudade é o amor que fica… \uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('Pedimos a Deus \uD83D\uDE4F que nos ajude a enfrentar este momento de tanta dor e tristeza com força e serenidade. \uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Hoje o sol não brilhou \uD83C\uDF25, os pássaros não cantaram, os risos se calaram e as lágrimas rolaram em meu rosto. Meu coração sofre em silêncio. \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Meu coração está de luto! ☹️\uD83D\uDE41\uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('Palavras não podem expressar qualquer tristeza nesse momento… \uD83D\uDE36\uD83D\uDE10','Loading...','Frases Tristes')\n" +
+                ", ('Uma pessoa que eu amo se transformou em estrela e está brilhando agora pertinho de Deus! \uD83C\uDF1F\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('A saudade é a luz viva que ilumina a estrada do passado… ☄️','Loading...','Frases Tristes')\n" +
+                ", ('A angústia de ter perdido, não supera a alegria de ter um dia conhecido! \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Não importa quanto tempo passe, mas a sua memória continuará sempre viva! \uD83D\uDCAD','Loading...','Frases Tristes')\n" +
+                ", ('As boas lembranças sempre irão secar as minhas lágrimas e me fazer sorrir! \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Que sua alma repouse em eterna paz! \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('As pessoas que amamos não morrem jamais, apenas viajam na nossa frente…','Loading...','Frases Tristes')\n" +
+                ", ('Tudo é mutável, tudo aparece e desaparece; só pode haver a bem-aventurada paz quando se puder escapar da agonia da vida e da morte.','Loading...','Frases Tristes')\n" +
+                ", ('A saudade eterniza a presença de quem se foi… ☹️\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Viver o luto é fundamental para ultrapassar a dor da perda e transformar o sofrimento em uma memória de amor! \uD83D\uDC97','Loading...','Frases Tristes')\n" +
+                ", ('Nunca sabemos qual será a última vez que veremos um lugar ou uma pessoa. \uD83D\uDE10\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('A morte não tirou das minhas vestes as cores, e sim do meu rosto o riso.☹️\uD83D\uDE41','Loading...','Frases Tristes')\n" +
+                ", ('A saudade é um lago transparente a refletir sempre a imagem da pessoa ausente… \uD83D\uDE22\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Pra quem tem fé, a vida nunca tem fim… \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('A única coisa tão inevitável quanto a morte é a vida‼️','Loading...','Frases Tristes')\n" +
+                ", ('Toda despedida carece de luto para ser compreendida! \uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('O luto não mata a saudade, mas ajuda a compreender o ciclo da vida…','Loading...','Frases Tristes')\n" +
+                ", ('Sem você aqui perto de mim, o meu peito fica um completo vazio cheio de saudade! \uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('Venho por meio dessa mensagem mostrar meu profundo sentimento pelo ocorrido. Infelizmente nem tudo acontece como imaginamos, mas Deus sabe o que faz. \uD83D\uDE4F Conte comigo para qualquer coisa! \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Aqueles que amamos nunca morrem, apenas partem antes de nós…  \uD83D\uDE15 Deus te conforte! \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Que Deus ilumine e console a vida da família… \uD83D\uDE4F\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Venho expressar meus profundos sentimentos, mas sei que as palavras não conseguirão cumprir esse papel. \uD83D\uDE41 Sinto muito…','Loading...','Frases Tristes')\n" +
+                ", ('Não se preocupe, o tempo cura todas as feridas. Muita força! Conte sempre comigo. \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Palavras não podem expressar qualquer tristeza nesse momento! Meus sentimentos! \uD83D\uDE41☹️','Loading...','Frases Tristes')\n" +
+                ", ('Que Deus conforte seu coração \uD83D\uDC94, e traga consolo as suas lágrimas! \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Sei que agora tudo parece difícil demais para aguentar. Mas saiba que você não está sozinho! \uD83D\uDE15\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Não existe partida para aqueles que permanecem eternamente em nossos corações! \uD83D\uDC97\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Te desejo muita força! Continue seu caminho, eu sei que você vai aguentar essa saudade… \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Não sei como expressar o meu pesar. Sinto muito pela perda… ☹️\uD83D\uDE41','Loading...','Frases Tristes')\n" +
+                ", ('Peço que Deus console o coração de vocês, que ele amenize um pouco essa dor e essa tristeza! \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Não há nada que seja capaz de curar ou apagar esse sofrimento, mas o amor de Deus pode acalentar um coração dolorido… \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Cabe a nós respeitar a vontade de Deus \uD83D\uDE4F e pedir paz e consolo para aqueles que ficam!\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Deus é tão sábio e misericordioso que ele criou o tempo e o tempo serve para muitas coisas, inclusive para ir amenizando e diminuindo a dor… \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Porque são nessas horas que devemos buscar a presença de Jesus em nossas vidas e novamente ouvir a sua voz amorosa a nos confortar!','Loading...','Frases Tristes')\n" +
+                ", ('É o nosso Senhor que te dá a coragem e a força que nem tu sabes que tem para seguir caminhando… ☝️\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Neste momento de profunda tristeza, de luto e sofrimento, entrega a tua vida ao Senhor ☝️, Ele te sustentará! \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Nos sentimos incapazes de encontrar palavras de consolo para sua dor, me coloco em oração para que Deus o conforte. \uD83D\uDE4F\uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Mesmo sabendo que um dia a vida acaba, a gente nunca está preparado para perder alguém… \uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('A vida não passa de uma oportunidade de encontro. Só depois da morte se dá a junção. Os corpos apenas têm o abraço, as almas têm o enlace','Loading...','Frases Tristes')\n" +
+                ", ('Lamento mesmo muito, e gostaria de poder, de alguma forma, aliviar seu sofrimento. Conte comigo! \uD83D\uDE41\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Infelizmente este é o desfecho inevitável para todos, mas sei que aceitar tão cruel despedida é quase impossível, chore sua dor mais respire e se recupere para lembrar os momentos bons com alegria.','Loading...','Frases Tristes')\n" +
+                ", ('Devem ser fortes e confiar nos desígnios divinos. \uD83D\uDE4F Para os que ficam a vida continua. É preciso ser forte.','Loading...','Frases Tristes')\n" +
+                ", ('Saiba que é com um profundo tom de tristeza que hoje endereço estas palavras a você, pois servem para lamentar a sua perda irreparável. Os meus mais sentidos pêsames pelo falecimento do seu ente querido.','Loading...','Frases Tristes')\n" +
+                ", ('Meus pensamentos estão com você, e desde já disponibilizo também o meu tempo e o meu apoio para o que você precisar. Que as lembranças de quem se foi possam confortar seu coração e que quem partiu descanse em paz!','Loading...','Frases Tristes')\n" +
+                ", ('Lamento muito, mesmo, e gostaria de poder fazer muito mais, mas pouco pode ser feito ou dito em hora de tanta dor. Meus sinceros sentimentos! \uD83D\uDE15\uD83D\uDE41','Loading...','Frases Tristes')\n" +
+                ", ('Pouco pode ser dito ou feito perante o único adeus que é definitivo, e nestas horas sobram as palavras, assim como se multiplica a dor e a saudade… \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Tem dias que não existem emoções, nem pensamentos: só dor!','Loading...','Frases Tristes');";
+        return frase;
+    }
+    public static String carregarFrases24() {
+        String frase ="INSERT INTO frases (texto,autor,categoria) VALUES\n" +
+                " ('Se meus olhos mostrassem a minha alma, todos, ao me verem sorrir, chorariam comigo.','Loading...','Frases Tristes')\n" +
+                ", ('Exige muito de ti e espera pouco dos outros. Assim, evitarás muitos aborrecimentos.','Loading...','Frases Tristes')\n" +
+                ", ('Minha alma esta doente, me sinto em coma, coma induzido pela tristeza profunda que sinto.','Loading...','Frases Tristes')\n" +
+                ", ('Toda alegria é assim: já vem embrulhada numa tristezinha de papel fino.','Loading...','Frases Tristes')\n" +
+                ", ('Parece que quanto mais você luta, mais difícil fica.','Loading...','Frases Tristes')\n" +
+                ", ('Hoje na solidão ainda me custa entender como o amor foi tão injusto para quem lhe deu só dedicação.','Loading...','Frases Tristes')\n" +
+                ", ('Se eu já tive amigos imaginários? Não, tive amigos que eu imaginava ser verdadeiros.','Loading...','Frases Tristes')\n" +
+                ", ('Eu amo o impossível, pois é o único que não pode me decepcionar.','Loading...','Frases Tristes')\n" +
+                ", ('É triste quando você não tem mais pressa de chegar porque sabe que não tem mais ninguém pra te esperar.','Loading...','Frases Tristes')\n" +
+                ", ('Aquele que muito confia, muito se decepciona.','Loading...','Frases Tristes')\n" +
+                ", ('Aquele momento que você precisa de ajuda, mas sofre sozinho, para não incomodar ninguém.','Loading...','Frases Tristes')\n" +
+                ", ('O problema não são as cicatrizes. O problema é olhar para elas e lembrar de quem as deixou.','Loading...','Frases Tristes')\n" +
+                ", ('Um dia a gente cansa de esconder o nosso lado triste.','Loading...','Frases Tristes')\n" +
+                ", ('Dormir é a melhor coisa da vida. Não traz problemas, não traz tristeza, não traz decepção.','Loading...','Frases Tristes')\n" +
+                ", ('A abelha atarefada não tem tempo para a tristeza.','Loading...','Frases Tristes')\n" +
+                ", ('Triste época! É mais fácil desintegrar um átomo do que um preconceito.','Loading...','Frases Tristes')\n" +
+                ", ('Às vezes Deus coloca pessoas erradas em nossas vidas, para que quando encontrarmos a pessoa certa saibamos valorizá-la.','Loading...','Frases Tristes')\n" +
+                ", ('Prefiro sofrer por uma abstinência, do que sofrer por um amor que nunca existiu.','Loading...','Frases Tristes')\n" +
+                ", ('As horas mais tristes da vida são aquelas em que duvidamos de nós próprios.','Loading...','Frases Tristes')\n" +
+                ", ('Eu estou triste de uma tristeza absurda. Muito triste. Quase não dá pra suportar, mas dá.','Loading...','Frases Tristes')\n" +
+                ", ('A coisa mais difícil na vida, é saber que você fez tudo o que podia, mas ainda não foi o suficiente.','Loading...','Frases Tristes')\n" +
+                ", ('Vivi tantos planos, sonhei tantos sonhos, com quem hoje nem olha mais na minha cara.','Loading...','Frases Tristes')\n" +
+                ", ('Ficar triste é natural, mas guardar mágoa é a pior das infelicidades!','Loading...','Frases Tristes')\n" +
+                ", ('Eu tô tentando ser forte, e fingir que não me importo, mas só de te ver com ele(a), me faz morrer por dentro.','Loading...','Frases Tristes')\n" +
+                ", ('Quando a dor não cabe mais no peito ela transborda pelos olhos.','Loading...','Frases Tristes')\n" +
+                ", ('Admiro muito quem, depois de uma decepção, segue em frente, sem levar consigo o peso do que ficou para trás.','Loading...','Frases Tristes')\n" +
+                ", ('A dureza de um momento de tristeza, nos transmite lições para a vida inteira!','Loading...','Frases Tristes')\n" +
+                ", ('Triste é você apostar todas as suas fichas em alguém que não apostou nada em você.','Loading...','Frases Tristes')\n" +
+                ", ('Acordei do jeito que vim ao mundo: triste e sem entender nada.','Loading...','Frases Tristes')\n" +
+                ", ('O desejo de ser feliz espanta qualquer tristeza.','Loading...','Frases Tristes')\n" +
+                ", ('Se desse para voltar no tempo, eu preferia nem ter nascido.','Loading...','Frases Tristes')\n" +
+                ", ('Eu não quero esquecer você, mais não quero lembrar da dor.','Loading...','Frases Tristes')\n" +
+                ", ('As vezes digo que está tudo bem, quando estou realmente muito triste…','Loading...','Frases Tristes')\n" +
+                ", ('É incrível. A mesma coisa que te deixa feliz, pode te deixar muito triste.','Loading...','Frases Tristes')\n" +
+                ", ('De tristeza em tristeza, muitos acabam por fazer dela sua identidade!','Loading...','Frases Tristes')\n" +
+                ", ('Todo mundo é capaz de dominar uma dor, exceto quem a sente \uD83D\uDE41','Loading...','Frases Tristes')\n" +
+                ", ('Tenho cicatrizes que eu nunca mostrarei \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Evitar a felicidade com medo de que ela acabe, é o melhor meio de se tornar infeliz ☹️\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('O passado dói. O futuro assusta. O presente machuca \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Deus, me dê forças para suportar essa tempestade \uD83D\uDE4F','Loading...','Frases Tristes')\n" +
+                ", ('Vai ficar tudo bem, eu sei. E se não ficar eu finjo \uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('É pedir de mais um pouco de felicidade? \uD83D\uDE26','Loading...','Frases Tristes')\n" +
+                ", ('Tem pessoas que criam suas própias tempestades depois ficam triste quando chove \uD83D\uDE22☹️','Loading...','Frases Tristes')\n" +
+                ", ('Alguém que não provoca seu sorriso não merece sua lágrima \uD83D\uDE0C\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('O problema da dor é esse, ela precisa ser sentida \uD83D\uDE25\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('A vida é bela e o mundo é triste \uD83D\uDE26\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Amor só existe a dois. Amor sozinho chama-se tristeza \uD83D\uDC94\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('O problema não são as cicatrizes. O problema é olhar para elas e lembrar de quem as deixou \uD83D\uDE26\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Tristeza não tem fim. Felicidade sim \uD83D\uDE22\uD83D\uDE00','Loading...','Frases Tristes')\n" +
+                ", ('Às vezes precisa doer para aliviar \uD83D\uDE23\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Quem diz que me entende nunca quis saber ☹️','Loading...','Frases Tristes')\n" +
+                ", ('Não tenho mais forças para fingir um sorriso que não é meu \uD83D\uDC4A\uD83D\uDE26','Loading...','Frases Tristes')\n" +
+                ", ('Não se preocupe, ela está apenas morrendo em silêncio ☹️\uD83D\uDE14','Loading...','Frases Tristes')\n" +
+                ", ('Mil vezes quis chorar, mas me segurei \uD83D\uDE22\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('A pior coisa é saber que os dias passam rápido,e eu apenas existo,não vivo ☹️\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Triste mesmo é procurar a poesia dentro de si e não encontrar \uD83D\uDE26','Loading...','Frases Tristes')\n" +
+                ", ('E a dor parece que só aumenta cada dia mais \uD83D\uDE23\uD83D\uDE15','Loading...','Frases Tristes')\n" +
+                ", ('Não consigo entender me trocar por outro alguém… \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Por dentro estou sofrendo, sabendo que te perdi. Por fora estou vivendo, fingindo que te esqueci \uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('A vida não é triste. Tem horas tristes \uD83D\uDE26','Loading...','Frases Tristes')\n" +
+                ", ('Triste não é mudar de ideia. Triste é não ter ideia para mudar \uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Cuidado com a tristeza. Ela é um vício. \uD83D\uDE22☹️','Loading...','Frases Tristes')\n" +
+                ", ('A nossa vida é uma coleção de saudade \uD83D\uDE30\uD83D\uDE26 (projota)','Loading...','Frases Tristes')\n" +
+                ", ('A tristeza veio mais ela não irá permanecer. \uD83D\uDE1E\uD83D\uDC4A','Loading...','Frases Tristes')\n" +
+                ", ('A tristeza se torna necessária, quando choramos e renovamos nossa alma, para sorrir novamente. \uD83D\uDE22\uD83D\uDE09','Loading...','Frases Tristes')\n" +
+                ", ('Triste sou quando me decepcionam. \uD83D\uDE26','Loading...','Frases Tristes')\n" +
+                ", ('Uma tristeza que parece não ter fim, quando percebo que não está aqui. \uD83D\uDE2D','Loading...','Frases Tristes')\n" +
+                ", ('É preciso conhecer a tristeza para dar mais valor a alegria. \uD83D\uDE22\uD83D\uDE42','Loading...','Frases Tristes')\n" +
+                ", ('Ouvir dizer que só era triste quem queria. \uD83D\uDE10\uD83D\uDE22(Charlie brow jr.)','Loading...','Frases Tristes')\n" +
+                ", ('Se te faz sofrer não é amor é tristeza.\uD83D\uDC94','Loading...','Frases Tristes')\n" +
+                ", ('Você pode até ser triste hoje o que você não pode é desistir de ser feliz. ☹️','Loading...','Frases Tristes')\n" +
+                ", ('Não sei se choro,se sumo ou se finjo que estou bem. \uD83D\uDE36\uD83D\uDE10','Loading...','Frases Tristes')\n" +
+                ", ('Triste fui e você nem ligou \uD83D\uDE22\uD83D\uDE1E( Marisa monte).','Loading...','Frases Tristes')\n" +
+                ", ('A pior solidão é a da pessoa que não ama. \uD83D\uDC94\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Magoar quem a gente gosta dói na gente mesmo. \uD83D\uDC94\uD83D\uDE1E','Loading...','Frases Tristes')\n" +
+                ", ('Não há nada mais triste que lutar para esquecer um grande amor. \uD83D\uDC4A\uD83D\uDE22','Loading...','Frases Tristes')\n" +
+                ", ('Fico triste quando alguém me ofende, mas, com certeza eu ficaria mais triste se fosse eu o ofensor. \uD83D\uDE22\uD83D\uDE2F','Loading...','Frases Tristes')\n" +
+                ", ('Só se superam todas as tristezas, ou com coragem, ou com um amigo. \uD83D\uDC4A\uD83D\uDC6C','Loading...','Frases Tristes')\n" +
+                ", ('Serei atingido com mais força pelas tristezas, se me recordar das alegrias. \uD83D\uDE22\uD83D\uDE0A','Loading...','Frases Tristes')\n" +
+                ", ('Há homens que buscam a tristeza como se lhes fosse preciso sofrer para sentir. \uD83D\uDE2D☹️','Loading...','Frases Tristes')\n" +
+                ", ('Ficar triste é natural, mas guardar mágoa é a pior das infelicidades!\uD83D\uDE16\uD83D\uDE27','Loading...','Frases Tristes')\n" +
+                " ,('A vida pode até te derrubar, mas é você quem escolhe a hora de se levantar.','Loading...','Frases sobre Vida')\n" +
+                ", ('Sempre temos nossas recaídas. Afinal, até o céu chora.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é como a cana: só dá açúcar depois de passar por grandes apertos.','Loading...','Frases sobre Vida')\n" +
+                ", ('Viva simples, sonhe grande, seja grato, dê amor, ria muito!','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é aquilo que acontece enquanto você planeia seu futuro.','Loading...','Frases sobre Vida')\n" +
+                ", ('O segredo da vida não é ter tudo que você quer, mas amar tudo que você tem!','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é como um tiro... As vezes vc acerta, as vezes vc erra !!!','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é igual matemática, se está fácil é porquê tem algo errado.\uD83D\uDE0B\uD83D\uDE11','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida nao foi feita para deixar de lado, então viva ela.!✌\uD83D\uDE19','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é uma festa, porque não dançar com ela?','Loading...','Frases sobre Vida')\n" +
+                ", ('Não leve a vida muito a sério, afinal, você não vai sair vivo dela.','Loading...','Frases sobre Vida')\n" +
+                ", ('Podemos escolher o que semear, mas somos obrigados a colher aquilo que plantamos.','Loading...','Frases sobre Vida')\n" +
+                ", ('Todo mundo é capaz de dominar uma dor, exceto quem a sente.','Loading...','Frases sobre Vida')\n" +
+                ", ('Quem tem luz própria, incomoda quem está no escuro.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é feita de escolhas. Quando você dá um passo para frente, alguma coisa fica para trás.','Loading...','Frases sobre Vida')\n" +
+                ", ('Ama o impossível, porque é o único que não te pode decepcionar.','Loading...','Frases sobre Vida')\n" +
+                ", ('Faça as pazes com seu passado, assim ele não atrapalhará seu presente.','Loading...','Frases sobre Vida')\n" +
+                ", ('O mais importante da vida não é saber onde estou, mas sim para onde vou.','Loading...','Frases sobre Vida')\n" +
+                ", ('Não diga que a vitória está perdida se é de batalhas que se vive a vida.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é como andar de bicicleta. Para ter equilíbrio, você tem que se manter em movimento.','Loading...','Frases sobre Vida')\n" +
+                ", ('Tudo que é bom dura o tempo necessário para ser inesquecível.','Loading...','Frases sobre Vida')\n" +
+                ", ('Invés de desejar tudo, agradeça tudo o que conquistou.','Loading...','Frases sobre Vida')\n" +
+                ", ('Feliz ou não, a lei da vida é seguir em frente com a cabeça erguida.','Loading...','Frases sobre Vida')\n" +
+                ", ('Meu estilo de vida liberta minha mente. Sou um louco, mas um louco consciente.','Loading...','Frases sobre Vida')\n" +
+                ", ('Nunca troque o que você quer na vida pelo o que você mais quer no momento. Momentos passam, a vida continua.','Loading...','Frases sobre Vida')\n" +
+                ", ('Quer cuidar da vida dos outros? Jogue The Sims.','Loading...','Frases sobre Vida')\n" +
+                ", ('Viva de maneira que sua presença não seja notada, mas que sua ausência seja sentida.','Loading...','Frases sobre Vida')\n" +
+                ", ('Aprenda como se você fosse viver para sempre. Viva como se você fosse morrer amanhã.','Loading...','Frases sobre Vida')\n" +
+                ", ('Admitir nossos erros, é aceitar que não somos perfeitos. Justificá-los, é mostrar o quanto somos fracos.','Loading...','Frases sobre Vida')\n" +
+                ", ('Ficar triste é natural, mas guardar mágoa é a pior das infelicidades!','Loading...','Frases sobre Vida')\n" +
+                ", ('Somos insignificantes. Por mais que você programe sua vida, a qualquer momento tudo pode mudar.','Loading...','Frases sobre Vida')\n" +
+                ", ('Dormir é a melhor coisa da vida. Não traz problemas, não traz tristeza, não traz decepção.','Loading...','Frases sobre Vida')\n" +
+                ", ('Nos olhos do jovem arde a chama. Nos do velho brilha a luz.','Loading...','Frases sobre Vida')\n" +
+                ", ('Exige muito de ti e espera pouco dos outros. Assim, evitarás muitos aborrecimentos.','Loading...','Frases sobre Vida')\n" +
+                ", ('Para que levar a vida tão a sério, se a vida é uma alucinante aventura da qual jamais sairemos vivos.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida pode até te derrubar, mas é você quem escolhe a hora de se levantar.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é um eco. Se você não está gostando do que está recebendo, observe o que está emitindo.','Loading...','Frases sobre Vida')\n" +
+                ", ('Pessoas choram não porque são fracas, mas porque elas vêm sendo fortes por muito tempo.','Loading...','Frases sobre Vida')\n" +
+                ", ('Se a vida não ficar mais fácil, trate de ficar mais forte.','Loading...','Frases sobre Vida')\n" +
+                ", ('É melhor ser verdadeiro e solitário do que viver em falsidade e estar sempre acompanhado.','Loading...','Frases sobre Vida')\n" +
+                ", ('A cada amanhecer a vida me recebe de braços abertos.','Loading...','Frases sobre Vida')\n" +
+                ", ('Se eu tivesse que viver minha vida novamente, eu cometeria os mesmos erros, só que mais cedo.','Loading...','Frases sobre Vida')\n" +
+                ", ('Vou seguindo em frente, buscando equilíbrio na vida.','Loading...','Frases sobre Vida')\n" +
+                ", ('A frase que eu eu mais repito na minha vida é “Estava bom demais pra ser verdade!”.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida nada mais é do que uma preparação para a morte.','Loading...','Frases sobre Vida')\n" +
+                ", ('Se um homem não descobriu nada pelo qual morreria, não está pronto para viver.','Loading...','Frases sobre Vida')\n" +
+                ", ('Se quer viver uma vida feliz, amarre-se a uma meta, não às pessoas nem ás coisas.','Loading...','Frases sobre Vida')\n" +
+                ", ('Às vezes é preciso uma decepção para aprendermos que a vida não é feita apenas de alegrias, e sim de tentativas.','Loading...','Frases sobre Vida')\n" +
+                ", ('Esta é a verdade: a vida começa quando a gente compreende que ela não dura muito.','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é o que acontece, enquanto você faz planos \uD83D\uDE09\uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('Se a vida não ficar mais fácil, trate de ficar mais forte…\uD83D\uDC4A','Loading...','Frases sobre Vida')\n" +
+                ", ('Ainda bem que a vida muda, muita coisa o tempo cura…\uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('Quem gosta da própria vida, não tem interesse em cuidar da vida dos outros! \uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('A sua vida só vai pra frente, quando você desapega das pessoas que te levam para trás \uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('Na vida passamos por altos e baixos, mais o ideal é sempre manter a fé… \uD83D\uDE4F','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é mais doce para quem carrega amor no coração ❤️','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é um vai e vem, nada é pra sempre \uD83D\uDE09\uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('Tranquilidade na alma, porque dessa vida a gente não leva nada ✌️','Loading...','Frases sobre Vida')\n" +
+                ", ('Vivemos com o que recebemos, mas marcamos a vida com o que damos \uD83D\uDC4F❤️','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é totalmente imprevisível, você cria vários sonhos mas ela te arrasta pra onde quer \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é um palco, onde Deus nos colocou como atores principais \uD83D\uDC46\uD83D\uDC4F','Loading...','Frases sobre Vida')\n" +
+                ", ('Sua vida é uma benção, aceite isso e aproveite \uD83D\uDE4F','Loading...','Frases sobre Vida')\n" +
+                ", ('Seja forte, a vida exige isso de você…\uD83D\uDC4A','Loading...','Frases sobre Vida')\n" +
+                ", ('É o inesperado que muda as nossas vidas \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('Cada dia que surge, constitui uma nova vida, para quem sabe viver \uD83D\uDC4F\uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('Seja você mesmo, faça o que tiver vontade! Você não precisa ser exemplo pra ninguém \uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('Não se perca. Não se esqueça. Viver bem é a melhor vingança \uD83D\uDC4A','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida não é para ser entendida, apenas vivida…\uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('Viver, ultrapassa qualquer entendimento \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('Mas um dia, finalmente, a gente acorda. E descobre que tem uma vida inteirinha pela frente! \uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('Nada é pra sempre. Mas a gente pode fingir que não sabe disso \uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('Se eu quisesse tantas opiniões sobre o jeito que vivo, a vida seria dos outros, e não minha \uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('O que é teu, chega com o tempo. E o que não é se vai com ele \uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('Tá na hora de começar a surpreender, todos aqueles que duvidam de você \uD83D\uDC4F','Loading...','Frases sobre Vida')\n" +
+                ", ('Então ela construiu um mundo mágico, porque seu real era trágico \uD83D\uDE0C','Loading...','Frases sobre Vida')\n" +
+                ", ('Elimine as âncoras que não te levam a lugar nenhum e agarre os balões que te fazem voar bem alto \uD83C\uDF88','Loading...','Frases sobre Vida')\n" +
+                ", ('O ontem não volta, mas o mundo dá voltas… \uD83D\uDC4C\uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('Viver não é esperar a tempestade passar. É aprender a dançar na chuva \uD83C\uDFB6','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é um espaço de tempo pra se perder \uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida e aquela velha mania de trazer sempre o melhor, quando a gente não espera… \uD83D\uDC4F\uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('Ela é a prova viva que a vida é bela…','Loading...','Frases sobre Vida')\n" +
+                ", ('Viver não é assim tão simples, mas que a gente complica…\uD83D\uDE0C','Loading...','Frases sobre Vida')\n" +
+                ", ('E da vida só quero aquilo que é bonito, sincero e faz rir \uD83D\uDC4F\uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('Nunca troque o que mais quer na vida, por aquilo que mais quer no momento…Momentos passam, a vida continua \uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é uma festa. Ou você se diverte, ou você dança \uD83C\uDFB6','Loading...','Frases sobre Vida')\n" +
+                ", ('Na vida quem perde telhado, em troca ganha estrelas ⭐️','Loading...','Frases sobre Vida')\n" +
+                ", ('As melhores coisas da vida não são coisas…\uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida pode ser boa em certos momentos, mas, às vezes, isso depende de nós \uD83D\uDE0C\uD83D\uDE09','Loading...','Frases sobre Vida')\n" +
+                ", ('Você não terá outra chance, a vida não é um jogo de vídeo game \uD83D\uDC4C','Loading...','Frases sobre Vida')\n" +
+                ", ('O sabor da vida sempre depende de quem a tempera…\uD83D\uDE18','Loading...','Frases sobre Vida')\n" +
+                ", ('Vai cuidar da sua vida e deixa a vida alheia \uD83D\uDC4A','Loading...','Frases sobre Vida')\n" +
+                ", ('Por que a vida só se da pra quem se deu, pra quem amou, pra quem chorou, pra quem sofreu \uD83D\uDC4F\uD83D\uDE14','Loading...','Frases sobre Vida')\n" +
+                ", ('E a vida é isso, entre inspirar e expirar, suportar \uD83D\uDC4A','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida me ensinou a nunca desistir, nem ganhar nem perder, mais procurar evoluir \uD83D\uDC4A\uD83D\uDC4F','Loading...','Frases sobre Vida')\n" +
+                ", ('A vida é muito curta pra perder tempo odiando alguém \uD83D\uDE09\uD83D\uDE0A','Loading...','Frases sobre Vida')\n" +
+                ", ('Não espere o futuro mudar tua vida, porque o futuro é a consequência do presente \uD83D\uDC4F\uD83D\uDC4A','Loading...','Frases sobre Vida');";
+        return frase;
+    }
+    public static String carregarFrases25() {
+        String frase ="";
+        return frase;
+    }
+    public static String carregarFrases26() {
+        String frase ="";
+        return frase;
+    }
+    public static String carregarFrases27() {
+        String frase ="";
+        return frase;
+    }
+    public static String carregarFrases28() {
+        String frase ="";
+        return frase;
+    }
+
+    }
+

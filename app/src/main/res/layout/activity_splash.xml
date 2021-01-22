@@ -9,24 +9,49 @@
     android:orientation="vertical"
     tools:context=".activity.SplashActivity">
 
-    <com.tt.whorlviewlibrary.WhorlView
-        android:id="@+id/whorl2"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_marginTop="12dp"
-        app:whorlview_circle_colors="#F14336_#ffffff_#5677fc_#F44336_#4CAF50"
-        app:whorlview_circle_speed="270"
-        app:whorlview_parallax="fast"
-        app:whorlview_strokeWidth="6"
-        app:whorlview_sweepAngle="90"></com.tt.whorlviewlibrary.WhorlView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
 
-    <TextView
+        <com.tt.whorlviewlibrary.WhorlView
+            android:id="@+id/whorl2"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:whorlview_circle_colors="#F14336_#ffffff_#5677fc_#F44336_#4CAF50"
+            app:whorlview_circle_speed="270"
+            app:whorlview_parallax="fast"
+            app:whorlview_strokeWidth="6"
+            app:whorlview_sweepAngle="90"></com.tt.whorlviewlibrary.WhorlView>
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:gravity="center"
-        android:text="@string/carregando"
-        android:textColor="@android:color/white"
-        android:textSize="14sp"
-        android:textStyle="bold" />
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:text="@string/carregando"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:text="@string/versao"
+            android:textColor="@android:color/white"
+            android:textSize="12sp" />
+    </LinearLayout>
 </LinearLayout>

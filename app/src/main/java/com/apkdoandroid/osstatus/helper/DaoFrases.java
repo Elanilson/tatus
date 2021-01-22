@@ -9,7 +9,7 @@ public interface DaoFrases {
     public Boolean salvar (Frases frases);
     public Boolean atualizar (Frases frases);
     public  Boolean deletar (Frases frases);
-    public List<Frases> listar (int qt);
+    public List<Frases> listar (int qt,String item);
     public List<Frases> listar ();
     public List<Frases> listarFavorito ();
     public List<Frases> listar_Frases_Perfeitas (int qt);
